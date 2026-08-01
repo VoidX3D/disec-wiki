@@ -7,7 +7,7 @@ sidebar_position: 5
 Iran's monetary system, reserves, banking, debt, capital markets and
 sanctions exposure — every published figure, with sources.
 
-![Flag of Iran](../img/iran.png)
+![Flag of Iran](/img/iran.png)
 
 ## Headline indicators
 

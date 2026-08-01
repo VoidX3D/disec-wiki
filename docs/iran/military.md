@@ -8,7 +8,7 @@ The complete picture of Iran's armed forces, drone fleet, missile arsenal and
 autonomous capabilities — compiled from IISS Military Balance, SIPRI, CSIS, IRNA
 and Jane's reporting.
 
-![Iran emblem](../img/iran-emblem.svg)
+![Iran emblem](/img/iran-emblem.svg)
 
 ## Forces at a glance
 

@@ -9,7 +9,7 @@ nuclear non-proliferation, conventional weapons, international humanitarian law
 and AI governance. Each entry: status, year, Iran's stated position and the
 LAWS / military-AI implications.
 
-![Coat of Arms of Iran](../img/coat_Of_ARMS.jpg)
+![Coat of Arms of Iran](/img/coat_Of_ARMS.jpg)
 
 ## Arms-control & disarmament
 

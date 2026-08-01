@@ -7,7 +7,7 @@ sidebar_position: 7
 Every organization Iran belongs to (or engages with) and what Iran does there
 — the institutional map of Iran's foreign policy and its LAWS strategy.
 
-![Flag of Iran](../img/iran.png)
+![Flag of Iran](/img/iran.png)
 
 ## United Nations system
 

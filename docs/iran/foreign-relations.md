@@ -7,13 +7,13 @@ sidebar_position: 8
 Iran's strategic partners, regional rivals and the "Axis of Resistance" network.
 The full diplomatic matrix for LAWS / military-AI negotiations.
 
-![Flag of Iran](../img/iran.png)
+![Flag of Iran](/img/iran.png)
 
 ## Strategic partners & supporters
 
 ### Russia
 
-![Russia](../img/flags/ru.svg)
+![Russia](/img/flags/ru.svg)
 
 | Field | Detail |
 |---|---|
@@ -26,7 +26,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### China
 
-![China](../img/flags/cn.svg)
+![China](/img/flags/cn.svg)
 
 | Field | Detail |
 |---|---|
@@ -38,7 +38,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Syria (under Assad; new reality post-2024)
 
-![Syria](../img/flags/sy.svg)
+![Syria](/img/flags/sy.svg)
 
 | Field | Detail |
 |---|---|
@@ -49,7 +49,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Venezuela
 
-![Venezuela](../img/flags/ve.svg)
+![Venezuela](/img/flags/ve.svg)
 
 | Field | Detail |
 |---|---|
@@ -59,7 +59,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### North Korea (DPRK)
 
-![North Korea](../img/flags/kp.svg)
+![North Korea](/img/flags/kp.svg)
 
 | Field | Detail |
 |---|---|
@@ -69,7 +69,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Cuba
 
-![Cuba](../img/flags/cu.svg)
+![Cuba](/img/flags/cu.svg)
 
 | Field | Detail |
 |---|---|
@@ -112,7 +112,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### United States
 
-![United States](../img/flags/us.svg)
+![United States](/img/flags/us.svg)
 
 | Field | Detail |
 |---|---|
@@ -124,7 +124,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### Israel
 
-![Israel](../img/flags/il.svg)
+![Israel](/img/flags/il.svg)
 
 | Field | Detail |
 |---|---|
@@ -135,7 +135,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### Saudi Arabia
 
-![Saudi Arabia](../img/flags/sa.svg)
+![Saudi Arabia](/img/flags/sa.svg)
 
 | Field | Detail |
 |---|---|

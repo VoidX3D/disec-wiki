@@ -7,9 +7,9 @@ sidebar_position: 1
 The complete Iran dossier for the delegation to DISEC — every figure, every
 position, every reference. Motherland Model United Nations 2026.
 
-![Flag of Iran](../img/iran.png) ![Coat of Arms of Iran](../img/coat_Of_ARMS.jpg)
+![Flag of Iran](/img/iran.png) ![Coat of Arms of Iran](/img/coat_Of_ARMS.jpg)
 
-![Iran emblem](../img/iran-emblem.svg)
+![Iran emblem](/img/iran-emblem.svg)
 
 <table class="infobox">
 <tr><td colspan="2" class="infobox-caption">Islamic Republic of Iran</td></tr>
