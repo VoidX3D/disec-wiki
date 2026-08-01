@@ -103,3 +103,76 @@ or the Five Eyes). Its security rests on:
 - RAND / CSIS analyses of the Axis of Resistance
 - Reuters, ME Council reporting (2023–2025)
 - SCO / BRICS accession records (2023–2024)
+
+---
+
+## Extended alliance dossier — every relationship, every metric
+
+### Trade & economic ties with strategic partners
+
+| Partner | Trade volume (annual) | Key exports to partner | Key imports from partner |
+|---|---|---|---|
+| China | ~$15 B | Crude oil (~85% of exports), petrochemicals | Machinery, electronics, steel, vehicles |
+| Russia | ~$5 B (targeted $10 B) | Crude oil (limited), agricultural goods, drones (post-2022) | Wheat, steel, machinery, S-300 components |
+| India | ~$2.5 B | Crude oil (sanctions waiver), petrochemicals | Rice, tea, pharmaceuticals, iron ore |
+| Turkey | ~$2 B | Crude oil, gas, agricultural goods | Vehicles, machinery, textiles, gold |
+| UAE | ~$1.5 B (estimated; reduced post-2024 sanctions tightening) | Petrochemicals, gold, re-exported goods | Vehicles, electronics, food |
+
+### Defence cooperation — bilateral agreements
+
+| Partner | Year | Type | Status |
+|---|---|---|---|
+| Russia | 2001 → 2025 strategic partnership | Comprehensive | Active — Su-35 / S-400 negotiations, drone co-production |
+| China | 2021 25-year strategic cooperation | Comprehensive | Active — implementation ongoing |
+| Syria (pre-2024) | 1980s | Strategic alliance | Reduced post-Assad fall |
+| North Korea | — (undisclosed) | Suspected missile co-development | Covert |
+| Iraq | Multiple | Limited, non-offensive | Active; constrained by US presence |
+| Venezuela | 2000s | Energy, banking workarounds | Active; sanctions-driven |
+
+### Diplomatic exchanges 2024–2025
+
+| Date | Event |
+|---|---|
+| Jan 2024 | Pezeshkian-Raisi transition; Pezeshkian elected President |
+| Jan 2025 | Pezeshkian-Putin summit, signed Comprehensive Strategic Partnership |
+| Mar 2023 | Beijing-mediated Iran-Saudi Arabia diplomatic restoration |
+| Apr 2024 / Oct 2024 | Iran-Israel direct strikes (unprecedented) |
+| Jun 2025 | 12-day Israel-Iran war |
+| Oct 2025 | JCPOA snapback provisions lapse |
+| Oct 2025 | Iran-Russia strategic partnership enters force |
+
+### The Axis of Resistance — capabilities summary
+
+| Group | Country | Estimated strength | Drone capability | Missile capability | Iran's support (est.) |
+|---|---|---|---|---|---|
+| Hezbollah | Lebanon | ~45,000 (reduced post-2024 war) | Yes (Ababil, Mirsad) | Precision-guided rockets | ~$700 M/yr |
+| Houthi movement | Yemen | ~80,000 fighters | Yes (Qasef, Sammad) | Cruise + ballistic (Tukh-tukh, Boraq) | Drones, missiles, training |
+| Kata'ib Hezbollah | Iraq | ~10,000 | Yes (small UAS) | Rockets | Training, arms |
+| Asa'ib Ahl al-Haq | Iraq | ~10,000 | Yes | Rockets | Training, arms |
+| Hamas | Palestine | Significant (pre-2023) | Paragliders / improvised | Rockets | Limited technical aid |
+| Palestinian Islamic Jihad | Palestine | ~5,000 | Improvised | Rockets | Historical ties |
+| PMF (Shia coalition) | Iraq | ~150,000 (all factions) | Various | Various | Political backing |
+
+### Diplomatic missions and representation
+
+| Region | Embassies | Consulates |
+|---|---|---|
+| Middle East | UAE, Saudi Arabia, Qatar, Oman, Kuwait, Iraq, Syria, Jordan, Lebanon, Yemen | Multiple |
+| Asia | China, Russia, India, Pakistan, Japan, South Korea, Indonesia, Malaysia | Multiple |
+| Europe | UK, France, Germany, Italy, Vatican, Switzerland, Sweden, Turkey | Multiple |
+| Africa | South Africa, Egypt, Kenya, Nigeria, Algeria, Tunisia, Sudan | Multiple |
+| Americas | — (no US embassy since 1980) | Limited |
+
+### Alliance matrix at a glance
+
+```
+                 Russia   China   Syria   Iraq   Hezbollah   Houthis   US    Israel   Saudi
+Iran as hub ──── ●●●●   ●●●●    ●●     ●●●    ●●●●        ●●●      ✕     ✕        ◐
+UN voting ────── ●●●●   ●●●●    ●●●●   ●●●    ●●●●        ●●●●     ✕     ✕        ◐
+Tech transfer ── ●●●●   ●●●●    ●      ●      ●●          ●●●      ✕     ✕        ✕
+Drone export ─── ●●●●   ✕       ✕      ✕      ●           ●●●      ✕     ✕        ✕
+Sanctions evd ── ●●●●   ●●●●    ●      ●●     ●           ●        ✕     ✕        ✕
+Regional proj ── ●●●●   ●●●     ●●●●   ●●●    ●●●●        ●●●      ✕     ✕        ✕
+
+(●●●● = very strong, ● = moderate, ◐ = partial restoration post-2023, ✕ = none/opposing)
+```

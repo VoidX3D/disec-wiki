@@ -92,10 +92,126 @@ States that have **possessed nuclear weapons since 1945**: the **US** (1945),
 
 ## Sources
 
-- UN Office of Disarmament Affairs (UNODA) — Treaty Database
+- UN Office for Disarmament Affairs (UNODA) — Treaty Database
 - UN Treaty Collection — status pages
 - IAEA — Safeguards & AP status reports (2024–25)
 - OPCW — CWC membership
 - International Campaign to Ban Landmines — Landmine Monitor
 - SIPRI Yearbook 2025 — arms control & disarmament
 - Arms Control Association — Fact Sheets (2025)
+
+---
+
+## Extended treaty dossier — every instrument, every status
+
+### Full list — multilateral treaties (Iran participation)
+
+| Treaty | Adopted | Iran status | Year ratified / signed | Notes |
+|---|---|---|---|---|
+| Geneva Conventions (I-IV) | 1949 | Non-party | — | HRA, HRW etc. regularly urge accession |
+| Additional Protocol I (1977) | 1977 | Non-party | — | — |
+| Additional Protocol II (1977) | 1977 | Non-party | — | — |
+| Biological Weapons Convention | 1972 | Party | 1973 | — |
+| Chemical Weapons Convention | 1993 | Party | 1997 | OPCW member |
+| NPT | 1968 | Party | 1970 | IAEA safeguards in force |
+| Comprehensive Test Ban Treaty | 1996 | Signed | 1996 | Ratification pending Majlis |
+| CCW | 1980 | Party | 1989 | Primary LAWS forum |
+| CCW Amended Protocol II | 1996 | Party | 1997 | — |
+| CCW Protocol IV (blinding lasers) | 1995 | Party | 1997 | — |
+| CCW Protocol V (remnants of war) | 2003 | Party | 2005 | — |
+| Anti-Personnel Mine Ban Convention (APMBC) | 1997 | Non-party | — | Position: legitimate defensive tool |
+| Convention on Cluster Munitions (CCM) | 2008 | Non-party | — | Position: legitimate defensive tool |
+| Arms Trade Treaty (ATT) | 2013 | Signed | 2013 | Ratification blocked |
+| Treaty on the Prohibition of Nuclear Weapons (TPNW) | 2017 | Non-party | — | Position: NPT adequate |
+| Pelindaba Treaty (African nuclear-weapon-free zone) | 1996 | Non-party | — | African zone |
+| Treaty of Semipalatinsk (Central Asian NWFZ) | 2006 | Non-party | — | Central Asian zone |
+| Bangkok Treaty (SE Asian NWFZ) | 1995 | Non-party | — | SE Asian zone |
+| Treaty of Rarotonga (S Pacific NWFZ) | 1985 | Non-party | — | S Pacific zone |
+| Tlatelolco Treaty (Latin American NWFZ) | 1967 | Non-party | — | Latin American zone |
+| Nuclear-Weapon-Free Status of Mongolia | 2000 | Non-party | — | Mongolia |
+| Outer Space Treaty | 1967 | Party | — | — |
+| Rescue Agreement | 1968 | Party | — | — |
+| Liability Convention | 1972 | Party | — | — |
+| Moon Agreement | 1979 | Non-party | — | — |
+| ENMOD Convention | 1977 | Party | — | Environmental modification |
+| Inhumane Weapons (CCW) | 1980 | Party | 1989 | Primary LAWS forum |
+
+### Nuclear-weapon states' arms-control obligations
+
+| State | NPT status | IAEA safeguards | AP in force | CTBT signed/ratified | FMCT position |
+|---|---|---|---|---|---|
+| **USA** | NWS | Voluntary offer | Yes | Both | Conditional (verification) |
+| **Russia** | NWS | Voluntary offer | Yes | Both | Conditional (verification) |
+| **UK** | NWS | Voluntary offer | Yes | Both | Conditional |
+| **France** | NWS | Voluntary offer | Yes | Both | Conditional |
+| **China** | NWS | Voluntary offer | Yes | Both | Supports negotiation |
+| **India** | Non-party | Item-specific AP | Yes (partial) | Signed only | Opposes |
+| **Pakistan** | Non-party | None | None | Signed only | Opposes |
+| **Israel** | Non-party | None | None | Signed only | Opposes |
+| **North Korea** | Withdrew 2003 | None | None | Signed only | — |
+| **Iran** | NNWS | Comprehensive | Yes | Signed only | Supports negotiation |
+
+### Major UN Security Council resolutions on Iran (nuclear file)
+
+| Resolution | Year | Subject |
+|---|---|---|
+| 1696 | 2006 | Demanded enrichment suspension |
+| 1717 | 2006 | Sanctions |
+| 1747 | 2007 | Expanded sanctions; arms export ban |
+| 1803 | 2008 | Cargo inspections |
+| 1835 | 2008 | Renewed demand |
+| 1887 | 2009 | Affirmation |
+| 1929 | 2010 | Strongest sanctions; shipping |
+| 1984 | 2011 | Panel of Experts mandate |
+| 2049 | 2012 | Renewed |
+| 2159 | 2014 | Renewed |
+| 2231 | 2015 | **Endorsed JCPOA** |
+| (snapback) | Oct 2025 | **Lapsed** — UN sanctions not re-imposed |
+
+### LAWS & AI — full text of Iran's CCW GGE position (summary)
+
+Iran's repeated GGE submissions outline:
+1. **Two-tier approach** — regulation of critical functions, no pre-emptive blanket ban.
+2. **Distinction** between autonomous defensive systems (legitimate) and
+   autonomous offensive systems (subject to IHL constraints).
+3. **Meaningful human control** as an evolving operational concept, not a
+   one-size-fits-all rule.
+4. **No restrictions on dual-use technologies** available to all states.
+5. **Verification challenges** of a binding instrument must be solved before
+   negotiation.
+6. **Article 51 self-defence** must be preserved.
+7. **Inclusive participation** — all states in the negotiation, not P5-only.
+
+### Compliance & dispute resolution mechanisms across instruments
+
+| Treaty | Mechanism | Iran engagement |
+|---|---|---|
+| NPT | IAEA safeguards + Comprehensive AP | Cooperative since JCPOA |
+| CWC | OPCW verification + challenge inspections | Cooperative |
+| BWC | No verification protocol | Supports strengthening |
+| CCW | Conference of HCPs + GGE | Active participant |
+| ATT | Secretariat + reporting | Signed, non-ratif. — does not report |
+| APMBC | Article 7 reporting | Non-party |
+
+### Treaties Iran has signed but not ratified (full list)
+
+| Treaty | Year signed | Status |
+|---|---|---|
+| CTBT | 1996 | Pending Majlis ratification |
+| ATT | 2013 | Pending Majlis ratification |
+| Optional Protocol on the Involvement of Children in Armed Conflict | 2011 | Pending |
+| Optional Protocol to the Convention against Torture | 2007 | Pending |
+| CEDAW | 1980 | Pending |
+| CRC Optional Protocols | 2000 | Pending |
+
+### Treaties Iran has neither signed nor ratified (full list — selected)
+
+- Geneva Conventions
+- Additional Protocols I & II
+- APMBC (Ottawa)
+- CCM (Oslo)
+- TPNW
+- Rome Statute (ICC)
+- Comprehensive Nuclear-Test-Ban Treaty (signed only)
+- Arms Trade Treaty (signed only)
+- Several UN human-rights optional protocols
