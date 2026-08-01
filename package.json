@@ -6,7 +6,7 @@
     "convert": "node scripts/convert.mjs",
     "download": "node scripts/download-sources.mjs",
     "news": "node scripts/fetch-news.mjs",
-    "serve": "node scripts/rss-proxy.mjs",
+    "serve": "node scripts/server/index.mjs",
     "build": "npm run convert && npm run download && npm run news && mkdocs build",
     "preview": "mkdocs serve -a 0.0.0.0:8000"
   },

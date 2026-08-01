@@ -11,6 +11,9 @@ __pycache__/
 # Logs
 logs/
 
+# Runtime document dir (PDFs/DOCX served by scripts/server)
+downloads/
+
 # OS files
 .DS_Store
 Thumbs.db
