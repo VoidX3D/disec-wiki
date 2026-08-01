@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+site/
+
+# Cache
+.cache/
+__pycache__/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local

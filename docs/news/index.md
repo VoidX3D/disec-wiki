@@ -1,0 +1,216 @@
+# News Archive
+
+Offline archive of agenda-relevant articles. Updated with `npm run news`.
+
+**101 articles saved locally.**
+
+## Newly saved this run
+
+- [The climate pattern putting millions at risk: El Niño explained](archive/2026-07-30_the_climate_pattern_putting_millions_at_risk_el_ni_o_explained.md) — UN News
+- [Middle East crisis: Humanitarian fallout ‘worsening by the day’](archive/2026-07-30_middle_east_crisis_humanitarian_fallout_worsening_by_the_day.md) — UN News
+- [Wildfires: Prevention is the best defence, UN says](archive/2026-07-30_wildfires_prevention_is_the_best_defence_un_says.md) — UN News
+- [Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities](archive/2026-07-30_attacks_getting_worse_deadly_russian_strikes_hit_ukrainian_cities.md) — UN News
+- [World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic](archive/2026-07-29_world_news_in_brief_rohingya_refugees_bah_s_in_iran_disarmament_in_the.md) — UN News
+- [Cyprus: Guterres calls for renewed trust and a new meeting on the way forward](archive/2026-07-29_cyprus_guterres_calls_for_renewed_trust_and_a_new_meeting_on_the_way_f.md) — UN News
+- [UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation](archive/2026-07-29_un_warns_west_bank_settler_violence_hits_all_time_high_as_calls_grow_t.md) — UN News
+- [HIV, hepatitis, STI gains at risk as funding falls, WHO warns](archive/2026-07-28_hiv_hepatitis_sti_gains_at_risk_as_funding_falls_who_warns.md) — UN News
+- [Security Council LIVE: Updates on Gaza, West Bank amid regional tensions](archive/2026-07-28_security_council_live_updates_on_gaza_west_bank_amid_regional_tensions.md) — UN News
+- [75 years later, the promise to protect refugees faces its greatest test](archive/2026-07-27_75_years_later_the_promise_to_protect_refugees_faces_its_greatest_test.md) — UN News
+- [Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk](archive/2026-07-27_lebanon_israeli_strikes_could_amount_to_international_crimes_warns_t_r.md) — UN News
+- [High prices and funding cuts stall HIV prevention revolution](archive/2026-07-27_high_prices_and_funding_cuts_stall_hiv_prevention_revolution.md) — UN News
+- [Conflict and crisis put six World Heritage sites at risk](archive/2026-07-27_conflict_and_crisis_put_six_world_heritage_sites_at_risk.md) — UN News
+- [Cyberattacks and the digital divide are creating new barriers to HIV services](archive/2026-07-27_cyberattacks_and_the_digital_divide_are_creating_new_barriers_to_hiv_s.md) — UN News
+- [Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports](archive/2026-07-27_security_council_live_briefing_on_ukraine_as_deadly_russian_strikes_hi.md) — UN News
+- [Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods](archive/2026-07-26_syria_s_hopes_for_renewal_hinge_on_rebuilding_trust_lives_and_liveliho.md) — UN News
+- [After war took her leg, this Ukrainian gymnast refused to give up](archive/2026-07-26_after_war_took_her_leg_this_ukrainian_gymnast_refused_to_give_up.md) — UN News
+- [UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime](archive/2026-07-25_un_chief_hails_syria_s_moment_of_possibility_on_first_visit_since_fall.md) — UN News
+- [‘Judges should be superhuman’: The invisible burden behind the bench](archive/2026-07-24_judges_should_be_superhuman_the_invisible_burden_behind_the_bench.md) — UN News
+- [Amazon and Apple just told us more about their AI plans - here are three things we learned](archive/2026-07-31_amazon_and_apple_just_told_us_more_about_their_ai_plans_here_are_three.md) — BBC Tech
+- [How police are trying to divert teen hackers away from crime](archive/2026-07-31_how_police_are_trying_to_divert_teen_hackers_away_from_crime.md) — BBC Tech
+- [Trump considering AI controls after OpenAI hacking incidents](archive/2026-07-30_trump_considering_ai_controls_after_openai_hacking_incidents.md) — BBC Tech
+- [Meta shares fall as frustration grows over AI spending plans](archive/2026-07-29_meta_shares_fall_as_frustration_grows_over_ai_spending_plans.md) — BBC Tech
+- [Data centres could pay hundreds of millions in deposits for power demands](archive/2026-07-29_data_centres_could_pay_hundreds_of_millions_in_deposits_for_power_dema.md) — BBC Tech
+- [OpenAI says its rogue AI tried to hack other companies](archive/2026-07-29_openai_says_its_rogue_ai_tried_to_hack_other_companies.md) — BBC Tech
+- [Brits urged to avoid dangerous plug adaptors this summer - what to watch out for](archive/2026-07-28_brits_urged_to_avoid_dangerous_plug_adaptors_this_summer_what_to_watch.md) — BBC Tech
+- [Some people's chats with Claude AI found to be publicly available online](archive/2026-07-28_some_people_s_chats_with_claude_ai_found_to_be_publicly_available_onli.md) — BBC Tech
+- [Is it time to stop using glue and labels on paper?](archive/2026-07-27_is_it_time_to_stop_using_glue_and_labels_on_paper.md) — BBC Tech
+- [Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](archive/2026-07-25_warning_shot_or_publicity_stunt_how_worried_should_we_be_about_the_ope.md) — BBC Tech
+- [Tech Life](archive/2026-07-28_tech_life.md) — BBC Tech
+- [Tech Life](archive/2026-07-21_tech_life.md) — BBC Tech
+- [Tech Life](archive/2026-07-14_tech_life.md) — BBC Tech
+- [Russia and Ukraine report casualties as they continue to trade attacks](archive/2026-07-31_russia_and_ukraine_report_casualties_as_they_continue_to_trade_attacks.md) — Al Jazeera
+- [Spain deploys military to Ceuta after migrant surge: What we know](archive/2026-07-31_spain_deploys_military_to_ceuta_after_migrant_surge_what_we_know.md) — Al Jazeera
+- [Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard](archive/2026-07-31_russia_appears_to_infiltrate_first_fortress_city_as_ukraine_changes_gu.md) — Al Jazeera
+- [Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained](archive/2026-07-31_why_is_uefa_threatening_fifa_boycott_infantino_s_world_cup_plan_explai.md) — Al Jazeera
+- [The waiting game: Gaza’s CT scan shortage causing worries and worse](archive/2026-07-31_the_waiting_game_gaza_s_ct_scan_shortage_causing_worries_and_worse.md) — Al Jazeera
+- [Second day of Spain – Morocco border clashes amid mass migrant influx](archive/2026-07-31_second_day_of_spain_morocco_border_clashes_amid_mass_migrant_influx.md) — Al Jazeera
+- [‘Migrant tsunami’: Second day of Spain – Morocco border clashes](archive/2026-07-31_migrant_tsunami_second_day_of_spain_morocco_border_clashes.md) — Al Jazeera
+- [Russia’s Africa Corps killed Mali civilians in air strike: HRW](archive/2026-07-31_russia_s_africa_corps_killed_mali_civilians_in_air_strike_hrw.md) — Al Jazeera
+- [Gaza Board of Peace announces Hamas disarmament agreement: What we know](archive/2026-07-31_gaza_board_of_peace_announces_hamas_disarmament_agreement_what_we_know.md) — Al Jazeera
+- [Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco](archive/2026-07-31_spain_s_pm_visits_ceuta_after_34_migrants_die_breaching_border_from_mo.md) — Al Jazeera
+- [Four bodies located after 10 climbers go missing on Pakistani peak](archive/2026-07-31_four_bodies_located_after_10_climbers_go_missing_on_pakistani_peak.md) — Al Jazeera
+- [Eleven Palestinians, including children, injured in Israel’s Nablus raids](archive/2026-07-31_eleven_palestinians_including_children_injured_in_israel_s_nablus_raid.md) — Al Jazeera
+- [Her mother said no to a phone. Then came the Gaza genocide](archive/2026-07-31_her_mother_said_no_to_a_phone_then_came_the_gaza_genocide.md) — Al Jazeera
+- [IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events](archive/2026-07-31_irgc_strikes_us_targets_in_kuwait_a_day_after_us_hits_iran_latest_even.md) — Al Jazeera
+- [Chinese military researchers tap US AI models to train defense systems](archive/2026-07-31_chinese_military_researchers_tap_us_ai_models_to_train_defense_systems.md) — Defense News
+- [The arms race for cheaper anti-ballistic weapons is underway](archive/2026-07-30_the_arms_race_for_cheaper_anti_ballistic_weapons_is_underway.md) — Defense News
+- [F-47 program producing test aircraft, on schedule for 2028 flight ](archive/2026-07-30_f_47_program_producing_test_aircraft_on_schedule_for_2028_flight.md) — Defense News
+- [Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say](archive/2026-07-30_iran_war_depleted_us_patriot_missile_stockpiles_creating_readiness_cha.md) — Defense News
+- [Iran to get Chinese shoulder-launched missile systems in weeks, sources say](archive/2026-07-30_iran_to_get_chinese_shoulder_launched_missile_systems_in_weeks_sources.md) — Defense News
+- [US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns](archive/2026-07-30_us_strikes_58_6_billion_patriot_missile_deal_amid_rising_stockpile_con.md) — Defense News
+- [DARPA challenge pushes limits of heavy-lift drone technology](archive/2026-07-30_darpa_challenge_pushes_limits_of_heavy_lift_drone_technology.md) — Defense News
+- [Ukraine’s F-16s are being worn out from intercepting Russian drones](archive/2026-07-30_ukraine_s_f_16s_are_being_worn_out_from_intercepting_russian_drones.md) — Defense News
+- [Pentagon puts out call for robot boats that launch attack drones](archive/2026-07-29_pentagon_puts_out_call_for_robot_boats_that_launch_attack_drones.md) — Defense News
+- [Pentagon has ‘kicked off’ review of US force posture in Europe](archive/2026-07-29_pentagon_has_kicked_off_review_of_us_force_posture_in_europe.md) — Defense News
+- [US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise](archive/2026-07-29_us_navy_deploys_garc_uncrewed_surface_vessel_in_first_live_fire_traini.md) — Defense News
+- [Ford, GM Defense, BC Customs to compete for US Army’s new infantry squad vehicle](archive/2026-07-29_ford_gm_defense_bc_customs_to_compete_for_us_army_s_new_infantry_squad.md) — Defense News
+- [House-passed defense bill includes controversial US-Israel tech measure](archive/2026-07-29_house_passed_defense_bill_includes_controversial_us_israel_tech_measur.md) — Defense News
+- [El Nino is a threat indicator. The military should treat it like one.](archive/2026-07-28_el_nino_is_a_threat_indicator_the_military_should_treat_it_like_one.md) — Defense News
+- [First Anduril YFQ-44A rolls off production line for US CCA program](archive/2026-07-28_first_anduril_yfq_44a_rolls_off_production_line_for_us_cca_program.md) — Defense News
+- [US Central Command, UAE to launch artificial intelligence task force](archive/2026-07-28_us_central_command_uae_to_launch_artificial_intelligence_task_force.md) — Defense News
+- [Finland closes airspace, restricts maritime traffic near Russia over drone risk](archive/2026-07-28_finland_closes_airspace_restricts_maritime_traffic_near_russia_over_dr.md) — Defense News
+- [French wildfires threaten nuclear deterrence industry, Rafale assembly](archive/2026-07-28_french_wildfires_threaten_nuclear_deterrence_industry_rafale_assembly.md) — Defense News
+- [Pentagon calls for cheaper long-range strike weapons, with testing in just 3 months](archive/2026-07-27_pentagon_calls_for_cheaper_long_range_strike_weapons_with_testing_in_j.md) — Defense News
+- [Austria plans to extend military service in light of Ukraine war](archive/2026-07-27_austria_plans_to_extend_military_service_in_light_of_ukraine_war.md) — Defense News
+- [India moves closer to a homegrown, long-range air defense](archive/2026-07-27_india_moves_closer_to_a_homegrown_long_range_air_defense.md) — Defense News
+- [US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?](archive/2026-07-27_us_congress_approves_money_for_taiwan_defense_does_it_mean_trump_is_do.md) — Defense News
+- [Mali: Russia’s ‘Africa Corps’ Airstrikes Kill Civilians](archive/2026-07-31_mali_russia_s_africa_corps_airstrikes_kill_civilians.md) — Human Rights Watch
+- [Australia School Photos Scraped for AI-Fueled Image Misuse](archive/2026-07-30_australia_school_photos_scraped_for_ai_fueled_image_misuse.md) — Human Rights Watch
+- [Vietnam: Quash Conviction of Social Media Commentator](archive/2026-07-30_vietnam_quash_conviction_of_social_media_commentator.md) — Human Rights Watch
+- [Azerbaijan Jails Prominent TV Journalists, Media Workers](archive/2026-07-29_azerbaijan_jails_prominent_tv_journalists_media_workers.md) — Human Rights Watch
+- [South Sudan: Abuse of Civilians in Western Equatoria](archive/2026-07-29_south_sudan_abuse_of_civilians_in_western_equatoria.md) — Human Rights Watch
+- [Bangladesh: Fair Trial Concerns at Tribunal](archive/2026-07-29_bangladesh_fair_trial_concerns_at_tribunal.md) — Human Rights Watch
+- [Indonesia: Environmentalists, Indigenous Leaders Unjustly Prosecuted](archive/2026-07-29_indonesia_environmentalists_indigenous_leaders_unjustly_prosecuted.md) — Human Rights Watch
+- [Strikes Endangering Civilians in Yemen and Saudi Arabia](archive/2026-07-28_strikes_endangering_civilians_in_yemen_and_saudi_arabia.md) — Human Rights Watch
+- [Saudi Arabia: New Executions of Ethiopian Migrants](archive/2026-07-28_saudi_arabia_new_executions_of_ethiopian_migrants.md) — Human Rights Watch
+- [Proposed DHS Work Authorization Rule Threatens Immigrant Domestic Violence Survivors](archive/2026-07-27_proposed_dhs_work_authorization_rule_threatens_immigrant_domestic_viol.md) — Human Rights Watch
+- [Vietnam Should Release Ailing Political Prisoners](archive/2026-07-27_vietnam_should_release_ailing_political_prisoners.md) — Human Rights Watch
+- [DR Congo: Oil Company Operations Pose Grave Pollution Threat](archive/2026-07-27_dr_congo_oil_company_operations_pose_grave_pollution_threat.md) — Human Rights Watch
+- [No Justice 20 Years Since Sri Lanka’s Muttur Massacre](archive/2026-07-27_no_justice_20_years_since_sri_lanka_s_muttur_massacre.md) — Human Rights Watch
+- [End Impunity for Crimes Against Journalists in Yemen](archive/2026-07-26_end_impunity_for_crimes_against_journalists_in_yemen.md) — Human Rights Watch
+- [West Bank: Surge in Settler Violence Threatens Mass Atrocities](archive/2026-07-24_west_bank_surge_in_settler_violence_threatens_mass_atrocities.md) — Human Rights Watch
+- [US, Iran Threaten Attacks on Civilian Infrastructure](archive/2026-07-24_us_iran_threaten_attacks_on_civilian_infrastructure.md) — Human Rights Watch
+- [International Criminal Court Prosecutor Removed](archive/2026-07-24_international_criminal_court_prosecutor_removed.md) — Human Rights Watch
+- [When You Watch the Tour de France, Think Sudan War](archive/2026-07-24_when_you_watch_the_tour_de_france_think_sudan_war.md) — Human Rights Watch
+- [Iranians Face Double Peril of Gallows and Bombs](archive/2026-07-24_iranians_face_double_peril_of_gallows_and_bombs.md) — Human Rights Watch
+- [Nepal: Government Actions Threaten Judicial Independence](archive/2026-07-24_nepal_government_actions_threaten_judicial_independence.md) — Human Rights Watch
+- [About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](archive/2026-07-31_about_60_000_migrants_arrive_in_ceuta_in_24_hours_spanish_territory_s_.md) — BBC World
+- [Peru's ex-president has 15-year jail sentence for corruption charges overturned](archive/2026-07-31_peru_s_ex_president_has_15_year_jail_sentence_for_corruption_charges_o.md) — BBC World
+- [Spain sending troops as thousands enter enclave of Ceuta from Morocco](archive/2026-07-31_spain_sending_troops_as_thousands_enter_enclave_of_ceuta_from_morocco.md) — BBC World
+- [At least five members of same family killed in Russian missile attack, Zelensky says](archive/2026-07-30_at_least_five_members_of_same_family_killed_in_russian_missile_attack_.md) — BBC World
+- [Why limited war with the US may suit Iran better than peace](archive/2026-07-30_why_limited_war_with_the_us_may_suit_iran_better_than_peace.md) — BBC World
+- [Danube's record low levels force shutdown of Hungary's only nuclear plant](archive/2026-07-30_danube_s_record_low_levels_force_shutdown_of_hungary_s_only_nuclear_pl.md) — BBC World
+- [Missile that left crater deep inside Poland was probably Russian - Polish PM](archive/2026-07-30_missile_that_left_crater_deep_inside_poland_was_probably_russian_polis.md) — BBC World
+- [Father of teen school shooter sentenced to 15 years in prison](archive/2026-07-30_father_of_teen_school_shooter_sentenced_to_15_years_in_prison.md) — BBC World
+- [Anthropic's Claude AI escapes to hack into three organisations](archive/2026-07-31_anthropic_s_claude_ai_escapes_to_hack_into_three_organisations.md) — BBC World
+- [Trump considering AI controls after OpenAI hacking incidents](archive/2026-07-30_trump_considering_ai_controls_after_openai_hacking_incidents.md) — BBC World
+- [Australia takes Telegram to court over alleged failure to remove 'pro-terror' material](archive/2026-07-30_australia_takes_telegram_to_court_over_alleged_failure_to_remove_pro_t.md) — BBC World
+- [Singapore fines French teen $465 for viral straw-licking stunt](archive/2026-07-30_singapore_fines_french_teen_465_for_viral_straw_licking_stunt.md) — BBC World
+- [Salman Rushdie attacker convicted of terror offences ](archive/2026-07-29_salman_rushdie_attacker_convicted_of_terror_offences.md) — BBC World
+- [Saudi Arabia's dilemma as it tries to stay out of US-Iran war](archive/2026-07-29_saudi_arabia_s_dilemma_as_it_tries_to_stay_out_of_us_iran_war.md) — BBC World
+
+## Archive
+
+- [Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained](archive/2026-07-31_why_is_uefa_threatening_fifa_boycott_infantino_s_world_cup_plan_explai.md)
+- [The waiting game: Gaza’s CT scan shortage causing worries and worse](archive/2026-07-31_the_waiting_game_gaza_s_ct_scan_shortage_causing_worries_and_worse.md)
+- [Spain sending troops as thousands enter enclave of Ceuta from Morocco](archive/2026-07-31_spain_sending_troops_as_thousands_enter_enclave_of_ceuta_from_morocco.md)
+- [Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco](archive/2026-07-31_spain_s_pm_visits_ceuta_after_34_migrants_die_breaching_border_from_mo.md)
+- [Spain deploys military to Ceuta after migrant surge: What we know](archive/2026-07-31_spain_deploys_military_to_ceuta_after_migrant_surge_what_we_know.md)
+- [Second day of Spain – Morocco border clashes amid mass migrant influx](archive/2026-07-31_second_day_of_spain_morocco_border_clashes_amid_mass_migrant_influx.md)
+- [Russia’s Africa Corps killed Mali civilians in air strike: HRW](archive/2026-07-31_russia_s_africa_corps_killed_mali_civilians_in_air_strike_hrw.md)
+- [Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard](archive/2026-07-31_russia_appears_to_infiltrate_first_fortress_city_as_ukraine_changes_gu.md)
+- [Russia and Ukraine report casualties as they continue to trade attacks](archive/2026-07-31_russia_and_ukraine_report_casualties_as_they_continue_to_trade_attacks.md)
+- [Peru's ex-president has 15-year jail sentence for corruption charges overturned](archive/2026-07-31_peru_s_ex_president_has_15_year_jail_sentence_for_corruption_charges_o.md)
+- [‘Migrant tsunami’: Second day of Spain – Morocco border clashes](archive/2026-07-31_migrant_tsunami_second_day_of_spain_morocco_border_clashes.md)
+- [Mali: Russia’s ‘Africa Corps’ Airstrikes Kill Civilians](archive/2026-07-31_mali_russia_s_africa_corps_airstrikes_kill_civilians.md)
+- [IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events](archive/2026-07-31_irgc_strikes_us_targets_in_kuwait_a_day_after_us_hits_iran_latest_even.md)
+- [How police are trying to divert teen hackers away from crime](archive/2026-07-31_how_police_are_trying_to_divert_teen_hackers_away_from_crime.md)
+- [Her mother said no to a phone. Then came the Gaza genocide](archive/2026-07-31_her_mother_said_no_to_a_phone_then_came_the_gaza_genocide.md)
+- [Gaza Board of Peace announces Hamas disarmament agreement: What we know](archive/2026-07-31_gaza_board_of_peace_announces_hamas_disarmament_agreement_what_we_know.md)
+- [Four bodies located after 10 climbers go missing on Pakistani peak](archive/2026-07-31_four_bodies_located_after_10_climbers_go_missing_on_pakistani_peak.md)
+- [Eleven Palestinians, including children, injured in Israel’s Nablus raids](archive/2026-07-31_eleven_palestinians_including_children_injured_in_israel_s_nablus_raid.md)
+- [Chinese military researchers tap US AI models to train defense systems](archive/2026-07-31_chinese_military_researchers_tap_us_ai_models_to_train_defense_systems.md)
+- [Anthropic's Claude AI escapes to hack into three organisations](archive/2026-07-31_anthropic_s_claude_ai_escapes_to_hack_into_three_organisations.md)
+- [Amazon and Apple just told us more about their AI plans - here are three things we learned](archive/2026-07-31_amazon_and_apple_just_told_us_more_about_their_ai_plans_here_are_three.md)
+- [About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says](archive/2026-07-31_about_60_000_migrants_arrive_in_ceuta_in_24_hours_spanish_territory_s_.md)
+- [Wildfires: Prevention is the best defence, UN says](archive/2026-07-30_wildfires_prevention_is_the_best_defence_un_says.md)
+- [Why limited war with the US may suit Iran better than peace](archive/2026-07-30_why_limited_war_with_the_us_may_suit_iran_better_than_peace.md)
+- [Vietnam: Quash Conviction of Social Media Commentator](archive/2026-07-30_vietnam_quash_conviction_of_social_media_commentator.md)
+- [US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns](archive/2026-07-30_us_strikes_58_6_billion_patriot_missile_deal_amid_rising_stockpile_con.md)
+- [Ukraine’s F-16s are being worn out from intercepting Russian drones](archive/2026-07-30_ukraine_s_f_16s_are_being_worn_out_from_intercepting_russian_drones.md)
+- [Trump considering AI controls after OpenAI hacking incidents](archive/2026-07-30_trump_considering_ai_controls_after_openai_hacking_incidents.md)
+- [The climate pattern putting millions at risk: El Niño explained](archive/2026-07-30_the_climate_pattern_putting_millions_at_risk_el_ni_o_explained.md)
+- [The arms race for cheaper anti-ballistic weapons is underway](archive/2026-07-30_the_arms_race_for_cheaper_anti_ballistic_weapons_is_underway.md)
+- [Singapore fines French teen $465 for viral straw-licking stunt](archive/2026-07-30_singapore_fines_french_teen_465_for_viral_straw_licking_stunt.md)
+- [Missile that left crater deep inside Poland was probably Russian - Polish PM](archive/2026-07-30_missile_that_left_crater_deep_inside_poland_was_probably_russian_polis.md)
+- [Middle East crisis: Humanitarian fallout ‘worsening by the day’](archive/2026-07-30_middle_east_crisis_humanitarian_fallout_worsening_by_the_day.md)
+- [Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say](archive/2026-07-30_iran_war_depleted_us_patriot_missile_stockpiles_creating_readiness_cha.md)
+- [Iran to get Chinese shoulder-launched missile systems in weeks, sources say](archive/2026-07-30_iran_to_get_chinese_shoulder_launched_missile_systems_in_weeks_sources.md)
+- [Father of teen school shooter sentenced to 15 years in prison](archive/2026-07-30_father_of_teen_school_shooter_sentenced_to_15_years_in_prison.md)
+- [F-47 program producing test aircraft, on schedule for 2028 flight ](archive/2026-07-30_f_47_program_producing_test_aircraft_on_schedule_for_2028_flight.md)
+- [DARPA challenge pushes limits of heavy-lift drone technology](archive/2026-07-30_darpa_challenge_pushes_limits_of_heavy_lift_drone_technology.md)
+- [Danube's record low levels force shutdown of Hungary's only nuclear plant](archive/2026-07-30_danube_s_record_low_levels_force_shutdown_of_hungary_s_only_nuclear_pl.md)
+- [Australia takes Telegram to court over alleged failure to remove 'pro-terror' material](archive/2026-07-30_australia_takes_telegram_to_court_over_alleged_failure_to_remove_pro_t.md)
+- [Australia School Photos Scraped for AI-Fueled Image Misuse](archive/2026-07-30_australia_school_photos_scraped_for_ai_fueled_image_misuse.md)
+- [Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities](archive/2026-07-30_attacks_getting_worse_deadly_russian_strikes_hit_ukrainian_cities.md)
+- [At least five members of same family killed in Russian missile attack, Zelensky says](archive/2026-07-30_at_least_five_members_of_same_family_killed_in_russian_missile_attack_.md)
+- [World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic](archive/2026-07-29_world_news_in_brief_rohingya_refugees_bah_s_in_iran_disarmament_in_the.md)
+- [US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise](archive/2026-07-29_us_navy_deploys_garc_uncrewed_surface_vessel_in_first_live_fire_traini.md)
+- [UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation](archive/2026-07-29_un_warns_west_bank_settler_violence_hits_all_time_high_as_calls_grow_t.md)
+- [South Sudan: Abuse of Civilians in Western Equatoria](archive/2026-07-29_south_sudan_abuse_of_civilians_in_western_equatoria.md)
+- [Saudi Arabia's dilemma as it tries to stay out of US-Iran war](archive/2026-07-29_saudi_arabia_s_dilemma_as_it_tries_to_stay_out_of_us_iran_war.md)
+- [Salman Rushdie attacker convicted of terror offences ](archive/2026-07-29_salman_rushdie_attacker_convicted_of_terror_offences.md)
+- [Pentagon puts out call for robot boats that launch attack drones](archive/2026-07-29_pentagon_puts_out_call_for_robot_boats_that_launch_attack_drones.md)
+- [Pentagon has ‘kicked off’ review of US force posture in Europe](archive/2026-07-29_pentagon_has_kicked_off_review_of_us_force_posture_in_europe.md)
+- [OpenAI says its rogue AI tried to hack other companies](archive/2026-07-29_openai_says_its_rogue_ai_tried_to_hack_other_companies.md)
+- [Meta shares fall as frustration grows over AI spending plans](archive/2026-07-29_meta_shares_fall_as_frustration_grows_over_ai_spending_plans.md)
+- [Indonesia: Environmentalists, Indigenous Leaders Unjustly Prosecuted](archive/2026-07-29_indonesia_environmentalists_indigenous_leaders_unjustly_prosecuted.md)
+- [House-passed defense bill includes controversial US-Israel tech measure](archive/2026-07-29_house_passed_defense_bill_includes_controversial_us_israel_tech_measur.md)
+- [Ford, GM Defense, BC Customs to compete for US Army’s new infantry squad vehicle](archive/2026-07-29_ford_gm_defense_bc_customs_to_compete_for_us_army_s_new_infantry_squad.md)
+- [Data centres could pay hundreds of millions in deposits for power demands](archive/2026-07-29_data_centres_could_pay_hundreds_of_millions_in_deposits_for_power_dema.md)
+- [Cyprus: Guterres calls for renewed trust and a new meeting on the way forward](archive/2026-07-29_cyprus_guterres_calls_for_renewed_trust_and_a_new_meeting_on_the_way_f.md)
+- [Bangladesh: Fair Trial Concerns at Tribunal](archive/2026-07-29_bangladesh_fair_trial_concerns_at_tribunal.md)
+- [Azerbaijan Jails Prominent TV Journalists, Media Workers](archive/2026-07-29_azerbaijan_jails_prominent_tv_journalists_media_workers.md)
+- [US Central Command, UAE to launch artificial intelligence task force](archive/2026-07-28_us_central_command_uae_to_launch_artificial_intelligence_task_force.md)
+- [Tech Life](archive/2026-07-28_tech_life.md)
+- [Strikes Endangering Civilians in Yemen and Saudi Arabia](archive/2026-07-28_strikes_endangering_civilians_in_yemen_and_saudi_arabia.md)
+- [Some people's chats with Claude AI found to be publicly available online](archive/2026-07-28_some_people_s_chats_with_claude_ai_found_to_be_publicly_available_onli.md)
+- [Security Council LIVE: Updates on Gaza, West Bank amid regional tensions](archive/2026-07-28_security_council_live_updates_on_gaza_west_bank_amid_regional_tensions.md)
+- [Saudi Arabia: New Executions of Ethiopian Migrants](archive/2026-07-28_saudi_arabia_new_executions_of_ethiopian_migrants.md)
+- [HIV, hepatitis, STI gains at risk as funding falls, WHO warns](archive/2026-07-28_hiv_hepatitis_sti_gains_at_risk_as_funding_falls_who_warns.md)
+- [French wildfires threaten nuclear deterrence industry, Rafale assembly](archive/2026-07-28_french_wildfires_threaten_nuclear_deterrence_industry_rafale_assembly.md)
+- [First Anduril YFQ-44A rolls off production line for US CCA program](archive/2026-07-28_first_anduril_yfq_44a_rolls_off_production_line_for_us_cca_program.md)
+- [Finland closes airspace, restricts maritime traffic near Russia over drone risk](archive/2026-07-28_finland_closes_airspace_restricts_maritime_traffic_near_russia_over_dr.md)
+- [El Nino is a threat indicator. The military should treat it like one.](archive/2026-07-28_el_nino_is_a_threat_indicator_the_military_should_treat_it_like_one.md)
+- [Brits urged to avoid dangerous plug adaptors this summer - what to watch out for](archive/2026-07-28_brits_urged_to_avoid_dangerous_plug_adaptors_this_summer_what_to_watch.md)
+- [Vietnam Should Release Ailing Political Prisoners](archive/2026-07-27_vietnam_should_release_ailing_political_prisoners.md)
+- [US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?](archive/2026-07-27_us_congress_approves_money_for_taiwan_defense_does_it_mean_trump_is_do.md)
+- [Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports](archive/2026-07-27_security_council_live_briefing_on_ukraine_as_deadly_russian_strikes_hi.md)
+- [Proposed DHS Work Authorization Rule Threatens Immigrant Domestic Violence Survivors](archive/2026-07-27_proposed_dhs_work_authorization_rule_threatens_immigrant_domestic_viol.md)
+- [Pentagon calls for cheaper long-range strike weapons, with testing in just 3 months](archive/2026-07-27_pentagon_calls_for_cheaper_long_range_strike_weapons_with_testing_in_j.md)
+- [No Justice 20 Years Since Sri Lanka’s Muttur Massacre](archive/2026-07-27_no_justice_20_years_since_sri_lanka_s_muttur_massacre.md)
+- [Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk](archive/2026-07-27_lebanon_israeli_strikes_could_amount_to_international_crimes_warns_t_r.md)
+- [Is it time to stop using glue and labels on paper?](archive/2026-07-27_is_it_time_to_stop_using_glue_and_labels_on_paper.md)
+- [India moves closer to a homegrown, long-range air defense](archive/2026-07-27_india_moves_closer_to_a_homegrown_long_range_air_defense.md)
+- [High prices and funding cuts stall HIV prevention revolution](archive/2026-07-27_high_prices_and_funding_cuts_stall_hiv_prevention_revolution.md)
+- [DR Congo: Oil Company Operations Pose Grave Pollution Threat](archive/2026-07-27_dr_congo_oil_company_operations_pose_grave_pollution_threat.md)
+- [Cyberattacks and the digital divide are creating new barriers to HIV services](archive/2026-07-27_cyberattacks_and_the_digital_divide_are_creating_new_barriers_to_hiv_s.md)
+- [Conflict and crisis put six World Heritage sites at risk](archive/2026-07-27_conflict_and_crisis_put_six_world_heritage_sites_at_risk.md)
+- [Austria plans to extend military service in light of Ukraine war](archive/2026-07-27_austria_plans_to_extend_military_service_in_light_of_ukraine_war.md)
+- [75 years later, the promise to protect refugees faces its greatest test](archive/2026-07-27_75_years_later_the_promise_to_protect_refugees_faces_its_greatest_test.md)
+- [Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods](archive/2026-07-26_syria_s_hopes_for_renewal_hinge_on_rebuilding_trust_lives_and_liveliho.md)
+- [End Impunity for Crimes Against Journalists in Yemen](archive/2026-07-26_end_impunity_for_crimes_against_journalists_in_yemen.md)
+- [After war took her leg, this Ukrainian gymnast refused to give up](archive/2026-07-26_after_war_took_her_leg_this_ukrainian_gymnast_refused_to_give_up.md)
+- [Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](archive/2026-07-25_warning_shot_or_publicity_stunt_how_worried_should_we_be_about_the_ope.md)
+- [UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime](archive/2026-07-25_un_chief_hails_syria_s_moment_of_possibility_on_first_visit_since_fall.md)
+- [When You Watch the Tour de France, Think Sudan War](archive/2026-07-24_when_you_watch_the_tour_de_france_think_sudan_war.md)
+- [West Bank: Surge in Settler Violence Threatens Mass Atrocities](archive/2026-07-24_west_bank_surge_in_settler_violence_threatens_mass_atrocities.md)
+- [US, Iran Threaten Attacks on Civilian Infrastructure](archive/2026-07-24_us_iran_threaten_attacks_on_civilian_infrastructure.md)
+- [Nepal: Government Actions Threaten Judicial Independence](archive/2026-07-24_nepal_government_actions_threaten_judicial_independence.md)
+- [‘Judges should be superhuman’: The invisible burden behind the bench](archive/2026-07-24_judges_should_be_superhuman_the_invisible_burden_behind_the_bench.md)
+- [Iranians Face Double Peril of Gallows and Bombs](archive/2026-07-24_iranians_face_double_peril_of_gallows_and_bombs.md)
+- [International Criminal Court Prosecutor Removed](archive/2026-07-24_international_criminal_court_prosecutor_removed.md)
+- [Tech Life](archive/2026-07-21_tech_life.md)
+- [Tech Life](archive/2026-07-14_tech_life.md)
+
+> For live browsing, run `npm run serve` and open the **Live news** page.

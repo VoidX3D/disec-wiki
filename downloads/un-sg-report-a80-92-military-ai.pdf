@@ -1,0 +1,472 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"
+      lang="en"
+      xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Language" content="en"/>
+    <title>Artificial intelligence in the military domain and its implications for international peace and security : - United Nations Digital Library System</title>
+    
+    <link rev="made" href="mailto:library-ny@un.org"/>
+    
+        
+    
+    <link rel="stylesheet" href="/img/lightgallery.min.css?0ecaf59cd1b7e19f2a7b34683d32068c">
+
+    <link rel="stylesheet" href="/img/invenio.css?bee91cf4e5f5df55b58edcf29f38f0d8" type="text/css"/>
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="/img/invenio-ie7.css" />
+    <![endif]-->
+    <!--[if gt IE 8]>
+    <style type="text/css">div.restrictedflag {filter:none;}</style>
+    <![endif]-->
+      <link rel="canonical" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf" />
+  <link rel="alternate" hreflang="ar" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=ar" />
+  <link rel="alternate" hreflang="en" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=en" />
+  <link rel="alternate" hreflang="es" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=es" />
+  <link rel="alternate" hreflang="fr" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=fr" />
+  <link rel="alternate" hreflang="ru" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=ru" />
+  <link rel="alternate" hreflang="zh-CN" href="https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf?ln=zh_CN" />
+
+    <link rel="alternate" type="application/rss+xml" title="United Nations Digital Library System RSS"
+          href="https://digitallibrary.un.org/rss"/>
+    <link rel="search" type="application/opensearchdescription+xml"
+          href="https://digitallibrary.un.org/opensearchdescription"
+          title="United Nations Digital Library System"/>
+    <link rel="unapi-server" type="application/xml" title="unAPI" href="https://digitallibrary.un.org/unapi"/>
+    
+    <meta name="description" content="
+"/>
+    <meta name="keywords" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+        
+    
+    
+    <script type="text/javascript" src="/js/lodash.min.js?63a1aa77d30d85520bdf9261616d49ff"></script>
+    <script type="text/javascript" src="/js/jquery.min.js?e6c2415c0ace414e5153670314ce99a9"></script>
+    <script type="text/javascript" src="/js/jquery-migrate.min.js?7121994eec5320fbe6586463bf9651c2"></script>
+    <script type="text/javascript" src="/js/jquery-ui.min.js?1e2047978946a1d271356d0b557a84a3"></script>
+    
+    <!--  Insert any configs that are required in the JS files  -->
+    <script type="text/javascript">
+        var bibformatThumbnailFullPreview = false;
+        var bibformatDetailedThumbnailFullPreview = false;
+        
+            
+        
+        window.translations_hash_names_reverse_lookup = {};
+    </script>
+    <script type="text/javascript" src="/js/tind.js?371d29b2c94a791bb1e9737c968cb451"></script>
+
+    <link rel="stylesheet" type="text/css" href="/img/select2.min.css?9f54e6414f87e0d14b9e966f19a174f9">
+    <link rel="stylesheet" type="text/css" href="/img/select2-bootstrap.min.css?b8ec8e1bea84f6c51fcbbc184a2982fc">
+    <script type="text/javascript" src="/js/select2.full.min.js?d53e9f5d63ed6e33dd7c368b85851658"></script>
+
+    <script type="module" src="/js/tinduicomponents/tinduicomponents/tinduicomponents.esm.js?17e3ebe85be4e586f086f391b36e1a81"></script>
+    <script type="module">
+        import * as pdfjsLib from "/js/pdfjs/build/pdf.mjs";
+        pdfjsLib.GlobalWorkerOptions.workerSrc = "/js/pdfjs/build/pdf.worker.mjs";
+
+        // Optional: only if legacy non-module code expects window.pdfjsLib
+        window.pdfjsLib = pdfjsLib;
+      </script>
+    
+    
+    
+    
+</head>
+<body class="search">
+<!--The first interactive element should be a link to the main content.-->
+<div class="go-to-main-content">
+    <a tabindex="0" href="#main-content">Go to main content</a>
+</div>
+
+<!-- Preload Stencil elements that should load instantaneously -->
+<div style="display: none;">
+    <tindui-spinner></tindui-spinner>
+    <tindui-bibrecord-thumbnail></tindui-bibrecord-thumbnail>
+    <tindui-progressbar></tindui-progressbar>
+    
+    <tindui-app-advanced-search></tindui-app-advanced-search>
+    
+</div>
+
+<div class="pageheader" role="navigation">
+    <!-- replaced page header -->
+    <div class="headerbox headerlogo" role="menubar">
+        <div class="topleftmenu-wrapper">
+            <ul class="menu neutrallist" role="menu" aria-label="Language menu">
+                <li class="topleftmenu headermoduleboxbody mobile-menu-accordion" role="menuitem"><div class="hassubmenu"><span class="langinfo headerspan" tabindex="0">English</span><ul class="subsubmenu"><li role="menuitem" class="langoption" data-ln="ar"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=ar">العربية</a></li><li role="menuitem" class="langoption" data-ln="es"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=es">Español</a></li><li role="menuitem" class="langoption" data-ln="fr"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=fr">Français</a></li><li role="menuitem" class="langoption" data-ln="ru"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=ru">Русский</a></li><li role="menuitem" class="langoption" data-ln="zh_CN"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=zh_CN">中文(简)</a></li></ul></div></li>
+            </ul>
+        </div>
+
+        <a class="menu-toggle" href="#" aria-label="Main menu">
+            <span class="menu-icon"><i class="fa fa-fw fa-bars"></i></span>
+        </a>
+        <ul class="menu topmenu neutrallist" style="display:none;">
+            <li class="headermoduleboxbodyselected mobile-menu-accordion">
+                <a class="headerselected"
+                   href="/?ln=en" role="menuitem">Search</a>
+            </li>
+            
+            
+            
+            
+            
+            
+                
+    
+    <li class=" headermoduleboxbody mobile-menu-accordion" role="menuitem" tabindex="0">
+        
+            
+<a class="header" target=_self
+
+    href="/pages/?ln=en&page=search"
+
+>
+    Help
+</a>
+        
+    </li>
+    
+    
+    <li class=" headermoduleboxbody mobile-menu-accordion" role="menuitem" tabindex="0">
+        
+            
+<a class="header" target=_self
+
+    href="/pages/?ln=en&page=tos"
+
+>
+    Terms
+</a>
+        
+    </li>
+    
+    
+    <li class=" headermoduleboxbody mobile-menu-accordion" role="menuitem" tabindex="0">
+        
+            
+<a class="header" target=_self
+
+    href="https://www.un.org/en/library/contact-us"
+
+>
+    Contact
+</a>
+        
+    </li>
+    
+            
+
+            
+            <li id="lang-mobile-select" class="headermoduleboxbody mobile-menu-accordion" role="menuitem"><div class="hassubmenu"><span class="langinfo headerspan" tabindex="0">English</span><ul class="subsubmenu"><li role="menuitem" class="langoption" data-ln="ar"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=ar">العربية</a></li><li role="menuitem" class="langoption" data-ln="es"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=es">Español</a></li><li role="menuitem" class="langoption" data-ln="fr"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=fr">Français</a></li><li role="menuitem" class="langoption" data-ln="ru"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=ru">Русский</a></li><li role="menuitem" class="langoption" data-ln="zh_CN"><a href="/record/4086346/files/A_80_92-EN.pdf?ln=zh_CN">中文(简)</a></li></ul></div></li>
+            
+
+            <li id="userinfo-mobile" class="headermoduleboxbody mobile-menu-accordion" role="menuitem"><i class="user-icon"></i><span class="account"></span><span class="separator"></span>
+                   <a class="userinfo logout" href="https://digitallibrary.un.org/youraccount/login?ln=en&amp;referer=https%3A//digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf%3F" role="menuitem">login</a></li>
+        </ul>
+        <div class="userinfoboxbody">
+            <i class="user-icon"></i><span class="account"></span><span class="separator"></span>
+                   <a class="userinfo logout" href="https://digitallibrary.un.org/youraccount/login?ln=en&amp;referer=https%3A//digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf%3F" role="menuitem">login</a>
+        </div>
+    </div>
+    <table class="navtrailbox">
+        <tr>
+            <td class="navtrailboxbody">
+                <a href="/?ln=en" class="navtrail">Home</a> &gt;  &gt; <a class="navtrail" href="https://digitallibrary.un.org/record/4086346">Artificial intelligence in the military domain and its implications for international peace and security :</a>
+                                           &gt; Access to Fulltext
+            </td>
+        </tr>
+    </table>
+    <!-- end replaced page header -->
+    
+</div>
+
+<div class="headerboxbodylogo-wrapper">
+    
+        
+    
+    <div class="headerboxbodylogo scrolled" role="banner">
+        <h1 class="logo-wrapper">
+            
+                <a class="header-link has-img" aria-label="Homepage link - United Nations Digital Library System"
+                    
+                        href="/?ln=en"
+                    >
+                    <img class="header-img" src="/img/main_logo_en.png" alt="United Nations Digital Library System"/>
+                </a>
+            
+        </h1>
+    </div>
+</div>
+
+
+
+
+<div class="pagebody"><div class="pagebodystripemiddle">
+        <div class="detailedrecordbox">
+                <div class="detailedrecordtabs">
+            <div>
+                <ul class="detailedrecordtabs"><li class="first"><a href="https://digitallibrary.un.org/record/4086346/">Information  </a></li><li class="on"><a href="https://digitallibrary.un.org/record/4086346/files">Files  </a></li></ul>
+            <div id="tabsSpacer" style="clear:both;height:0px">&nbsp;</div></div>
+        </div>
+        <div class="detailedrecordboxcontent">
+            <div class="top-left-folded"></div>
+            <div class="top-right-folded"></div>
+            <div class="inside">
+                <!--<div style="height:0.1em;">&nbsp;</div>
+                <p class="notopgap">&nbsp;</p>-->
+                <div id="detailedrecordshortreminder">
+                             <div id="clip">&nbsp;</div>
+                             <div id="HB">
+                                 <strong><a href="/record/4086346?ln=en"><div class='clearfix'>Artificial intelligence in the military domain and[...]</div></a></strong>
+
+
+
+
+
+
+                             </div>
+                         </div>
+                         <div style="clear:both;height:1px">&nbsp;</div>
+                         
+                <!--start file list-->
+                  <small><b>Main</b> file(s):</small><ul class='neutrallist'><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-AR
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-AR.pdf?version=1">A_80_78-AR.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.73 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>العربية</em></td>
+                    </tr></table></td></tr></table><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-EN
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-EN.pdf?version=1">A_80_78-EN.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.4 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>English</em></td>
+                    </tr></table></td></tr></table><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-ES
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-ES.pdf?version=1">A_80_78-ES.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.52 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>Español</em></td>
+                    </tr></table></td></tr></table><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-FR
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-FR.pdf?version=1">A_80_78-FR.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.61 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>Français</em></td>
+                    </tr></table></td></tr></table><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-RU
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-RU.pdf?version=1">A_80_78-RU.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.97 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>Русский</em></td>
+                    </tr></table></td></tr></table><table border="0" cellspacing="1" class="searchbox">
+                   
+                   <tr>
+                     <td align="left" colspan="2" class="portalboxheader">
+                       <img src='https://digitallibrary.un.org/img/smallfiles.gif' border="0" />&nbsp;&nbsp;A_80_78-ZH
+                     </td>
+                   </tr><tr>
+                        <td class="portalboxheader">
+                          <font size="-2">version 1</font>
+                        </td>
+                        <td>
+                          <table>
+                        <tr>
+                    <td valign="top">
+                      <small><a href="https://digitallibrary.un.org/record/4086346/files/A_80_78-ZH.pdf?version=1">A_80_78-ZH.pdf</a></small>
+                    </td>
+                    <td valign="top">
+                      <font size="-2" color="green">[1.92 MB]</font>
+                      <font size="-2"><em>06 Feb 2026, 09:34</em>
+                      
+                    </td>
+                    <td valign="top"><em>中文</em></td>
+                    </tr></table></td></tr></table></ul>
+                <!--end file list-->
+              
+            <div class="bottom-left-folded"></div>
+            <div class="bottom-right-folded" style="text-align:right;padding-bottom:2px;">
+                <span class="moreinfo" style="margin-right:10px;"></span></div>
+          </div>
+      </div>
+    </div>
+    <br/>
+    </div></div><footer class="pagefooter row" role="contentinfo">
+    
+
+    
+        <div id="botmiddle_links" class="col-sm-8 col-sm-offset-2"><a target="_blank" href="https://www.un.org/library">United Nations Dag Hammarskjöld Library</a> | <a target="_blank" href="https://www.ungeneva.org/en/knowledge/library">UNOG Library</a> | <a target="_blank" href="https://www.unescwa.org/library">ESCWA Library</a></div>
+    
+
+    
+
+    <script src="/js/lightgallery.min.js?ddf3eb0893125d35cccb7ffab635ab1e"></script>
+    <script src="/js/lg-autoplay.min.js?e19b8897c2c73a00b0c377707038bb03"></script>
+    <script src="/js/lg-fullscreen.min.js?4abea06c34d9752ab7a2de1977bc0949"></script>
+    <script src="/js/lg-hash.min.js?b171c32acc647d760c4ed3ce1ab0c0ff"></script>
+    <script src="/js/lg-pager.min.js?d5385283f020def8c791dc72c67160d9"></script>
+    <script src="/js/lg-share.min.js?8f8f324b16c8dc8556c7c769f6616df2"></script>
+    <script src="/js/lg-thumbnail.min.js?8e13ac6ffdd9056fb69a881e8c0b9fe8"></script>
+    <script src="/js/lg-video.min.js?a8eb679340f0bf4fe8691cb9bceea9bd"></script>
+    <script src="/js/lg-zoom.min.js?c93eeb6d6482ac9d126cb7ebac0a1b5c"></script>
+    <!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
+    <script src="/js/jquery.mousewheel.min.js?409ac3648bba069c079fedc1ca107913"></script>
+
+    
+      <script type="text/javascript">
+       </script>
+<div id="libchat_0c220831cac3081236c264df8c9531a4"></div>
+<script src="https://ask.un.org/load_chat.php?hash=0c220831cac3081236c264df8c9531a4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2HQ2GRLJCJ"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2HQ2GRLJCJ');
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-LQCS');
+</script><script>
+      </script>
+    
+
+    
+        <!-- Matomo/Piwik tracking code -->
+        <script type='text/javascript'>
+            var _paq = window._paq || [];
+
+            
+                // Legacy single tracker configuration
+                _paq.push(['trackPageView']);
+                _paq.push(['setDownloadExtensions', []]);
+                _paq.push(['enableLinkTracking']);
+            
+
+            
+
+            (function () {
+                
+                    var u = 'https://stats.tind.io/';
+                    
+                        _paq.push(['setTrackerUrl', u + 'piwik.php']);
+                        _paq.push(['setSiteId', 1165]);
+                    
+                
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.type = 'text/javascript';
+                g.async = true;
+                g.defer = true;
+                g.src = u + 'piwik.js';
+                s.parentNode.insertBefore(g, s);
+            })();
+        </script>
+        <noscript>
+            
+                <p><img src='https://stats.tind.io/piwik.php?idsite=1165' style='border:0;' alt=''/></p>
+            
+            
+        </noscript>
+        <!-- End Matomo/Piwik Code -->
+    
+
+    
+        <script type="text/javascript" src="/js/jquery.simple-dtpicker.js?52840f3d41b7bff7f02018aa18c08d32"></script>
+        <script type="text/javascript" src="/js/d3.min.js?5bc245068b1b70d4c3eaef79045023e4"></script>
+        <script type="text/javascript" src="/js/c3.min.js?3964a316d148b2fd67c5783208766846"></script>
+        <script type="text/javascript" src="/js/spin.min.js?545405225c13b2f42ab103fca31a49b1"></script>
+    <span id="tind-shibboleth"></span>
+</footer>
+
+<input type="hidden" name="csrf_token" value="4625730a6a464cbf23a16d38822e3b32eb919ae3ef1dfc6146b8c58186560cad">
+
+</body>
+</html>

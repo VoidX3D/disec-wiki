@@ -1,0 +1,23 @@
+{
+  "buildCommand": "mkdocs build",
+  "outputDirectory": "site",
+  "framework": null,
+  "installCommand": "pip install mkdocs mkdocs-material mkdocs-minify-plugin mkdocs-redirects",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/$1/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    },
+    {
+      "source": "/search/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }]
+    },
+    {
+      "source": "/downloads/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    }
+  ]
+}

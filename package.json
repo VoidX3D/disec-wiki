@@ -1,0 +1,17 @@
+{
+  "name": "disec-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/convert.mjs",
+    "download": "node scripts/download-sources.mjs",
+    "news": "node scripts/fetch-news.mjs",
+    "serve": "node scripts/rss-proxy.mjs",
+    "build": "npm run convert && npm run download && npm run news && mkdocs build",
+    "preview": "mkdocs serve -a 0.0.0.0:8000"
+  },
+  "dependencies": {
+    "node-html-markdown": "^1.3.0",
+    "rss-parser": "^3.13.0"
+  }
+}

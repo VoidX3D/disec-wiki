@@ -1,0 +1,127 @@
+site_name: DISEC Research Wiki
+site_description: >-
+  Offline research hub for the Islamic Republic of Iran delegation at DISEC,
+  Motherland MUN 2026 — Regulating Lethal Autonomous Weapons Systems (LAWS) & Military AI.
+site_author: Iran Delegation
+docs_dir: docs
+site_dir: site
+
+hooks:
+  - scripts/mkdocs-hooks.py
+
+theme:
+  name: material
+  language: en
+  font: false
+  icon:
+    logo: material/earth
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: "#4051b5"
+      accent: "#ffc107"
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "#4051b5"
+      accent: "#ffc107"
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+    - content.tabs.link
+    - header.autohide
+  extra_head:
+    - link rel="manifest" href="/manifest.webmanifest"
+    - meta name="theme-color" content="#4051b5"
+    - meta name="apple-mobile-web-app-capable" content="yes"
+    - meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"
+
+extra_css:
+  - assets/extra.css
+
+extra_javascript:
+  - assets/disec-offline-images.js
+  - assets/disec-search.js
+  - assets/disec-main.js
+
+plugins:
+  - tags
+  - offline
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: Contents
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com
+
+nav:
+  - Home: index.md
+  - Position Paper:
+      - position/index.md
+      - position/strategy.md
+      - position/talking-points.md
+      - position/resolutions.md
+  - Iran Delegation:
+      - iran/index.md
+      - iran/profile.md
+      - iran/capabilities.md
+      - iran/alliances.md
+      - iran/counter-arguments.md
+  - Committee:
+      - committee/index.md
+      - Study Guide: committee/study-guide/index.md
+      - committee/rules-of-procedure.md
+      - committee/country-matrix.md
+      - committee/chair-notice.md
+      - committee/position-paper-guide.md
+      - committee/resolution-paper-guide.md
+      - committee/toc.md
+  - Reference Library:
+      - resources/index.md
+      - resources/key-terms.md
+      - resources/treaties.md
+      - resources/reports.md
+      - resources/organizations.md
+      - references/index.md
+  - News:
+      - news/index.md
+      - Live news: news/live.md
