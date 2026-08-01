@@ -412,6 +412,174 @@ main.container h2 { font-size: 1.55rem; letter-spacing: -0.02em; margin: 1.8rem 
 .card:hover .card-link svg { transform: translateX(4px); }
 .card:hover .card-link { text-decoration: underline; text-underline-offset: 3px; }
 
+/* ── Image arrangement ──────────────────────────────────────────── */
+/* Base rule: markdown images never overflow their container, and the
+ * default styling is a soft border + small radius so decorative screenshots
+ * feel native. Use the .page-hero / .img-pair / .img-strip / .card-img
+ * classes below for richer placements. */
+.markdown img,
+.theme-doc-markdown img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--c-border);
+  background: var(--c-surface2);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* ── Page hero (top-of-page image row, e.g. Iran flag + coat of arms) ── */
+.page-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0.5rem 0 2rem;
+  padding: 1.4rem 1.6rem;
+  background: linear-gradient(135deg, var(--c-surface) 0%, var(--c-surface2) 100%);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-sm);
+}
+.page-hero .page-hero-text {
+  flex: 1 1 220px;
+  min-width: 0;
+}
+.page-hero img {
+  height: 5rem;
+  width: auto;
+  max-width: 100%;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--c-border2);
+  object-fit: cover;
+  box-shadow: var(--shadow-sm);
+  display: block;
+}
+
+/* Pair of images (e.g. flag + coat of arms side-by-side) */
+.img-pair {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin: 0.5rem 0 2rem;
+}
+.img-pair img {
+  height: 4.5rem;
+  width: auto;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--c-border2);
+  object-fit: cover;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Single rounded emblem image */
+.img-emblem {
+  display: block;
+  width: 6rem;
+  height: 6rem;
+  margin: 0 auto 1.4rem;
+  border-radius: 50%;
+  border: 2px solid var(--c-accent);
+  object-fit: cover;
+  box-shadow: 0 4px 18px var(--c-shadow);
+}
+
+/* Image strip used at the top of sectioned pages */
+.img-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1.5rem;
+}
+.img-strip img {
+  height: 2.4rem;
+  width: auto;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--c-border2);
+  object-fit: cover;
+  box-shadow: var(--shadow-sm);
+}
+
+/* ── Flags in tables, lists, pills ── */
+.markdown td img,
+.markdown li img,
+.markdown p img,
+.markdown h3 img,
+.markdown h4 img,
+.markdown blockquote img,
+.flag,
+.flag-img,
+.ally-pill img {
+  width: 1.6rem;
+  height: 1.6rem;
+  max-width: none;
+  border-radius: 4px;
+  border: 1px solid var(--c-border2);
+  object-fit: cover;
+  vertical-align: -0.3rem;
+  margin-right: 0.45rem;
+  display: inline-block;
+  background: var(--c-surface2);
+  box-shadow: none;
+}
+
+/* Pill / chip that wraps a flag + label */
+.flag-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-pill);
+  padding: 0.3rem 0.85rem 0.3rem 0.35rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--c-text2);
+  background: var(--c-surface);
+  text-decoration: none !important;
+  transition: border-color 0.15s, color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+.flag-pill:hover { border-color: var(--c-primary); color: var(--c-primary); transform: translateY(-2px); box-shadow: var(--shadow-sm); }
+.flag-pill img { margin: 0; }
+.flag-pill.flag-hostile:hover { border-color: var(--c-red); color: var(--c-red); }
+
+/* ── Card with image (cover image + body) ── */
+.card-img-top {
+  width: calc(100% + 2.9rem);
+  height: 8rem;
+  margin: -1.45rem -1.55rem 0.9rem;
+  object-fit: cover;
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  border: none;
+  border-bottom: 1px solid var(--c-border);
+  background: var(--c-surface2);
+  display: block;
+}
+
+/* ── Image caption ── */
+.img-caption {
+  display: block;
+  margin: -0.5rem 0 1.5rem;
+  font-size: 0.8rem;
+  color: var(--c-text3);
+  text-align: center;
+  font-style: italic;
+}
+
+/* ── Inline icon next to text in markdown ── */
+.md-icon-inline {
+  width: 1.05rem;
+  height: 1.05rem;
+  display: inline-block;
+  vertical-align: -0.2rem;
+  margin-right: 0.3rem;
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+}
+
 /* ── Iran snapshot dashboard ────────────────────────────────────── */
 .iran-dash {
   display: grid;
@@ -433,16 +601,20 @@ main.container h2 { font-size: 1.55rem; letter-spacing: -0.02em; margin: 1.8rem 
 .iran-id .flags {
   display: flex;
   align-items: center;
-  gap: 0.9rem;
+  gap: 0.85rem;
   margin-bottom: 0.5rem;
+  flex-wrap: wrap;
 }
 .iran-id .flags img {
-  height: 4rem;
+  height: 3.8rem;
   width: auto;
+  max-width: 100%;
+  aspect-ratio: 4 / 3;
   border-radius: var(--r-sm);
   border: 1px solid var(--c-border2);
   object-fit: cover;
   box-shadow: var(--shadow-sm);
+  background: var(--c-surface2);
 }
 .iran-id h3 { margin: 0; font-size: 1.5rem; letter-spacing: -0.01em; }
 .iran-id .sub { color: var(--c-text2); font-size: 0.9rem; line-height: 1.6; }

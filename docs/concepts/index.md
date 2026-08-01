@@ -9,7 +9,7 @@ The reference shelf for DISEC delegates — every treaty, organization, doctrine
 and weapon-system classification that bears on **LAWS & Military AI**, drawn
 from official UN, treaty-depositary and secretariat sources.
 
-![UN emblem](/img/coat_Of_ARMS.jpg)
+<img class="img-emblem" src="/img/coat_Of_ARMS.jpg" alt="UN emblem" />
 
 ## What this section covers
 

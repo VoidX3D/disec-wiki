@@ -8,7 +8,7 @@ Every weapon system relevant to LAWS & Military AI, categorised by domain,
 autonomy level, function and effect. Sourced from SIPRI, IISS, UNODA, ICRC and
 official national inventories.
 
-![UN emblem](/img/coat_Of_ARMS.jpg)
+<img class="img-emblem" src="/img/coat_Of_ARMS.jpg" alt="UN emblem" />
 
 ## Classification by domain
 

@@ -8,7 +8,7 @@ The conceptual framework for LAWS & Military AI governance — Panchsheel,
 Universal Brotherhood, Rule of Law vs Rule by Law, Just War, Responsibility
 to Protect, and the IHL core principles.
 
-![UN emblem](/img/coat_Of_ARMS.jpg)
+<img class="img-emblem" src="/img/coat_Of_ARMS.jpg" alt="UN emblem" />
 
 ## Panchsheel — the Five Principles of Peaceful Coexistence
 

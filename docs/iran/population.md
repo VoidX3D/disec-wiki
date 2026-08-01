@@ -7,7 +7,9 @@ sidebar_position: 4
 Iran's people in numbers — population, age structure, literacy, urbanization,
 health and migration. Sources: Iran SCI, World Bank, UN DESA, UNDP, UNESCO.
 
-![Flag of Iran](/img/iran.png)
+<div class="img-strip">
+  <img src="/img/iran.png" alt="Flag of Iran" />
+</div>
 
 ## Headline indicators
 

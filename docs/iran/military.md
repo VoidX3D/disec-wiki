@@ -8,7 +8,10 @@ The complete picture of Iran's armed forces, drone fleet, missile arsenal and
 autonomous capabilities — compiled from IISS Military Balance, SIPRI, CSIS, IRNA
 and Jane's reporting.
 
-![Iran emblem](/img/iran-emblem.svg)
+<div class="page-hero">
+  <img src="/img/iran-emblem.svg" alt="Iran emblem" />
+  <div class="page-hero-text"><strong>Military of the Islamic Republic of Iran</strong> — conventional forces, IRGC, autonomous systems and doctrine.</div>
+</div>
 
 ## Forces at a glance
 

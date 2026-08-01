@@ -9,7 +9,7 @@ human rights, diplomatic law and peaceful coexistence. Categorised by subject,
 binding force and Iran status. Every entry cites the official depositary or
 secretariat.
 
-![UN emblem](/img/coat_Of_ARMS.jpg)
+<img class="img-emblem" src="/img/coat_Of_ARMS.jpg" alt="UN emblem" />
 
 ## Disarmament & arms control
 

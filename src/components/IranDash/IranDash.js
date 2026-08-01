@@ -60,8 +60,8 @@ export default function IranDash() {
       <div className="iran-dash">
         <div className="iran-id">
           <div className="flags">
-            <img src="/img/iran.png" alt="Flag of Iran" />
-            <img src="/img/coat_Of_ARMS.jpg" alt="Coat of Arms of Iran" />
+            <img src="/img/iran.png" alt="Flag of Iran" loading="lazy" />
+            <img src="/img/coat_Of_ARMS.jpg" alt="Coat of Arms of Iran" loading="lazy" />
           </div>
           <h3>Islamic Republic of Iran</h3>
           <div className="sub">

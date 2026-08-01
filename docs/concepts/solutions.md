@@ -8,7 +8,7 @@ The complete menu of policy options on the table — from preemptive ban to
 non-binding declaration. Each option: proponents, opponents, viability,
 Iran alignment, source.
 
-![UN emblem](/img/coat_Of_ARMS.jpg)
+<img class="img-emblem" src="/img/coat_Of_ARMS.jpg" alt="UN emblem" />
 
 ## The spectrum of options
 

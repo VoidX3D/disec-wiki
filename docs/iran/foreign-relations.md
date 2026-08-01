@@ -7,13 +7,15 @@ sidebar_position: 8
 Iran's strategic partners, regional rivals and the "Axis of Resistance" network.
 The full diplomatic matrix for LAWS / military-AI negotiations.
 
-![Flag of Iran](/img/iran.png)
+<div class="img-strip">
+  <img src="/img/iran.png" alt="Flag of Iran" />
+</div>
 
 ## Strategic partners & supporters
 
 ### Russia
 
-![Russia](/img/flags/ru.svg)
+<span class="flag-pill"><img src="/img/flags/ru.svg" alt="" /> Russia</span>
 
 | Field | Detail |
 |---|---|
@@ -26,7 +28,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### China
 
-![China](/img/flags/cn.svg)
+<span class="flag-pill"><img src="/img/flags/cn.svg" alt="" /> China</span>
 
 | Field | Detail |
 |---|---|
@@ -38,7 +40,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Syria (under Assad; new reality post-2024)
 
-![Syria](/img/flags/sy.svg)
+<span class="flag-pill"><img src="/img/flags/sy.svg" alt="" /> Syria</span>
 
 | Field | Detail |
 |---|---|
@@ -49,7 +51,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Venezuela
 
-![Venezuela](/img/flags/ve.svg)
+<span class="flag-pill"><img src="/img/flags/ve.svg" alt="" /> Venezuela</span>
 
 | Field | Detail |
 |---|---|
@@ -59,7 +61,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### North Korea (DPRK)
 
-![North Korea](/img/flags/kp.svg)
+<span class="flag-pill"><img src="/img/flags/kp.svg" alt="" /> North Korea</span>
 
 | Field | Detail |
 |---|---|
@@ -69,7 +71,7 @@ The full diplomatic matrix for LAWS / military-AI negotiations.
 
 ### Cuba
 
-![Cuba](/img/flags/cu.svg)
+<span class="flag-pill"><img src="/img/flags/cu.svg" alt="" /> Cuba</span>
 
 | Field | Detail |
 |---|---|
@@ -112,7 +114,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### United States
 
-![United States](/img/flags/us.svg)
+<span class="flag-pill flag-hostile"><img src="/img/flags/us.svg" alt="" /> United States</span>
 
 | Field | Detail |
 |---|---|
@@ -124,7 +126,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### Israel
 
-![Israel](/img/flags/il.svg)
+<span class="flag-pill flag-hostile"><img src="/img/flags/il.svg" alt="" /> Israel</span>
 
 | Field | Detail |
 |---|---|
@@ -135,7 +137,7 @@ Iran's regional network of non-state allies and proxy forces.
 
 ### Saudi Arabia
 
-![Saudi Arabia](/img/flags/sa.svg)
+<span class="flag-pill flag-hostile"><img src="/img/flags/sa.svg" alt="" /> Saudi Arabia</span>
 
 | Field | Detail |
 |---|---|
