@@ -114,6 +114,20 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Concepts & Doctrines',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'concepts/index',
+        'concepts/treaties',
+        'concepts/organizations',
+        'concepts/doctrines',
+        'concepts/weapon-systems',
+        'concepts/solutions',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Reference Library',
       collapsible: true,
       collapsed: false,
