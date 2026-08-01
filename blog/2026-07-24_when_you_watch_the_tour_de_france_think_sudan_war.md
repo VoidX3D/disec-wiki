@@ -1,0 +1,12 @@
+---
+title: "When You Watch the Tour de France, Think Sudan War"
+date: 2026-07-23T18:15:00.000Z
+source: "Human Rights Watch"
+tags: [news]
+original: "https://www.hrw.org/news/2026/07/24/when-you-watch-the-tour-de-france-think-sudan-war"
+---
+
+Click to expand Image UAE Team Emirates - XRG Pro Cycling team during the team presentation of the 109th Giro d'Italia in Burgas, Bulgaria, on May 6, 2026. © 2026 Hristo Rusev/NurPhoto via AP Photo As the Tour de France wraps up this weekend, all eyes will be on the UAE. The leading team’s principal sponsors are state-owned United Arab Emirates companies. But, while fans watch the race through the French countryside, human rights abuses perpetuated by the United Arab Emirates are unfolding elsewhere, out of public view. Sponsoring elite athletic competition is an attempt to use sportswashing to deflect attention from the UAE’s rampant systemic rights violations. By sponsoring NBA games and F1 races, the UAE’s government deters scrutiny about its treatment of migrant workers, who face widespread abuses, and its unjust jailing of political dissidents. Seeing the UAE connected to a Tour de France victory would be another welcome advertisement for the UAE's rulers, as a growing body of evidence indicates that the UAE provides support to the Rapid Support Forces (RSF) in Sudan. This abusive warring party has carried out atrocities that amount to crimes against humanity. Since fighting erupted in 2023 between the Sudanese Armed Forces and the RSF, civilians have faced massacres, hunger, and destruction. Hundreds of thousands have died and over 11 million people have been displaced. The RSF also carried out mass killings and mass rapes of people fleeing El Fasher in October of 2025. The UAE has supported the RSF by providing weapons and by facilitating the travel of foreign fighters to Sudan. In a recent report, Human Rights Watch documented how Colombian private military contractors apparently hired by a UAE-based company transited through UAE military bases before being deployed alongside the RSF in Sudan. As you watch the UAE's state-sponsored cycling team in the Tour this weekend, spare a thought for the people in Sudan who bear the deadly consequences of the UAE-fueled atrocities, and inform yourself, also about the fate of migrant workers and dissidents in the Emirates.
+
+---
+*Saved offline by the DISEC Research Wiki.*

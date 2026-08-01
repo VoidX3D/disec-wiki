@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Islamic Republic of Iran Armed Forces
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.

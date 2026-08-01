@@ -32,7 +32,7 @@ export const config = {
   // Core
   host: str(process.env.HOST, '0.0.0.0'),
   port: num(process.env.PORT, 8000),
-  siteDir: resolve(process.env.SITE_DIR, path.join(WIKI, 'site')),
+  siteDir: resolve(process.env.SITE_DIR, path.join(WIKI, 'build')),
   logDir: resolve(process.env.LOG_DIR, path.join(WIKI, 'logs')),
   docxDir: resolve(process.env.DOCX_DIR, path.join(WIKI, 'downloads')),
 

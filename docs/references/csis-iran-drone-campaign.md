@@ -254,7 +254,7 @@ Main menu
 * [Course Catalog](https://www.csis.org/executive-education/courses)
 * [About](https://www.csis.org/executive-education/about-executive-education)
 
-* [Contact Us](https://www.csis.org/cdn-cgi/l/email-protection#bbd5cfdac9c9fbd8c8d2c895d4c9dc)
+* [Contact Us](https://www.csis.org/cdn-cgi/l/email-protection#deb0aabfacac9ebdadb7adf0b1acb9)
 
 # Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare 
 
@@ -265,7 +265,7 @@ Photo: alones/Adobe Stock
 * [ ](https://www.facebook.com/sharer/sharer.php?u=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
 * [ ](https://x.com/intent/post?url=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
 * [ ](https://www.linkedin.com/sharing/share-offsite/?url=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
-* [ ](https://www.csis.org/cdn-cgi/l/email-protection#a29dd1d7c0c8c7c1d69ff2c3c5c782c4d0cdcf82e1f1ebf18ccdd0c584c0cdc6db9fcad6d6d2d1988d8dd5d5d58cc1d1cbd18ccdd0c58dc3ccc3cedbd1cbd18dd7ccd2c3c1c9cbccc58fcbd0c3ccd18fc6d0cdccc78fc1c3cfd2c3cbc5cc8fc5d7cec48fc7c3d0cedb8fcec7d1d1cdccd18fc4d7d6d7d0c78fc6d0cdccc78fd5c3d0c4c3d0c7)
+* [ ](https://www.csis.org/cdn-cgi/l/email-protection#2e115d5b4c444b4d5a137e4f494b0e485c41430e6d7d677d00415c49084c414a5713465a5a5e5d140101595959004d5d475d00415c49014f404f42575d475d015b405e4f4d4547404903475c4f405d034a5c41404b034d4f435e4f47494003495b4248034b4f5c425703424b5d5d41405d03485b5a5b5c4b034a5c41404b03594f5c484f5c4b)
 * [ ](javascript:window.print%28%29)
 
  Commentary by [Kateryna Bondar](https://www.csis.org/people/kateryna-bondar) 
@@ -379,7 +379,7 @@ _Commentary_ is produced by the Center for Strategic and International Studies (
 * [ ](https://www.facebook.com/sharer/sharer.php?u=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
 * [ ](https://x.com/intent/post?url=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
 * [ ](https://www.linkedin.com/sharing/share-offsite/?url=https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare)
-* [ ](https://www.csis.org/cdn-cgi/l/email-protection#80bff3f5e2eae5e3f4bdd0e1e7e5a0e6f2efeda0c3d3c9d3aeeff2e7a6e2efe4f9bde8f4f4f0f3baafaff7f7f7aee3f3e9f3aeeff2e7afe1eee1ecf9f3e9f3aff5eef0e1e3ebe9eee7ade9f2e1eef3ade4f2efeee5ade3e1edf0e1e9e7eeade7f5ece6ade5e1f2ecf9adece5f3f3efeef3ade6f5f4f5f2e5ade4f2efeee5adf7e1f2e6e1f2e5)
+* [ ](https://www.csis.org/cdn-cgi/l/email-protection#b08fc3c5d2dad5d3c48de0d1d7d590d6c2dfdd90f3e3f9e39edfc2d796d2dfd4c98dd8c4c4c0c38a9f9fc7c7c79ed3c3d9c39edfc2d79fd1ded1dcc9c3d9c39fc5dec0d1d3dbd9ded79dd9c2d1dec39dd4c2dfded59dd3d1ddc0d1d9d7de9dd7c5dcd69dd5d1c2dcc99ddcd5c3c3dfdec39dd6c5c4c5c2d59dd4c2dfded59dc7d1c2d6d1c2d5)
 * [ ](javascript:window.print%28%29)
 
 [ ![Home](https://www.csis.org/themes/custom/ts_csis/assets/csis-logo-white.png) ](https://www.csis.org/) 
@@ -405,11 +405,11 @@ Fax: 202.775.3199
 * [Media Relations Team](https://www.csis.org/people/media-relations-team)
 * External Relations
 * [ 202.775.7317 ](tel:2027757317)
-* [ \[email protected\] ](https://www.csis.org/cdn-cgi/l/email-protection#89f9fbecfafac9eafae0faa7e6fbee)
+* [ \[email protected\] ](https://www.csis.org/cdn-cgi/l/email-protection#9ceceef9efefdcffeff5efb2f3eefb)
 
 See [Media Page](https://www.csis.org/about/press-media) for more interview, contact, and citation details.
 
-For general external relations inquires unrelated to media, please contact [\[email protected\]](https://www.csis.org/cdn-cgi/l/email-protection#e7a29f93829589868bb5828b86938e888994a784948e94c9889580).
+For general external relations inquires unrelated to media, please contact [\[email protected\]](https://www.csis.org/cdn-cgi/l/email-protection#4c093438293e222d201e29202d382523223f0c2f3f253f62233e2b).
 
  To stay up to date on CSIS's latest analysis and content, subscribe to our mailing lists here.
 

@@ -1,8 +1,12 @@
+---
+format: md
+---
+
 # Islamic Republic of Iran
 
 <table class="infobox">
 <tr><td colspan="2" class="infobox-caption">Islamic Republic of Iran</td></tr>
-<tr><td colspan="2" style="text-align:center"><img src="../images/coat_Of_ARMS.jpg" alt="Coat of Arms of Iran" loading="lazy" style="width:120px;height:auto"></td></tr>
+<tr><td colspan="2" style="text-align:center"><img src="/img/coat_Of_ARMS.jpg" alt="Coat of Arms of Iran" loading="lazy" style="width:120px;height:auto"></td></tr>
 <tr><th>Capital</th><td>Tehran</td></tr>
 <tr><th>Population</th><td>88.5 million (2024)</td></tr>
 <tr><th>UN Member</th><td>Since 1945</td></tr>

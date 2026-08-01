@@ -254,7 +254,7 @@ Main menu
 * [Course Catalog](https://www.csis.org/executive-education/courses)
 * [About](https://www.csis.org/executive-education/about-executive-education)
 
-* [Contact Us](https://www.csis.org/cdn-cgi/l/email-protection#0f617b6e7d7d4f6c7c667c21607d68)
+* [Contact Us](https://www.csis.org/cdn-cgi/l/email-protection#afc1dbceddddefccdcc6dc81c0ddc8)
 
 # Drone Saturation: Russia’s Shahed Campaign 
 
@@ -269,7 +269,7 @@ Photo: Oleksii Samsonov /Global Images Ukraine/Getty Images
 * [ ](https://www.facebook.com/sharer/sharer.php?u=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
 * [ ](https://x.com/intent/post?url=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
 * [ ](https://www.linkedin.com/sharing/share-offsite/?url=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
-* [ ](https://www.csis.org/cdn-cgi/l/email-protection#5a65292f38303f392e670a3b3d3f7a3c2835377a190913097435283d7c38353e2367322e2e2a296075752d2d2d74392933297435283d753b343b3623293329753e2835343f77293b2e2f283b2e33353477282f2929333b297729323b323f3e77393b372a3b333d34)
+* [ ](https://www.csis.org/cdn-cgi/l/email-protection#516e2224333b3432256c013036347137233e3c71120218027f3e233677333e35286c39252521226b7e7e2626267f322238227f3e23367e303f303d282238227e35233e3f347c22302524233025383e3f7c232422223830227c2239303934357c32303c213038363f)
 * [ ](javascript:window.print%28%29)
 
  Brief by [Benjamin Jensen](https://www.csis.org/people/benjamin-jensen) and [Yasir Atalan](https://www.csis.org/people/yasir-atalan) 
@@ -396,7 +396,7 @@ _CSIS Briefs are_ produced by the Center for Strategic and International Studies
 * [ ](https://www.facebook.com/sharer/sharer.php?u=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
 * [ ](https://x.com/intent/post?url=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
 * [ ](https://www.linkedin.com/sharing/share-offsite/?url=https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign)
-* [ ](https://www.csis.org/cdn-cgi/l/email-protection#e4db9791868e818790d9b4858381c482968b89c4a7b7adb7ca8b9683c2868b809dd98c90909497decbcb939393ca87978d97ca8b9683cb858a85889d978d97cb80968b8a81c9978590919685908d8b8ac9969197978d8597c9978c858c8180c987858994858d838a)
+* [ ](https://www.csis.org/cdn-cgi/l/email-protection#cdf2beb8afa7a8aeb9f09dacaaa8edabbfa2a0ed8e9e849ee3a2bfaaebafa2a9b4f0a5b9b9bdbef7e2e2bababae3aebea4bee3a2bfaae2aca3aca1b4bea4bee2a9bfa2a3a8e0beacb9b8bfacb9a4a2a3e0bfb8bebea4acbee0bea5aca5a8a9e0aeaca0bdaca4aaa3)
 * [ ](javascript:window.print%28%29)
 
 Image
@@ -487,11 +487,11 @@ Fax: 202.775.3199
 * [Media Relations Team](https://www.csis.org/people/media-relations-team)
 * External Relations
 * [ 202.775.7317 ](tel:2027757317)
-* [ \[email protected\] ](https://www.csis.org/cdn-cgi/l/email-protection#09797b6c7a7a496a7a607a27667b6e)
+* [ \[email protected\] ](https://www.csis.org/cdn-cgi/l/email-protection#71010314020231120218025f1e0316)
 
 See [Media Page](https://www.csis.org/about/press-media) for more interview, contact, and citation details.
 
-For general external relations inquires unrelated to media, please contact [\[email protected\]](https://www.csis.org/cdn-cgi/l/email-protection#13566b6776617d727f41767f72677a7c7d605370607a603d7c6174).
+For general external relations inquires unrelated to media, please contact [\[email protected\]](https://www.csis.org/cdn-cgi/l/email-protection#2065585445524e414c72454c4154494f4e5360435349530e4f5247).
 
  To stay up to date on CSIS's latest analysis and content, subscribe to our mailing lists here.
 

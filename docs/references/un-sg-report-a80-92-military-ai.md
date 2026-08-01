@@ -4,4 +4,4 @@
 
 Source: <https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf>
 
-[Open the PDF](/downloads/un-sg-report-a80-92-military-ai.pdf)
+[Open the PDF](../downloads/un-sg-report-a80-92-military-ai.pdf)

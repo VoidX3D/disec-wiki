@@ -1,10 +1,9 @@
 {
-  "buildCommand": "mkdocs build",
-  "outputDirectory": "site",
+  "buildCommand": "npm ci && npm run build",
+  "outputDirectory": "build",
   "framework": null,
-  "installCommand": "pip install mkdocs mkdocs-material mkdocs-minify-plugin mkdocs-redirects",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/$1/index.html" }
+    { "source": "/news/:path*", "destination": "/news.html" }
   ],
   "headers": [
     {
@@ -12,12 +11,12 @@
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     },
     {
-      "source": "/search/(.*)",
-      "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }]
-    },
-    {
       "source": "/downloads/(.*)",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+    },
+    {
+      "source": "/img/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     }
   ]
 }

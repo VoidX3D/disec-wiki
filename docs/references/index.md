@@ -65,6 +65,7 @@ Primary documents saved locally so the entire library works without internet. 78
 
 ## Government & National Policy
 
+- [US DoD Directive 3000.09 — Autonomy in Weapon Systems (2023)](us-dod-directive-300009.md)
 - [HRW / Harvard IHRC — Review of the 2023 US Policy on Autonomy in Weapons](hrw-review-dod-300009.md)
 - [US Political Declaration on Responsible Military Use of AI and Autonomy (2023)](us-political-declaration-military-ai.md)
 - [US Political Declaration on Responsible Military Use of AI (PDF text)](us-political-declaration-military-ai-pdf.md)
@@ -72,29 +73,25 @@ Primary documents saved locally so the entire library works without internet. 78
 
 ## Think Tanks & Research Institutes
 
-- [SIPRI Yearbook 2025 — Armaments, Disarmament & Int'l Security](sipri-yearbook.md)
-- [SIPRI — Autonomy in Weapon Systems (research programme)](sipri-autonomy-weapons.md)
-- [SIPRI Yearbook 2025 — Ch.12 AI & International Peace and Security](sipri-yb25-ai-chapter.md)
-- [SIPRI — Reporting to the UNROCA for 2017 (background paper)](sipri-unroca-reporting.md)
-- [Carnegie Endowment — How AI Shapes Global Power](carnegie-ai-global-power.md)
-- [RAND — AI & National Security](rand-ai-national-security.md)
-- [Human Rights Watch — Arms & Military Technology](hrw-arms.md)
-- [Stop Killer Robots — Campaign for a ban on fully autonomous weapons](stop-killer-robots.md)
 - [Article 36 — Autonomous Weapons programme](article36-autonomous-weapons.md)
 - [Small Arms Survey (Geneva)](small-arms-survey.md)
 
-## Regional & International Organizations
-
-- [NATO Artificial Intelligence Strategy (2021)](nato-ai-strategy.md)
-
 ## Iran / Middle East
 
+- [Wikipedia — Iran and Weapons of Mass Destruction](wikipedia-iran-wmd.md)
+- [Wikipedia — Nuclear Program of Iran](wikipedia-iran-nuclear.md)
 - [Wikipedia — Military of Iran](wikipedia-military-of-iran.md)
 - [Wikipedia — Iranian Armed Forces](wikipedia-iranian-armed-forces.md)
 - [Wikipedia — IRGC Aerospace Force](wikipedia-irgc-aerospace.md)
 - [Wikipedia — Islamic Revolutionary Guard Corps](wikipedia-irgc.md)
+- [Wikipedia — Iran–Israel conflict overview](wikipedia-iran-israel-war.md)
+- [Wikipedia — Iran–United States Relations](wikipedia-iran-us-relations.md)
+- [Wikipedia — Arms Trade Treaty](wikipedia-arms-trade-treaty.md)
+- [CSIS — Drone Saturation: Russia's Shahed Campaign (2025)](csis-drone-saturation.md)
+- [CSIS — Unpacking Iran's Drone Campaign in the Gulf (2026)](csis-iran-drone-campaign.md)
 - [Iran Ministry of Foreign Affairs (English official site)](https://en.mfa.gov.ir/) — external link
 - [IRNA (Islamic Republic News Agency, English)](irna-english.md)
+- [Middle East Council — Iran's Missile & Drone Program (2024)](mecouncil-iran-missiles-drones.md)
 - [IPHR — From Tehran to Kyiv: Iran's Role in Russia's Drone War (2026)](iphr-iran-role-drone-war.md)
 
 ## AI Policy Frameworks

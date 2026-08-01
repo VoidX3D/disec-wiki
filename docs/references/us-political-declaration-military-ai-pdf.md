@@ -4,4 +4,4 @@
 
 Source: <https://www.state.gov/wp-content/uploads/2023/11/Political-Declaration-on-Responsible-Military-Use-of-Artificial-Intelligence-and-Autonomy-1.pdf>
 
-[Open the PDF](/downloads/us-political-declaration-military-ai-pdf.pdf)
+[Open the PDF](../downloads/us-political-declaration-military-ai-pdf.pdf)

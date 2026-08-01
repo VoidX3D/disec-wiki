@@ -1,7 +1,3 @@
----
-search:
-  exclude: true
----
 # UN Secretary-General's Agenda for Disarmament — "Securing Our Common Future" (2018)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

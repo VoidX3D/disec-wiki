@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # Military applications of artificial intelligence
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.

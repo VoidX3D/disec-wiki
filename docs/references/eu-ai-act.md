@@ -1,7 +1,3 @@
----
-search:
-  exclude: true
----
 # EU Artificial Intelligence Act — Regulation (EU) 2024/1689
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.

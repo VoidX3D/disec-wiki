@@ -2,7 +2,8 @@
 node_modules/
 
 # Build output
-site/
+build/
+.docusaurus/
 
 # Cache
 .cache/
@@ -12,7 +13,7 @@ __pycache__/
 logs/
 
 # Runtime document dir (PDFs/DOCX served by scripts/server)
-downloads/
+/downloads/
 
 # OS files
 .DS_Store

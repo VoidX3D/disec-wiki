@@ -1,7 +1,3 @@
----
-search:
-  exclude: true
----
 # UNIDIR — AI in the Military Domain (First Committee briefing, 2025)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.
