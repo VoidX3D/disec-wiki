@@ -83,6 +83,21 @@ const config = {
   ],
 
   plugins: [
+    // Local offline search — builds a lunr index at build time.
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
+      ({
+        hashed: false,
+        docsRouteBasePath: '/',
+        blogRouteBasePath: '/news',
+        indexDocs: true,
+        indexBlog: true,
+        searchBarPosition: 'right',
+        highlightSearchTermsOnTargetPage: true,
+        searchResultContextMaxLength: 120,
+      }),
+    ],
     // PWA / offline support.
     [
       '@docusaurus/plugin-pwa',
