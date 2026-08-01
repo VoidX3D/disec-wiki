@@ -17,6 +17,7 @@
     "convert-news": "node scripts/convert-news.mjs",
     "format-md": "node scripts/format-md.mjs",
     "clean": "node scripts/clean-refs.mjs",
+    "images": "node scripts/resolve-images.mjs",
     "download": "node scripts/download-sources.mjs",
     "news": "node scripts/fetch-news.mjs",
     "write-translations": "docusaurus write-translations",
