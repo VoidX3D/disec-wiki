@@ -18,6 +18,11 @@ function Hero() {
         Full offline research hub for the delegation of the <strong>Islamic Republic of Iran</strong> —
         Motherland Model United Nations 2026. Position, law, capabilities and sources, all on one disk.
       </p>
+      <div className="hero-actions">
+        <a className="btn btn--primary" href="/position/">Read the Position Paper</a>
+        <a className="btn btn--hero-ghost" href="/iran/">Iran Delegation</a>
+        <a className="btn btn--hero-ghost" href="/data/">Data &amp; Statistics</a>
+      </div>
       <div className="hero-meta">
         <div><span>Committee</span><strong>DISEC</strong></div>
         <div><span>Agenda</span><strong>LAWS &amp; Military AI</strong></div>
