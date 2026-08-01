@@ -404,6 +404,31 @@ main.container h2 { font-size: 1.55rem; letter-spacing: -0.02em; margin: 1.8rem 
   justify-content: center;
   margin-bottom: 0.2rem;
 }
+
+/* Card with a top cover image */
+.card--cover {
+  padding: 0;
+  overflow: hidden;
+}
+.card--cover .card-cover {
+  display: block;
+  width: 100%;
+  height: 8.5rem;
+  object-fit: cover;
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  border: none;
+  border-bottom: 1px solid var(--c-border);
+  background: var(--c-surface2);
+  margin: 0;
+}
+.card--cover .card-body {
+  padding: 1.25rem 1.55rem 1.45rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  flex: 1;
+}
+.card--cover .card-link { padding: 0; }
 .card-tag { font-size: 0.68rem; font-weight: 750; letter-spacing: 0.13em; text-transform: uppercase; color: var(--c-primary); }
 .card-title { font-size: 1.22rem; font-weight: 750; color: var(--c-text); line-height: 1.3; letter-spacing: -0.01em; }
 .card-desc { font-size: 0.9rem; color: var(--c-text2); line-height: 1.6; }
@@ -529,11 +554,12 @@ main.container h2 { font-size: 1.55rem; letter-spacing: -0.02em; margin: 1.8rem 
 .flag-pill {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.5rem;
   border: 1px solid var(--c-border);
   border-radius: var(--r-pill);
-  padding: 0.3rem 0.85rem 0.3rem 0.35rem;
-  font-size: 0.85rem;
+  padding: 0.35rem 0.95rem 0.35rem 0.4rem;
+  margin: 0 0.6rem 0.6rem 0;
+  font-size: 0.88rem;
   font-weight: 600;
   color: var(--c-text2);
   background: var(--c-surface);
@@ -543,6 +569,12 @@ main.container h2 { font-size: 1.55rem; letter-spacing: -0.02em; margin: 1.8rem 
 .flag-pill:hover { border-color: var(--c-primary); color: var(--c-primary); transform: translateY(-2px); box-shadow: var(--shadow-sm); }
 .flag-pill img { margin: 0; }
 .flag-pill.flag-hostile:hover { border-color: var(--c-red); color: var(--c-red); }
+
+/* Make flag pills sit nicely inside h3/h4 headings */
+.markdown h3 .flag-pill,
+.markdown h4 .flag-pill {
+  margin-bottom: 0.8rem;
+}
 
 /* ── Card with image (cover image + body) ── */
 .card-img-top {
