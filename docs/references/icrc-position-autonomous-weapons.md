@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
+[ ![Home](https://www.sipri.org/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
@@ -24,11 +24,11 @@ Happening now
  Stay updated with the latest news and ongoing initiatives of the ICRC.  
 [Latest news](https://www.icrc.org/en/news)  
 ### Featured  
-   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](/img/refs/37a2282b5da3cd7e.webp)  
+   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](https://www.sipri.org/img/refs/37a2282b5da3cd7e.webp)  
    [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](https://www.icrc.org/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
-   * ![Child during ICRC food distribution in Leer. ](/img/refs/5bcf3f5ed5b2a747.webp)  
+   * ![Child during ICRC food distribution in Leer. ](https://www.sipri.org/img/refs/5bcf3f5ed5b2a747.webp)  
    [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](https://www.icrc.org/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
-   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](/img/refs/87d0d003c8c46e48.webp)  
+   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](https://www.sipri.org/img/refs/87d0d003c8c46e48.webp)  
    [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](https://www.icrc.org/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
 [](#)
 * [Who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
@@ -49,11 +49,11 @@ What we do
  The ICRC responds quickly and efficiently to help people affected by armed conflict.  
 [All our activities](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 ### In focus  
-   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](/img/refs/3c868b47651f969e.webp)  
+   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](https://www.sipri.org/img/refs/3c868b47651f969e.webp)  
    [Protection: Upholding the rights of people in conflict](https://www.icrc.org/en/what-we-do/protection)  
-   * ![](/img/refs/2741ad19bcd9759f.webp)  
+   * ![](https://www.sipri.org/img/refs/2741ad19bcd9759f.webp)  
    [Reconnecting families: Preventing separation, searching for the missing, reunit…](https://www.icrc.org/en/what-we-do/reconnecting-families)  
-   * ![](/img/refs/c1a37ccc4e8cad7c.webp)  
+   * ![](https://www.sipri.org/img/refs/c1a37ccc4e8cad7c.webp)  
    [Helping detainees: Protecting and assisting people deprived of their liberty](https://www.icrc.org/en/what-we-do/helping-detainees)  
 [](#)
 * [Where we work](https://www.icrc.org/en/where-we-work)  
@@ -92,11 +92,11 @@ Support us
 ##  Support us  
  Find out how you as an individual can contribute to our humanitarian efforts to help people suffering because of armed conflict.  
 [How to support us](https://www.icrc.org/en/how-you-can-support-us)  
-   * ![Venezuela Earthquake](/img/refs/731d5fa6bea85af8.webp)  
+   * ![Venezuela Earthquake](https://www.sipri.org/img/refs/731d5fa6bea85af8.webp)  
    [Venezuela: Give your help](https://www.icrc.org/en/donate/venezuela)  
-   * ![Saher alghorra civilians gaza](/img/refs/d182ebe4fdbd0847.webp)  
+   * ![Saher alghorra civilians gaza](https://www.sipri.org/img/refs/d182ebe4fdbd0847.webp)  
    [The Near & Middle East: Give your help](https://www.icrc.org/en/donate/middle-east)  
-   * ![drc](/img/refs/77a22cd222a07c8a.webp)  
+   * ![drc](https://www.sipri.org/img/refs/77a22cd222a07c8a.webp)  
    [DR Congo: Give your help](https://www.icrc.org/en/donate/congo-emergency)  
 [](#)
 
@@ -128,7 +128,7 @@ Search
 
 * [Weapons and disarmament](https://www.icrc.org/en/law-and-policy/weapons-and-disarmament)
 
-![](/img/refs/2b790775affceb83.webp) 
+![](https://www.sipri.org/img/refs/2b790775affceb83.webp) 
 
 ### Share
 
@@ -198,7 +198,7 @@ PDF file
 
 ## Related
 
-![An ICRC exhibition, titled "Wars Have Limits," is currently underway in Seoul, the Republic of Korea. Designed to mark the 60th anniversary of Republic of Korea’s accession to the Geneva Conventions, It is jointly organized by the ICRC and the Seoul Museum of History, in cooperation with the Embassy of Switzerland in the Republic of Korea, and sponsored by the Ministry of Foreign Affairs and Korean Red Cross. ](/img/refs/726fa99e79e03346.webp) 
+![An ICRC exhibition, titled "Wars Have Limits," is currently underway in Seoul, the Republic of Korea. Designed to mark the 60th anniversary of Republic of Korea’s accession to the Geneva Conventions, It is jointly organized by the ICRC and the Seoul Museum of History, in cooperation with the Embassy of Switzerland in the Republic of Korea, and sponsored by the Ministry of Foreign Affairs and Korean Red Cross. ](https://www.sipri.org/img/refs/726fa99e79e03346.webp) 
 
 Article
 
@@ -206,7 +206,7 @@ Article
 
 ### [ICRC holds exhibition in Seoul to mark the 60th anniversary of Republic of Korea’s accession to the Geneva Conventions](https://www.icrc.org/en/article/icrc-exhibition-60th-anniversary-republic-korea-accession-geneva-conventions) 
 
-![Two humanitarian workers (one from the ICRC and another one from the Yemeni Red Crescent) stand near each other surrounded by many piles of bags and boxes of food items](/img/refs/273a1ccb6ce1c63c.webp) stand near each other surrounded by many piles of bags and boxes of food items") 
+![Two humanitarian workers (one from the ICRC and another one from the Yemeni Red Crescent) stand near each other surrounded by many piles of bags and boxes of food items](https://www.sipri.org/img/refs/273a1ccb6ce1c63c.webp) stand near each other surrounded by many piles of bags and boxes of food items") 
 
 Article
 
@@ -214,7 +214,7 @@ Article
 
 ### [Frequently asked questions about the ICRC’s work in Yemen](https://www.icrc.org/en/article/faq-information-people-affected-conflict-yemen) 
 
-![](/img/refs/35355d08383f587d.webp) 
+![](https://www.sipri.org/img/refs/35355d08383f587d.webp) 
 
 Legal factsheet
 

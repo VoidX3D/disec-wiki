@@ -26,7 +26,7 @@ move to sidebar hide
 * [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File%5Fupload%5Fwizard%20%22Add%20images%20or%20other%20media%20for%20use%20on%20Wikipedia%22)
 * [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages%20%22A%20list%20of%20all%20special%20pages%20[q]%22)
 
-[ ![](/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
+[ ![](https://www.sipri.org/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](https://www.sipri.org/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](https://www.sipri.org/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
 
 [ Search ](https://en.wikipedia.org/wiki/Special:Search%20%22Search%20Wikipedia%20[f]%22) 
 
@@ -1038,8 +1038,8 @@ Hidden categories:
 * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie%5Fstatement)
 * [Mobile view](https://en.wikipedia.org/w/index.php?title=Iran%5Fand%5Fweapons%5Fof%5Fmass%5Fdestruction&mobileaction=toggle%5Fview%5Fmobile)
-* [![Wikimedia Foundation](/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
-* [![Powered by MediaWiki](/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
+* [![Wikimedia Foundation](https://www.sipri.org/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
+* [![Powered by MediaWiki](https://www.sipri.org/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
 
 Search 
 

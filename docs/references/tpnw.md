@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/weapons-mass-destruction/nuclear-weapons/treaty-prohibition-nuclear-weapons)
 * [Русский](https://www.unoda.org/ru/our-work/weapons-mass-destruction/nuclear-weapons/treaty-prohibition-nuclear-weapons)
 
-[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/weapons-mass-destruction/nuclear-weapons/treaty-prohibition-nuclear-weapons)
@@ -407,7 +407,7 @@ Any declarations pursuant to Article 2 that States Parties have chosen to make p
 * [A/75/139](http://undocs.org/A/75/139) (2020)
 * [A/74/154](http://undocs.org/A/74/154) (2019)
 
-![un logo](/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

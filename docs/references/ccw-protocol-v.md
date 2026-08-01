@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-protocol-v-explosive-remnants-war)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-protocol-v-explosive-remnants-war)
 
-[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-protocol-v-explosive-remnants-war)
@@ -282,7 +282,7 @@ Office for Disarmament Affairs
 
 ### Background
 
-![](/img/refs/baa1ec22cd2c2d1a.jpg)
+![](https://www.sipri.org/img/refs/baa1ec22cd2c2d1a.jpg)
 
 The **[Protocol on Explosive Remnants of War (Protocol V)](https://treaties.unoda.org/t/ccw%5Fp5)**was negotiated by the CCW Group of Governmental Experts in 2002 and 2003 and adopted by the Meeting of the States Parties to the CCW on 28 November 2003\. The Protocol recognizes the serious post-conflict humanitarian problems caused by explosive remnants of war and addresses post-conflict remedial measures of a generic nature in order to minimize the occurrence, effects and the risk of explosive remnants of war.
 
@@ -294,15 +294,15 @@ The **[Protocol on Explosive Remnants of War (Protocol V)](https://treaties.unod
 * Parties shall take all feasible precautions to protect civilian population from the risks and effects of explosive remnants of war.
 * Parties shall cooperate among themselves and with other States and organizations, and shall assist each other in order to fulfill their duty of clearance, removal or destruction of explosive remnants of war.
 
-![](/img/refs/471014e874bf578d.jpg)
+![](https://www.sipri.org/img/refs/471014e874bf578d.jpg)
 
 UN Photo/UNMACA
 
-![](/img/refs/d1e7f8761e425e55.jpg)
+![](https://www.sipri.org/img/refs/d1e7f8761e425e55.jpg)
 
 UN Photo/Albert Gonzalez Farran
 
-![](/img/refs/bee9195aad6b8dd3.jpg)
+![](https://www.sipri.org/img/refs/bee9195aad6b8dd3.jpg)
 
 UN Photo/Nektarios Markogiannis
 
@@ -365,7 +365,7 @@ Information on the Annual Conference of the High Contracting Parties to Protocol
 * [CCW Protocol V database](https://www.unoda.org/ccw-protocol-v/ccw-protocol-v-database)
 * [Anti-Personnel Landmines Convention](https://www.unoda.org/en/node/87308)
 
-![un logo](/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

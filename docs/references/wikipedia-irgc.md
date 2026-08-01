@@ -22,7 +22,7 @@ move to sidebar hide
 * [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File%5Fupload%5Fwizard%20%22Add%20images%20or%20other%20media%20for%20use%20on%20Wikipedia%22)
 * [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages%20%22A%20list%20of%20all%20special%20pages%20[q]%22)
 
-[ ![](/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
+[ ![](https://www.sipri.org/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](https://www.sipri.org/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](https://www.sipri.org/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
 
 [ Search ](https://en.wikipedia.org/wiki/Special:Search%20%22Search%20Wikipedia%20[f]%22) 
 
@@ -602,7 +602,7 @@ The IRGC also exerts influence over _[bonyads](https://en.wikipedia.org/wiki/Bon
 * [Mostazafan Foundation](https://en.wikipedia.org/wiki/Mostazafan%5FFoundation "Mostazafan Foundation") (Foundation of the Oppressed or The Mostazafan Foundation)
 * [Bonyad Shahid va Omur-e Janbazan](https://en.wikipedia.org/wiki/Bonyad%5FShahid%5Fva%5FOmur-e%5FJanbazan "Bonyad Shahid va Omur-e Janbazan") (Foundation of Martyrs and Veterans Affairs)[\[141\]](#cite%5Fnote-RAND821-148)
 
-[![](/img/refs/2d3a48068000e6aa.jpg)](https://en.wikipedia.org/wiki/File:Sacred%5FDefence%5FWeek%5Fparade,%5F2023,%5Fin%5FQom%5F%28048%29.jpg)
+[![](https://www.sipri.org/img/refs/2d3a48068000e6aa.jpg)](https://en.wikipedia.org/wiki/File:Sacred%5FDefence%5FWeek%5Fparade,%5F2023,%5Fin%5FQom%5F%28048%29.jpg)
 
 Military parade in Qom, Iran, commemorating [Sacred Defence Week](https://en.wikipedia.org/wiki/Sacred%5FDefence%5FWeek "Sacred Defence Week"), 22 September 2023
 
@@ -936,9 +936,9 @@ Following Canada's designation of the IRGC as a terrorist organization, Iran str
 160. [↑](#cite%5Fref-167) ["Feeding the 'water mafia': Sanctions relief and Iran's water crisis"](https://www.atlanticcouncil.org/blogs/menasource/feeding-the-water-mafia-sanctions-relief-and-irans-water-crisis/). _Atlantic Council_. 15 May 2025. Retrieved 20 July 2025.
 161. [1](#cite%5Fref-Khalaji12%5F168-0) [2](#cite%5Fref-Khalaji12%5F168-1) Khalaji, Mehdi (17 August 2007). ["Iran's Revolutionary Guards Corps, Inc"](http://www.washingtoninstitute.org/policy-analysis/view/irans-revolutionary-guards-corps-inc). The Washington Institute for Near East Policy. [Archived](https://web.archive.org/web/20120926115859/http://www.washingtoninstitute.org/policy-analysis/view/irans-revolutionary-guards-corps-inc) from the original on 26 September 2012. Retrieved 11 October 2012.
 162. [1](#cite%5Fref-Bruno%5F169-0) [2](#cite%5Fref-Bruno%5F169-1) [3](#cite%5Fref-Bruno%5F169-2) [4](#cite%5Fref-Bruno%5F169-3) [5](#cite%5Fref-Bruno%5F169-4) [6](#cite%5Fref-Bruno%5F169-5) Greg Bruno; Jayshree Bajoria (12 October 2011). ["Iran's Revolutionary Guards"](https://web.archive.org/web/20121112092148/http://www.cfr.org/iran/irans-revolutionary-guards/p14324). Council on Foreign Relations. Archived from [the original](http://www.cfr.org/iran/irans-revolutionary-guards/p14324) on 12 November 2012. Retrieved 11 October 2012.
-163. [1](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-0) [2](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-1) [3](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-2) [Alfoneh 2008](#CITEREFAlfoneh2008), p. 3.
-164. [↑](#cite%5Fref-FOOTNOTEAlfoneh20086%5F171-0) [Alfoneh 2008](#CITEREFAlfoneh2008), p. 6.
-165. [↑](#cite%5Fref-FOOTNOTEAlfoneh20087%5F172-0) [Alfoneh 2008](#CITEREFAlfoneh2008), p. 7.
+163. [1](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-0) [2](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-1) [3](#cite%5Fref-FOOTNOTEAlfoneh20083%5F170-2) , p. 3.
+164. [↑](#cite%5Fref-FOOTNOTEAlfoneh20086%5F171-0) , p. 6.
+165. [↑](#cite%5Fref-FOOTNOTEAlfoneh20087%5F172-0) , p. 7.
 166. [1](#cite%5Fref-tg810%5F173-0) [2](#cite%5Fref-tg810%5F173-1) [3](#cite%5Fref-tg810%5F173-2) [4](#cite%5Fref-tg810%5F173-3) ["Fact Sheet: U.S. Treasury Department Targets Iran's Support for Terrorism Treasury Announces New Sanctions Against Iran's Islamic Revolutionary Guard Corps-Qods Force Leadership"](https://www.treasury.gov/press-center/press-releases/Pages/tg810.aspx). U.S. Department of the Treasury. 3 August 2010\. [Archived](https://web.archive.org/web/20190509060056/https://www.treasury.gov/press-center/press-releases/Pages/tg810.aspx) from the original on 9 May 2019.
 167. [↑](#cite%5Fref-174) Ostovar, Afshon (2018). _Vanguard of the Imam: religion, politics, and Iran's revolutionary guards_ (First issued as an Oxford University Press paperback ed.). New York, NY: Oxford University Press. pp. 126–127\. [ISBN](https://en.wikipedia.org/wiki/ISBN%5F%28identifier%29 "ISBN (identifier)") [978-0-19-049170-3](https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-049170-3 "Special:BookSources/978-0-19-049170-3").
 168. [↑](#cite%5Fref-175) ["The Revolutionary Guards' Media Cartels"](https://iranwire.com/en/features/66671). [Archived](https://web.archive.org/web/20220324073405/https://iranwire.com/en/features/66671) from the original on 24 March 2022. Retrieved 24 March 2022.
@@ -1191,8 +1191,8 @@ Hidden categories:
 * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie%5Fstatement)
 * [Mobile view](https://en.wikipedia.org/w/index.php?title=Islamic%5FRevolutionary%5FGuard%5FCorps&mobileaction=toggle%5Fview%5Fmobile)
-* [![Wikimedia Foundation](/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
-* [![Powered by MediaWiki](/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
+* [![Wikimedia Foundation](https://www.sipri.org/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
+* [![Powered by MediaWiki](https://www.sipri.org/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
 
 Search 
 

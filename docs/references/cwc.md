@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/weapons-mass-destruction/chemical-weapons)
 * [Русский](https://www.unoda.org/ru/our-work/weapons-mass-destruction/chemical-weapons)
 
-[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/weapons-mass-destruction/chemical-weapons)
@@ -342,7 +342,7 @@ The non-renewal of the mandate of the JIM left a gap in the ability of internati
 * [Cross-cutting issues](https://www.unoda.org/en/our-work/cross-cutting-issues)
 * [Disarmament bodies](https://www.unoda.org/en/our-work/disarmament-bodies)
 
-![un logo](/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

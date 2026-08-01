@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
+[ ![Home](https://www.sipri.org/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
@@ -24,11 +24,11 @@ Happening now
  Stay updated with the latest news and ongoing initiatives of the ICRC.  
 [Latest news](https://www.icrc.org/en/news)  
 ### Featured  
-   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](/img/refs/37a2282b5da3cd7e.webp)  
+   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](https://www.sipri.org/img/refs/37a2282b5da3cd7e.webp)  
    [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](https://www.icrc.org/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
-   * ![Child during ICRC food distribution in Leer. ](/img/refs/5bcf3f5ed5b2a747.webp)  
+   * ![Child during ICRC food distribution in Leer. ](https://www.sipri.org/img/refs/5bcf3f5ed5b2a747.webp)  
    [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](https://www.icrc.org/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
-   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](/img/refs/87d0d003c8c46e48.webp)  
+   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](https://www.sipri.org/img/refs/87d0d003c8c46e48.webp)  
    [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](https://www.icrc.org/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
 [](#)
 * [Who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
@@ -49,11 +49,11 @@ What we do
  The ICRC responds quickly and efficiently to help people affected by armed conflict.  
 [All our activities](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 ### In focus  
-   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](/img/refs/3c868b47651f969e.webp)  
+   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](https://www.sipri.org/img/refs/3c868b47651f969e.webp)  
    [Protection: Upholding the rights of people in conflict](https://www.icrc.org/en/what-we-do/protection)  
-   * ![](/img/refs/2741ad19bcd9759f.webp)  
+   * ![](https://www.sipri.org/img/refs/2741ad19bcd9759f.webp)  
    [Reconnecting families: Preventing separation, searching for the missing, reunit…](https://www.icrc.org/en/what-we-do/reconnecting-families)  
-   * ![](/img/refs/c1a37ccc4e8cad7c.webp)  
+   * ![](https://www.sipri.org/img/refs/c1a37ccc4e8cad7c.webp)  
    [Helping detainees: Protecting and assisting people deprived of their liberty](https://www.icrc.org/en/what-we-do/helping-detainees)  
 [](#)
 * [Where we work](https://www.icrc.org/en/where-we-work)  
@@ -92,11 +92,11 @@ Support us
 ##  Support us  
  Find out how you as an individual can contribute to our humanitarian efforts to help people suffering because of armed conflict.  
 [How to support us](https://www.icrc.org/en/how-you-can-support-us)  
-   * ![Venezuela Earthquake](/img/refs/731d5fa6bea85af8.webp)  
+   * ![Venezuela Earthquake](https://www.sipri.org/img/refs/731d5fa6bea85af8.webp)  
    [Venezuela: Give your help](https://www.icrc.org/en/donate/venezuela)  
-   * ![Saher alghorra civilians gaza](/img/refs/d182ebe4fdbd0847.webp)  
+   * ![Saher alghorra civilians gaza](https://www.sipri.org/img/refs/d182ebe4fdbd0847.webp)  
    [The Near & Middle East: Give your help](https://www.icrc.org/en/donate/middle-east)  
-   * ![drc](/img/refs/77a22cd222a07c8a.webp)  
+   * ![drc](https://www.sipri.org/img/refs/77a22cd222a07c8a.webp)  
    [DR Congo: Give your help](https://www.icrc.org/en/donate/congo-emergency)  
 [](#)
 
@@ -133,25 +133,25 @@ People have always used violence to settle disputes, and all cultures through th
 
 ### [ IHL unpacked: Explore the playlist](https://www.youtube.com/playlist?list=PLB9nHe5nhQnnyUt92DK0w63ZDWr71iPin)
 
-[ ![IHL-Unpacked-Playlist_YT-Thumbnail](/img/refs/bc3b9c2a15a01dd7.webp) ](https://www.youtube.com/playlist?list=PLB9nHe5nhQnnyUt92DK0w63ZDWr71iPin) 
+[ ![IHL-Unpacked-Playlist_YT-Thumbnail](https://www.sipri.org/img/refs/bc3b9c2a15a01dd7.webp) ](https://www.youtube.com/playlist?list=PLB9nHe5nhQnnyUt92DK0w63ZDWr71iPin) 
 
 ##  Highlights
 
 ### [ Updated Commentary on the First Geneva Convention](https://www.icrc.org/en/document/updated-commentaries-first-geneva-convention)
 
-[ ![](/img/refs/c7a8e04553bbd408.webp) ](https://www.icrc.org/en/document/updated-commentaries-first-geneva-convention) 
+[ ![](https://www.sipri.org/img/refs/c7a8e04553bbd408.webp) ](https://www.icrc.org/en/document/updated-commentaries-first-geneva-convention) 
 
 ### [ Updated Commentary on the Second Geneva Convention](https://www.icrc.org/en/document/updated-commentaries-second-geneva-convention)
 
-[ ![](/img/refs/fe10a8cc1a0ad4dd.webp) ](https://www.icrc.org/en/document/updated-commentaries-second-geneva-convention) 
+[ ![](https://www.sipri.org/img/refs/fe10a8cc1a0ad4dd.webp) ](https://www.icrc.org/en/document/updated-commentaries-second-geneva-convention) 
 
 ### [ Updated Commentary on the Third Geneva Convention](https://www.icrc.org/en/document/updated-commentary-third-geneva-convention)
 
-[ ![Field exercise during a course on international humanitarian law in Russia.](/img/refs/e0cf65d494b79179.webp) ](https://www.icrc.org/en/document/updated-commentary-third-geneva-convention) 
+[ ![Field exercise during a course on international humanitarian law in Russia.](https://www.sipri.org/img/refs/e0cf65d494b79179.webp) ](https://www.icrc.org/en/document/updated-commentary-third-geneva-convention) 
 
 ### [ Updated Commentary on the Fourth Geneva Convention](https://www.icrc.org/en/article/updated-commentary-fourth-geneva-convention)
 
-[ ![Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.](/img/refs/38863237e59076c9.webp) ](https://www.icrc.org/en/article/updated-commentary-fourth-geneva-convention) 
+[ ![Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.](https://www.sipri.org/img/refs/38863237e59076c9.webp) ](https://www.icrc.org/en/article/updated-commentary-fourth-geneva-convention) 
 
 ## What are the Geneva Conventions and their Additional Protocols?
 

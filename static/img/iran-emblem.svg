@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Emblem of Iran">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#239f40"/>
+      <stop offset="50%" stop-color="#fff"/>
+      <stop offset="50%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#da0000"/>
+    </linearGradient>
+    <radialGradient id="seal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#da0000"/>
+      <stop offset="100%" stop-color="#8a0000"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="240" height="240" rx="24" fill="url(#g)"/>
+  <circle cx="120" cy="120" r="64" fill="url(#seal)" stroke="#ffd166" stroke-width="3"/>
+  <g fill="#ffd166" font-family="serif" font-weight="700" text-anchor="middle">
+    <text x="120" y="100" font-size="22">الله</text>
+    <text x="120" y="156" font-size="18">محمد</text>
+  </g>
+  <g fill="none" stroke="#ffd166" stroke-width="2" stroke-linecap="round">
+    <path d="M70 130 Q120 160 170 130"/>
+    <path d="M80 115 Q120 145 160 115"/>
+    <path d="M75 145 Q120 175 165 145"/>
+  </g>
+  <g fill="#1a6d3a" opacity="0.4">
+    <circle cx="30" cy="30" r="14"/>
+    <circle cx="210" cy="30" r="14"/>
+    <circle cx="30" cy="210" r="14"/>
+    <circle cx="210" cy="210" r="14"/>
+  </g>
+</svg>

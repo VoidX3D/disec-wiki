@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-amended-protocol-ii)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-amended-protocol-ii)
 
-[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-amended-protocol-ii)
@@ -280,7 +280,7 @@ Office for Disarmament Affairs
 
 # CCW Amended Protocol II 
 
-![](/img/refs/08728baff5c23e64.png)
+![](https://www.sipri.org/img/refs/08728baff5c23e64.png)
 
 ### **Prohibitions or Restrictions** of the protocol
 
@@ -345,7 +345,7 @@ Information on the **Annual Conference of the High Contracting Parties to Amende
 * [CCW Amended Protocol II database](https://www.unoda.org/en/node/87464)
 * [Anti-Personnel Landmines Convention](https://www.unoda.org/en/node/87308)
 
-![un logo](/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

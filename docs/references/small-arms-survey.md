@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](/img/refs/bc165a51e30f2b0c.png) ](https://www.smallarmssurvey.org/%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/bc165a51e30f2b0c.png) ](https://www.smallarmssurvey.org/%20%22Home%22) 
 
 Search 
 
@@ -73,37 +73,37 @@ For 25 years, the Small Arms Survey has provided impartial, evidence-based, and 
 
 ## Projects
 
-[![SAS logo](/img/refs/78194e32c4bb9b69.png) ](https://www.smallarmssurvey.org/project/splash) 
+[![SAS logo](https://www.sipri.org/img/refs/78194e32c4bb9b69.png) ](https://www.smallarmssurvey.org/project/splash) 
 
 ###  Stopping Proliferation of Lethal Arms at Sea and Harbours (SPLASH)
 
 [View](https://www.smallarmssurvey.org/project/splash) 
 
-[![SAS logo](/img/refs/64fd8c8929d66666.png) ](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
+[![SAS logo](https://www.sipri.org/img/refs/64fd8c8929d66666.png) ](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
 
 ###  Addressing Challenges to Arms Trade Treaty Universalization through Networking and Engagement in the Indo-Pacific Region (ATTUNE)
 
 [View](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
 
-[![Survey logo](/img/refs/f3658c51d3fcd0fc.png) ](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
+[![Survey logo](https://www.sipri.org/img/refs/f3658c51d3fcd0fc.png) ](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
 
 ###  Privately Manufactured Firearms Seizure Research in Europe
 
 [View](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
 
-[![SAS logo](/img/refs/022dab4f9eb2f25f.png) ](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
+[![SAS logo](https://www.sipri.org/img/refs/022dab4f9eb2f25f.png) ](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
 
 ###  Securing the Future: Evidence-Based Approaches to Countering Illicit Arms and Promoting Safer Communities in Ukraine
 
 [View](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
 
-[![SAS trigger](/img/refs/c98e81bf82de4c98.png) ](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
+[![SAS trigger](https://www.sipri.org/img/refs/c98e81bf82de4c98.png) ](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
 
 ###  Enhancing Local Arms Control and Risk Reduction in Ukraine
 
 [View](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
 
-[![SAS trigger](/img/refs/c72d14d8c4b889e9.png) ](https://www.smallarmssurvey.org/project/att-universalization-and-compliance-indo-pacific-region) 
+[![SAS trigger](https://www.sipri.org/img/refs/c72d14d8c4b889e9.png) ](https://www.smallarmssurvey.org/project/att-universalization-and-compliance-indo-pacific-region) 
 
 ###  Understanding challenges to the ATT universalization and compliance in the Indo-Pacific region
 
@@ -180,7 +180,7 @@ Maison de la Paix, Chemin Eugène-Rigot 2E
 
 [**media@smallarmssurvey.org**](mailto:media@smallarmssurvey.org)
 
-![](/img/refs/40f63e7f895f44e1.png)
+![](https://www.sipri.org/img/refs/40f63e7f895f44e1.png)
 
 ## Footer menu
 

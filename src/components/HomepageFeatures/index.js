@@ -27,13 +27,6 @@ const cards = [
     to: '/iran/',
   },
   {
-    icon: 'scale',
-    tag: 'Committee',
-    title: 'Committee & Study Guide',
-    desc: 'Rules of procedure, country matrix, chair notice and the full committee study guide.',
-    to: '/committee/',
-  },
-  {
     icon: 'book',
     tag: 'Law',
     title: 'Treaties & Frameworks',

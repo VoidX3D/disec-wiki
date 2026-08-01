@@ -240,7 +240,7 @@
    * [Business Opportunities](https://www.opcw.org/work-us/business-opportunities)
 * [Calendar](https://www.opcw.org/calendar)
 
-[![Organisation for the Prohibition of Chemical Weapons](/img/refs/2154fd3d1d9c2c31.png)](https://www.opcw.org/%20%22Home%22) 
+[![Organisation for the Prohibition of Chemical Weapons](https://www.sipri.org/img/refs/2154fd3d1d9c2c31.png)](https://www.opcw.org/%20%22Home%22) 
 
 #  Chemical Weapons Convention 
 
@@ -252,7 +252,7 @@ All States Parties have agreed to chemically disarm by destroying any stockpiles
 
 A unique feature of the Convention is its incorporation of the ‘challenge inspection’, whereby any State Party in doubt about another State Party’s compliance can request a surprise inspection. Under the Convention’s ‘challenge inspection’ procedure, States Parties have committed themselves to the principle of ‘any time, anywhere’ inspections with no right of refusal.
 
-![Book](/img/refs/064d6a80eab861ab.png) 
+![Book](https://www.sipri.org/img/refs/064d6a80eab861ab.png) 
 
 [Download the Convention](https://www.opcw.org/chemical-weapons-convention/download-convention)
 

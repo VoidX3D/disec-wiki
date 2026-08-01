@@ -595,27 +595,27 @@ Many urgent arms-related challenges need be addressed to protect civilians affec
 
 Photo copyright © 2014 Human Rights Watch
 
-![](/img/refs/d7bb317ba623ea08.jpg) 
+![](https://www.sipri.org/img/refs/d7bb317ba623ea08.jpg) 
 
 * United Arab Emirates  
-![still from a video](/img/refs/3c3993f6d7ffe265.jpg) [](https://www.hrw.org/news/2026/07/23/frances-troubling-silence-on-the-uae-role-in-sudan)  
+![still from a video](https://www.sipri.org/img/refs/3c3993f6d7ffe265.jpg) [](https://www.hrw.org/news/2026/07/23/frances-troubling-silence-on-the-uae-role-in-sudan)  
 July 23, 2026  
 Commentary  
 [France’s Troubling Silence on the UAE Role in Sudan ](https://www.hrw.org/news/2026/07/23/frances-troubling-silence-on-the-uae-role-in-sudan)  
-![](/img/refs/7f3c08d5de465187.jpg)  
+![](https://www.sipri.org/img/refs/7f3c08d5de465187.jpg)  
 [Jean-Baptiste Gallopin](https://www.hrw.org/about/people/jean-baptiste-gallopin)  
 Senior Advisor, Crisis, Conflict and Arms Division  
 Published in: [Mediapart](https://blogs.mediapart.fr/hrw/blog/200726/le-silence-troublant-de-la-france-face-au-role-des-emirats-arabes-unis-au-soudan)
 * Lebanon  
-![A team from the Mines Advisory Group (MAG) clearing unexploded cluster munitions on farmland in southern Lebanon, November 10, 2020. ](/img/refs/03085d07510321e3.jpg) [](https://www.hrw.org/news/2026/05/27/lebanon-joins-mine-ban-treaty)  
+![A team from the Mines Advisory Group (MAG) clearing unexploded cluster munitions on farmland in southern Lebanon, November 10, 2020. ](https://www.sipri.org/img/refs/03085d07510321e3.jpg) [](https://www.hrw.org/news/2026/05/27/lebanon-joins-mine-ban-treaty)  
 May 27, 2026  
 News Release  
 [Lebanon Joins Mine Ban Treaty ](https://www.hrw.org/news/2026/05/27/lebanon-joins-mine-ban-treaty)
-* ![Pope Leo XIV presents his first Encyclical Letter “Magnifica humanitas” at the Synod Hall in the Vatican, May 25, 2026.](/img/refs/73022346268d53ce.jpg) [](https://www.hrw.org/news/2026/05/26/vatican-urges-strict-regulation-of-artificial-intelligence-in-war)  
+* ![Pope Leo XIV presents his first Encyclical Letter “Magnifica humanitas” at the Synod Hall in the Vatican, May 25, 2026.](https://www.sipri.org/img/refs/73022346268d53ce.jpg) [](https://www.hrw.org/news/2026/05/26/vatican-urges-strict-regulation-of-artificial-intelligence-in-war)  
 May 26, 2026  
 Dispatches  
 [Vatican Urges Strict Regulation of Artificial Intelligence in War ](https://www.hrw.org/news/2026/05/26/vatican-urges-strict-regulation-of-artificial-intelligence-in-war)  
-![](/img/refs/19d0100c08790bc5.jpg)  
+![](https://www.sipri.org/img/refs/19d0100c08790bc5.jpg)  
 [Gerry Simpson](https://www.hrw.org/about/people/gerry-simpson)  
 Associate Director, Crisis, Conflict and Arms Division
 
@@ -623,15 +623,15 @@ Associate Director, Crisis, Conflict and Arms Division
 
 [  Watch more  Videos ](https://www.hrw.org/video-photos?topic%5B0%5D=9681#form--inline-filters--block) 
 
-![202303ARMS_World_Incendiary_Weapons_v2](/img/refs/1355d9db35eda754.jpg) 
+![202303ARMS_World_Incendiary_Weapons_v2](https://www.sipri.org/img/refs/1355d9db35eda754.jpg) 
 
 Play Video 
 
-![202303ARMS_World_Incendiary_Weapons_v2](/img/refs/1355d9db35eda754.jpg) 
+![202303ARMS_World_Incendiary_Weapons_v2](https://www.sipri.org/img/refs/1355d9db35eda754.jpg) 
 
 Play Video 
 
-![202303ARMS_World_Cluster_Munitions](/img/refs/c8a84331e52c954c.jpg) 
+![202303ARMS_World_Cluster_Munitions](https://www.sipri.org/img/refs/c8a84331e52c954c.jpg) 
 
 Play Video 
 
@@ -648,22 +648,22 @@ Cluster Munitions | Explainer
 * March 10, 2026  Report  
 ### [Haiti: Drone Strikes Put Residents at Risk ](https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk)  
 Accountability, New Approach Needed to Protect Human Rights  
-![People look out at a street in the Simon-Pele neighborhood of Port-au-Prince, Haiti, September 22, 2025.](/img/refs/d577323941baefc2.jpg)  
+![People look out at a street in the Simon-Pele neighborhood of Port-au-Prince, Haiti, September 22, 2025.](https://www.sipri.org/img/refs/d577323941baefc2.jpg)  
 [](https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk)
 * November 17, 2025  Report  
 ### [Strengthening Civilian Protection ](https://www.hrw.org/report/2025/11/17/strengthening-civilian-protection/principles-for-implementing-the-declaration-on)  
 Principles for Implementing the Declaration on Explosive Weapons in Populated Areas  
-![Palestinians walk through the rubble of residential buildings](/img/refs/d2af5f808329e523.jpg)  
+![Palestinians walk through the rubble of residential buildings](https://www.sipri.org/img/refs/d2af5f808329e523.jpg)  
 [](https://www.hrw.org/report/2025/11/17/strengthening-civilian-protection/principles-for-implementing-the-declaration-on)
 * June 4, 2025  Report  
 ### [Sudan: Armed Forces Airstrikes in South Darfur ](https://www.hrw.org/news/2025/06/04/sudan-armed-forces-airstrikes-south-darfur)  
 Indiscriminate Strikes Add to Record of War Crimes  
-![Photograph shared by a Nyala resident on February 6, 2025, shows the destroyed building at the location of a February 3 airstrike near the Mecca Eye Hospital in Nyala, South Darfur. ](/img/refs/72df23aaf7184961.jpg)  
+![Photograph shared by a Nyala resident on February 6, 2025, shows the destroyed building at the location of a February 3 airstrike near the Mecca Eye Hospital in Nyala, South Darfur. ](https://www.sipri.org/img/refs/72df23aaf7184961.jpg)  
 [](https://www.hrw.org/news/2025/06/04/sudan-armed-forces-airstrikes-south-darfur)
 * June 3, 2025  Feature  
 ### [Listen, Run, Hide ](https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson)  
 How Russia Uses Quadcopter Drones to Hunt and Kill Civilians in Kherson, Ukraine  
-![Listen, Run, Hide preview image](/img/refs/5cf52af465cdee2f.jpg)  
+![Listen, Run, Hide preview image](https://www.sipri.org/img/refs/5cf52af465cdee2f.jpg)  
 [](https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson)
 
 ##  News
@@ -671,55 +671,55 @@ How Russia Uses Quadcopter Drones to Hunt and Kill Civilians in Kherson, Ukraine
 * June 18, 2026  Statement  
 ### [Statement on Compliance to the Mine Ban Treaty Intersessional Meeting ](https://www.hrw.org/news/2026/06/18/statement-on-compliance-to-the-mine-ban-treaty-intersessional-meeting)  
 Delivered by Gerry Simpson, Senior Advisor  
-![United Nations European headquarters in Geneva, Switzerland, September 11, 2023. ](/img/refs/336b05b33f95562d.jpg)  
+![United Nations European headquarters in Geneva, Switzerland, September 11, 2023. ](https://www.sipri.org/img/refs/336b05b33f95562d.jpg)  
 [](https://www.hrw.org/news/2026/06/18/statement-on-compliance-to-the-mine-ban-treaty-intersessional-meeting)
 * June 14, 2026  Background Briefing  
 ### [Addressing Artificial Intelligence in the Military Domain ](https://www.hrw.org/news/2026/06/14/addressing-artificial-intelligence-in-the-military-domain)  
 A Background Briefing for the UN Informal Exchanges in June 2026  
-![Palais des Nations in Geneva, Switzerland, June 16, 2025. ](/img/refs/6321425b94bbf3bb.jpg)  
+![Palais des Nations in Geneva, Switzerland, June 16, 2025. ](https://www.sipri.org/img/refs/6321425b94bbf3bb.jpg)  
 [](https://www.hrw.org/news/2026/06/14/addressing-artificial-intelligence-in-the-military-domain)
 * April 28, 2026  Statement  
 ### [Opening Statement to Oireachtas Joint Committee on Artificial Intelligence ](https://www.hrw.org/news/2026/04/28/opening-statement-to-oireachtas-joint-committee-on-artificial-intelligence)  
 Delivered by Bonnie Docherty, Senior Arms Advisor  
-![Devant le bureau des Nations Unies à Genève, des membres de la Campagne contre les robots tueurs exprimaient visuellement le message « Stop Killer Robots ». Cette campagne appelle les gouvernements à ne pas autoriser le développement de systèmes d'armes capables de sélectionner et d’attaquer des cibles sans aucune intervention humaine.](/img/refs/8e37f6427b5f3373.jpg)  
+![Devant le bureau des Nations Unies à Genève, des membres de la Campagne contre les robots tueurs exprimaient visuellement le message « Stop Killer Robots ». Cette campagne appelle les gouvernements à ne pas autoriser le développement de systèmes d'armes capables de sélectionner et d’attaquer des cibles sans aucune intervention humaine.](https://www.sipri.org/img/refs/8e37f6427b5f3373.jpg)  
 [](https://www.hrw.org/news/2026/04/28/opening-statement-to-oireachtas-joint-committee-on-artificial-intelligence)
 * April 21, 2026  Commentary  
 ### [Harnessing Outrage to Rein in the Cruel Weapons of War ](https://www.hrw.org/news/2026/04/21/harnessing-outrage-to-rein-in-the-cruel-weapons-of-war-0)  
-![Ukrainian authorities inspect the rocket motor and guidance section of a Tochka-U missile next to the main building of the Kramatorsk train station in eastern Ukraine on April 8, 2022. The phrase “Payback for the children” is painted in Russian on the missile. ](/img/refs/36ce87788ff6e9ae.jpg)  
+![Ukrainian authorities inspect the rocket motor and guidance section of a Tochka-U missile next to the main building of the Kramatorsk train station in eastern Ukraine on April 8, 2022. The phrase “Payback for the children” is painted in Russian on the missile. ](https://www.sipri.org/img/refs/36ce87788ff6e9ae.jpg)  
 [](https://www.hrw.org/news/2026/04/21/harnessing-outrage-to-rein-in-the-cruel-weapons-of-war-0)
 * April 6, 2026  Letter  
 ### [Letter to Secretary Hegseth on US Landmines in Iran ](https://www.hrw.org/news/2026/04/06/letter-to-secretary-hegseth-on-us-landmines-in-iran)
 * April 4, 2026  Dispatches  
 ### [Mine Ban Treaty Achieves Progress amid Challenges ](https://www.hrw.org/news/2026/04/04/mine-ban-treaty-achieves-progress-amid-challenges)  
 Despite Country Withdrawals and New Use, Clearance Continues  
-![Deminers search for landmines near Lasinja](/img/refs/bb41ca2dffa2067e.jpg)  
+![Deminers search for landmines near Lasinja](https://www.sipri.org/img/refs/bb41ca2dffa2067e.jpg)  
 [](https://www.hrw.org/news/2026/04/04/mine-ban-treaty-achieves-progress-amid-challenges)
 * March 31, 2026  Dispatches  
 ### [US Central Command Contradicts Cluster Munition Policy ](https://www.hrw.org/news/2026/03/31/us-central-command-contradicts-cluster-munition-policy)  
 Admiral’s Condemnation of Iran Lacks Credibility Without Concrete US Action  
-![Iranian ballistic cluster munitions are launched toward Tel Aviv, Israel on March 27, 2026. ](/img/refs/291ff50e89aadf28.jpg)  
+![Iranian ballistic cluster munitions are launched toward Tel Aviv, Israel on March 27, 2026. ](https://www.sipri.org/img/refs/291ff50e89aadf28.jpg)  
 [](https://www.hrw.org/news/2026/03/31/us-central-command-contradicts-cluster-munition-policy)
 * March 29, 2026  News Release  
 ### [Iran: Unlawful Cluster Munition Strikes on Israel ](https://www.hrw.org/news/2026/03/29/iran-unlawful-cluster-munition-strikes-on-israel)  
 Indiscriminate Weapon Kills at Least 4 Civilians  
-![Missiles launched from Iran carrying suspected cluster munitions streak across the sky over central Israel, March 5, 2026.](/img/refs/4b7b2472b980c602.jpg)  
+![Missiles launched from Iran carrying suspected cluster munitions streak across the sky over central Israel, March 5, 2026.](https://www.sipri.org/img/refs/4b7b2472b980c602.jpg)  
 [](https://www.hrw.org/news/2026/03/29/iran-unlawful-cluster-munition-strikes-on-israel)
 * March 27, 2026  News Release  
 ### [Pakistan: Airstrike on Afghan Medical Facility Unlawful ](https://www.hrw.org/news/2026/03/27/pakistan-airstrike-on-afghan-medical-facility-unlawful)  
 Account for Scores of Patients Killed in Kabul Attack  
-![A man places stones on graves during a mass funeral for victims of the Pakistani  airstrike on the Omid drug rehabilitation center in Kabul, Afghanistan](/img/refs/c18459baaf7f3f6f.jpg)  
+![A man places stones on graves during a mass funeral for victims of the Pakistani  airstrike on the Omid drug rehabilitation center in Kabul, Afghanistan](https://www.sipri.org/img/refs/c18459baaf7f3f6f.jpg)  
 [](https://www.hrw.org/news/2026/03/27/pakistan-airstrike-on-afghan-medical-facility-unlawful)
 * March 10, 2026  Report  
 ### [Haiti: Drone Strikes Put Residents at Risk ](https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk)  
 Accountability, New Approach Needed to Protect Human Rights  
-![People look out at a street in the Simon-Pele neighborhood of Port-au-Prince, Haiti, September 22, 2025.](/img/refs/d577323941baefc2.jpg)  
+![People look out at a street in the Simon-Pele neighborhood of Port-au-Prince, Haiti, September 22, 2025.](https://www.sipri.org/img/refs/d577323941baefc2.jpg)  
 [](https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk)
 
 [ Read More ](https://www.hrw.org/news?topic%5B%5D=9681) 
 
 ##  Our people
 
-![](/img/refs/ffbac758d3863c76.jpg) 
+![](https://www.sipri.org/img/refs/ffbac758d3863c76.jpg) 
 
 [Ida Sawyer ](https://www.hrw.org/about/people/ida-sawyer) 
 
@@ -727,7 +727,7 @@ Director, Crisis, Conflict and Arms Division
 
 [ ida\_sawyer ida\_sawyer ](https://twitter.com/ida%5Fsawyer) 
 
-![](/img/refs/1e4d498d0e9e843d.jpeg) 
+![](https://www.sipri.org/img/refs/1e4d498d0e9e843d.jpeg) 
 
 [Verity Coyle ](https://www.hrw.org/about/people/verity-coyle) 
 
@@ -735,7 +735,7 @@ Deputy Director, Crisis, Conflict and Arms Division
 
 [ veritycoyle veritycoyle ](https://twitter.com/veritycoyle) [ @verityc.bsky.social @verityc.bsky.social ](https://bsky.app/profile/verityc.bsky.social) 
 
-![](/img/refs/25c1284cfcf49402.jpg) 
+![](https://www.sipri.org/img/refs/25c1284cfcf49402.jpg) 
 
 [Bonnie Docherty ](https://www.hrw.org/about/people/bonnie-docherty) 
 
@@ -743,7 +743,7 @@ Senior Arms Advisor, Crisis, Conflict and Arms Division
 
 [ bonnie\_docherty bonnie\_docherty ](https://twitter.com/bonnie%5Fdocherty) 
 
-![](/img/refs/3b7a4f792dce7c9c.jpg) 
+![](https://www.sipri.org/img/refs/3b7a4f792dce7c9c.jpg) 
 
 [Mark Hiznay ](https://www.hrw.org/about/people/mark-hiznay) 
 
@@ -751,7 +751,7 @@ Associate Director, Crisis, Conflict and Arms Division
 
 [ MarkHiznay MarkHiznay ](https://twitter.com/MarkHiznay) 
 
-![](/img/refs/4070a369f2af9083.jpg) 
+![](https://www.sipri.org/img/refs/4070a369f2af9083.jpg) 
 
 [Gerry Simpson ](https://www.hrw.org/about/people/gerry-simpson) 
 
@@ -767,7 +767,7 @@ Enter an email address
 
 Leave blank Leave blank Leave blank 
 
-Processing..![](/img/refs/4782738536598fde.svg) 
+Processing..![](https://www.sipri.org/img/refs/4782738536598fde.svg) 
 
 Thank you for signing up!
 

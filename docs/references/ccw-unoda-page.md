@@ -11,7 +11,7 @@
 * [Français](https://disarmament.unoda.org/fr/our-work/conventional-arms/convention-certain-conventional-weapons)
 * [Русский](https://disarmament.unoda.org/ru/our-work/conventional-arms/convention-certain-conventional-weapons)
 
-[ ![Home](/img/refs/20b4eb8804327d6f.svg) United Nations Office for Disarmament Affairs ](https://disarmament.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/20b4eb8804327d6f.svg) United Nations Office for Disarmament Affairs ](https://disarmament.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://disarmament.unoda.org/ar/our-work/conventional-arms/convention-certain-conventional-weapons)
@@ -413,7 +413,7 @@ Due to the Convention’s unique structure, the CCW as well as Amended Protocol 
 * [Protocol V to the CCW](https://front.un-arm.org/wp-content/uploads/2023/10/Protocol-V-to-the-Convention-on-Certain-Conventional-Weapons.pdf)
 * [Added value of Protocol V](https://front.un-arm.org/wp-content/uploads/2023/10/Added-value-of-Protocol-V.pdf)
 
-![un logo](/img/refs/47495b76df82324a.svg)   
+![un logo](https://www.sipri.org/img/refs/47495b76df82324a.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

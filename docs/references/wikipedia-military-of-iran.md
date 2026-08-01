@@ -26,7 +26,7 @@ move to sidebar hide
 * [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File%5Fupload%5Fwizard%20%22Add%20images%20or%20other%20media%20for%20use%20on%20Wikipedia%22)
 * [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages%20%22A%20list%20of%20all%20special%20pages%20[q]%22)
 
-[ ![](/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
+[ ![](https://www.sipri.org/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](https://www.sipri.org/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](https://www.sipri.org/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
 
 [ Search ](https://en.wikipedia.org/wiki/Special:Search%20%22Search%20Wikipedia%20[f]%22) 
 
@@ -316,11 +316,11 @@ Iran's [Shahed drones](https://en.wikipedia.org/wiki/Shahed%5Fdrones "Shahed dro
 
 \[[edit](https://en.wikipedia.org/w/index.php?title=Islamic%5FRepublic%5Fof%5FIran%5FArmed%5FForces&action=edit&section=8%20%22Edit%20section:%20References%22)\]
 
-1. [1](#cite%5Fref-FOOTNOTEIISS2026348%5F1-0) [2](#cite%5Fref-FOOTNOTEIISS2026348%5F1-1) [3](#cite%5Fref-FOOTNOTEIISS2026348%5F1-2) [4](#cite%5Fref-FOOTNOTEIISS2026348%5F1-3) [IISS 2026](#CITEREFIISS2026), p. 348.
+1. [1](#cite%5Fref-FOOTNOTEIISS2026348%5F1-0) [2](#cite%5Fref-FOOTNOTEIISS2026348%5F1-1) [3](#cite%5Fref-FOOTNOTEIISS2026348%5F1-2) [4](#cite%5Fref-FOOTNOTEIISS2026348%5F1-3) , p. 348.
 2. [1](#cite%5Fref-SIPRI-2020%5F2-0) [2](#cite%5Fref-SIPRI-2020%5F2-1) Tian, Nan; Fleurant, Aude; Kuimova, Alexandra; Wezeman, Pieter D.; Wezeman, Siemon T. (24 April 2022). ["Trends in World Military Expenditure, 2021"](https://www.sipri.org/sites/default/files/2022-04/fs%5F2204%5Fmilex%5F2021%5F0.pdf) (PDF). [Stockholm International Peace Research Institute](https://en.wikipedia.org/wiki/Stockholm%5FInternational%5FPeace%5FResearch%5FInstitute "Stockholm International Peace Research Institute"). [Archived](https://web.archive.org/web/20220425064753/https://www.sipri.org/publications/2022/sipri-fact-sheets/trends-world-military-expenditure-2021) from the original on 25 April 2022. Retrieved 25 April 2022.
-3. [1](#cite%5Fref-FOOTNOTEWard2014226%5F5-0) [2](#cite%5Fref-FOOTNOTEWard2014226%5F5-1) [Ward 2014](#CITEREFWard2014), p. 226.
+3. [1](#cite%5Fref-FOOTNOTEWard2014226%5F5-0) [2](#cite%5Fref-FOOTNOTEWard2014226%5F5-1) , p. 226.
 4. [↑](#cite%5Fref-Encyclopaedia%5FBritannica%5F6-0) ["Encyclopaedia Britannica: Islamic Revolutionary Guard Corps"](https://www.britannica.com/topic/Islamic-Revolutionary-Guard-Corps).
-5. [1](#cite%5Fref-FOOTNOTEDIA20195%5F7-0) [2](#cite%5Fref-FOOTNOTEDIA20195%5F7-1) [DIA 2019](#CITEREFDIA2019), p. 5.
+5. [1](#cite%5Fref-FOOTNOTEDIA20195%5F7-0) [2](#cite%5Fref-FOOTNOTEDIA20195%5F7-1) , p. 5.
 6. [↑](#cite%5Fref-8) ["What is Iran likely to hit back with after Israel's strikes?"](https://www.euronews.com/next/2025/06/13/drones-missiles-or-nuclear-bombs-what-weapons-does-iran-have-to-retaliate-against-israel-w). _euronews_. 13 June 2025. Retrieved 19 August 2025.
 7. [↑](#cite%5Fref-9) ["Analysis of Defence Sector in Iran (2018–2023) | Size | Share"](https://www.mordorintelligence.com/industry-reports/analysis-of-defence-sector-in-iran). Retrieved 28 March 2021.
 8. [↑](#cite%5Fref-10) ["How Iran's Revived Weapons Exports Could Boost Its Proxies"](https://www.washingtoninstitute.org/policy-analysis/how-irans-revived-weapons-exports-could-boost-its-proxies). _The Washington Institute_. Retrieved 27 March 2021.
@@ -342,17 +342,17 @@ Iran's [Shahed drones](https://en.wikipedia.org/wiki/Shahed%5Fdrones "Shahed dro
 24. [↑](#cite%5Fref-26) ["Iran sends special forces to Syria as 'advisors': report"](http://www.i24news.tv/en/news/international/middle-east/108495-160404-iran-sends-special-forces-to-syria-as-advisors-report). _[i24news](https://en.wikipedia.org/wiki/I24news "I24news")_. [Archived](https://web.archive.org/web/20160815121101/http://www.i24news.tv/en/news/international/middle-east/108495-160404-iran-sends-special-forces-to-syria-as-advisors-report) from the original on 15 August 2016.
 25. [↑](#cite%5Fref-27) ["Iran reveals underground 'missile city' as regional tensions rise"](https://www.cnbc.com/2021/03/16/iran-reveals-underground-missile-city-as-regional-tensions-rise.html). _CNBC_. 16 March 2021.
 26. [↑](#cite%5Fref-28) ["تصاویری متفاوت از زنان ارتشِ ایران"](https://www.bartarinha.ir/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D9%88%D8%B2-20/1291503-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A7%D8%B2-%D8%B2%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86). _Bartarinha_. 1 March 2023.
-27. [1](#cite%5Fref-FOOTNOTEDIA201925%5F29-0) [2](#cite%5Fref-FOOTNOTEDIA201925%5F29-1) [3](#cite%5Fref-FOOTNOTEDIA201925%5F29-2) [DIA 2019](#CITEREFDIA2019), p. 25.
-28. [↑](#cite%5Fref-FOOTNOTEIISS2026352%5F30-0) [IISS 2026](#CITEREFIISS2026), p. 352.
-29. [↑](#cite%5Fref-FOOTNOTEDIA201925-26%5F31-0) [DIA 2019](#CITEREFDIA2019), p. 25-26.
+27. [1](#cite%5Fref-FOOTNOTEDIA201925%5F29-0) [2](#cite%5Fref-FOOTNOTEDIA201925%5F29-1) [3](#cite%5Fref-FOOTNOTEDIA201925%5F29-2) , p. 25.
+28. [↑](#cite%5Fref-FOOTNOTEIISS2026352%5F30-0) , p. 352.
+29. [↑](#cite%5Fref-FOOTNOTEDIA201925-26%5F31-0) , p. 25-26.
 30. [↑](#cite%5Fref-32) ["The Effects of Iran Drone & Missile Strikes"](https://www.tabletmag.com/sections/israel-middle-east/articles/overmatch-iran-china-michael-doran-can-kasapoglu). _Tablet Magazine_. 2 November 2022. Retrieved 12 February 2023.
-31. [↑](#cite%5Fref-FOOTNOTEIISS2026347%5F33-0) [IISS 2026](#CITEREFIISS2026), p. 347.
+31. [↑](#cite%5Fref-FOOTNOTEIISS2026347%5F33-0) , p. 347.
 32. [↑](#cite%5Fref-OC%5F34-0) [Dar Al Hayat](https://web.archive.org/web/20060623144907/http://english.daralhayat.com/opinion/commentators/06-2006/Article-20060616-dcfab30e-c0a8-10ed-00c7-f1a5dbdb0907/story.html). Dar Al Hayat. Retrieved 2014-06-09.
 33. [↑](#cite%5Fref-foxnews%5F35-0) [Iran Launches Production of Stealth](http://www.foxnews.com/story/0,2933,156160,00.html) [Archived](https://web.archive.org/web/20110208071646/http://www.foxnews.com/story/0,2933,156160,00.html) 2011-02-08 at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback%5FMachine "Wayback Machine"). FOXNews.com (2005-05-10). Retrieved 2014-06-09.
 34. [↑](#cite%5Fref-submarine%5F36-0) ["Iran set to unveil new submarine class"](http://www.upi.com/Top%5FNews/Special/2010/07/19/Iran-set-to-unveil-new-submarine-class/UPI-38201279563853/). _UPI_. 19 July 2010.
 35. [↑](#cite%5Fref-bbc3990773%5F37-0) [British Broadcasting Corporation](https://en.wikipedia.org/wiki/British%5FBroadcasting%5FCorporation "British Broadcasting Corporation"), [Hezbollah drone flies over Israel](https://news.bbc.co.uk/1/hi/world/middle%5Feast/3990773.stm), 7 December 2004
 36. [↑](#cite%5Fref-38) [Iran reports that Iran's Army has achieved self-suffiency in producing military equipment](http://www.armyrecognition.com/november%5F2012%5Fnew%5Farmy%5Fmilitary%5Fdefence%5Findustry/iran%5Freported%5Fthat%5Firans%5Farmy%5Fhas%5Fachieved%5Fself-sufficiency%5Fin%5Fproducing%5Fmilitary%5Fequipment%5F0511123.html) [Archived](https://web.archive.org/web/20121108034357/http://www.armyrecognition.com/november%5F2012%5Fnew%5Farmy%5Fmilitary%5Fdefence%5Findustry/iran%5Freported%5Fthat%5Firans%5Farmy%5Fhas%5Fachieved%5Fself-sufficiency%5Fin%5Fproducing%5Fmilitary%5Fequipment%5F0511123.html) November 8, 2012, at the [Wayback Machine](https://en.wikipedia.org/wiki/Wayback%5FMachine "Wayback Machine") – Armyrecognition.com, November 5, 2012
-37. [↑](#cite%5Fref-FOOTNOTEDIA201990%5F39-0) [DIA 2019](#CITEREFDIA2019), p. 90.
+37. [↑](#cite%5Fref-FOOTNOTEDIA201990%5F39-0) , p. 90.
 38. [↑](#cite%5Fref-40) ["Iran inaugurates new drone production line in Tajikistan"](https://www.washingtonpost.com/world/iran-inaugurates-new-drone-production-line-in-tajikistan/2022/05/17/98f39690-d60a-11ec-be17-286164974c54%5Fstory.html), _The Washington Post_, Associated Press, 17 May 2022
 39. [↑](#cite%5Fref-41) ["Exclusive: US turns to Ukrainian counter-drone tech after Iran attacks, sources say"](https://www.reuters.com/business/aerospace-defense/us-turns-ukrainian-counter-drone-tech-after-iran-attacks-sources-say-2026-04-22/). _Reuters_. 22 April 2026. Retrieved 23 May 2026.
 40. [↑](#cite%5Fref-42) Terajima, Asami (17 April 2024). ["Explainer: Iran's cheap, effective Shahed drones and how Russia uses them in Ukraine"](https://kyivindependent.com/explainer-irans-cheap-effective-shahed-drones-and-how-russia-uses-them-in-ukraine/). The Kyiv Independent. [Archived](https://web.archive.org/web/20250513144611/https://kyivindependent.com/explainer-irans-cheap-effective-shahed-drones-and-how-russia-uses-them-in-ukraine/) from the original on 13 May 2025. Retrieved 23 May 2026.
@@ -433,8 +433,8 @@ Hidden categories:
 * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie%5Fstatement)
 * [Mobile view](https://en.wikipedia.org/w/index.php?title=Islamic%5FRepublic%5Fof%5FIran%5FArmed%5FForces&mobileaction=toggle%5Fview%5Fmobile)
-* [![Wikimedia Foundation](/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
-* [![Powered by MediaWiki](/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
+* [![Wikimedia Foundation](https://www.sipri.org/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
+* [![Powered by MediaWiki](https://www.sipri.org/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
 
 Search 
 

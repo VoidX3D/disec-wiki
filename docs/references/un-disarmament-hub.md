@@ -271,7 +271,7 @@ Office for Disarmament Affairs
          * [Lome (Togo)](https://www.unrec.org)  
          * [Katmandu (Nepal)](https://www.unrcpd.org)
 
-![](/img/refs/febc74dc9056c80d.jpg)
+![](https://www.sipri.org/img/refs/febc74dc9056c80d.jpg)
 
 # United Nations 
 
@@ -283,7 +283,7 @@ Office for Disarmament Affairs
 
 See the top, latest stories and events coming from UNODA.
 
-![Izumi Video Message](/img/refs/55818513278c7481.png) 
+![Izumi Video Message](https://www.sipri.org/img/refs/55818513278c7481.png) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Video Message to First Substantive Plenary Session of the Global Mechanism on ICT Security ](https://video.un-arm.org/hr-video-message/HR%5FGlobal+Mechanism.mp4) 
 
@@ -291,7 +291,7 @@ On 20 July, High Representative Izumi Nakamitsu delivered a video message to the
 
 **22 July, 2026**
 
-![UNSCAR Application Guide](/img/refs/a4bf20d3ed01c680.jpg) 
+![UNSCAR Application Guide](https://www.sipri.org/img/refs/a4bf20d3ed01c680.jpg) 
 
 ##### [ UNSCAR 2026 Call for Proposals ](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdisarmament.unoda.org%2Fen%2Fconventional-arms-initiatives%2Funscar-un-trust-facility-supporting-cooperation-arms-regulation&data=05%7C02%7Crace.sallady%40un.org%7Ce465cd166d1948d1ce8e08dee73c06f1%7C0f9e35db544f4f60bdcc5ea416e6dc70%7C0%7C0%7C639202442187181370%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=INLaaE3h3jqUhOwVqKKecwUri3ALJ%2FRr%2BtTepyhmJwk%3D&reserved=0) 
 
@@ -305,7 +305,7 @@ Contact: unscar-unoda@un.org
 
 **22 July, 2026**
 
-![Izumi Video Message](/img/refs/bd149237b9ede887.png) 
+![Izumi Video Message](https://www.sipri.org/img/refs/bd149237b9ede887.png) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Video Message to Global Nobel Laureates Assembly on AI and Nuclear War ](https://video.un-arm.org/hr-video-message/hr-nakamitsu-short-video-message-for-nobel-laureates-assembly-on-ai-nuclear-war.mp4) 
 
@@ -313,7 +313,7 @@ On 14 July, High Representative Izumi Nakamitsu delivered a video message to the
 
 **20 July, 2026**
 
-![Tonga ratifies the CTBT and accedes to the TPNW](/img/refs/bf1ba50e38ca8236.png) 
+![Tonga ratifies the CTBT and accedes to the TPNW](https://www.sipri.org/img/refs/bf1ba50e38ca8236.png) 
 
 ##### [ Tonga ratifies the CTBT and accedes to the TPNW ](https://treaties.unoda.org/) 
 
@@ -321,7 +321,7 @@ On 7 July 2026, Tonga became the 179th State party to the CTBT and the 75th Stat
 
 **9 July, 2026**
 
-![](/img/refs/f700d66163fb7efd.jpg) 
+![](https://www.sipri.org/img/refs/f700d66163fb7efd.jpg) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Video Message to Informal Exchanges on AI in the Military Domain ](https://disarmament.unoda.org/en/hrstatements/high-representative-izumi-nakamitsu-delivers-video-message-informal-exchanges-ai-military-domain) 
 
@@ -329,7 +329,7 @@ On 15 June, High Representative Izumi Nakamitsu delivered welcome remarks to the
 
 **15 June, 2026**
 
-![High Representative Izumi Nakamitsu](/img/refs/6d3d1d1f327ee8ed.jpeg) 
+![High Representative Izumi Nakamitsu](https://www.sipri.org/img/refs/6d3d1d1f327ee8ed.jpeg) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Remarks at ASEAN Future Forum 2026 ](https://disarmament.unoda.org/en/hrstatements/high-representative-izumi-nakamitsu-delivers-remarks-asean-future-forum-2026) 
 
@@ -337,7 +337,7 @@ On 9 June, High Representative Izumi Nakamitsu delivered opening remarks at the 
 
 **9 June, 2026**
 
-![High Representative Izumi Nakamitsu](/img/refs/400369d876b49c83.png) 
+![High Representative Izumi Nakamitsu](https://www.sipri.org/img/refs/400369d876b49c83.png) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Video Message to Fourth Global Health Security Conference ](https://front.un-arm.org/hr-nakamitsu-video-messages/hr-nakamitsu-video-message-2026-global-health-security-conference.mp4) 
 
@@ -345,7 +345,7 @@ On 9 June, High Representative Izumi Nakamitsu delivered a video message to the 
 
 **8 June, 2026**
 
-![UNODA Director Adedeji Ebo](/img/refs/598e948f0fb34a93.jpeg) 
+![UNODA Director Adedeji Ebo](https://www.sipri.org/img/refs/598e948f0fb34a93.jpeg) 
 
 ##### [ UNODA Director Adedeji Ebo Delivers Opening Remarks at the Inaugural Meeting of the Open-Ended Technical Expert Group ](https://www.linkedin.com/feed/update/urn:li:activity:7468708696051867648) 
 
@@ -353,7 +353,7 @@ On 4 June, UNODA Director Adedeji Ebo delivered opening remarks at the inaugural
 
 **5 June, 2026**
 
-![High Representative Izumi Nakamitsu](/img/refs/d0330d3bcfe18c84.jpeg) 
+![High Representative Izumi Nakamitsu](https://www.sipri.org/img/refs/d0330d3bcfe18c84.jpeg) 
 
 ##### [ High Representative Izumi Nakamitsu Delivers Briefing to the Security Council on the Implementation of Security Council Resolution 2118 (2013) ](https://disarmament.unoda.org/en/hrstatements/high-representative-izumi-nakamitsu-delivers-briefing-security-council-implementation-security-council-resolution-2118-2013-0) 
 
@@ -369,7 +369,7 @@ See the top, latest stories and events coming from UNODA.
 
 Image
 
-![UNODA & UNDSS Organize SSAFE Training for UNSGM Qualified Experts  ](/img/refs/4d430eb5d995fe12.jpeg) 
+![UNODA & UNDSS Organize SSAFE Training for UNSGM Qualified Experts  ](https://www.sipri.org/img/refs/4d430eb5d995fe12.jpeg) 
 
 ##### [UNODA and South Africa’s NICD Organize a Basic Training Course for UNSGM Qualified Experts](https://www.un.org/en/updates/unoda-and-south-africas-nicd-organize-basic-training-course-unsgm-qualified-experts)
 
@@ -379,7 +379,7 @@ The event brought together 16 Qualified Experts from 11 countries and marked the
 
 Image
 
-![UNODA & UNDSS Organize SSAFE Training for UNSGM Qualified Experts  ](/img/refs/4d430eb5d995fe12.jpeg) 
+![UNODA & UNDSS Organize SSAFE Training for UNSGM Qualified Experts  ](https://www.sipri.org/img/refs/4d430eb5d995fe12.jpeg) 
 
 ##### [UNODA & UNDSS Organize SSAFE Training for UNSGM Qualified Experts](https://www.un.org/en/updates/unoda-undss-organize-ssafe-training-unsgm-qualified-experts)
 
@@ -387,7 +387,7 @@ From 4 to 8 May 2026, the United Nations Office for Disarmament Affairs (UNODA) 
 
 Image
 
-![First Erlangen Conference for Latin America on Academia and Resolution 1540 Held in Panama](/img/refs/4dfea35d64bbefb3.jpeg) 
+![First Erlangen Conference for Latin America on Academia and Resolution 1540 Held in Panama](https://www.sipri.org/img/refs/4dfea35d64bbefb3.jpeg) 
 
 ##### [First Erlangen Conference for Latin America on Academia and Resolution 1540 Held in Panama ](https://www.un.org/en/updates/first-erlangen-conference-latin-america-academia-and-resolution-1540-held-panama)
 
@@ -397,7 +397,7 @@ In the…
 
 Image
 
-![Central African Republic Hosts National Consultation under Regional SALW Governance Initiative in Central Africa](/img/refs/f5d64f9994b67f8a.jpeg) 
+![Central African Republic Hosts National Consultation under Regional SALW Governance Initiative in Central Africa](https://www.sipri.org/img/refs/f5d64f9994b67f8a.jpeg) 
 
 ##### [Central African Republic Hosts National Consultation under Regional SALW Governance Initiative in Central Africa](https://www.un.org/en/updates/central-african-republic-hosts-national-consultation-under-regional-salw-governance-initiative-central-africa)
 
@@ -441,7 +441,7 @@ See the top events and announcements from UNODA.
 
 ###### Announcements
 
-![Y4D call for applications](/img/refs/eeefcf61a06c35d0.png) 
+![Y4D call for applications](https://www.sipri.org/img/refs/eeefcf61a06c35d0.png) 
 
 ##### [Call for Applications for the third edition of Youth4Disarmament Champions ](https://www.youth4disarmament.org/apply-now-become-youth4disarmament-champion) 
 
@@ -449,13 +449,13 @@ Do you have an idea for a disarmament project? Apply now to be the next Youth4Di
 UN Office for Disarmament Affairs’ flagship youth outreach programme, Youth4Disarmament is happy to launch the third edition of its Youth4Disarmament Champions training programme.  
 Find more information and the form to apply here by 28 June (23:59 EDT).
 
-![2024 Disarmament Yearbook full edition](/img/refs/5dbdda1bc43f997b.png) 
+![2024 Disarmament Yearbook full edition](https://www.sipri.org/img/refs/5dbdda1bc43f997b.png) 
 
 ##### [2024 Disarmament Yearbook ](https://yearbook.unoda.org/en-us/2024/) 
 
 The full edition of the 2024 Disarmament Yearbook is out!
 
-![Gender perspectives course banner](/img/refs/04b8a14212ee3e4e.png) 
+![Gender perspectives course banner](https://www.sipri.org/img/refs/04b8a14212ee3e4e.png) 
 
 ##### [Gender Perspectives course ](https://www.disarmamenteducation.org/#/en/courses/106) 
 
@@ -535,31 +535,31 @@ UNODA provides objective, impartial and up-to-date information on multilateral d
 
 The main parts of the Office for Disarmament Affairs, the Security Council, the Economic and Social Council, the Trusteeship Council, the International Court of Justice, and the UN Secretariat. All were established in 1945 when the UN was founded.
 
-[![media bodies sc](/img/refs/1de55fa4826d66b2.svg)](https://www.un.org/en/node/27)
+[![media bodies sc](https://www.sipri.org/img/refs/1de55fa4826d66b2.svg)](https://www.un.org/en/node/27)
 
 #### [Weapons of Mass Destruction](https://www.un.org/en/node/27)
 
 Support to multilateral disarmament and non-proliferation efforts with respect to weapons of mass destruction (WMD).
 
-[![media bodies unhq](/img/refs/175fbe443f74699b.svg)](https://www.un.org/en/node/87141)
+[![media bodies unhq](https://www.sipri.org/img/refs/175fbe443f74699b.svg)](https://www.un.org/en/node/87141)
 
 #### [Conventional Arms](https://www.un.org/en/node/87141)
 
 Focusing disarmament and arms control efforts on all weapons not considered WMD, including small arms and light weapons (SALW).
 
-![media bodies trustee](/img/refs/e5e3df5aa12fc0df.svg)
+![media bodies trustee](https://www.sipri.org/img/refs/e5e3df5aa12fc0df.svg)
 
 #### [Regional Disarmament](https://www.un.org/en/node/87143)
 
 The enhancement of global disarmament and international peace and security through the support and promotion of regional disarmament efforts.
 
-![media bodies ecosoc](/img/refs/5cee05d6bdeb6fe1.svg)
+![media bodies ecosoc](https://www.sipri.org/img/refs/5cee05d6bdeb6fe1.svg)
 
 #### [Emerging Challenges](https://www.un.org/en/node/87165)
 
 Include UNODA’s work in science and technology, AI, autonomous weapons, ICT and outer space, among other areas.
 
-![main bodies ga](/img/refs/daa3ef7215863bb1.svg)
+![main bodies ga](https://www.sipri.org/img/refs/daa3ef7215863bb1.svg)
 
 #### [Cross-cutting issues](https://www.un.org/en/node/87170)
 
@@ -589,7 +589,7 @@ This video introduces audiences to “Securing our Common Future”, the Secreta
 
 Here we take a look at the vital role disarmament and arms control play in achieving the sustainable development goals.
 
-![](/img/refs/9517fc7da5c3a657.png)
+![](https://www.sipri.org/img/refs/9517fc7da5c3a657.png)
 
 # Subscribe to the 
 

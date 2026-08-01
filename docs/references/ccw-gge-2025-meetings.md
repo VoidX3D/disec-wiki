@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](/img/refs/e9b3620e6b8ff216.svg) United Nations Office for Disarmament Affairs ](https://meetings.unoda.org/%20%22Home%22) 
+[ ![Home](https://www.sipri.org/img/refs/e9b3620e6b8ff216.svg) United Nations Office for Disarmament Affairs ](https://meetings.unoda.org/%20%22Home%22) 
 
 ### [Convention on Certain Conventional Weapons — Group of Governmental Experts on Lethal Autonomous Weapons Systems](https://meetings.unoda.org/meeting/74853)
 
@@ -124,7 +124,7 @@ Experts in military affairs and international law from Europe, China, the USA, R
 
 13:00-15:00Room XXV
 
-![](/img/refs/7b8eacf97d84ca37.svg)   
+![](https://www.sipri.org/img/refs/7b8eacf97d84ca37.svg)   
   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW  
@@ -153,7 +153,7 @@ New York, NY, 10017, USA
 
 UNODA YOUTH4DISARMAMENT 
 
-[![](/img/refs/3ae16180ac82be6e.svg)](https://twitter.com/UN%5FDisarmament) [![](/img/refs/8709b1bbe58c63f2.svg)](https://www.instagram.com/unitednations%5Foda/)|[![](/img/refs/8709b1bbe58c63f2.svg)](https://www.instagram.com/youth4disarmament/) [![](/img/refs/987b16c1ccf8a5e9.svg)](https://www.youtube.com/channel/UC82beHc6sFmWbo5GHbYOYhA?view%5Fas=subscriber) [![](/img/refs/289f2e206c08f1b5.svg)](https://www.flickr.com/photos/188818101@N02/albums) [![](/img/refs/82f9a1097d21d582.svg)](https://soundcloud.com/youth4disarmament)   
+[![](https://www.sipri.org/img/refs/3ae16180ac82be6e.svg)](https://twitter.com/UN%5FDisarmament) [![](https://www.sipri.org/img/refs/8709b1bbe58c63f2.svg)](https://www.instagram.com/unitednations%5Foda/)|[![](https://www.sipri.org/img/refs/8709b1bbe58c63f2.svg)](https://www.instagram.com/youth4disarmament/) [![](https://www.sipri.org/img/refs/987b16c1ccf8a5e9.svg)](https://www.youtube.com/channel/UC82beHc6sFmWbo5GHbYOYhA?view%5Fas=subscriber) [![](https://www.sipri.org/img/refs/289f2e206c08f1b5.svg)](https://www.flickr.com/photos/188818101@N02/albums) [![](https://www.sipri.org/img/refs/82f9a1097d21d582.svg)](https://soundcloud.com/youth4disarmament)   
   
 #####  CONTACT US 
 

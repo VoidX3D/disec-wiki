@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![RAND](/img/refs/738f466ec4849146.svg) ](https://www.rand.org/) 
+[ ![RAND](https://www.sipri.org/img/refs/738f466ec4849146.svg) ](https://www.rand.org/) 
 
 ## Site-wide navigation
 
@@ -70,8 +70,8 @@ RAND studies the potential opportunities and risks of artificial intelligence, i
 * [Cyber and Data Sciences](https://www.rand.org/topics/cyber-and-data-sciences.html)
 * [Machine Learning](https://www.rand.org/topics/machine-learning.html)
 
-* [ Commentary Will We Know If AI Takes Over? Q&A with Benjamin Boudreaux Jun 10, 2026 ![](/img/refs/e3fd506f5b775218.jpeg) ](https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html)
-* [ Expert Insights A Strategy to Reduce Risk and Promote Stability in the Race to AGI Apr 27, 2026 ![](/img/refs/a80b6161e6e0cdff.jpeg) ](https://www.rand.org/pubs/perspectives/PEA4347-1.html)
+* [ Commentary Will We Know If AI Takes Over? Q&A with Benjamin Boudreaux Jun 10, 2026 ![](https://www.sipri.org/img/refs/e3fd506f5b775218.jpeg) ](https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html)
+* [ Expert Insights A Strategy to Reduce Risk and Promote Stability in the Race to AGI Apr 27, 2026 ![](https://www.sipri.org/img/refs/a80b6161e6e0cdff.jpeg) ](https://www.rand.org/pubs/perspectives/PEA4347-1.html)
 
 ## Explore RAND’s Work on this Topic
 
@@ -166,17 +166,17 @@ Submit filters
 
 ### Error
 
-* [ Project Sep 4, 2026 ![](/img/refs/d4207d760d77648a.jpeg) AI in research: Mapping the terrain of adoption, attitudes and impact in the UK RAND Europe is administering, analysing and reporting on the first ‘National AI in Research survey’ in the UK. ](https://www.rand.org/randeurope/research/projects/2026/ai-in-research-mapping-adoption-attitudes-and-impact-in-the-uk.html)
+* [ Project Sep 4, 2026 ![](https://www.sipri.org/img/refs/d4207d760d77648a.jpeg) AI in research: Mapping the terrain of adoption, attitudes and impact in the UK RAND Europe is administering, analysing and reporting on the first ‘National AI in Research survey’ in the UK. ](https://www.rand.org/randeurope/research/projects/2026/ai-in-research-mapping-adoption-attitudes-and-impact-in-the-uk.html)
 * [ Research Jul 30, 2026 A Structured Approach to Identifying and Characterizing AI Vulnerabilities RAND researchers present a structured framework for identifying and characterizing security weaknesses in generative artificial intelligence systems. They identify 31 distinct classes of vulnerabilities and offer practical mitigation strategies. ](https://www.rand.org/pubs/research%5Freports/RRA4983-1.html)
 * [ Research Jul 30, 2026 Trends in Perception of Generative AI in Healthcare by US Adult Demographics and Political Identity Emerging divides suggest receptivity to genAI in healthcare may become increasingly shaped by political identity rather than clinical evidence or personal experience, complicating equitable deployment. ](https://www.rand.org/pubs/external%5Fpublications/EP71364.html)
-* [ Commentary Jul 23, 2026 ![](/img/refs/cb628ff3e505e21c.jpeg) Safeguarding the Future in the AI Era: Q&A with Sella Nevo Sella Nevo focuses on developing policies to promote the safe and effective use of AI and biotechnology. His mandate at RAND: to help ensure the most pivotal technologies of our time benefit humanity rather than endanger it. ](https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html)
-* [ Research Jul 20, 2026 ![](/img/refs/4d886141631ac34b.jpeg) Securing AI Algorithmic Insights In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems. ](https://www.rand.org/pubs/research%5Freports/RRA4685-1.html)
-* [ Research Jul 20, 2026 ![](/img/refs/a3bdafa345370131.jpeg) Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited. ](https://www.rand.org/pubs/research%5Freports/RRA5000-1.html)
-* [ Research Jul 16, 2026 ![](/img/refs/2a1cd0e0a79ef352.jpeg) Pooling Europe's compute: The promise of distributed training for European frontier AI Frontier AI training has needed compute at one site, hard in Europe given power, chip and political limits. RAND Europe finds distributed training eases the power and political constraints and pools Europe's scattered chips, but adds no new chips. ](https://www.rand.org/pubs/research%5Freports/RRA5013-1.html)
-* [ Research Jul 15, 2026 ![](/img/refs/5cb63625fa50cbbd.jpeg) Strategic Autonomy in the Age of Artificial Intelligence This essay argues that the rapid advance of AI will frustrate ambitions for strategic autonomy. ](https://www.rand.org/pubs/external%5Fpublications/EP71418.html)
-* [ Research Jul 15, 2026 ![](/img/refs/7e87141d8776b1a5.jpeg) AI as Strategist: Four Hypotheses on the Nature of Agentic Strategy In this chapter, the author considers a radical future, a world in which nations pursue relative advantage, for national security, and for other national objectives guided by AI models that are mostly playing these strategy games against other models. ](https://www.rand.org/pubs/external%5Fpublications/EP71419.html)
-* [ Commentary Jul 14, 2026 ![](/img/refs/7b6d83c491b79902.jpeg) Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative Australia's answer to regional AI collaboration lies in federated learning, an AI model that allows cross-border collaboration on transnational security issues whilst preserving data sovereignty. ](https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html)
-* [ Expert Insights Jul 14, 2026 ![](/img/refs/ec4fdfd60f546b74.jpeg) Artificial Intelligence and the Risk of Strategic Cyberattack The author argues that agentic artificial intelligence will alleviate the key constraints on cyber operations and may unlock strategic potential in cyber weapons that has, until now, remained largely theoretical. ](https://www.rand.org/pubs/perspectives/PEA4901-1.html)
+* [ Commentary Jul 23, 2026 ![](https://www.sipri.org/img/refs/cb628ff3e505e21c.jpeg) Safeguarding the Future in the AI Era: Q&A with Sella Nevo Sella Nevo focuses on developing policies to promote the safe and effective use of AI and biotechnology. His mandate at RAND: to help ensure the most pivotal technologies of our time benefit humanity rather than endanger it. ](https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html)
+* [ Research Jul 20, 2026 ![](https://www.sipri.org/img/refs/4d886141631ac34b.jpeg) Securing AI Algorithmic Insights In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems. ](https://www.rand.org/pubs/research%5Freports/RRA4685-1.html)
+* [ Research Jul 20, 2026 ![](https://www.sipri.org/img/refs/a3bdafa345370131.jpeg) Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited. ](https://www.rand.org/pubs/research%5Freports/RRA5000-1.html)
+* [ Research Jul 16, 2026 ![](https://www.sipri.org/img/refs/2a1cd0e0a79ef352.jpeg) Pooling Europe's compute: The promise of distributed training for European frontier AI Frontier AI training has needed compute at one site, hard in Europe given power, chip and political limits. RAND Europe finds distributed training eases the power and political constraints and pools Europe's scattered chips, but adds no new chips. ](https://www.rand.org/pubs/research%5Freports/RRA5013-1.html)
+* [ Research Jul 15, 2026 ![](https://www.sipri.org/img/refs/5cb63625fa50cbbd.jpeg) Strategic Autonomy in the Age of Artificial Intelligence This essay argues that the rapid advance of AI will frustrate ambitions for strategic autonomy. ](https://www.rand.org/pubs/external%5Fpublications/EP71418.html)
+* [ Research Jul 15, 2026 ![](https://www.sipri.org/img/refs/7e87141d8776b1a5.jpeg) AI as Strategist: Four Hypotheses on the Nature of Agentic Strategy In this chapter, the author considers a radical future, a world in which nations pursue relative advantage, for national security, and for other national objectives guided by AI models that are mostly playing these strategy games against other models. ](https://www.rand.org/pubs/external%5Fpublications/EP71419.html)
+* [ Commentary Jul 14, 2026 ![](https://www.sipri.org/img/refs/7b6d83c491b79902.jpeg) Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative Australia's answer to regional AI collaboration lies in federated learning, an AI model that allows cross-border collaboration on transnational security issues whilst preserving data sovereignty. ](https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html)
+* [ Expert Insights Jul 14, 2026 ![](https://www.sipri.org/img/refs/ec4fdfd60f546b74.jpeg) Artificial Intelligence and the Risk of Strategic Cyberattack The author argues that agentic artificial intelligence will alleviate the key constraints on cyber operations and may unlock strategic potential in cyber weapons that has, until now, remained largely theoretical. ](https://www.rand.org/pubs/perspectives/PEA4901-1.html)
 * [ Expert Insights Jul 9, 2026 High Bandwidth Memory: What It Is and Why It Matters High Bandwidth Memory (HBM) is a critical enabling technology for artificial intelligence. The authors of this paper synthesize analysis of the HBM ecosystem for researchers and policymakers. ](https://www.rand.org/pubs/perspectives/PEA4748-1.html)
 
 * First
@@ -197,7 +197,7 @@ Email Subscribe
 
 [View all newsletters](https://www.rand.org/newsletters.html)
 
-[![RAND](/img/refs/738f466ec4849146.svg)](https://www.rand.org/)
+[![RAND](https://www.sipri.org/img/refs/738f466ec4849146.svg)](https://www.rand.org/)
 
 Objective Analysis. Effective Solutions.
 

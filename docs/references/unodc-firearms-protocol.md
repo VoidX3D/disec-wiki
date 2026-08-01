@@ -11,13 +11,13 @@
 * Русский
 * Español
 
-[![United Nations](/img/refs/2dfc62b6ad0e78c6.svg)](https://www.unodc.org/unodc/index.html)
+[![United Nations](https://www.sipri.org/img/refs/2dfc62b6ad0e78c6.svg)](https://www.unodc.org/unodc/index.html)
 
 # [United Nations](https://www.unodc.org/unodc/index.html)
 
 ## [Office on Drugs and Crime](https://www.unodc.org/unodc/index.html)
 
-[![](/img/refs/16f8b6d3efa2f0f5.png)](https://unodc.donorsupport.co/page/stop-drugs-and-crime)
+[![](https://www.sipri.org/img/refs/16f8b6d3efa2f0f5.png)](https://unodc.donorsupport.co/page/stop-drugs-and-crime)
 
 Site Search
 
@@ -132,15 +132,15 @@ Site Search
 * [Regions](https://www.unodc.org/unodc/en/firearms-protocol/2026/regions.html)
 * [News and Publications](https://www.unodc.org/unodc/en/firearms-protocol/2026/news-and-publications.html)
 
-[![](/img/refs/858d0101e431875e.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/firearms-trafficking-explained%5F-10-key-questions-and-answers.html)
+[![](https://www.sipri.org/img/refs/858d0101e431875e.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/firearms-trafficking-explained%5F-10-key-questions-and-answers.html)
 
-[![](/img/refs/e2f3c567023cc7ce.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/five-ways-countries-can-work-together-against-firearms-trafficking.html)
+[![](https://www.sipri.org/img/refs/e2f3c567023cc7ce.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/five-ways-countries-can-work-together-against-firearms-trafficking.html)
 
-[![](/img/refs/33bd5ed1de88db24.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/how-three-un-protocols-are-combatting-organized-crime.html)
+[![](https://www.sipri.org/img/refs/33bd5ed1de88db24.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/how-three-un-protocols-are-combatting-organized-crime.html)
 
-[![](/img/refs/e3f175c8723e51b0.jpg)](https://www.uino.gov.ba/portal/en/news/ita-bh-receives-donation-of-specialized-equipment-under-the-hermes-2-project/)
+[![](https://www.sipri.org/img/refs/e3f175c8723e51b0.jpg)](https://www.uino.gov.ba/portal/en/news/ita-bh-receives-donation-of-specialized-equipment-under-the-hermes-2-project/)
 
-[![](/img/refs/ded6808506aafb54.jpg)](https://www.unodc.org/unodc/en/firearms-protocol/news/2025/towards-a-safer-caribbean%5F-fifth-annual-meeting-of-caribbean-firearms-roadmap-partners.html)
+[![](https://www.sipri.org/img/refs/ded6808506aafb54.jpg)](https://www.unodc.org/unodc/en/firearms-protocol/news/2025/towards-a-safer-caribbean%5F-fifth-annual-meeting-of-caribbean-firearms-roadmap-partners.html)
 
 Every three minutes, someone is killed by a firearm. Illicit weapons drive violence worldwide, fuelling organized crime, conflict and insecurity. Trafficked arms are used in homicides, terrorism, domestic violence, drug and human trafficking, and other crimes, generating massive profits for criminals. More people die from non-conflict firearm incidents than from ongoing wars.
 
@@ -160,7 +160,7 @@ Tackling the illicit arms trade and its ties to organized crime requires stronge
 
 [](https://www.unodc.org/unodc/en/firearms-protocol/news-and-stories.html)
 
-[![United Nations Office on Drugs and Crime](/img/refs/e7eae08367ac2716.svg)](https://www.unodc.org/index.html)
+[![United Nations Office on Drugs and Crime](https://www.sipri.org/img/refs/e7eae08367ac2716.svg)](https://www.unodc.org/index.html)
 
 [United Nations Office on Drugs and Crime](https://www.unodc.org/index.html)
 

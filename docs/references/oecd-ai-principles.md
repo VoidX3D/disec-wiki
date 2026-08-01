@@ -2,9 +2,9 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[![OECD AI Policy Observatory](/img/refs/9164c6a2b68cc91d.svg)](https://oecd.ai/en/)
+[![OECD AI Policy Observatory](https://www.sipri.org/img/refs/9164c6a2b68cc91d.svg)](https://oecd.ai/en/)
 
-[![OECD Logo](/img/refs/2fcb93d62cbf4766.svg)](https://oecd.org)[ Going Digital ](https://goingdigital.oecd.org)[ DPP ](https://depp.oecd.org/)
+[![OECD Logo](https://www.sipri.org/img/refs/2fcb93d62cbf4766.svg)](https://oecd.org)[ Going Digital ](https://goingdigital.oecd.org)[ DPP ](https://depp.oecd.org/)
 
 [ Blog](https://oecd.ai/en/wonk)[Live data](https://oecd.ai/en/data)[ Policies and initiatives ](https://oecd.ai/en/dashboards/overview)
 
@@ -18,59 +18,59 @@ About
 
 Search
 
-[![](/img/refs/e192cd71bdabadc4.png)**AI Risk & Accountability** AI has risks and all actors must be accountable. ](https://oecd.ai/en/site/risk-accountability)
+[![](https://www.sipri.org/img/refs/e192cd71bdabadc4.png)**AI Risk & Accountability** AI has risks and all actors must be accountable. ](https://oecd.ai/en/site/risk-accountability)
 
-[![](/img/refs/77fa210ca6f55fd3.png)**AI, Data & Privacy** Data and privacy are primary policy issues for AI. ](https://oecd.ai/en/site/data-privacy)
+[![](https://www.sipri.org/img/refs/77fa210ca6f55fd3.png)**AI, Data & Privacy** Data and privacy are primary policy issues for AI. ](https://oecd.ai/en/site/data-privacy)
 
-[![](/img/refs/84b4b709c4879d1b.png)Generative AI Managing the risks and benefits of generative AI. ](https://oecd.ai/en/genai)
+[![](https://www.sipri.org/img/refs/84b4b709c4879d1b.png)Generative AI Managing the risks and benefits of generative AI. ](https://oecd.ai/en/genai)
 
-[![](/img/refs/2bcc2a877940ae40.png)Future of Work How AI can and will affect workers and working environments ](https://oecd.ai/en/working-group-future-of-work)
+[![](https://www.sipri.org/img/refs/2bcc2a877940ae40.png)Future of Work How AI can and will affect workers and working environments ](https://oecd.ai/en/working-group-future-of-work)
 
-[![](/img/refs/686ef601f809ffbf.png)AI Index The OECD AI will be a synthetic measurement framework on Trustworthy Artificial Intelligence (AI) ](https://oecd.ai/en/site/ai-index)
+[![](https://www.sipri.org/img/refs/686ef601f809ffbf.png)AI Index The OECD AI will be a synthetic measurement framework on Trustworthy Artificial Intelligence (AI) ](https://oecd.ai/en/site/ai-index)
 
-[![manage incidents](/img/refs/f934c72f47a62fee.png)AI Incidents To manage risks, governments must track and understand AI incidents and hazards. ](https://oecd.ai/en/site/incidents)
+[![manage incidents](https://www.sipri.org/img/refs/f934c72f47a62fee.png)AI Incidents To manage risks, governments must track and understand AI incidents and hazards. ](https://oecd.ai/en/site/incidents)
 
-[![government](/img/refs/0cfd3e8a6abc041b.jpg)AI in Government Governments are not only AI regulators and investors, but also developers and users. ](https://oecd.ai/en/gov)
+[![government](https://www.sipri.org/img/refs/0cfd3e8a6abc041b.jpg)AI in Government Governments are not only AI regulators and investors, but also developers and users. ](https://oecd.ai/en/gov)
 
-[![](/img/refs/8f7855c7aa28a618.png)Data Governance Expertise on data governance to promote its safe and faire use in AI ](https://oecd.ai/en/working-group-data-governance)
+[![](https://www.sipri.org/img/refs/8f7855c7aa28a618.png)Data Governance Expertise on data governance to promote its safe and faire use in AI ](https://oecd.ai/en/working-group-data-governance)
 
-[![](/img/refs/ae4d6d171df1d855.png)Responsible AI The responsible development, use and governance of human-centred AI systems ](https://oecd.ai/en/working-group-responsible-ai)
+[![](https://www.sipri.org/img/refs/ae4d6d171df1d855.png)Responsible AI The responsible development, use and governance of human-centred AI systems ](https://oecd.ai/en/working-group-responsible-ai)
 
-[![](/img/refs/4fc4283a66817ae2.png)Innovation & Commercialisation How to drive cooperation on AI and transfer research results into products ](https://oecd.ai/en/working-group-innovation-and-commercialisation)
+[![](https://www.sipri.org/img/refs/4fc4283a66817ae2.png)Innovation & Commercialisation How to drive cooperation on AI and transfer research results into products ](https://oecd.ai/en/working-group-innovation-and-commercialisation)
 
-[![AI carbon](/img/refs/bd153b90a587cc9d.png)AI Compute and the Environment AI computing capacities and their environmental impact. ](https://oecd.ai/en/site/compute-climate)
+[![AI carbon](https://www.sipri.org/img/refs/bd153b90a587cc9d.png)AI Compute and the Environment AI computing capacities and their environmental impact. ](https://oecd.ai/en/site/compute-climate)
 
-[![AI & Health](/img/refs/3c1ffa02b7a34684.jpg)AI & Health AI can help health systems overcome their most urgent challenges. ](https://oecd.ai/en/site/health)
+[![AI & Health](https://www.sipri.org/img/refs/3c1ffa02b7a34684.jpg)AI & Health AI can help health systems overcome their most urgent challenges. ](https://oecd.ai/en/site/health)
 
-[![](/img/refs/666c67acf3c1d632.png)**AI Futures**AI’s potential futures.](https://oecd.ai/en/site/ai-futures)
+[![](https://www.sipri.org/img/refs/666c67acf3c1d632.png)**AI Futures**AI’s potential futures.](https://oecd.ai/en/site/ai-futures)
 
-[![](/img/refs/bd4b9040018d27f7.png)**WIPS** Programme on Work, Innovation, Productivity and Skills in AI. ](https://oecd.ai/en/work-innovation-productivity-skills)
+[![](https://www.sipri.org/img/refs/bd4b9040018d27f7.png)**WIPS** Programme on Work, Innovation, Productivity and Skills in AI. ](https://oecd.ai/en/work-innovation-productivity-skills)
 
-[![](/img/refs/a7de115704cb48f3.jpg)**AI Policy Toolkit** Map your AI policy landscape, identify priorities and explore policy examples ](https://oecd.ai/en/ai-toolkit/get-started)
+[![](https://www.sipri.org/img/refs/a7de115704cb48f3.jpg)**AI Policy Toolkit** Map your AI policy landscape, identify priorities and explore policy examples ](https://oecd.ai/en/ai-toolkit/get-started)
 
-[![](/img/refs/7e798866e360485f.png)**Catalogue Tools & Metrics** Explore tools & metrics to build and deploy AI systems that are trustworthy. ](https://oecd.ai/en/catalogue/overview)
+[![](https://www.sipri.org/img/refs/7e798866e360485f.png)**Catalogue Tools & Metrics** Explore tools & metrics to build and deploy AI systems that are trustworthy. ](https://oecd.ai/en/catalogue/overview)
 
-[![](/img/refs/d3ec85555600e44e.png)****AIM: AI Incidents and Hazards Monitor** Gain valuable insights on global AI incidents and hazards. ](https://oecd.ai/en/incidents)
+[![](https://www.sipri.org/img/refs/d3ec85555600e44e.png)****AIM: AI Incidents and Hazards Monitor** Gain valuable insights on global AI incidents and hazards. ](https://oecd.ai/en/incidents)
 
-[![](/img/refs/74ddc3e61a8eba8e.jpg)**The Hiroshima AI Reporting Framework** Organisations developing advanced AI systems can participate by submitting a report. By sharing information, they will facilitate transparency and comparability of risk mitigation measures. ](https://oecd.ai/en/transparency/overview)
+[![](https://www.sipri.org/img/refs/74ddc3e61a8eba8e.jpg)**The Hiroshima AI Reporting Framework** Organisations developing advanced AI systems can participate by submitting a report. By sharing information, they will facilitate transparency and comparability of risk mitigation measures. ](https://oecd.ai/en/transparency/overview)
 
-[![](/img/refs/f0be0467e812ddba.png)**OECD AI Principles** The first IGO standard to promote innovative and trustworthy AI ](https://oecd.ai/en/ai-principles)
+[![](https://www.sipri.org/img/refs/f0be0467e812ddba.png)**OECD AI Principles** The first IGO standard to promote innovative and trustworthy AI ](https://oecd.ai/en/ai-principles)
 
-[![](/img/refs/085bf4d70ab7294c.png)**Policy areas** Browse OECD work related to AI across policy areas. ](https://oecd.ai/en/policy-areas)
+[![](https://www.sipri.org/img/refs/085bf4d70ab7294c.png)**Policy areas** Browse OECD work related to AI across policy areas. ](https://oecd.ai/en/policy-areas)
 
-[![](/img/refs/caabfd2625060513.png)**Papers & Publications** OECD and GPAI publications on AI, including the OECD AI Papers Series. ](https://oecd.ai/en/ai-publications)
+[![](https://www.sipri.org/img/refs/caabfd2625060513.png)**Papers & Publications** OECD and GPAI publications on AI, including the OECD AI Papers Series. ](https://oecd.ai/en/ai-publications)
 
-[![](/img/refs/40cdb7a0d34110f7.png)**Videos** Watch videos about AI policy the issues that matter most. ](https://oecd.ai/en/videos)
+[![](https://www.sipri.org/img/refs/40cdb7a0d34110f7.png)**Videos** Watch videos about AI policy the issues that matter most. ](https://oecd.ai/en/videos)
 
-[![](/img/refs/48c98c52e522dea4.png)**Context** AI is already a crucial part of most people’s daily routines. ](https://oecd.ai/en/about/the-context)
+[![](https://www.sipri.org/img/refs/48c98c52e522dea4.png)**Context** AI is already a crucial part of most people’s daily routines. ](https://oecd.ai/en/about/the-context)
 
-[![](/img/refs/b4ca72b3cbdc2c39.png)**About OECD.AI** OECD.AI is an online interactive platform dedicated to promoting trustworthy, human-centric AI. ](https://oecd.ai/en/about-oecd-ai)
+[![](https://www.sipri.org/img/refs/b4ca72b3cbdc2c39.png)**About OECD.AI** OECD.AI is an online interactive platform dedicated to promoting trustworthy, human-centric AI. ](https://oecd.ai/en/about-oecd-ai)
 
-[![](/img/refs/4d2b095ebc7d2651.png)**About GPAI** The GPAI initiative and OECD member countries’ work on AI joined forces under the GPAI brand to create an integrated partnership. ](https://oecd.ai/en/about/about-gpai)
+[![](https://www.sipri.org/img/refs/4d2b095ebc7d2651.png)**About GPAI** The GPAI initiative and OECD member countries’ work on AI joined forces under the GPAI brand to create an integrated partnership. ](https://oecd.ai/en/about/about-gpai)
 
-[![](/img/refs/a5759d65698c803f.png)**Community of Experts** Experts from around the world advise GPAI and contribute to its work. ](https://oecd.ai/en/about-aigo)
+[![](https://www.sipri.org/img/refs/a5759d65698c803f.png)**Community of Experts** Experts from around the world advise GPAI and contribute to its work. ](https://oecd.ai/en/about-aigo)
 
-[![OECD.AI Partners](/img/refs/a11e01c0897115bf.png)**Partners** OECD.AI works closely with many partners. ](https://oecd.ai/en/partners)
+[![OECD.AI Partners](https://www.sipri.org/img/refs/a11e01c0897115bf.png)**Partners** OECD.AI works closely with many partners. ](https://oecd.ai/en/partners)
 
 1. [Home](https://oecd.ai/en/)
 2. [OECD AI Principles overview](https://oecd.ai/en/ai-principles)
@@ -89,45 +89,45 @@ Search
 
 ###  Values-based principles 
 
-![Inclusive growth, sustainable development and well-being icon](/img/refs/0a3d2726f809535c.svg)
+![Inclusive growth, sustainable development and well-being icon](https://www.sipri.org/img/refs/0a3d2726f809535c.svg)
 
 ####  Inclusive growth, sustainable development and well-being 
 
-![Human rights and democratic values, including fairness and privacy icon](/img/refs/f3c0100e50c1b6de.svg)
+![Human rights and democratic values, including fairness and privacy icon](https://www.sipri.org/img/refs/f3c0100e50c1b6de.svg)
 
 ####  Human rights and democratic values, including fairness and privacy 
 
-![Transparency and explainability icon](/img/refs/36457de8595c4ff4.svg)
+![Transparency and explainability icon](https://www.sipri.org/img/refs/36457de8595c4ff4.svg)
 
 ####  Transparency and explainability 
 
-![Robustness, security and safety icon](/img/refs/5a0730c71f1e9380.svg)
+![Robustness, security and safety icon](https://www.sipri.org/img/refs/5a0730c71f1e9380.svg)
 
 ####  Robustness, security and safety 
 
-![Accountability icon](/img/refs/12216850e5d71d13.svg)
+![Accountability icon](https://www.sipri.org/img/refs/12216850e5d71d13.svg)
 
 ####  Accountability 
 
 ###  Recommendations for policymakers 
 
-![Investing in AI research and development icon](/img/refs/9cc29c2df01d927d.svg)
+![Investing in AI research and development icon](https://www.sipri.org/img/refs/9cc29c2df01d927d.svg)
 
 ####  Investing in AI research and development 
 
-![Fostering an inclusive AI-enabling ecosystem icon](/img/refs/b8623305531894d9.svg)
+![Fostering an inclusive AI-enabling ecosystem icon](https://www.sipri.org/img/refs/b8623305531894d9.svg)
 
 ####  Fostering an inclusive AI-enabling ecosystem 
 
-![Shaping an enabling interoperable governance and policy environment for AI icon](/img/refs/e5e97680228adf3e.svg)
+![Shaping an enabling interoperable governance and policy environment for AI icon](https://www.sipri.org/img/refs/e5e97680228adf3e.svg)
 
 ####  Shaping an enabling interoperable governance and policy environment for AI 
 
-![Building human capacity and preparing for labour market transition icon](/img/refs/90f3c93ccb9a8dce.svg)
+![Building human capacity and preparing for labour market transition icon](https://www.sipri.org/img/refs/90f3c93ccb9a8dce.svg)
 
 ####  Building human capacity and preparing for labour market transition 
 
-![International co-operation for trustworthy AI icon](/img/refs/35fa8fc5f11991f3.svg)
+![International co-operation for trustworthy AI icon](https://www.sipri.org/img/refs/35fa8fc5f11991f3.svg)
 
 ####  International co-operation for trustworthy AI 
 
@@ -144,7 +144,7 @@ See list of adherents
 
  An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment. 
 
-![AI system](/img/refs/63f78497f36a6684.svg)
+![AI system](https://www.sipri.org/img/refs/63f78497f36a6684.svg)
 
 ##  Governments that have committed to the AI Principles 
 
@@ -252,13 +252,13 @@ G20 members committed to the G20 AI Principles drawn from the OECD AI Principles
 
 [Sign up with Linkedin](https://www.linkedin.com/newsletters/oecd-ai-newsletter-7133112175430111232/)
 
-![OECD Logo](/img/refs/2fcb93d62cbf4766.svg)
+![OECD Logo](https://www.sipri.org/img/refs/2fcb93d62cbf4766.svg)
 * © 2026 OECD. All rights reserved
 * [Home](https://oecd.ai/en/)
 * [ Terms & conditions ](https://www.oecd.org/termsandconditions/)
 * [ Privacy policy ](https://www.oecd.org/privacy/)
 * Follow us on:
-* [![Twitter logo](/img/refs/776dbb11575db5db.svg)](https://twitter.com/OECDinnovation)
-* [![Facebook logo](/img/refs/f05616d6cecbfcab.svg)](https://www.facebook.com/theOECD/)
-* [![LinkedIn logo](/img/refs/9c2a1430203c08b2.svg)](https://www.linkedin.com/company/oecd-ai)
-* [![RSS logo](/img/refs/50728241d6465ad1.svg)](https://wp.oecd.ai/feed/)
+* [![Twitter logo](https://www.sipri.org/img/refs/776dbb11575db5db.svg)](https://twitter.com/OECDinnovation)
+* [![Facebook logo](https://www.sipri.org/img/refs/f05616d6cecbfcab.svg)](https://www.facebook.com/theOECD/)
+* [![LinkedIn logo](https://www.sipri.org/img/refs/9c2a1430203c08b2.svg)](https://www.linkedin.com/company/oecd-ai)
+* [![RSS logo](https://www.sipri.org/img/refs/50728241d6465ad1.svg)](https://wp.oecd.ai/feed/)

@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[![Home](/img/refs/f552b432f6a5d3ff.svg)![Home](/img/refs/114f47d00150f1b2.svg)UNESCO](https://www.unesco.org/en)
+[![Home](https://www.sipri.org/img/refs/f552b432f6a5d3ff.svg)![Home](https://www.sipri.org/img/refs/114f47d00150f1b2.svg)UNESCO](https://www.unesco.org/en)
 
 English
 
@@ -19,48 +19,48 @@ English
 
 * [Who we are](https://www.unesco.org/en%20%22Expand%20menu%20Who%20we%20are%22)  
    * [About us](https://www.unesco.org/en/about-us)  
-   [ ![](/img/refs/191e14f8ecda0a8d.webp) About us](https://www.unesco.org/en/about-us)  
+   [ ![](https://www.sipri.org/img/refs/191e14f8ecda0a8d.webp) About us](https://www.unesco.org/en/about-us)  
    * [Member States Profiles](https://www.unesco.org/en/countries)  
-   [ ![](/img/refs/8d828364e84b0c8e.webp) Member States Profiles](https://www.unesco.org/en/countries)  
+   [ ![](https://www.sipri.org/img/refs/8d828364e84b0c8e.webp) Member States Profiles](https://www.unesco.org/en/countries)  
    * [Global presence](https://www.unesco.org/en/global-presence)  
-   [ ![](/img/refs/d5e330e309aad0cc.webp) Global presence](https://www.unesco.org/en/global-presence)  
+   [ ![](https://www.sipri.org/img/refs/d5e330e309aad0cc.webp) Global presence](https://www.unesco.org/en/global-presence)  
    * [Partners](https://www.unesco.org/en/partnerships)  
-   [ ![](/img/refs/8cc9bc29238f9ad4.webp) Partners](https://www.unesco.org/en/partnerships)
+   [ ![](https://www.sipri.org/img/refs/8cc9bc29238f9ad4.webp) Partners](https://www.unesco.org/en/partnerships)
 * What we do  
    * [People we serve](https://www.unesco.org/en/people-we-serve)  
-   [ ![](/img/refs/ac2a8da19f58b649.webp) People we serve](https://www.unesco.org/en/people-we-serve)  
+   [ ![](https://www.sipri.org/img/refs/ac2a8da19f58b649.webp) People we serve](https://www.unesco.org/en/people-we-serve)  
    * [Core functions](https://www.unesco.org/en/core-functions)  
-   [ ![](/img/refs/f800eabac17cb7f0.webp) Core functions](https://www.unesco.org/en/core-functions)  
+   [ ![](https://www.sipri.org/img/refs/f800eabac17cb7f0.webp) Core functions](https://www.unesco.org/en/core-functions)  
    * [Objectives](https://www.unesco.org/en/strategic-objectives)  
-   [ ![](/img/refs/0381bc04c555eacb.webp) Objectives](https://www.unesco.org/en/strategic-objectives)  
+   [ ![](https://www.sipri.org/img/refs/0381bc04c555eacb.webp) Objectives](https://www.unesco.org/en/strategic-objectives)  
    * [Programmes](https://www.unesco.org/en/expertise)  
-   [ ![](/img/refs/263118dd504c85e8.webp) Programmes](https://www.unesco.org/en/expertise)
+   [ ![](https://www.sipri.org/img/refs/263118dd504c85e8.webp) Programmes](https://www.unesco.org/en/expertise)
 * News  
    * [Newsroom](https://www.unesco.org/en/newsroom)  
-   [ ![](/img/refs/d9e01b378c49e781.webp) Newsroom](https://www.unesco.org/en/newsroom)  
+   [ ![](https://www.sipri.org/img/refs/d9e01b378c49e781.webp) Newsroom](https://www.unesco.org/en/newsroom)  
    * [Calendar](https://www.unesco.org/en/events)  
-   [ ![](/img/refs/28e99aba795ba7e8.webp) Calendar](https://www.unesco.org/en/events)  
+   [ ![](https://www.sipri.org/img/refs/28e99aba795ba7e8.webp) Calendar](https://www.unesco.org/en/events)  
    * [ International days and more](https://www.unesco.org/en/commemorations-celebrations)  
-   [ ![](/img/refs/678bf14dafff7e3d.webp)  International days and more](https://www.unesco.org/en/commemorations-celebrations)  
+   [ ![](https://www.sipri.org/img/refs/678bf14dafff7e3d.webp)  International days and more](https://www.unesco.org/en/commemorations-celebrations)  
    * [Stay updated](https://www.unesco.org/en/stay-updated)  
-   [ ![](/img/refs/0ce2112609a990d0.webp) Stay updated](https://www.unesco.org/en/stay-updated)
+   [ ![](https://www.sipri.org/img/refs/0ce2112609a990d0.webp) Stay updated](https://www.unesco.org/en/stay-updated)
 * Resources  
    * [Legal texts](https://www.unesco.org/en/legal-affairs)  
-   [ ![](/img/refs/7b6611603a5b860d.webp) Legal texts](https://www.unesco.org/en/legal-affairs)  
+   [ ![](https://www.sipri.org/img/refs/7b6611603a5b860d.webp) Legal texts](https://www.unesco.org/en/legal-affairs)  
    * [Sites navigator](https://www.unesco.org/en/lists-designations/site-navigator)  
-   [ ![](/img/refs/fe45bbc10d1db272.webp) Sites navigator](https://www.unesco.org/en/lists-designations/site-navigator)  
+   [ ![](https://www.sipri.org/img/refs/fe45bbc10d1db272.webp) Sites navigator](https://www.unesco.org/en/lists-designations/site-navigator)  
    * [Multimedia](https://www.unesco.org/en/laboratory-ideas)  
-   [ ![](/img/refs/596a3d8852de4274.webp) Multimedia](https://www.unesco.org/en/laboratory-ideas)  
+   [ ![](https://www.sipri.org/img/refs/596a3d8852de4274.webp) Multimedia](https://www.unesco.org/en/laboratory-ideas)  
    * [Learning Hub](https://www.unesco.org/en/classroom)  
-   [ ![](/img/refs/e7a634db4bbb3560.webp) Learning Hub](https://www.unesco.org/en/classroom)  
+   [ ![](https://www.sipri.org/img/refs/e7a634db4bbb3560.webp) Learning Hub](https://www.unesco.org/en/classroom)  
    * [Publications](https://www.unesco.org/en/publications)  
-   [ ![](/img/refs/c0ecc2980c892cb8.webp) Publications](https://www.unesco.org/en/publications)  
+   [ ![](https://www.sipri.org/img/refs/c0ecc2980c892cb8.webp) Publications](https://www.unesco.org/en/publications)  
    * [Documents](https://unesdoc.unesco.org/)  
-   [ ![](/img/refs/7a89564782c4e473.webp) Documents](https://unesdoc.unesco.org/)  
+   [ ![](https://www.sipri.org/img/refs/7a89564782c4e473.webp) Documents](https://unesdoc.unesco.org/)  
    * [Global reports](https://www.unesco.org/en/reports)  
-   [ ![](/img/refs/d003fad0f5929c42.webp) Global reports](https://www.unesco.org/en/reports)  
+   [ ![](https://www.sipri.org/img/refs/d003fad0f5929c42.webp) Global reports](https://www.unesco.org/en/reports)  
    * [Data and indicators](https://www.unesco.org/en/key-data)  
-   [ ![](/img/refs/2f0c8a0d45c4dfd5.webp) Data and indicators](https://www.unesco.org/en/key-data)
+   [ ![](https://www.sipri.org/img/refs/2f0c8a0d45c4dfd5.webp) Data and indicators](https://www.unesco.org/en/key-data)
 * [Member States Portal](https://www.unesco.org/en/member-states-portal)
 
 Search 
@@ -77,7 +77,7 @@ Quick links:[AI](https://www.unesco.org/en/search/artificial-intelligence)[Respo
 
 1. [Artificial Intelligence and emerging technologies](https://www.unesco.org/en/artificial-intelligence)
 
-![Artificial intelligence1](/img/refs/b740d727f824779d.webp) 
+![Artificial intelligence1](https://www.sipri.org/img/refs/b740d727f824779d.webp) 
 
 Shutterstock
 
@@ -125,7 +125,7 @@ This Recommendation doesn’t focus only on ethical values and principles but al
 
 [Read the full Recommendation](https://unesdoc.unesco.org/ark:/48223/pf0000381137)
 
-![RecommendationAI](/img/refs/acea95c5dc51efe9.webp) 
+![RecommendationAI](https://www.sipri.org/img/refs/acea95c5dc51efe9.webp) 
 
 ©UNESCO
 
@@ -149,7 +149,7 @@ Ensuring diversity and inclusiveness
 
 Supporting flourishing of environment and ecosystems
 
-![Global Forum on the Ethics of Artificial Intelligence 2024 - Changing the Landscape of AI Governance (main banner)](/img/refs/538cfff957adf832.webp)") 
+![Global Forum on the Ethics of Artificial Intelligence 2024 - Changing the Landscape of AI Governance (main banner)](https://www.sipri.org/img/refs/538cfff957adf832.webp)") 
 
 © Getty Images / ivanastar
 
@@ -215,7 +215,7 @@ The policy actions can guide societies in dealing responsibly with the known and
 
 [Read more on the Key policy areas](https://unesdoc.unesco.org/ark:/48223/pf0000385082#page=12)
 
-![Recommendation on the Ethics of Artificial Intelligence - 11 Key policy areas](/img/refs/b498312fdd1cdaf4.webp) 
+![Recommendation on the Ethics of Artificial Intelligence - 11 Key policy areas](https://www.sipri.org/img/refs/b498312fdd1cdaf4.webp) 
 
 \-
 
@@ -241,7 +241,7 @@ Available in...
 * [Spanish](https://unesdoc.unesco.org/ark:/48223/pf0000381137%5Fspa)
 * [Uzbek](https://unesdoc.unesco.org/ark:/48223/pf0000381137%5Fuzb)
 
-![0000381137](/img/refs/1fc46a9279e04336.webp) 
+![0000381137](https://www.sipri.org/img/refs/1fc46a9279e04336.webp) 
 
 UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts
 
@@ -255,7 +255,7 @@ Available in...
 
 * [English](https://unesdoc.unesco.org/ark:/48223/pf0000385082%5Feng)
 
-![0000385082](/img/refs/bd4f6d516b2ae226.webp) 
+![0000385082](https://www.sipri.org/img/refs/bd4f6d516b2ae226.webp) 
 
 ### Related items
 

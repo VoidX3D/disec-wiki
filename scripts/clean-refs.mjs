@@ -78,7 +78,7 @@ const JUNK_ANCHOR_LINE =
   /^[ \t]*(?:[-*+] \s*)?(?:\[\s*\d+\s*\]\s*)?\[[^\]]*\]\(#(?:main-content|main|content|page|page-content|collapseSearch|search|newsletter|footer|top|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|topicLandingPageList[\d-]*|Origins|Background|History|Nuclear_weapons|Consequences|Protection|Definition|Overview|Origins_and|Current_status)[A-Za-z0-9_%.-]*\)\s*$/gim;
 
 const JUNK_INLINE =
-  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+)[A-Za-z0-9_%.-]*\)/gi;
+  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*)[A-Za-z0-9_%.-]*\)/gi;
 
 // Scraped in-page TOC rows: "* [ 1 History ](#History) Toggle History subsection"
 // and markdown links carrying a trailing title attribute:
@@ -87,7 +87,17 @@ const JUNK_TOC_ROW =
   /^[ \t]*[-*+] \s*(?:\[\s*\d+(?:\.\d+)*\s*\]\s*)?\[[^\]]*\]\(#[^)]*\)(?:\s+Toggle\s+[A-Za-z ]+subsection)?\s*$/gim;
 
 const JUNK_TITLE_LINK =
-  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+)[A-Za-z0-9_%.-]*\s+"[^"]*"\)/gi;
+  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*)[A-Za-z0-9_%.-]*\s+"[^"]*"\)/gi;
+
+// Wikipedia footnote anchors like [1], [2], [10], [a], often referenced via
+// `#cite_note-:0-31`, `#cite_ref-10-0`, `#cite_note-Foo-12`, etc.
+// We strip any `]( #cite_... )` link AND entire "[1]" / "[10]" / "[a]" reference
+// list lines (footnote markers surviving the conversion).
+const WIKI_CITE_LINK =
+  /\[[^\]]*\]\(#cite[_%5F-](?:note|ref)[%_a-z0-9-]*\)/gi;
+
+const WIKI_FOOTNOTE_LINE =
+  /^[ \t]*\[\^[^\]]+\]:[ \t]+.*$/gim;
 
 function stripNoise(md) {
   for (const re of NOISE) md = md.replace(re, '');
@@ -95,7 +105,9 @@ function stripNoise(md) {
   md = md.replace(JUNK_TOC_ROW, '');
   md = md.replace(JUNK_TITLE_LINK, '');
   md = md.replace(JUNK_INLINE, '');
-  md = md.replace(/\]\(#(main|content|page|newsletter)[^)]*\)/gi, '');
+  md = md.replace(WIKI_CITE_LINK, '');
+  md = md.replace(WIKI_FOOTNOTE_LINE, '');
+  md = md.replace(/\]\(#(main|content|page|newsletter|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*)[^)]*\)/gi, '');
   md = md.replace(/\n{3,}/g, '\n\n');
   return md;
 }

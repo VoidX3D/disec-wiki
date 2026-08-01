@@ -10,8 +10,8 @@
 
 Open About sub menu  
 About  
-[![Who We Are](/img/refs/b8d6a2c7125299ea.jpeg) Who We Are](https://article36.org/who-we-are)  
-[![What We Do](/img/refs/c51c69a1559c4067.jpeg) What We Do](https://article36.org/what-we-do)
+[![Who We Are](https://www.sipri.org/img/refs/b8d6a2c7125299ea.jpeg) Who We Are](https://article36.org/who-we-are)  
+[![What We Do](https://www.sipri.org/img/refs/c51c69a1559c4067.jpeg) What We Do](https://article36.org/what-we-do)
 * [Publications](https://article36.org/publications)  
 Open Publications sub menu  
 Publications  
@@ -24,7 +24,7 @@ Other themes
    * [Nuclear weapons](https://article36.org/publications?theme=nuclear-weapons)  
    * [Changing technologies](https://article36.org/publications?theme=changing-technologies)  
    * [Collaboration and representation](https://article36.org/publications?theme=collaboration-and-representation)  
-[![](/img/refs/7f65bbfc7e4e5f18.jpg) ](https://article36.org/publications)  
+[![](https://www.sipri.org/img/refs/7f65bbfc7e4e5f18.jpg) ](https://article36.org/publications)  
 [All Publications](https://article36.org/publications)  
 [All Publications](https://article36.org/publications)
 * [Statements & Updates](https://article36.org/statements-updates)
@@ -81,31 +81,31 @@ Our policies on equality, diversity and inclusion, parental leave, safeguarding 
 
 ## Organisational achievements
 
-![](/img/refs/9a27fa131bfe6349.png) 
+![](https://www.sipri.org/img/refs/9a27fa131bfe6349.png) 
 
 ## **Explosive weapons in populated areas (EWIPA)**
 
 We framed the humanitarian consequences of explosive weapons in populated areas as a distinct international policy issue. Through our leadership of the International Network on Explosive Weapons (INEW), alongside partner organisations, we drove the civil society process that culminated in the adoption of the 2022 Political Declaration. Today, we continue to support its implementation by working with governments, armed forces and civil society to strengthen the policy and practice that protects civilians.
 
-![](/img/refs/12450a527da8f362.jpg) 
+![](https://www.sipri.org/img/refs/12450a527da8f362.jpg) 
 
 ## **Meaningful human control**
 
 We pioneered the concept of meaningful human control over autonomous weapons systems — a framework that has become central to international discussions on regulating autonomous weapons. As a founding member of the Campaign to Stop Killer Robots, we continue to play a leading role in efforts to establish new international rules.
 
-![](/img/refs/34fc3bf81dd4588f.jpg) 
+![](https://www.sipri.org/img/refs/34fc3bf81dd4588f.jpg) 
 
 ## **Treaty on the Prohibition of Nuclear Weapons (TPNW)**
 
 We developed the political argument that a treaty banning nuclear weapons did not require the participation of nuclear-armed states — a reframing that unlocked the negotiating process. From 2013, we convened diplomatic discussions through which states developed their strategy, and participated in the final negotiations. We also secured provisions on victim assistance and environmental remediation.
 
-![](/img/refs/fe1073d8b3b1461b.jpg) 
+![](https://www.sipri.org/img/refs/fe1073d8b3b1461b.jpg) 
 
 ## **Safe Schools Declaration**
 
 Article 36 played a leading role in developing the 2015 Safe Schools Declaration, drafting successive versions of the text in partnership with Norway. The Declaration continues to strengthen the protection of education during armed conflict, and we continue to support its implementation.
 
-![](/img/refs/0ebd12d31c94dc92.jpg) 
+![](https://www.sipri.org/img/refs/0ebd12d31c94dc92.jpg) 
 
 ## **Global Coalitions**
 
@@ -127,7 +127,7 @@ Email address
 
 Sign Up 
 
-![Article 36 Logo (White)](/img/refs/6e5382be780f00ac.png) 
+![Article 36 Logo (White)](https://www.sipri.org/img/refs/6e5382be780f00ac.png) 
 
  Article 36 is incorporated in the UK as a not-for-profit company limited by guarantee (Company No. 07755941). Our Companies House entry, which includes our latest annual accounts, can be found [**here**](https://find-and-update.company-information.service.gov.uk/company/07755941). 
 
