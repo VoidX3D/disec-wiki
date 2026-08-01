@@ -1,37 +1,82 @@
 #!/usr/bin/env node
 /**
- * Convert all existing DISEC data (JSON + text + main.txt) into Markdown pages
- * for the MkDocs wiki. Idempotent — safe to re-run.
+ * Convert legacy DISEC data (JSON + extracted texts) into Markdown pages
+ * for the MkDocs wiki. Idempotent — safe to re-run; only rewrites outputs.
+ *
+ * Sources (legacy project lives under ../old/):
+ *   - ../old/server/data/*.json         (structured content)
+ *   - ../old/client/DISEC/ ... .txt     (committee + study guide texts)
+ *   - ../old/client/DISEC/iran/position-paper.md  (the position paper)
+ *   - ../old/client/public/images/      (iran.png, coat_Of_ARMS.jpg)
+ *
+ * Run: npm run convert
  */
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import * as term from './term.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const WIKI = path.resolve(__dirname, '..');
-const PROJECT = path.resolve(WIKI, '..');
+const LEGACY = path.resolve(WIKI, '..', 'old');
 const DOCS = path.join(WIKI, 'docs');
-const DISEC = path.join(PROJECT, 'DISEC');
-const DATA = path.join(PROJECT, 'server', 'data');
+const DATA = path.join(LEGACY, 'server', 'data');
+const DISEC = path.join(LEGACY, 'client', 'DISEC');
+const IMAGES = path.join(LEGACY, 'client', 'public', 'images');
 
 const PART_LINE_RE = /^(PART\s+[IVXLC]+(?:-[A-Z0-9]+)?|[Pp]art\s+\d+)(?:\s*[–—:]\s*|:)?(.*)$/i;
 
-function read(rel) {
-  return fs.readFileSync(path.join(PROJECT, rel), 'utf-8');
+// ── CLI ──────────────────────────────────────────────────────────
+const args = process.argv.slice(2);
+const QUIET = args.includes('--quiet') || args.includes('-q');
+const FORCE = args.includes('--force') || args.includes('-f');
+const HELP = args.includes('--help') || args.includes('-h');
+
+if (HELP) {
+  console.log(`DISEC legacy data → Markdown converter
+Usage: node scripts/convert.mjs [options]
+
+Options:
+  --force, -f  overwrite existing docs/ pages (default: skip them)
+  --quiet, -q  only print errors
+  --help, -h   show this help`);
+  process.exit(0);
 }
 
-function readData(name) {
-  return JSON.parse(fs.readFileSync(path.join(DATA, `${name}.json`), 'utf-8'));
+const report = (fn, text) => { if (!QUIET) term.status.info(text); return fn(); };
+
+// ── IO helpers ───────────────────────────────────────────────────
+function mustExist(p) {
+  if (!fs.existsSync(p)) {
+    term.status.fail(`missing source: ${path.relative(WIKI, p)}`);
+    process.exit(1);
+  }
 }
 
-function readDisec(rel) {
-  return fs.readFileSync(path.join(DISEC, rel), 'utf-8');
+function readJson(name) {
+  const p = path.join(DATA, `${name}.json`);
+  mustExist(p);
+  return JSON.parse(fs.readFileSync(p, 'utf-8'));
+}
+
+function readText(rel) {
+  const p = path.join(DISEC, rel);
+  mustExist(p);
+  return fs.readFileSync(p, 'utf-8');
 }
 
 function write(rel, content) {
   const full = path.join(DOCS, rel);
+  if (fs.existsSync(full) && !FORCE) return false;
   fs.mkdirSync(path.dirname(full), { recursive: true });
   fs.writeFileSync(full, content.trim() + '\n');
+  return true;
+}
+
+function notice(text, written) {
+  if (QUIET) return;
+  if (written) term.status.ok(text);
+  else term.status.skip(text, 'exists — skipped (use --force to overwrite)');
 }
 
 function esc(text) {
@@ -47,76 +92,29 @@ function isHeading(t) {
   if (/[.,;?!]$/.test(t)) return false;
   const words = t.split(/\s+/).length;
   if (words > 8) return false;
-  // ALL-CAPS headings (e.g. "SUB-HEADING"), or title-case short lines
   if (t === t.toUpperCase()) return true;
   return /^[A-Z]/.test(t) && t.toLowerCase() !== t;
 }
 
-function linesToParagraphs(text) {
-  return text
-    .split(/\n\s*\n/)
-    .map(p => p.replace(/\s+/g, ' ').trim())
-    .filter(p => p.length > 0);
-}
-
 /* ------------------------------------------------------------------ */
-/* 1. Position paper (main.txt)                                        */
+/* 1. Position paper (old/.../position-paper.md)                       */
 /* ------------------------------------------------------------------ */
 function buildPositionPaper() {
-  const raw = read('main.txt');
-  const paras = linesToParagraphs(raw);
+  const src = path.join(DISEC, 'iran', 'position-paper.md');
+  mustExist(src);
+  let md = fs.readFileSync(src, 'utf-8').trim();
 
-  const header = {};
-  for (const p of paras) {
-    const m = p.match(/^(Committee|Country|Agenda):\s*(.+)/);
-    if (m) header[m[1].toLowerCase()] = m[2];
-  }
+  // Point embedded images at the wiki's copied images.
+  md = md.replace(/\]\((iran\.png|coat_Of_ARMS\.jpg)\)/g, '](../images/$1)');
 
-  const BULLET_STARTS = /^(Ensuring|Preventing|Guaranteeing|Promoting|Establish|Strengthen|Create|Ensure|Promote)/;
-
-  const body = [];
-  const refs = [];
-  let inRefs = false;
-  for (const p of paras) {
-    if (/^References\s*$/i.test(p)) { inRefs = true; continue; }
-    if (p.startsWith('http')) { refs.push(p); continue; }
-    if (inRefs) { if (p.startsWith('http')) refs.push(p); continue; }
-    if (p.match(/^(Committee|Country|Agenda):/)) continue;
-    body.push(p);
-  }
-
-  const md = [];
-  md.push('# Position Paper');
-  md.push('');
-  md.push('> **Delegation:** Islamic Republic of Iran  \n> **Committee:** ' + (header.committee || 'DISEC') + '  \n> **Agenda:** ' + (header.agenda || 'Regulating LAWS & Military AI'));
-  md.push('');
-  md.push('## Summary');
-  md.push('');
-  for (const p of body) {
-    if (BULLET_STARTS.test(p)) {
-      md.push('- ' + p);
-      md.push('');
-    } else {
-      md.push(p);
-      md.push('');
-    }
-  }
-  md.push('## References');
-  md.push('');
-  for (const r of refs) {
-    md.push(`- <${r}>`);
-  }
-
-  write('position/index.md', md.join('\n'));
-  console.log('wrote position/index.md');
+  notice('position/index.md', write('position/index.md', md));
 }
 
 /* ------------------------------------------------------------------ */
 /* 2. Strategy + resolution strategies                                 */
 /* ------------------------------------------------------------------ */
 function buildStrategy() {
-  const profile = readData('iran-profile');
-
+  const profile = readJson('iran-profile');
   const md = [];
   md.push('# Strategy & Resolution Approach');
   md.push('');
@@ -151,17 +149,14 @@ function buildStrategy() {
     md.push('');
   }
 
-  write('position/strategy.md', md.join('\n'));
-  console.log('wrote position/strategy.md');
+  notice('position/strategy.md', write('position/strategy.md', md.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
 /* 3. Talking points                                                   */
 /* ------------------------------------------------------------------ */
 function buildTalkingPoints() {
-  const profile = readData('iran-profile');
-  const tp = profile.talkingPoints;
-
+  const tp = readJson('iran-profile').talkingPoints;
   const md = [];
   md.push('# Talking Points');
   md.push('');
@@ -176,15 +171,14 @@ function buildTalkingPoints() {
   md.push('');
   for (const p of tp.closingStatement) { md.push(p); md.push(''); }
 
-  write('position/talking-points.md', md.join('\n'));
-  console.log('wrote position/talking-points.md');
+  notice('position/talking-points.md', write('position/talking-points.md', md.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
 /* 4. Draft resolutions                                                */
 /* ------------------------------------------------------------------ */
 function buildResolutions() {
-  const res = readData('resolutions');
+  const res = readJson('resolutions');
   const md = [];
   md.push('# Sample Draft Resolutions');
   md.push('');
@@ -198,20 +192,18 @@ function buildResolutions() {
     md.push('');
     for (const c of r.clauses) {
       const isOp = /^OP\d/.test(c);
-      const isPp = /^PP\d/.test(c);
       md.push(`${isOp ? '> ' : ''}${c}`);
       md.push('');
     }
   });
-  write('position/resolutions.md', md.join('\n'));
-  console.log('wrote position/resolutions.md');
+  notice('position/resolutions.md', write('position/resolutions.md', md.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
 /* 5. Iran pages                                                       */
 /* ------------------------------------------------------------------ */
 function buildIran() {
-  const d = readData('iran-profile');
+  const d = readJson('iran-profile');
 
   const infobox = [
     '<table class="infobox">',
@@ -251,8 +243,7 @@ function buildIran() {
   index.push('- [Counter-Arguments](counter-arguments.md)');
   index.push('- [Position Paper](../position/index.md)');
   index.push('');
-  write('iran/index.md', index.join('\n'));
-  console.log('wrote iran/index.md');
+  notice('iran/index.md', write('iran/index.md', index.join('\n')));
 
   const profile = [];
   profile.push('# Country Profile');
@@ -272,8 +263,7 @@ function buildIran() {
   profile.push('');
   profile.push(d.position.votingPattern);
   profile.push('');
-  write('iran/profile.md', profile.join('\n'));
-  console.log('wrote iran/profile.md');
+  notice('iran/profile.md', write('iran/profile.md', profile.join('\n')));
 
   const caps = [];
   caps.push('# Military Capabilities');
@@ -300,8 +290,7 @@ function buildIran() {
   caps.push('');
   for (const c of d.militaryCapabilities.autonomousSystems.capabilities) caps.push(`- ${c}`);
   caps.push('');
-  write('iran/capabilities.md', caps.join('\n'));
-  console.log('wrote iran/capabilities.md');
+  notice('iran/capabilities.md', write('iran/capabilities.md', caps.join('\n')));
 
   const ali = [];
   ali.push('# Alliances & Alignments');
@@ -317,8 +306,7 @@ function buildIran() {
       ali.push('');
     }
   }
-  write('iran/alliances.md', ali.join('\n'));
-  console.log('wrote iran/alliances.md');
+  notice('iran/alliances.md', write('iran/alliances.md', ali.join('\n')));
 
   const ca = [];
   ca.push('# Counter-Arguments & Responses');
@@ -329,8 +317,7 @@ function buildIran() {
     ca.push(c.response);
     ca.push('');
   });
-  write('iran/counter-arguments.md', ca.join('\n'));
-  console.log('wrote iran/counter-arguments.md');
+  notice('iran/counter-arguments.md', write('iran/counter-arguments.md', ca.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
@@ -354,25 +341,21 @@ function buildCommittee() {
   index.push('- [Resolution Writing Guide](resolution-paper-guide.md)');
   index.push('- [Table of Contents](toc.md)');
   index.push('');
-  write('committee/index.md', index.join('\n'));
-  console.log('wrote committee/index.md');
+  notice('committee/index.md', write('committee/index.md', index.join('\n')));
 
   const simple = [
-    ['rules-of-procedure.md', 'rules-of-procedure.txt', 'Rules of Procedure', 'committee'],
-    ['country-matrix.md', 'country-matrix.txt', 'Country Matrix', 'committee'],
-    ['chair-notice.md', 'chair-notice.txt', 'Chair Notice', 'committee'],
-    ['position-paper-guide.md', 'position-paper-guide.txt', 'Position Paper Guide', 'guides'],
-    ['resolution-paper-guide.md', 'resolution-paper-guide.txt', 'Resolution Writing & Submission Guide', 'guides'],
+    ['rules-of-procedure.md', 'committee/rules-of-procedure.txt', 'Rules of Procedure'],
+    ['country-matrix.md', 'committee/country-matrix.txt', 'Country Matrix'],
+    ['chair-notice.md', 'committee/chair-notice.txt', 'Chair Notice'],
+    ['position-paper-guide.md', 'guides/position-paper-guide.txt', 'Position Paper Guide'],
+    ['resolution-paper-guide.md', 'guides/resolution-paper-guide.txt', 'Resolution Writing & Submission Guide'],
   ];
-  for (const [out, src, title, dir] of simple) {
-    const text = readDisec(path.join(dir, src));
+  for (const [out, src, title] of simple) {
+    const text = readText(src);
     const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
-    // Mark heading candidates; a run of consecutive candidates is a list,
-    // not headings — downgrade them to body text.
     const isHead = lines.map(l => isHeading(l));
     for (let i = 0; i < lines.length; i++) {
       if (isHead[i] && (lines[i - 1] && isHead[i - 1]) || (lines[i + 1] && isHead[i + 1])) {
-        // only keep isolated single-line headings
         isHead[i] = !(isHead[i - 1] || isHead[i + 1]);
       }
     }
@@ -388,11 +371,10 @@ function buildCommittee() {
         md.push('');
       }
     });
-    write(`committee/${out}`, md.join('\n'));
-    console.log(`wrote committee/${out}`);
+    notice(`committee/${out}`, write(`committee/${out}`, md.join('\n')));
   }
 
-  const tocText = readDisec('guides/toc.txt');
+  const tocText = readText('guides/toc.txt');
   const toc = [];
   toc.push('# Study Guide — Table of Contents');
   toc.push('');
@@ -403,18 +385,16 @@ function buildCommittee() {
     else if (t === t.toUpperCase() && t.length > 5) { toc.push(`### ${t}`); toc.push(''); }
     else toc.push(t.replace(/^•\s*/, '- '));
   }
-  write('committee/toc.md', toc.join('\n'));
-  console.log('wrote committee/toc.md');
+  notice('committee/toc.md', write('committee/toc.md', toc.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
 /* 7. Study guide split into part pages                                */
 /* ------------------------------------------------------------------ */
 function buildStudyGuide() {
-  const text = readDisec('guides/study-guide.txt');
+  const text = readText('guides/study-guide.txt');
   const lines = text.split('\n');
 
-  // Parse into flat sections at every "Part" marker.
   const sections = [];
   let current = null;
   for (const line of lines) {
@@ -429,7 +409,6 @@ function buildStudyGuide() {
   }
   if (current) sections.push(current);
 
-  // A section is a pure container when the next section starts within 2 lines.
   const pages = [];
   for (let i = 0; i < sections.length; i++) {
     const s = sections[i];
@@ -457,8 +436,9 @@ function buildStudyGuide() {
     index.push(`- [${p.title}](${slug})`);
   });
   index.push('');
-  write('committee/study-guide/index.md', index.join('\n'));
+  const wroteIndex = write('committee/study-guide/index.md', index.join('\n'));
 
+  let wroteParts = 0;
   pages.forEach((p, i) => {
     const md = [];
     md.push(`# ${p.title}`);
@@ -477,17 +457,16 @@ function buildStudyGuide() {
       }
     }
     const slug = `part-${String(i + 1).padStart(2, '0')}.md`;
-    write(`committee/study-guide/${slug}`, md.join('\n'));
-    console.log(`wrote committee/study-guide/${slug} (${p.content.length} lines)`);
+    if (write(`committee/study-guide/${slug}`, md.join('\n'))) wroteParts++;
   });
-  console.log('wrote committee/study-guide/index.md');
+  notice(`committee/study-guide/ (${pages.length} parts)`, wroteIndex || wroteParts > 0);
 }
 
 /* ------------------------------------------------------------------ */
 /* 8. Reference library                                                */
 /* ------------------------------------------------------------------ */
 function buildKeyTerms() {
-  const terms = readData('key-terms');
+  const terms = readJson('key-terms');
   const md = [];
   md.push('# Key Terms & Definitions');
   md.push('');
@@ -510,12 +489,11 @@ function buildKeyTerms() {
     if (t.source) md.push(`*Source: ${t.source}*`);
     md.push('');
   }
-  write('resources/key-terms.md', md.join('\n'));
-  console.log('wrote resources/key-terms.md');
+  notice('resources/key-terms.md', write('resources/key-terms.md', md.join('\n')));
 }
 
 function buildTreaties() {
-  const treaties = readData('treaties');
+  const treaties = readJson('treaties');
   const cats = {};
   for (const t of treaties) {
     const cat = t.category || 'treaty';
@@ -545,12 +523,11 @@ function buildTreaties() {
       md.push('');
     }
   }
-  write('resources/treaties.md', md.join('\n'));
-  console.log('wrote resources/treaties.md');
+  notice('resources/treaties.md', write('resources/treaties.md', md.join('\n')));
 }
 
 function buildReports() {
-  const reports = readData('reports');
+  const reports = readJson('reports');
   const md = [];
   md.push('# Reports & Analysis');
   md.push('');
@@ -573,12 +550,11 @@ function buildReports() {
     if (r.url) md.push(`[Official source](${r.url})`);
     md.push('');
   }
-  write('resources/reports.md', md.join('\n'));
-  console.log('wrote resources/reports.md');
+  notice('resources/reports.md', write('resources/reports.md', md.join('\n')));
 }
 
 function buildOrganizations() {
-  const orgs = readData('organizations');
+  const orgs = readJson('organizations');
   const md = [];
   md.push('# Organizations & Institutions');
   md.push('');
@@ -590,8 +566,7 @@ function buildOrganizations() {
     const desc = esc(o.desc).replace(/\|/g, '\\|');
     md.push(`| [${o.title}](${o.url}) | ${desc} |`);
   }
-  write('resources/organizations.md', md.join('\n'));
-  console.log('wrote resources/organizations.md');
+  notice('resources/organizations.md', write('resources/organizations.md', md.join('\n')));
 }
 
 /* ------------------------------------------------------------------ */
@@ -599,27 +574,38 @@ function buildOrganizations() {
 /* ------------------------------------------------------------------ */
 function copyImages() {
   for (const f of ['iran.png', 'coat_Of_ARMS.jpg']) {
-    const src = path.join(PROJECT, 'client', 'public', 'images', f);
-    if (fs.existsSync(src)) {
-      fs.mkdirSync(path.join(DOCS, 'images'), { recursive: true });
-      fs.copyFileSync(src, path.join(DOCS, 'images', f));
-      console.log('copied images/' + f);
+    const src = path.join(IMAGES, f);
+    if (!fs.existsSync(src)) continue;
+    const dst = path.join(DOCS, 'images', f);
+    if (fs.existsSync(dst) && !FORCE) {
+      notice(`images/${f}`, false);
+      continue;
     }
+    fs.mkdirSync(path.dirname(dst), { recursive: true });
+    fs.copyFileSync(src, dst);
+    notice(`images/${f}`, true);
   }
 }
 
 /* ------------------------------------------------------------------ */
-fs.mkdirSync(DOCS, { recursive: true });
-buildPositionPaper();
-buildStrategy();
-buildTalkingPoints();
-buildResolutions();
-buildIran();
-buildCommittee();
-buildStudyGuide();
-buildKeyTerms();
-buildTreaties();
-buildReports();
-buildOrganizations();
-copyImages();
-console.log('conversion complete');
+const t0 = Date.now();
+term.section('Converting legacy data');
+
+mustExist(DATA);
+mustExist(DISEC);
+
+report(buildPositionPaper, 'position paper');
+report(buildStrategy, 'strategy');
+report(buildTalkingPoints, 'talking points');
+report(buildResolutions, 'resolutions');
+report(buildIran, 'iran pages');
+report(buildCommittee, 'committee docs');
+report(buildStudyGuide, 'study guide');
+report(buildKeyTerms, 'key terms');
+report(buildTreaties, 'treaties');
+report(buildReports, 'reports');
+report(buildOrganizations, 'organizations');
+report(copyImages, 'images');
+
+term.section('Summary');
+term.status.ok(`Conversion complete`, `${((Date.now() - t0) / 1000).toFixed(1)}s`);

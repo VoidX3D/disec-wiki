@@ -10,11 +10,29 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import Parser from 'rss-parser';
+import * as term from './term.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const WIKI = path.resolve(__dirname, '..');
 const NEWS_DATA = path.join(WIKI, 'news-data');
 const DOCS_NEWS = path.join(WIKI, 'docs', 'news');
+
+// ── CLI ──────────────────────────────────────────────────────────
+const args = process.argv.slice(2);
+const QUIET = args.includes('--quiet') || args.includes('-q');
+const LIMIT = parseInt(args.find(a => a.startsWith('--limit='))?.split('=')[1]) || 30;
+const HELP = args.includes('--help') || args.includes('-h');
+
+if (HELP) {
+  console.log(`DISEC news fetcher (RSS → offline archive)
+Usage: node scripts/fetch-news.mjs [options]
+
+Options:
+  --limit=N     max articles to scan per feed (default 30)
+  --quiet, -q   only print errors
+  --help, -h    show this help`);
+  process.exit(0);
+}
 
 fs.mkdirSync(NEWS_DATA, { recursive: true });
 fs.mkdirSync(DOCS_NEWS, { recursive: true });
@@ -46,9 +64,10 @@ const KEYWORDS = [
   'security', 'nato', 'iran', 'tehran', 'sanctions',
   'cyber', 'ai', 'robot', 'weapon', 'treaty',
   'proliferation', 'conflict', 'warfare', 'attack',
-  'nuclear', 'missile', 'hypersonic', 'surveillance',
+  'nuclear', 'hypersonic', 'surveillance',
 ];
 
+// ── Helpers ──────────────────────────────────────────────────────
 function relevant(text) {
   const t = (text || '').toLowerCase();
   return KEYWORDS.some(k => t.includes(k));
@@ -71,7 +90,7 @@ function writeArticle(article, feed) {
   const dateStr = date.toISOString().slice(0, 10);
   const fname = `${dateStr}_${slugify(article.title)}.md`;
   const target = path.join(NEWS_DATA, fname);
-  if (fs.existsSync(target)) return fname;
+  if (fs.existsSync(target)) return null;
 
   const content = stripHtml(article.contentSnippet || article.content || '').slice(0, 4000);
   const md = [
@@ -91,10 +110,9 @@ function writeArticle(article, feed) {
   return fname;
 }
 
-const saved = [];
-for (const feed of FEEDS) {
+// ── Fetch one feed ───────────────────────────────────────────────
+async function fetchFeed(feed) {
   try {
-    process.stdout.write(`  • ${feed.source} ... `);
     const res = await fetch(feed.url, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DISEC-Hub/2.0)' },
       signal: AbortSignal.timeout(15000),
@@ -102,7 +120,7 @@ for (const feed of FEEDS) {
     if (!res.ok) throw new Error(`Status code ${res.status}`);
     const xml = await res.text();
     const result = await parser.parseString(xml);
-    const items = (result.items || []).slice(0, 30);
+    const items = (result.items || []).slice(0, LIMIT);
     let count = 0;
     for (const item of items) {
       const hay = `${item.title} ${item.contentSnippet || ''}`;
@@ -110,13 +128,22 @@ for (const feed of FEEDS) {
       const fname = writeArticle(item, feed);
       if (fname) {
         count++;
-        saved.push({ date: (item.pubDate ? new Date(item.pubDate).toISOString().slice(0, 10) : ''), file: fname, title: item.title, source: feed.source });
+        term.status.ok(feed.source, fname);
       }
     }
-    console.log(`${count} saved`);
+    term.status.skip(feed.source, `${count} new of ${items.length} scanned`);
+    return { feed: feed.id, ok: true, saved: count };
   } catch (e) {
-    console.log(`FAILED — ${e.message.slice(0, 80)}`);
+    term.status.fail(feed.source, e.message.slice(0, 80));
+    return { feed: feed.id, ok: false, saved: 0 };
   }
+}
+
+// ── Main ─────────────────────────────────────────────────────────
+term.section('Fetching news');
+const results = [];
+for (const feed of FEEDS) {
+  results.push(await fetchFeed(feed));
 }
 
 // Regenerate the news index
@@ -125,6 +152,8 @@ const allFiles = fs.readdirSync(NEWS_DATA)
   .sort()
   .reverse();
 
+const savedThisRun = results.reduce((n, r) => n + r.saved, 0);
+
 const md = [];
 md.push('# News Archive');
 md.push('');
@@ -132,12 +161,23 @@ md.push('Offline archive of agenda-relevant articles. Updated with `npm run news
 md.push('');
 md.push(`**${allFiles.length} articles saved locally.**`);
 md.push('');
-if (saved.length) {
-  md.push('## Newly saved this run');
-  md.push('');
-  for (const s of saved) md.push(`- [${s.title}](archive/${s.file}) — ${s.source}`);
-  md.push('');
+md.push('## Newly saved this run');
+md.push('');
+if (savedThisRun > 0) {
+  for (const f of allFiles) {
+    if (results.reduce((n, r) => n + r.saved, 0) === 0) break;
+    // Only list files whose mtime is from this run.
+    const full = path.join(NEWS_DATA, f);
+    const mtime = fs.statSync(full).mtimeMs;
+    if (Date.now() - mtime < 10 * 60 * 1000) {
+      const title = fs.readFileSync(full, 'utf-8').split('\n').find(l => l.startsWith('# ')) || f;
+      md.push(`- [${title.replace(/^#\s*/, '')}](archive/${f})`);
+    }
+  }
+} else {
+  md.push('No new articles matched the agenda keywords this run.');
 }
+md.push('');
 if (allFiles.length) {
   md.push('## Archive');
   md.push('');
@@ -158,4 +198,7 @@ for (const f of allFiles) {
   fs.copyFileSync(path.join(NEWS_DATA, f), path.join(archiveDest, f));
 }
 
-console.log(`\nDone. ${allFiles.length} archived articles, ${saved.length} new this run.`);
+term.section('Summary');
+term.status.info('Archived', `${allFiles.length} articles`);
+term.status.info('Saved this run', `${savedThisRun} new`);
+term.status.info('Feeds', `${results.filter(r => r.ok).length}/${results.length} ok`);
