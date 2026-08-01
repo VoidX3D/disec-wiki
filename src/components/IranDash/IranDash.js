@@ -13,6 +13,31 @@ const stats = [
   { icon: 'rank', value: '#17', label: 'Global Firepower rank', tag: 'Military' },
 ];
 
+const financeStats = [
+  { icon: 'dollar', value: '$36B', label: 'FX reserves', tag: 'Reserves' },
+  { icon: 'finance', value: '30%', label: 'Policy interest rate', tag: 'Monetary' },
+  { icon: 'chart', value: '2.1%', label: 'Current account / GDP', tag: 'External' },
+  { icon: 'rank', value: '~95%', label: 'Rial depreciation since 2018', tag: 'Sanctions' },
+  { icon: 'term', value: '30.2%', label: 'Government debt / GDP', tag: 'Fiscal' },
+  { icon: 'shield', value: '15–18%', label: 'Military share of budget', tag: 'Defence spend' },
+];
+
+const indexStats = [
+  { icon: 'chart', value: '75/193', label: 'HDI rank (High)', tag: 'UNDP' },
+  { icon: 'term', value: '148/180', label: 'Corruption Perceptions Index', tag: 'Transparency' },
+  { icon: 'flag', value: '154/167', label: 'Democracy Index', tag: 'EIU' },
+  { icon: 'rank', value: '#17', label: 'Global Firepower', tag: 'GFP 2025' },
+  { icon: 'people', value: '~90s', label: 'AI readiness rank', tag: 'Oxford Insights' },
+  { icon: 'book', value: '137/163', label: 'Global Peace Index', tag: 'IEP' },
+];
+
+const orgStats = [
+  { icon: 'globe', value: '60+', label: 'International organizations', tag: 'Memberships' },
+  { icon: 'book', value: '20+', label: 'Arms-control treaties ratified', tag: 'Law' },
+  { icon: 'flag', value: '4', label: 'NAM · BRICS · SCO · OPEC', tag: 'Core blocs' },
+  { icon: 'rank', value: '2025–26', label: 'UNSC non-permanent seat', tag: 'Security Council' },
+];
+
 const allies = [
   { name: 'Russia', img: '/img/flags/ru.svg' },
   { name: 'China', img: '/img/flags/cn.svg' },
@@ -53,7 +78,7 @@ export default function IranDash() {
         <div className="iran-stats">
           {stats.map((s) => (
             <div className="iran-stat" key={s.label}>
-              <span className="ic"><Icon name={s.icon} size={14} /></span>
+              <span className="ic"><Icon name={s.icon} size={15} /></span>
               <span className="v">{s.value}</span>
               <span className="l">{s.label}</span>
               <span className="t">{s.tag}</span>
@@ -78,10 +103,47 @@ export default function IranDash() {
         ))}
       </div>
 
+      <h2>Financial snapshot</h2>
+      <div className="iran-stats">
+        {financeStats.map((s) => (
+          <div className="iran-stat" key={s.label}>
+            <span className="ic"><Icon name={s.icon} size={15} /></span>
+            <span className="v">{s.value}</span>
+            <span className="l">{s.label}</span>
+            <span className="t">{s.tag}</span>
+          </div>
+        ))}
+      </div>
+
+      <h2>Indexes &amp; rankings</h2>
+      <div className="iran-stats">
+        {indexStats.map((s) => (
+          <div className="iran-stat" key={s.label}>
+            <span className="ic"><Icon name={s.icon} size={15} /></span>
+            <span className="v">{s.value}</span>
+            <span className="l">{s.label}</span>
+            <span className="t">{s.tag}</span>
+          </div>
+        ))}
+      </div>
+
+      <h2>Organizations &amp; memberships</h2>
+      <div className="iran-stats">
+        {orgStats.map((s) => (
+          <div className="iran-stat" key={s.label}>
+            <span className="ic"><Icon name={s.icon} size={15} /></span>
+            <span className="v">{s.value}</span>
+            <span className="l">{s.label}</span>
+            <span className="t">{s.tag}</span>
+          </div>
+        ))}
+      </div>
+
       <div className="btn-row">
         <Link className="btn btn--primary" to="/data/">Open Data &amp; Statistics</Link>
         <Link className="btn btn--secondary" to="/data/factbook/">Iran Factbook</Link>
         <Link className="btn btn--secondary" to="/data/nato/">NATO Dossier</Link>
+        <Link className="btn btn--secondary" to="/data/organizations/">Organizations</Link>
       </div>
     </section>
   );

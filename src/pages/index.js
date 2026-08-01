@@ -1,3 +1,4 @@
+import {useEffect, useState} from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
@@ -8,7 +9,10 @@ import styles from './index.module.css';
 function Hero() {
   return (
     <section className="hero">
-      <div className="hero-flag">United Nations · General Assembly · First Committee (DISEC)</div>
+      <span className="hero-eyebrow">
+        <span className="eyebrow-dot" />
+        United Nations · General Assembly · First Committee (DISEC)
+      </span>
       <h1>Regulating Lethal Autonomous Weapons Systems &amp; Military AI</h1>
       <p className="hero-sub">
         Full offline research hub for the delegation of the <strong>Islamic Republic of Iran</strong> —
@@ -47,12 +51,37 @@ function WhatsNew() {
   );
 }
 
+function SkeletonScreen() {
+  const [fade, setFade] = useState(false);
+  useEffect(() => {
+    const t = setTimeout(() => setFade(true), 350);
+    return () => clearTimeout(t);
+  }, []);
+  return (
+    <div className={`sk-screen${fade ? ' fade-out' : ''}`} aria-hidden="true">
+      <div className="sk-screen-card">
+        <div className="sk-screen-line t" />
+        <div className="sk-screen-line s" />
+        <div className="sk-screen-line x" />
+        <div className="sk-screen-line s" />
+        <div className="sk-screen-line x" />
+      </div>
+    </div>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+  const [booted, setBooted] = useState(false);
+  useEffect(() => {
+    const t = setTimeout(() => setBooted(true), 380);
+    return () => clearTimeout(t);
+  }, []);
   return (
     <Layout
       title={siteConfig.title}
       description={siteConfig.tagline}>
+      {!booted && <SkeletonScreen />}
       <main className="container">
         <Hero />
         <IranDash />

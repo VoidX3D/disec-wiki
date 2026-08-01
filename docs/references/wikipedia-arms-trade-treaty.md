@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -46,22 +44,7 @@ Personal tools
 
 move to sidebar hide 
 
-* [ (Top) ](#)
-* [ 1 Origins ](#Origins)
-* [ 2 Development ](#Development) Toggle Development subsection  
-   * [ 2.1 UN resolution 61/89 ](#UN%5Fresolution%5F61/89)  
-         * [ 2.1.1 Group of Governmental Experts ](#Group%5Fof%5FGovernmental%5FExperts)  
-   * [ 2.2 Preparatory Committee and Conference ](#Preparatory%5FCommittee%5Fand%5FConference)  
-   * [ 2.3 Adoption of the Treaty ](#Adoption%5Fof%5Fthe%5FTreaty)
-* [ 3 Content ](#Content) Toggle Content subsection  
-   * [ 3.1 Advocated contents ](#Advocated%5Fcontents)
-* [ 4 Criticism ](#Criticism)
-* [ 5 Signatories and parties ](#Signatories%5Fand%5Fparties) Toggle Signatories and parties subsection  
-   * [ 5.1 Notes ](#Notes)  
-   * [ 5.2 Notes ](#Notes%5F2)
-* [ 6 See also ](#See%5Falso)
-* [ 7 References ](#References)
-* [ 8 External links ](#External%5Flinks)
+*  Toggle Content subsection  
 
 Toggle the table of contents 
 

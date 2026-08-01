@@ -331,8 +331,7 @@ Language Selection:
          * [ News](https://www.nato.int/en/news-and-events/articles/news)
 * [ Multimedia](https://www.nato.int/en/multimedia)  
    * [ Multimedia Portal](https://www.nato.int/en/multimedia/multimedia)  
-         * [ Log in ](#)  
-         * [ Create account ](#)  
+
          * [ Audios](https://www.nato.int/en/multimedia/multimedia/audios)  
          * [ Photos](https://www.nato.int/en/multimedia/multimedia/photos)  
          * [ Videos](https://www.nato.int/en/multimedia/multimedia/videos)  
@@ -377,8 +376,6 @@ Language Selection:
 
 No account? 
 
-[Create an account](#modalRegister)
-
 Forgot your password? 
 
 [Reset password](#)
@@ -397,7 +394,7 @@ LOG IN
 
 ## Create an account
 
-Already have an account? [Log in](#modalLogin "login")
+Already have an account? 
 
 First name\* 
 

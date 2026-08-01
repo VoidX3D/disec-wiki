@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -46,15 +44,7 @@ Personal tools
 
 move to sidebar hide 
 
-* [ (Top) ](#)
-* [ 1 Background ](#Background) Toggle Background subsection  
-   * [ 1.1 Proxy conflict (1985–present) ](#Proxy%5Fconflict%5F%281985–present%29)
 * [ 2 Direct conflict (2024–present) ](#Direct%5Fconflict%5F%282024–present%29) Toggle Direct conflict (2024–present) subsection  
-   * [ 2.1 2024 conflict ](#2024%5Fconflict)  
-   * [ 2.2 2025 Twelve-Day War ](#2025%5FTwelve-Day%5FWar)  
-   * [ 2.3 2026 Iran war ](#2026%5FIran%5Fwar)
-* [ 3 See also ](#See%5Falso)
-* [ 4 References ](#References)
 
 Toggle the table of contents 
 

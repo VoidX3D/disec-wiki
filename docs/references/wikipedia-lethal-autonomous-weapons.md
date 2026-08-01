@@ -7,8 +7,6 @@ search:
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -50,20 +48,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 Definitions ](#Definitions)
-* [ 2 Automatic defensive systems ](#Automatic%5Fdefensive%5Fsystems)
-* [ 3 Autonomous offensive systems ](#Autonomous%5Foffensive%5Fsystems)
-* [ 4 Ethical and legal issues ](#Ethical%5Fand%5Flegal%5Fissues) Toggle Ethical and legal issues subsection  
-   * [ 4.1 Degree of human control ](#Degree%5Fof%5Fhuman%5Fcontrol)  
-   * [ 4.2 Standard used in US policy ](#Standard%5Fused%5Fin%5FUS%5Fpolicy)  
-   * [ 4.3 Possible violations of ethics and international law ](#Possible%5Fviolations%5Fof%5Fethics%5Fand%5Finternational%5Flaw)  
-   * [ 4.4 Campaigns to ban LAWs ](#Campaigns%5Fto%5Fban%5FLAWs)  
-   * [ 4.5 Regulation without banning ](#Regulation%5Fwithout%5Fbanning)
-* [ 5 See also ](#See%5Falso)
-* [ 6 References ](#References)
-* [ 7 Further reading ](#Further%5Freading)
 
 Toggle the table of contents 
 

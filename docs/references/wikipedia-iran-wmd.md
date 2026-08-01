@@ -6,8 +6,6 @@ format: md
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -49,36 +47,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 Nuclear weapons ](#Nuclear%5Fweapons) Toggle Nuclear weapons subsection  
-   * [ 1.1 Overview ](#Overview)  
-   * [ 1.2 History ](#History)  
-   * [ 1.3 IAEA ](#IAEA)  
-         * [ 1.3.1 Alleged weaponization studies ](#Alleged%5Fweaponization%5Fstudies)  
-   * [ 1.4 Iranian stance ](#Iranian%5Fstance)  
-   * [ 1.5 U.S. stance ](#U.S.%5Fstance)  
-   * [ 1.6 Other international responses ](#Other%5Finternational%5Fresponses)  
-         * [ 1.6.1 United Nations ](#United%5FNations)  
-         * [ 1.6.2 China ](#China)  
-         * [ 1.6.3 France ](#France)  
-         * [ 1.6.4 Russia ](#Russia)  
-         * [ 1.6.5 United Kingdom ](#United%5FKingdom)  
-         * [ 1.6.6 Israel ](#Israel)  
-   * [ 1.7 Netherlands ](#Netherlands)  
-   * [ 1.8 Muslim countries ](#Muslim%5Fcountries)  
-         * [ 1.8.1 Baku declaration ](#Baku%5Fdeclaration)  
-         * [ 1.8.2 Qatar and Arab vote against the U.N. Security Council resolution ](#Qatar%5Fand%5FArab%5Fvote%5Fagainst%5Fthe%5FU.N.%5FSecurity%5FCouncil%5Fresolution)  
-   * [ 1.9 Non-Aligned Movement ](#Non-Aligned%5FMovement)
-* [ 2 Biological weapons ](#Biological%5Fweapons)
-* [ 3 Chemical weapons ](#Chemical%5Fweapons)
-* [ 4 Delivery systems ](#Delivery%5Fsystems) Toggle Delivery systems subsection  
-   * [ 4.1 Missiles ](#Missiles)  
-   * [ 4.2 Aircraft ](#Aircraft)
-* [ 5 See also ](#See%5Falso)
-* [ 6 Notes ](#Notes)
-* [ 7 References ](#References)
-* [ 8 External links ](#External%5Flinks)
 
 Toggle the table of contents 
 

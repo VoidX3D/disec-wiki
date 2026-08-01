@@ -124,14 +124,6 @@ International humanitarian law and policy on
 
 Autonomous weapons are not a work of science fiction from a distant dystopian future. They are an immediate cause of humanitarian concern and demand an urgent, international political response.
 
-* [Video](#banner-highlight940606)
-* [Useful links](#text940609)
-* [From the blog](#image-and-text1782128)
-* [Highlights](#manual-highlight940613)
-* [Latest articles ](#latest-documents939898)
-* [Newsletter subscription](#newsletter940614)
-* [Next event](#next-event)
-
 ![Northrop Grumman personnel conduct preoperational tests on a U.S. Navy X-47B Unmanned Combat Air System demonstrator aircraft.](https://www.icrc.org/sites/default/files/styles/desktop_full/public/2024-04/Autonomous%20weapons.jpg.webp?h=5917e820&itok=_bRneEg6%20%22Northrop%20Grumman%20personnel%20conduct%20preoperational%20tests%20on%20a%20U.S.%20Navy%20X-47B%20Unmanned%20Combat%20Air%20System%20demonstrator%20aircraft.%22) 
 
 ###  What are the dangers of autonomous weapons? | The Laws of War
@@ -263,7 +255,7 @@ Email address \*
 * [Copyright](https://www.icrc.org/en/copyright-and-terms-use)
 * [Privacy policy](https://www.icrc.org/en/privacy-policy)
 * [Tax deduction](https://www.icrc.org/en/about-donations-and-tax-deduction)
-* [Privacy Settings](#privacy-settings "Privacy Settings")
+
 * [Community guidelines](https://www.icrc.org/en/community-guidelines%20%22Community%20guidelines%22)
 
 [Terms and conditions](https://www.icrc.org/en/copyright-and-terms-use) \- ICRC ©2026 - All right reserved

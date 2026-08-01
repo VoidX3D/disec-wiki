@@ -255,7 +255,7 @@ Email address \*
 * [Copyright](https://www.icrc.org/en/copyright-and-terms-use)
 * [Privacy policy](https://www.icrc.org/en/privacy-policy)
 * [Tax deduction](https://www.icrc.org/en/about-donations-and-tax-deduction)
-* [Privacy Settings](#privacy-settings "Privacy Settings")
+
 * [Community guidelines](https://www.icrc.org/en/community-guidelines%20%22Community%20guidelines%22)
 
 [Terms and conditions](https://www.icrc.org/en/copyright-and-terms-use) \- ICRC ©2026 - All right reserved

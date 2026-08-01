@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to cookie privacy notice](#hrw-cookie-dialog) [ Skip to main content](#main-content) 
+  
 
 [ ](https://www.hrw.org/) 
 

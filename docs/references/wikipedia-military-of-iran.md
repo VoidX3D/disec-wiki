@@ -6,8 +6,6 @@ format: md
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -49,17 +47,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 History ](#History)
-* [ 2 Structure ](#Structure) Toggle Structure subsection  
-   * [ 2.1 IRGC ballistic missile program ](#IRGC%5Fballistic%5Fmissile%5Fprogram)
-* [ 3 Budget ](#Budget)
-* [ 4 Defense industry ](#Defense%5Findustry)
-* [ 5 See also ](#See%5Falso)
-* [ 6 Notes ](#Notes)
-* [ 7 References ](#References)
-* [ 8 Further reading ](#Further%5Freading)
 
 Toggle the table of contents 
 

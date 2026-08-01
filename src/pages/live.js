@@ -2,9 +2,24 @@ import {useEffect, useRef, useState} from 'react';
 import Layout from '@theme/Layout';
 import styles from './live.module.css';
 
+function Skeletons() {
+  return (
+    <div className="sk-wrap">
+      {[0, 1, 2, 3, 4, 5].map((i) => (
+        <div className="sk-card" key={i}>
+          <div className="sk-line s" />
+          <div className="sk-line t" />
+          <div className="sk-line x" />
+        </div>
+      ))}
+    </div>
+  );
+}
+
 function LiveNews() {
   const [all, setAll] = useState([]);
   const [status, setStatus] = useState('Loading feeds…');
+  const [loading, setLoading] = useState(true);
   const [term, setTerm] = useState('');
   const timer = useRef(null);
 
@@ -24,6 +39,8 @@ function LiveNews() {
         if (cancelled) return;
         setStatus('Cannot reach the RSS proxy. Start it with `npm run serve` (or open the offline News Archive). ' + e.message);
         setAll([]);
+      } finally {
+        if (!cancelled) setLoading(false);
       }
     }
     load();
@@ -68,19 +85,21 @@ function LiveNews() {
         />
 
         <p className={styles.status}>{status}</p>
-        <div className={styles.grid}>
-          {items.map((a, idx) => {
-            const date = a.pubDate ? new Date(a.pubDate).toLocaleDateString() : '';
-            return (
-              <div key={idx} className="ln-card">
-                <span className="ln-src">{a.source || ''}</span>
-                <a href={a.link} target="_blank" rel="noopener">{a.title || ''}</a>
-                <span className="ln-date">{date}</span>
-                <div className="ln-sum">{a.content || ''}</div>
-              </div>
-            );
-          })}
-        </div>
+        {loading ? <Skeletons /> : (
+          <div className={styles.grid}>
+            {items.map((a, idx) => {
+              const date = a.pubDate ? new Date(a.pubDate).toLocaleDateString() : '';
+              return (
+                <div key={idx} className="ln-card">
+                  <span className="ln-src">{a.source || ''}</span>
+                  <a href={a.link} target="_blank" rel="noopener">{a.title || ''}</a>
+                  <span className="ln-date">{date}</span>
+                  <div className="ln-sum">{a.content || ''}</div>
+                </div>
+              );
+            })}
+          </div>
+        )}
       </main>
     </Layout>
   );

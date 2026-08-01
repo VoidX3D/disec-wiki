@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -45,50 +43,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 History ](#History) Toggle History subsection  
-   * [ 1.1 Early relations ](#Early%5Frelations)  
-   * [ 1.2 1953 Iranian coup d'état ](#1953%5FIranian%5Fcoup%5Fd'état)  
-         * [ 1.2.1 Before the coup ](#Before%5Fthe%5Fcoup)  
-         * [ 1.2.2 Prime minister Mossadeq ](#Prime%5Fminister%5FMossadeq)  
-         * [ 1.2.3 The coup d'état ](#The%5Fcoup%5Fd'état)  
-   * [ 1.3 U.S.–Shah alliance ](#U.S.–Shah%5Falliance)  
-         * [ 1.3.1 Nuclear cooperation ](#Nuclear%5Fcooperation)  
-         * [ 1.3.2 Strategic alliance and geopolitical importance ](#Strategic%5Falliance%5Fand%5Fgeopolitical%5Fimportance)  
-         * [ 1.3.3 Military cooperation and arms sales ](#Military%5Fcooperation%5Fand%5Farms%5Fsales)  
-         * [ 1.3.4 Cultural and academic relations ](#Cultural%5Fand%5Facademic%5Frelations)  
-   * [ 1.4 Ford administration 1974–1977 ](#Ford%5Fadministration%5F1974–1977)  
-   * [ 1.5 Carter administration 1977–1981 ](#Carter%5Fadministration%5F1977–1981)  
-         * [ 1.5.1 Iranian Revolution ](#Iranian%5FRevolution)  
-         * [ 1.5.2 The hostage crisis and its consequences ](#The%5Fhostage%5Fcrisis%5Fand%5Fits%5Fconsequences)  
-   * [ 1.6 Reagan administration 1981–1989 ](#Reagan%5Fadministration%5F1981–1989)  
-         * [ 1.6.1 Iran–Iraq War ](#Iran–Iraq%5FWar)  
-         * [ 1.6.2 1983: Hezbollah bombings ](#1983:%5FHezbollah%5Fbombings)  
-         * [ 1.6.3 1983: Anti-communist purge ](#1983:%5FAnti-communist%5Fpurge)  
-         * [ 1.6.4 Iran–Contra Affair ](#Iran–Contra%5FAffair)  
-         * [ 1.6.5 United States attack of 1988 ](#United%5FStates%5Fattack%5Fof%5F1988)  
-         * [ 1.6.6 1988: Iran Air Flight 655 ](#1988:%5FIran%5FAir%5FFlight%5F655)  
-   * [ 1.7 George H. W. Bush administration 1989–1993 ](#George%5FH.%5FW.%5FBush%5Fadministration%5F1989–1993)  
-   * [ 1.8 Clinton administration 1993–2001 ](#Clinton%5Fadministration%5F1993–2001)  
-         * [ 1.8.1 Khatami and Iranian reformers ](#Khatami%5Fand%5FIranian%5Freformers)  
-   * [ 1.9 George W. Bush administration 2001–2009 ](#George%5FW.%5FBush%5Fadministration%5F2001–2009)  
-   * [ 1.10 Obama administration 2009–2017 ](#Obama%5Fadministration%5F2009–2017)  
-   * [ 1.11 First Trump administration 2017–2021 ](#First%5FTrump%5Fadministration%5F2017–2021)  
-   * [ 1.12 Biden administration 2021–2025 ](#Biden%5Fadministration%5F2021–2025)  
-   * [ 1.13 Second Trump administration 2025–2026 ](#Second%5FTrump%5Fadministration%5F2025–2026)  
-         * [ 1.13.1 2026 Iran war ](#2026%5FIran%5Fwar)  
-   * [ 1.14 2026 US MoU Iranian nuclear agreement ](#2026%5FUS%5FMoU%5FIranian%5Fnuclear%5Fagreement)
-* [ 2 Economic relations ](#Economic%5Frelations)
-* [ 3 Sources of the socio-political tensions ](#Sources%5Fof%5Fthe%5Fsocio-political%5Ftensions)
-* [ 4 Public opinion ](#Public%5Fopinion) Toggle Public opinion subsection  
-   * [ 4.1 Iranians ](#Iranians)  
-   * [ 4.2 Americans ](#Americans)
-* [ 5 See also ](#See%5Falso)
-* [ 6 References ](#References)
-* [ 7 Further reading ](#Further%5Freading) Toggle Further reading subsection  
-   * [ 7.1 Historiography ](#Historiography)
-* [ 8 External links ](#External%5Flinks)
 
 Toggle the table of contents 
 

@@ -5,11 +5,9 @@
 (Opens external website) (File Download)
 
 * [LinkedIn](https://uk.linkedin.com/company/article36)
-* [Newsletter](#newsletter)
 
 [Article 36 Home ](https://article36.org/) 
 
-* [About](#)  
 Open About sub menu  
 About  
 [![Who We Are](https://article36.org/img/containers/images/full-protection-of-civilians-1-large.jpeg/f47ac1dce6131b17ca094ac62c42a9c3/full-protection-of-civilians-1-large.jpeg) Who We Are](https://article36.org/who-we-are)  
@@ -39,7 +37,6 @@ Enter search words here
 
 Submit Search 
 
-* [About](#)  
    * [Who We Are](https://article36.org/who-we-are)  
    * [What We Do](https://article36.org/what-we-do)
 * [Publications](https://article36.org/publications)  
@@ -51,7 +48,6 @@ Submit Search
    * [Collaboration and representation](https://article36.org/publications?theme=collaboration-and-representation)  
    * [All Publications](https://article36.org/publications)
 * [Statements & Updates](https://article36.org/statements-updates)
-* [Newsletter](#newsletter)
 
 * [LinkedIn](https://uk.linkedin.com/company/article36)
 

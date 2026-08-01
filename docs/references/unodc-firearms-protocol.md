@@ -73,7 +73,7 @@ Site Search
    * [Media](https://www.unodc.org/unodc/en/press/media-centre.html)  
    * [Donors and partners](https://www.unodc.org/unodc/en/donors/unodc-partners.html)
 * [Where We Are ](https://www.unodc.org/unodc/en/field-offices.html)  
-   * [Europe and West and Central Asia](#)  
+
          * [Afghanistan](https://www.unodc.org/coafg/)  
          * [Central Asia - Regional Office](https://www.unodc.org/roca/index.html)  
          * [Iran, Islamic Republic of](https://www.unodc.org/islamicrepublicofiran/)  
@@ -81,13 +81,13 @@ Site Search
          * [South-Eastern Europe - Regional Office](https://www.unodc.org/rosee/)  
          * [Ukraine and Moldova](https://www.unodc.org/poukr/index.html)  
          * [Regional Programme for Afghanistan and Neighbouring Countries ](https://www.unodc.org/rpanc/en/index.html)  
-   * [Africa and the Middle East](#)  
+
          * [Eastern Africa](https://www.unodc.org/roea/index.html)  
          * [Middle East and North Africa](https://www.unodc.org/middleeastandnorthafrica/index.html)  
          * [Southern Africa](https://www.unodc.org/rosaf/index.html)  
          * [West and Central Africa](https://www.unodc.org/westandcentralafrica/en/index.html)  
          * [Nigeria](https://www.unodc.org/nigeria/index.html)  
-   * [Latin America and the Caribbean](#)  
+
          * [Andean Region and Southern Cone ](https://www.unodc.org/rocol/es/index.html)  
                   * [Argentina](https://www.unodc.org/rocol/es/paises/argentina.html)  
                   * [Bolivia](https://www.unodc.org/rocol/es/paises/bolivia.html)  
@@ -100,7 +100,7 @@ Site Search
          * [Brazil ](https://www.unodc.org/cofrb/)  
          * [Central America and the Caribbean](https://www.unodc.org/ropan/en/index.html)  
          * [Mexico](https://www.unodc.org/lpomex/index.html)  
-   * [South Asia, East Asia and the Pacific](#)  
+
          * [South East Asia and the Pacific](https://www.unodc.org/roseap)  
          * [\- Cambodia](https://www.unodc.org/roseap/en/cambodia/index.html)  
          * [\- Indonesia](https://www.unodc.org/roseap/en/indonesia/index.html)  
@@ -141,8 +141,6 @@ Site Search
 [![](https://www.unodc.org/res/firearms-protocol/index_html/111.jpg)](https://www.uino.gov.ba/portal/en/news/ita-bh-receives-donation-of-specialized-equipment-under-the-hermes-2-project/)
 
 [![](https://www.unodc.org/res/firearms-protocol/index_html/109.jpg)](https://www.unodc.org/unodc/en/firearms-protocol/news/2025/towards-a-safer-caribbean%5F-fifth-annual-meeting-of-caribbean-firearms-roadmap-partners.html)
-
-[Previous](#car1ed9a89a)[Next](#car1ed9a89a)
 
 Every three minutes, someone is killed by a firearm. Illicit weapons drive violence worldwide, fuelling organized crime, conflict and insecurity. Trafficked arms are used in homicides, terrorism, domestic violence, drug and human trafficking, and other crimes, generating massive profits for criminals. More people die from non-conflict firearm incidents than from ongoing wars.
 

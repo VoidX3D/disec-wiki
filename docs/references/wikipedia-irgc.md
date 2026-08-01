@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -45,57 +43,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 Terminology ](#Terminology)
-* [ 2 Organization ](#Organization) Toggle Organization subsection  
-   * [ 2.1 History and structure ](#History%5Fand%5Fstructure)  
-   * [ 2.2 Ideology and intellectual training ](#Ideology%5Fand%5Fintellectual%5Ftraining)  
-   * [ 2.3 Military structure ](#Military%5Fstructure)  
-         * [ 2.3.1 Cyber Security Command of the Islamic Revolutionary Guard Corps ](#Cyber%5FSecurity%5FCommand%5Fof%5Fthe%5FIslamic%5FRevolutionary%5FGuard%5FCorps)  
-         * [ 2.3.2 Joint Staff ](#Joint%5FStaff)  
-         * [ 2.3.3 Basij ](#Basij)  
-         * [ 2.3.4 Quds Force ](#Quds%5FForce)  
-         * [ 2.3.5 Aerospace Force ](#Aerospace%5FForce)  
-         * [ 2.3.6 Navy ](#Navy)  
-         * [ 2.3.7 Ground forces ](#Ground%5Fforces)  
-         * [ 2.3.8 Nuclear forces ](#Nuclear%5Fforces)  
-         * [ 2.3.9 Intelligence organization ](#Intelligence%5Forganization)  
-         * [ 2.3.10 Auxilaries ](#Auxilaries)  
-   * [ 2.4 Size ](#Size)  
-   * [ 2.5 Senior commanders ](#Senior%5Fcommanders)
-* [ 3 Symbols and uniforms ](#Symbols%5Fand%5Funiforms)
-* [ 4 Conflicts ](#Conflicts) Toggle Conflicts subsection  
-   * [ 4.1 Iran–Iraq War ](#Iran–Iraq%5FWar)  
-   * [ 4.2 Lebanon Civil War ](#Lebanon%5FCivil%5FWar)  
-   * [ 4.3 2006–2009: Lebanon and insurgencies ](#2006–2009:%5FLebanon%5Fand%5Finsurgencies)  
-   * [ 4.4 Syria, 2011–2024 ](#Syria,%5F2011–2024)  
-   * [ 4.5 Iraq, 2014–present ](#Iraq,%5F2014–present)  
-   * [ 4.6 2014 Israeli drone shoot down ](#2014%5FIsraeli%5Fdrone%5Fshoot%5Fdown)  
-   * [ 4.7 Ukraine International Airlines Flight 752 ](#Ukraine%5FInternational%5FAirlines%5FFlight%5F752)  
-   * [ 4.8 Hostage Rescue inside Pakistan ](#Hostage%5FRescue%5Finside%5FPakistan)  
-   * [ 4.9 Involvement in the Russo-Ukrainian war ](#Involvement%5Fin%5Fthe%5FRusso-Ukrainian%5Fwar)  
-   * [ 4.10 April 2024 Iranian strikes against Israel ](#April%5F2024%5FIranian%5Fstrikes%5Fagainst%5FIsrael)  
-   * [ 4.11 Twelve-Day War ](#Twelve-Day%5FWar)
-* [ 5 Influence and activities ](#Influence%5Fand%5Factivities) Toggle Influence and activities subsection  
-   * [ 5.1 Political ](#Political)  
-   * [ 5.2 Economic activity ](#Economic%5Factivity)  
-   * [ 5.3 Environmental ](#Environmental)  
-   * [ 5.4 Analysis ](#Analysis)  
-   * [ 5.5 U.S. Department of the Treasury terrorist aid claims ](#U.S.%5FDepartment%5Fof%5Fthe%5FTreasury%5Fterrorist%5Faid%5Fclaims)  
-   * [ 5.6 Mass media ](#Mass%5Fmedia)  
-         * [ 5.6.1 Corporations in media ](#Corporations%5Fin%5Fmedia)  
-   * [ 5.7 Similar organizations ](#Similar%5Forganizations)
-* [ 6 Controversy ](#Controversy) Toggle Controversy subsection  
-   * [ 6.1 Terrorist designation and sanctions ](#Terrorist%5Fdesignation%5Fand%5Fsanctions)  
-   * [ 6.2 Response to terrorist organization designation ](#Response%5Fto%5Fterrorist%5Forganization%5Fdesignation)
-* [ 7 See also ](#See%5Falso)
-* [ 8 References ](#References) Toggle References subsection  
-   * [ 8.1 Notes ](#Notes)  
-   * [ 8.2 References ](#References%5F2)  
-   * [ 8.3 Sources ](#Sources)
-* [ 9 Further reading ](#Further%5Freading)
-* [ 10 External links ](#External%5Flinks)
 
 Toggle the table of contents 
 

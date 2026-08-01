@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-* [Skip to page content](#page-content)
-
 [ ![RAND](https://www.rand.org/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg) ](https://www.rand.org/) 
 
 ## Site-wide navigation
@@ -76,8 +74,6 @@ RAND studies the potential opportunities and risks of artificial intelligence, i
 * [ Expert Insights A Strategy to Reduce Risk and Promote Stability in the Race to AGI Apr 27, 2026 ![](https://www.rand.org/content/rand/pubs/perspectives/PEA4347-1/_jcr_content/par/teaser.crop.308x173.rm.jpeg/1777062166783.jpeg) ](https://www.rand.org/pubs/perspectives/PEA4347-1.html)
 
 ## Explore RAND’s Work on this Topic
-
-* [Skip to results](#topicLandingPageList-865048386-results)
 
 Search by keyword Submit search and filters 
 

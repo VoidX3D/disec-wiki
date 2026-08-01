@@ -121,15 +121,6 @@ Search
 
 The 1949 Geneva Conventions and their Additional Protocols are international treaties that contain the most important rules limiting the barbarity of war. They protect people who do not take part in the fighting (civilians, medics, aid workers) and those who can no longer fight (wounded, sick and shipwrecked troops, prisoners of war).
 
-* [The rules of war](#banner-highlight940061)
-* [IHL unpacked](#manual-highlight1800212)
-* [What are the Geneva Conventions?](#text940072)
-* [What are the Commentaries?](#text940943)
-* [Useful links](#text940076)
-* [From the International Review of the Red Cross](#text941114)
-* [Newsletter subscription ](#newsletter941112)
-* [Next event](#next-event)
-
 ## The rules of war in a nutshell
 
 ###  The rules of war in a nutshell
@@ -269,7 +260,7 @@ Email address \*
 * [Copyright](https://www.icrc.org/en/copyright-and-terms-use)
 * [Privacy policy](https://www.icrc.org/en/privacy-policy)
 * [Tax deduction](https://www.icrc.org/en/about-donations-and-tax-deduction)
-* [Privacy Settings](#privacy-settings "Privacy Settings")
+
 * [Community guidelines](https://www.icrc.org/en/community-guidelines "Community guidelines")
 
 [Terms and conditions](https://www.icrc.org/en/copyright-and-terms-use) \- ICRC ©2026 - All right reserved

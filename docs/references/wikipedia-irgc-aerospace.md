@@ -6,8 +6,6 @@ format: md
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -50,39 +48,7 @@ Personal tools
 
 move to sidebar hide 
 
-* [ (Top) ](#)
-* [ 1 Aviation forces ](#Aviation%5Fforces) Toggle Aviation forces subsection  
-   * [ 1.1 Current aircraft inventory ](#Current%5Faircraft%5Finventory)  
-         * [ 1.1.1 Aircraft on loan ](#Aircraft%5Fon%5Floan)
-* [ 2 Missile forces ](#Missile%5Fforces) Toggle Missile forces subsection  
-   * [ 2.1 Short range missiles ](#Short%5Frange%5Fmissiles)  
-         * [ 2.1.1 Solid fuel program ](#Solid%5Ffuel%5Fprogram)  
-                  * [ 2.1.1.1 Bina ](#Bina)  
-         * [ 2.1.2 Liquid fuel program ](#Liquid%5Ffuel%5Fprogram)  
-         * [ 2.1.3 Other missile systems ](#Other%5Fmissile%5Fsystems)  
-   * [ 2.2 Longer range ballistic missiles (>1,000 km) ](#Longer%5Frange%5Fballistic%5Fmissiles%5F%28>1,000%5Fkm%29)  
-         * [ 2.2.1 Fajr-3 MIRV ](#Fajr-3%5FMIRV)  
-         * [ 2.2.2 Shahab-3 ](#Shahab-3)  
-         * [ 2.2.3 Ghadr-110 ](#Ghadr-110)  
-         * [ 2.2.4 Ashoura ](#Ashoura)  
-         * [ 2.2.5 Sejjil ](#Sejjil)  
-         * [ 2.2.6 Simorgh ](#Simorgh)  
-         * [ 2.2.7 Emad ](#Emad)  
-         * [ 2.2.8 Khorramshahr ](#Khorramshahr)  
-         * [ 2.2.9 Hoveyzeh ](#Hoveyzeh)  
-         * [ 2.2.10 Dezful ](#Dezful)  
-         * [ 2.2.11 Raad-500 ](#Raad-500)  
-         * [ 2.2.12 Haj Qasem ](#Haj%5FQasem)  
-         * [ 2.2.13 Qassem Bassir ](#Qassem%5FBassir)  
-         * [ 2.2.14 Missile Magazine System ](#Missile%5FMagazine%5FSystem)  
-   * [ 2.3 Fattah ](#Fattah)
 * [ 3 Anti-aircraft forces ](#Anti-aircraft%5Fforces) Toggle Anti-aircraft forces subsection  
-   * [ 3.1 Surface-to-air missiles ](#Surface-to-air%5Fmissiles)
-* [ 4 Space Command ](#Space%5FCommand)
-* [ 5 Organization ](#Organization)
-* [ 6 Commanders ](#Commanders)
-* [ 7 See also ](#See%5Falso)
-* [ 8 References ](#References)
 
 Toggle the table of contents 
 

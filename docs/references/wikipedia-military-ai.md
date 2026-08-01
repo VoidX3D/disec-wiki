@@ -6,8 +6,6 @@ format: md
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -49,18 +47,6 @@ Personal tools
 ## Contents
 
 move to sidebar hide 
-
-* [ (Top) ](#)
-* [ 1 Uses ](#Uses) Toggle Uses subsection  
-   * [ 1.1 Autonomous armament ](#Autonomous%5Farmament)  
-   * [ 1.2 Command and control ](#Command%5Fand%5Fcontrol)  
-   * [ 1.3 Military intelligence ](#Military%5Fintelligence)
-* [ 2 Global trends ](#Global%5Ftrends)
-* [ 3 In popular culture ](#In%5Fpopular%5Fculture) Toggle In popular culture subsection  
-   * [ 3.1 Film ](#Film)  
-   * [ 3.2 Literature ](#Literature)
-* [ 4 See also ](#See%5Falso)
-* [ 5 References ](#References)
 
 Toggle the table of contents 
 

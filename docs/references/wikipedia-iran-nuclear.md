@@ -6,8 +6,6 @@ format: md
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Jump to content](#bodyContent) 
-
 move to sidebar hide 
 
  Navigation
@@ -50,35 +48,7 @@ Personal tools
 
 move to sidebar hide 
 
-* [ (Top) ](#)
-* [ 1 History ](#History) Toggle History subsection  
-   * [ 1.1 Origins under the Shah (1950s–1970s) ](#Origins%5Funder%5Fthe%5FShah%5F%281950s–1970s%29)  
-   * [ 1.2 Post-revolution revival and war impact (1979–1980s) ](#Post-revolution%5Frevival%5Fand%5Fwar%5Fimpact%5F%281979–1980s%29)  
-   * [ 1.3 Secret expansion and weaponization efforts (1990s–2002) ](#Secret%5Fexpansion%5Fand%5Fweaponization%5Fefforts%5F%281990s–2002%29)  
-   * [ 1.4 Exposure and International Confrontation (2002–2013) ](#Exposure%5Fand%5FInternational%5FConfrontation%5F%282002–2013%29)  
-         * [ 1.4.1 Secret enrichment site ](#Secret%5Fenrichment%5Fsite)  
-   * [ 1.5 Diplomatic efforts and the JCPOA (2013–2018) ](#Diplomatic%5Fefforts%5Fand%5Fthe%5FJCPOA%5F%282013–2018%29)  
-   * [ 1.6 United States withdrawal and Iranian violations (2018–2025) ](#United%5FStates%5Fwithdrawal%5Fand%5FIranian%5Fviolations%5F%282018–2025%29)  
-   * [ 1.7 Current status and recent escalations (2025–present) ](#Current%5Fstatus%5Fand%5Frecent%5Fescalations%5F%282025–present%29)  
-   * [ 1.8 Authorisation of miniaturised nuclear warhead development ](#Authorisation%5Fof%5Fminiaturised%5Fnuclear%5Fwarhead%5Fdevelopment)
-* [ 2 Main facilities ](#Main%5Ffacilities) Toggle Main facilities subsection  
-   * [ 2.1 Natanz ](#Natanz)  
-         * [ 2.1.1 Kuh-e Kolang Gaz La ("Pickaxe Mountain") ](#Kuh-e%5FKolang%5FGaz%5FLa%5F%28"Pickaxe%5FMountain"%29)  
-   * [ 2.2 Fordow ](#Fordow)  
-   * [ 2.3 Bushehr ](#Bushehr)  
-   * [ 2.4 Arak ](#Arak)  
-   * [ 2.5 Isfahan Nuclear Technology Center ](#Isfahan%5FNuclear%5FTechnology%5FCenter)  
-   * [ 2.6 Tehran Research Reactor (TRR) ](#Tehran%5FResearch%5FReactor%5F%28TRR%29)  
-   * [ 2.7 Other sites ](#Other%5Fsites)
-* [ 3 Costs ](#Costs) Toggle Costs subsection  
-   * [ 3.1 Direct financial expenditures ](#Direct%5Ffinancial%5Fexpenditures)  
-   * [ 3.2 Indirect economic burdens and opportunity costs ](#Indirect%5Feconomic%5Fburdens%5Fand%5Fopportunity%5Fcosts)
-* [ 4 Analysis ](#Analysis)
-* [ 5 See also ](#See%5Falso) Toggle See also subsection  
-   * [ 5.1 Security ](#Security)
-* [ 6 Notes ](#Notes)
-* [ 7 References ](#References)
-* [ 8 External links ](#External%5Flinks)
+*  Toggle Main facilities subsection  
 
 Toggle the table of contents 
 

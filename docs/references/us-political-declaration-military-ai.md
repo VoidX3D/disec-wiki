@@ -22,7 +22,6 @@ An official website of the United States Government Here's how you know
 
 [ Facebook Facebook ](https://www.facebook.com/statedept) [ X X ](https://x.com/StateDept) [ Instagram Instagram ](https://www.instagram.com/statedept/) [ YouTube YouTube ](https://www.youtube.com/statedept) [ Flickr Flickr ](https://www.flickr.com/photos/statephotos/) [ GovDelivery ](https://www.state.gov/department-email-updates/) 
 
-* [Menu](#nav%5F%5Fprimary-nav)
 * [ ![](https://www.state.gov/wp-content/themes/state/images/logos/us-flag-color.svg)State Department Home ![](https://www.state.gov/wp-content/themes/state/images/logos/statedept-logotype-white.svg)State Department Home ](https://www.state.gov)
 * search
 * [United States Department of State](https://www.state.gov/)
@@ -285,16 +284,9 @@ Marketing Marketing
 
 The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. 
 
-* [Manage options](#)
-* [Manage services](#)
-* [Manage {vendor\_count} vendors](#)
 * [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
 
 Accept Deny View preferences Save preferences [View preferences](#) 
-
-* [{title}](#)
-* [{title}](#)
-* [{title}](#)
 
 Cookie Settings
 
@@ -316,16 +308,9 @@ Marketing Marketing
 
 The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. 
 
-* [Manage options](#)
-* [Manage services](#)
-* [Manage {vendor\_count} vendors](#)
 * [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
 
 Accept Deny View preferences Save preferences [View preferences](#) 
-
-* [{title}](#)
-* [{title}](#)
-* [{title}](#)
 
 Cookie Settings Cookie Settings 
 

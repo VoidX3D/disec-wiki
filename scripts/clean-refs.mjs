@@ -69,12 +69,33 @@ const NOISE = [
 ];
 
 // Anchor-only links that point to JS shell elements not present in the
-// static render (skip links, search toggles, cookie/newsletter hooks...).
-const JUNK_ANCHORS = /^\[[^\]]*\]\(#(main-content|main|content|page|collapseSearch|search|newsletter|footer|top|skip)[^)]*\)\s*$/gim;
+// static render (skip links, search toggles, cookie/newsletter hooks...) or
+// scraped in-page TOC entries whose heading ids don't survive the conversion
+// (Wikipedia "Jump to content"/section links, ICRC banner/text ids, etc.).
+const JUNK_ANCHOR_IDS = /^(?:main-content|main|content|page|page-content|collapseSearch|search|newsletter|footer|top|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modalRegister|modalLogin|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+-|topicLandingPageList[\d-]*|toc|mw-heading|cite_note-|mw-edit)[A-Za-z0-9_%.-]*$/i;
+
+const JUNK_ANCHOR_LINE =
+  /^[ \t]*(?:[-*+] \s*)?(?:\[\s*\d+\s*\]\s*)?\[[^\]]*\]\(#(?:main-content|main|content|page|page-content|collapseSearch|search|newsletter|footer|top|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|topicLandingPageList[\d-]*|Origins|Background|History|Nuclear_weapons|Consequences|Protection|Definition|Overview|Origins_and|Current_status)[A-Za-z0-9_%.-]*\)\s*$/gim;
+
+const JUNK_INLINE =
+  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+)[A-Za-z0-9_%.-]*\)/gi;
+
+// Scraped in-page TOC rows: "* [ 1 History ](#History) Toggle History subsection"
+// and markdown links carrying a trailing title attribute:
+//   [Privacy Settings](#privacy-settings "Privacy Settings")
+const JUNK_TOC_ROW =
+  /^[ \t]*[-*+] \s*(?:\[\s*\d+(?:\.\d+)*\s*\]\s*)?\[[^\]]*\]\(#[^)]*\)(?:\s+Toggle\s+[A-Za-z ]+subsection)?\s*$/gim;
+
+const JUNK_TITLE_LINK =
+  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+)[A-Za-z0-9_%.-]*\s+"[^"]*"\)/gi;
 
 function stripNoise(md) {
   for (const re of NOISE) md = md.replace(re, '');
-  md = md.replace(JUNK_ANCHORS, '');
+  md = md.replace(JUNK_ANCHOR_LINE, '');
+  md = md.replace(JUNK_TOC_ROW, '');
+  md = md.replace(JUNK_TITLE_LINK, '');
+  md = md.replace(JUNK_INLINE, '');
+  md = md.replace(/\]\(#(main|content|page|newsletter)[^)]*\)/gi, '');
   md = md.replace(/\n{3,}/g, '\n\n');
   return md;
 }
