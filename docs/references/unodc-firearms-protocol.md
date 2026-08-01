@@ -11,13 +11,13 @@
 * Русский
 * Español
 
-[![United Nations](https://www.unodc.org/cdn/shared/standard/images/un-emblem.svg)](https://www.unodc.org/unodc/index.html)
+[![United Nations](/img/refs/2dfc62b6ad0e78c6.svg)](https://www.unodc.org/unodc/index.html)
 
 # [United Nations](https://www.unodc.org/unodc/index.html)
 
 ## [Office on Drugs and Crime](https://www.unodc.org/unodc/index.html)
 
-[![](https://www.unodc.org/res/_config/template/default_template_html/donate_SQUARE2.png)](https://unodc.donorsupport.co/page/stop-drugs-and-crime)
+[![](/img/refs/16f8b6d3efa2f0f5.png)](https://unodc.donorsupport.co/page/stop-drugs-and-crime)
 
 Site Search
 
@@ -132,15 +132,15 @@ Site Search
 * [Regions](https://www.unodc.org/unodc/en/firearms-protocol/2026/regions.html)
 * [News and Publications](https://www.unodc.org/unodc/en/firearms-protocol/2026/news-and-publications.html)
 
-[![](https://www.unodc.org/res/firearms-protocol/index_html/FT_explained_banner1.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/firearms-trafficking-explained%5F-10-key-questions-and-answers.html)
+[![](/img/refs/858d0101e431875e.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/firearms-trafficking-explained%5F-10-key-questions-and-answers.html)
 
-[![](https://www.unodc.org/res/firearms-protocol/index_html/112.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/five-ways-countries-can-work-together-against-firearms-trafficking.html)
+[![](/img/refs/e2f3c567023cc7ce.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/five-ways-countries-can-work-together-against-firearms-trafficking.html)
 
-[![](https://www.unodc.org/res/firearms-protocol/index_html/108.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/how-three-un-protocols-are-combatting-organized-crime.html)
+[![](/img/refs/33bd5ed1de88db24.jpg)](https://www.unodc.org/unodc/frontpage/2025/November/how-three-un-protocols-are-combatting-organized-crime.html)
 
-[![](https://www.unodc.org/res/firearms-protocol/index_html/111.jpg)](https://www.uino.gov.ba/portal/en/news/ita-bh-receives-donation-of-specialized-equipment-under-the-hermes-2-project/)
+[![](/img/refs/e3f175c8723e51b0.jpg)](https://www.uino.gov.ba/portal/en/news/ita-bh-receives-donation-of-specialized-equipment-under-the-hermes-2-project/)
 
-[![](https://www.unodc.org/res/firearms-protocol/index_html/109.jpg)](https://www.unodc.org/unodc/en/firearms-protocol/news/2025/towards-a-safer-caribbean%5F-fifth-annual-meeting-of-caribbean-firearms-roadmap-partners.html)
+[![](/img/refs/ded6808506aafb54.jpg)](https://www.unodc.org/unodc/en/firearms-protocol/news/2025/towards-a-safer-caribbean%5F-fifth-annual-meeting-of-caribbean-firearms-roadmap-partners.html)
 
 Every three minutes, someone is killed by a firearm. Illicit weapons drive violence worldwide, fuelling organized crime, conflict and insecurity. Trafficked arms are used in homicides, terrorism, domestic violence, drug and human trafficking, and other crimes, generating massive profits for criminals. More people die from non-conflict firearm incidents than from ongoing wars.
 
@@ -150,17 +150,17 @@ Tackling the illicit arms trade and its ties to organized crime requires stronge
 
 #### International legal framework
 
-[![International legal framework](https://www.unodc.org/res/firearms-protocol/index_html/10b.jpg%20%22International%20legal%20framework%22)](https://www.unodc.org/unodc/firearms-protocol/international-legal-framework.html)
+[](https://www.unodc.org/unodc/firearms-protocol/international-legal-framework.html)
 
 #### UN Firearms Protocol
 
-[![UN Firearms Protocol](https://www.unodc.org/res/firearms-protocol/index_html/11b.jpg%20%22UN%20Firearms%20Protocol%22)](https://www.unodc.org/unodc/firearms-protocol/the-firearms-protocol.html)
+[](https://www.unodc.org/unodc/firearms-protocol/the-firearms-protocol.html)
 
 #### News and stories
 
-[![News and stories](https://www.unodc.org/res/firearms-protocol/website-update-2026/test-index_html/News_and_stories_new_button_2026.png%20%22News%20and%20stories%22)](https://www.unodc.org/unodc/en/firearms-protocol/news-and-stories.html)
+[](https://www.unodc.org/unodc/en/firearms-protocol/news-and-stories.html)
 
-[![United Nations Office on Drugs and Crime](https://www.unodc.org/cdn/shared/standard/images/un-emblem-white.svg)](https://www.unodc.org/index.html)
+[![United Nations Office on Drugs and Crime](/img/refs/e7eae08367ac2716.svg)](https://www.unodc.org/index.html)
 
 [United Nations Office on Drugs and Crime](https://www.unodc.org/index.html)
 

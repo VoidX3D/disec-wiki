@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/emerging-challenges/lethal-autonomous-weapon-systems)
 * [Русский](https://www.unoda.org/ru/our-work/emerging-challenges/lethal-autonomous-weapon-systems)
 
-[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/emerging-challenges/lethal-autonomous-weapon-systems)
@@ -325,7 +325,7 @@ Information on the sessions of the **GGE on LAWS** can be found on the [ODA Meet
 * [Cross-cutting issues](https://www.unoda.org/en/our-work/cross-cutting-issues)
 * [Disarmament bodies](https://www.unoda.org/en/our-work/disarmament-bodies)
 
-![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+![un logo](/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

@@ -11,7 +11,7 @@
 * [Français](https://www.un.org/fr/our-work/weapons-mass-destruction/nuclear-weapons/treaty-non-proliferation-nuclear-weapons)
 * [Русский](https://www.un.org/ru/our-work/weapons-mass-destruction/nuclear-weapons/treaty-non-proliferation-nuclear-weapons)
 
-[ ![Home](https://www.un.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.un.org/en%20%22Home%22) 
+[  United Nations Office for Disarmament Affairs ](https://www.un.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.un.org/ar/our-work/weapons-mass-destruction/nuclear-weapons/treaty-non-proliferation-nuclear-weapons)
@@ -323,7 +323,7 @@ On 11 May 1995, in accordance with article X, paragraph 2, the Review and Extens
 * [A/RES/61/70 (2006)](http://www.undocs.org/A/RES/61/70)
 * [A/RES/56/24 (2001)](http://www.undocs.org/A/RES/56/24)
 
-![un logo](https://www.un.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

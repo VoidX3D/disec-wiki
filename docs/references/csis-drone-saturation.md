@@ -250,7 +250,7 @@ open
 
 # Drone Saturation: Russia’s Shahed Campaign 
 
-![Photo: Oleksii Samsonov /Global Images Ukraine/Getty Images](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2025-05/GettyImages-1489472156_cropped.jpg?VersionId=J7frHUCoC4W5w5WuJu_rvH568Wro1IFa&h=47ea0187&itok=Cj-KlfDg) 
+![Photo: Oleksii Samsonov /Global Images Ukraine/Getty Images](/img/refs/eb04168757688b72.jpg) 
 
 Photo: Oleksii Samsonov /Global Images Ukraine/Getty Images
 
@@ -310,7 +310,7 @@ According to [data](https://www.facebook.com/kpszsu/) released by the Ukrainian 
 
 Remote Visualization
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512_Jensen_Figure1.jpg?VersionId=bp_UcLdyFubi55QuVhNxUtHM9.jgnqFs)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FFigure1.jpg?VersionId=bp%5FUcLdyFubi55QuVhNxUtHM9.jgnqFs)
+[![](/img/refs/4b730e84a96b6d82.jpg)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FFigure1.jpg?VersionId=bp%5FUcLdyFubi55QuVhNxUtHM9.jgnqFs)
 
 The data reveals notable patterns:
 
@@ -319,7 +319,7 @@ The data reveals notable patterns:
 
 Remote Visualization
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512_Jensen_Figure2.jpg?VersionId=UueAof7yqhFFfFlHfD7ZbdqO4Omr8ax4)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FFigure2.jpg?VersionId=UueAof7yqhFFfFlHfD7ZbdqO4Omr8ax4)
+[![](/img/refs/689480d5ee1461c6.jpg)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FFigure2.jpg?VersionId=UueAof7yqhFFfFlHfD7ZbdqO4Omr8ax4)
 
 Primorsko-Akhtarsk in Krasnodar Krai is the primary launch site (312 launches), underscoring the strategic importance of the southern front and the Black Sea corridor targeting infrastructure in the Odesa region. Crimea’s Chauda airfield (160 launches) complements this southern axis, allowing drones to circumvent Ukraine’s western air-defense systems. Additionally, oblasts bordering Ukraine—Kursk (248 launches), Bryansk (113), and Oryol (130)—serve as proximate launch points targeting the Donbas and Kharkiv regions, while Millerovo (100) and Yeysk (37) reinforce pressure on eastern targets. The extensive range of launch locations complicates Ukrainian air-defense targeting efforts, forcing allocation of scarce precision-strike and electronic warfare resources over a wide area.
 
@@ -327,7 +327,7 @@ Over the past seven months, there has not been a single uninterrupted three-day 
 
 Remote Visualization
 
-[![](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512_Jensen_Table1.jpg?VersionId=sZv9HUa2YWGj8NfsLrCrRRLM8jFpbd6z)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FTable1.jpg?VersionId=sZv9HUa2YWGj8NfsLrCrRRLM8jFpbd6z)
+[![](/img/refs/60a89b19ad699d2b.jpg)](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-05/250512%5FJensen%5FTable1.jpg?VersionId=sZv9HUa2YWGj8NfsLrCrRRLM8jFpbd6z)
 
 ## **A Strategy of Constant Pressure**
 
@@ -393,7 +393,7 @@ _CSIS Briefs are_ produced by the Center for Strategic and International Studies
 
 Image
 
-![Benjamin Jensen ](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/135x135/s3/2024-03/5Jensen_0.jpg?VersionId=s2gKhvJRrjB.3gPW.DFC61XLk88guqJ7&h=2a479378&itok=2-JmIVbx) 
+![Benjamin Jensen ](/img/refs/df61b64a7047582c.jpg) 
 
 [](https://www.csis.org/people/benjamin-jensen) 
 
@@ -403,7 +403,7 @@ Director, Futures Lab and Senior Fellow, Defense and Security Department
 
 Image
 
-![Yasir Atalan](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/135x135/s3/2023-10/5Atalan.jpg?VersionId=k4FjV4hN1s_aUiLPAq0KAfEUPKrL6_Iq&h=2a479378&itok=pZjRonLl) 
+![Yasir Atalan](/img/refs/3c02350150e26254.jpg) 
 
 [](https://www.csis.org/people/yasir-atalan) 
 
@@ -424,7 +424,7 @@ Deputy Director and Data Fellow, Futures Lab, Defense and Security Department
 
 Image
 
-![Photo: Anton Petrus/Getty Images](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2024-09/GettyImages-1386710838_cropped.jpg?VersionId=kGhOSCi7RPZdyHek1BDtBxTpc9y9wz4.&h=266da715&itok=LVYbjbZ9) 
+![Photo: Anton Petrus/Getty Images](/img/refs/eee31d413f09ffd4.jpg) 
 
 [](https://www.csis.org/programs/futures-lab/projects/russian-firepower-strike-tracker-analyzing-missile-attacks-ukraine) 
 
@@ -434,7 +434,7 @@ This digital series—featuring scholars from the Futures Lab and across CSIS—
 
 Image
 
-![Photo: Pierre Crom/Getty Images](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2025-02/GettyImages-463367230_cropped.jpg?VersionId=pOXCrX.BzfvemZVzPlCg6Gutb.6DDxX1&h=47ea0187&itok=LmVBEPFJ) 
+![Photo: Pierre Crom/Getty Images](/img/refs/5cb5f7ee5400c9f2.jpg) 
 
 [](https://www.csis.org/analysis/breaking-down-russian-missile-salvos-what-drives-neutralization) 
 
@@ -444,7 +444,7 @@ Image
 
 Image
 
-![Photo: Peter Zelei Images via Getty Images](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2024-10/GettyImages-1441737850_Crop1.jpg?VersionId=z.0XAtOTCtNimKysijC3yIt6fzkCwPl9&h=266da715&itok=3ZQLoB0E) 
+![Photo: Peter Zelei Images via Getty Images](/img/refs/5c734869cd421e92.jpg) 
 
 [](https://www.csis.org/analysis/assessing-russian-firepower-strikes-ukraine) 
 
@@ -452,11 +452,11 @@ Image
 
 Listen to article
 
-![](https://www.csis.org/themes/custom/ts_csis/assets/images/waveform.gif) 
+![](/img/refs/80ced03c1522ee63.gif) 
 
  Commentary by  Benjamin Jensen and  Yasir Atalan — October 23, 2024 
 
-[ ![Home](https://www.csis.org/themes/custom/ts_csis/assets/csis-logo-white.png) ](https://www.csis.org/) 
+[ ![Home](/img/refs/192610e91abd75cb.png) ](https://www.csis.org/) 
 
 ## Footer
 

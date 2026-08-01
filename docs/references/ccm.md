@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/convention-cluster-munitions)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/convention-cluster-munitions)
 
-[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/convention-cluster-munitions)
@@ -279,7 +279,7 @@ Office for Disarmament Affairs
 
 # Convention on Cluster Munitions 
 
-![](https://unodaweb.unoda.org/public/styles/27x10_hero_image_style/public/2025-08/eb57aa30aeaaba9a60c4db2821b3c8f3.gif?itok=T1eSkECs)
+![](/img/refs/27681369663e13d4.gif)
 
 The [**Convention on Cluster Munitions (CCM)**](https://treaties.unoda.org/t/cluster%5Fmunitions) prohibits under any circumstances the use, development, production, acquisition, stockpiling and transfer of cluster munitions, as well as the assistance or encouragement of anyone to engage in prohibited activities. The text of the Convention is available for download in the six official UN languages: [عربي](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BA.pdf), [中文, ](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BC.pdf)[English, ](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BE.pdf)[français](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BF.pdf), [русский, ](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BR.pdf)[español](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BS.pdf).
 
@@ -389,7 +389,7 @@ To facilitate transparency reporting, the First Meeting of States parties to the
    * **[русский](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BR.pdf)**  
    * **[español](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/convention-on-cluster-munitions/Convention%2Bon%2BCluster%2BMunitions%2BS.pdf)**
 
-![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+![un logo](/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

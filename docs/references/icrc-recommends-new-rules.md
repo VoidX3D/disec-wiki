@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](https://www.icrc.org/themes/custom/icrc_theme/html/images/logo/logo.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
+[ ![Home](/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
@@ -24,11 +24,11 @@ Happening now
  Stay updated with the latest news and ongoing initiatives of the ICRC.  
 [Latest news](https://www.icrc.org/en/news)  
 ### Featured  
-   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/Op-update-Venezuela---cover.jpg.webp?h=7b436a88&itok=ccmlIqxe%20%22People%20receive%20medical%20care%20from%20Venezuelan%20Red%20Cross%20volunteers%20at%20a%20temporary%20outdoor%20treatment%20area%20following%20the%20June%202026%20earthquakes%20in%20Venezuela.%20Several%20patients%20rest%20on%20folding%20stretchers%20while%20volunteers%20provide%20first%20aid%20and%20medical%20assistance.%22)  
+   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](/img/refs/37a2282b5da3cd7e.webp)  
    [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](https://www.icrc.org/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
-   * ![Child during ICRC food distribution in Leer. ](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-07/V-P-SS-E-00884.JPG.webp?h=50cc4df5&itok=7-hschqO%20%22Child%20during%20ICRC%20food%20distribution%20in%20Leer.%22)  
+   * ![Child during ICRC food distribution in Leer. ](/img/refs/5bcf3f5ed5b2a747.webp)  
    [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](https://www.icrc.org/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
-   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2025-12/Emblem-III_Press-release-1.jpg.webp?h=afdc3185&itok=geDfq-FF%20%22Bandera%20del%20CICR%20ondeando%20con%20el%20cielo%20y%20las%20nubes%20en%20el%20fondo%22)  
+   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](/img/refs/87d0d003c8c46e48.webp)  
    [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](https://www.icrc.org/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
 [](#)
 * [Who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
@@ -49,11 +49,11 @@ What we do
  The ICRC responds quickly and efficiently to help people affected by armed conflict.  
 [All our activities](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 ### In focus  
-   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2024-01/_MG_8720.jpg.webp?h=06ac0d8c&itok=vdtVQVrp%20%22ICRC%20working%20with%20the%20Myanmar%20Red%20Cross%20Society%20to%20support%20people%20displaced%20by%20violence%20in%20Pin%20Laung%20and%20Hsi%20Hseng,%20to%20provide%20emergency%20aid.%20Photographer:%20Thang%20Khan%20Sian%20Khai%22)  
+   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](/img/refs/3c868b47651f969e.webp)  
    [Protection: Upholding the rights of people in conflict](https://www.icrc.org/en/what-we-do/protection)  
-   * ![](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/home_carousel_slide/image/2-rfl-gaza_1.jpg.webp?h=f21e257f&itok=Mlf-lXyc%20%222-rfl-gaza_1.jpg%22)  
+   * ![](/img/refs/2741ad19bcd9759f.webp)  
    [Reconnecting families: Preventing separation, searching for the missing, reunit…](https://www.icrc.org/en/what-we-do/reconnecting-families)  
-   * ![](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/document_new/image/detention_prisoners_icrc_action_0.jpg.webp?h=2992ba0a&itok=H0M2y0pq%20%22detention_prisoners_icrc_action_0.jpg%22)  
+   * ![](/img/refs/c1a37ccc4e8cad7c.webp)  
    [Helping detainees: Protecting and assisting people deprived of their liberty](https://www.icrc.org/en/what-we-do/helping-detainees)  
 [](#)
 * [Where we work](https://www.icrc.org/en/where-we-work)  
@@ -92,11 +92,11 @@ Support us
 ##  Support us  
  Find out how you as an individual can contribute to our humanitarian efforts to help people suffering because of armed conflict.  
 [How to support us](https://www.icrc.org/en/how-you-can-support-us)  
-   * ![Venezuela Earthquake](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/AFP__20260625__B8973QM__v3__HighRes__TopshotVenezuelaEarthquake.jpg.webp?h=a39a9fac&itok=Gv8ozEYM%20%22Venezuela%20Earthquake%22)  
+   * ![Venezuela Earthquake](/img/refs/731d5fa6bea85af8.webp)  
    [Venezuela: Give your help](https://www.icrc.org/en/donate/venezuela)  
-   * ![Saher alghorra civilians gaza](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-03/Saher-alghorra-civilians-gaza_1.png.webp?h=409092c6&itok=NidSCgqO%20%22Saher%20alghorra%20civilians%20gaza%22)  
+   * ![Saher alghorra civilians gaza](/img/refs/d182ebe4fdbd0847.webp)  
    [The Near & Middle East: Give your help](https://www.icrc.org/en/donate/middle-east)  
-   * ![drc](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2024-06/icrc_drc_1_1.jpg.webp?h=0ca1a000&itok=PwywOk06%20%22drc%22)  
+   * ![drc](/img/refs/77a22cd222a07c8a.webp)  
    [DR Congo: Give your help](https://www.icrc.org/en/donate/congo-emergency)  
 [](#)
 
@@ -192,7 +192,7 @@ Building on the extensive and in-depth work of the CCW and this GGE over the pas
 
 ## Related
 
-![Synergy in Action: IHL and Islamic Law for Humanitarian Outcomes, a high-level event co-organized by the ICRC and the University for Peace with the support of the League of the Arab States, Organization of the Islamic Cooperation, United Nations High Commissioner on Refugees and the Geneva Peacebuilding Platform.](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/2026-05/Synergy-in-action-IHL-and-Islamic-law.jpg.webp?h=c7ade345&itok=0c3yLj54%20%22Synergy%20in%20Action:%20IHL%20and%20Islamic%20Law%20for%20Humanitarian%20Outcomes,%20a%20high-level%20event%20co-organized%20by%20the%20ICRC%20and%20the%20University%20for%20Peace%20with%20the%20support%20of%20the%20League%20of%20the%20Arab%20States,%20Organization%20of%20the%20Islamic%20Cooperation,%20United%20Nations%20High%20Commissioner%20on%20Refugees%20and%20the%20Geneva%20Peacebuilding%20Platform.%22) 
+![Synergy in Action: IHL and Islamic Law for Humanitarian Outcomes, a high-level event co-organized by the ICRC and the University for Peace with the support of the League of the Arab States, Organization of the Islamic Cooperation, United Nations High Commissioner on Refugees and the Geneva Peacebuilding Platform.](/img/refs/f5990d98bb239feb.webp) 
 
 Article
 
@@ -200,7 +200,7 @@ Article
 
 ### [Synergy in Action: IHL and Islamic Law for Humanitarian Outcomes](https://www.icrc.org/en/article/synergy-action-ihl-and-islamic-law-humanitarian-outcomes) 
 
-![movement-logos](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/2025-05/mix-movement-logos_order.jpg.webp?h=10d202d3&itok=047azkUK%20%22movement-logos%22) 
+![movement-logos](/img/refs/b6a26a09a5b58e25.webp) 
 
 Article
 
@@ -208,7 +208,7 @@ Article
 
 ### [Message on World Red Cross and Red Crescent Day 2026](https://www.icrc.org/en/article/message-world-red-cross-and-red-crescent-day-2026) 
 
-![Syria, Aleppo, 2026. Explosives collected by ICRC trained specialist staff  during the weapon clearance operation in Barlahin village in Aleppo.](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/2026-04/20260216-magnum-syria-6.jpg.webp?h=5ca4ce74&itok=LCkmUAlQ%20%22Syria,%20Aleppo,%202026.%20Explosives%20collected%20by%20ICRC%20trained%20specialist%20staff%20%20during%20the%20weapon%20clearance%20operation%20in%20Barlahin%20village%20in%20Aleppo.%22) 
+![Syria, Aleppo, 2026. Explosives collected by ICRC trained specialist staff  during the weapon clearance operation in Barlahin village in Aleppo.](/img/refs/0b0fac257aca18e7.webp) 
 
 News release
 

@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/explosive-weapons-populated-areas)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/explosive-weapons-populated-areas)
 
-[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/explosive-weapons-populated-areas)
@@ -279,7 +279,7 @@ Office for Disarmament Affairs
 
 # Explosive weapons in populated areas 
 
-![](https://www.unoda.org/s3/files/styles/27x10_hero_image_style/public/2020-05/EWIPA-Twitter_7.jpg?itok=316FQjzU)
+![](/img/refs/eb0ef7bb225e3b90.jpg)
 
 Armed conflicts are increasingly taking place in population centres and populated areas. This urbanization of armed conflict and the use of weapons with high explosive force and with the capability to affect large areas is resulting in devastating and well-documented impacts on civilians.
 
@@ -295,9 +295,9 @@ A populated area is generally understood as a permanent or temporary concentrati
 
 A leading concern is the use of explosive weapons, in particular those with wide-area impacts, in populated areas. Many of these weapons were originally designed for use in open battlefields and are **inherently indiscriminate when used in populated areas** and therefore result in increased civilian casualties and devastating humanitarian impacts.
 
-![](https://unodaweb.unoda.org/public/2018-06/EWIPA_generic_card_unocha-1_4.png)
+![](/img/refs/d0ab866db8c3531c.png)
 
-![](https://unodaweb.unoda.org/public/2018-06/EWIPA_quote_card_2_unocha_3.png)
+![](/img/refs/11dd0cfc61bc7408.png)
 
 Their use in cities, towns, and villages causes thousands of civilian casualties around the world each year and continues to be one of the greatest threats to civilians during armed conflict.
 
@@ -307,7 +307,7 @@ But civilian suffering includes not only death and injury. Many more are affecte
 
 The **Secretary-General of the United Nations** has highlighted the indiscriminate and severe humanitarian impact of the use of explosive weapons in populated areas since 2009\. He has consistently used his reports to the Security Council on the protection of civilians in armed conflict to bring attention to the devastating effects of the use of explosive weapons in populated areas on civilians; and continues to**appeal to parties to armed conflict and States to avoid the use of explosive weapons in populated areas, to work to remove conflict from urban areas altogether and to avoid locating military objectives within or near densely populated areas.**
 
-![](https://unodaweb.unoda.org/public/2018-10/SG-Agenda-for-Disarmament1.jpg)
+![](/img/refs/de5e19bfbf204237.jpg)
 
 In his [**Agenda for Disarmament** ](https://www.un.org/disarmament/sg-agenda/en/)**_Securing Our Common Future_**, the Secretary-General placed special emphasis on addressing the use of explosive weapons in populated areas and committed to support States in developing a political declaration as well as limitations, common standards and operational policies in conformity with international humanitarian law.
 
@@ -319,7 +319,7 @@ In November 2022 in a [joint press release](https://press.un.org/en/2022/dc3854.
 
 ### Data collection and the Sustainable Development Goals
 
-![](https://unodaweb.unoda.org/public/2018-06/image-62_0.png)
+![](/img/refs/85f90c4340eb4d58.png)
 
 [Target 16.1](https://sdgs.un.org/goals/goal16) of the **[2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda)** includes a commitment to significantly reduce all forms of violence and related deaths everywhere. Indicator 16.1.2 includes collection of data on conflict-related deaths per 100,000 population, disaggregated by age group, sex, and cause. The collection of disaggregated data on the category of arms used in conflict-related deaths can contribute to evidence-based dialogue to support the development of practice, policies and norms at the global, regional and national levels aimed at protecting civilians from the use of explosive weapons in populated areas.
 
@@ -380,7 +380,7 @@ _DISCLAIMER: UNODA is not responsible for the content of external links._
 * [S/2010/579](http://www.un.org/en/ga/search/view%5Fdoc.asp?symbol=S/2010/579&referer=/english/&Lang=E) paras 48, 49, 51
 * [S/2009/277](http://www.un.org/en/ga/search/view%5Fdoc.asp?symbol=S/2009/277&referer=/english/&Lang=E) para 36
 
-![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+![un logo](/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

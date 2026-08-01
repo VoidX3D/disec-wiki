@@ -22,7 +22,7 @@ Toggle navigation [Welcome to the United Nations](https://www.un.org/)
    * Türkçe
    * Українська
 
-[ ![UN logo](https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/logo.png) ](https://www.un.org/en%20%22United%20Nations%22) Peace, dignity and equality   
+[ ![UN logo](/img/refs/1570c164c31b19cb.png) ](https://www.un.org/en%20%22United%20Nations%22) Peace, dignity and equality   
 on a healthy planet 
 
 ## Search the United Nations

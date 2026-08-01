@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](https://www.sipri.org/sites/default/files/logo.svg) ](https://www.sipri.org/%20%22Home%22) 
+[  ](https://www.sipri.org/%20%22Home%22) 
 
 [STOCKHOLM INTERNATIONAL  PEACE RESEARCH INSTITUTE](https://www.sipri.org/%20%22Home%22) 
 
@@ -66,7 +66,7 @@ Search
 
 ###  Order SIPRI Yearbook 2025
 
-![YB25](https://www.sipri.org/sites/default/files/2025-06/2025_yearbook_cover__0.jpg) 
+ 
 
 Published in print and online in 2025 by Oxford University Press on behalf of the Stockholm International Peace Research Institute.
 
@@ -155,7 +155,7 @@ Contents
 * [TERMS AND CONDITIONS](https://www.sipri.org/databases/terms)
 * [COOKIE SETTINGS](https://www.sipri.org/#editCookieSettings)
 
-![SIPRI logo](https://www.sipri.org/sites/default/files/SIPRI_60_Anniversary_Logo%20RGB_TRANS_96_DPI.png) 
+ 
 
 **STOCKHOLM INTERNATIONAL** 
 **PEACE RESEARCH INSTITUTE**

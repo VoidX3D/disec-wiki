@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/cross-cutting-issues/military-confidence-building-measures/register-conventional-arms)
 * [Русский](https://www.unoda.org/ru/our-work/cross-cutting-issues/military-confidence-building-measures/register-conventional-arms)
 
-[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/cross-cutting-issues/military-confidence-building-measures/register-conventional-arms)
@@ -280,7 +280,7 @@ Office for Disarmament Affairs
 
 # Register of Conventional Arms 
 
-![](https://unodaweb.unoda.org/public/styles/27x10_hero_image_style/public/2025-08/UNROCA-webpage-image_UN7717187-1024x780.jpg?itok=AFNuy-2d)
+![](/img/refs/88cd424989348c56.jpg)
 
 A RCEME (Royal Canadian Electrical and Mechanical Engineers) vehicle loading ordnance supplies (spare parts) at the UNEF workshops at Camp Rafah.  
 Photo credit: UN Photo/JG
@@ -304,7 +304,7 @@ Category VII: **Missiles/missile launchers**
 
 _The Secretary-General’s Policy Brief on **[A New Agenda for Peace](https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-new-agenda-for-peace-en.pdf)** recognizes the importance of the Register of Conventional Arms to increase trust between States and build confidence through enhanced transparency_.
 
-[![](https://front.un-arm.org/wp-content/uploads/2015/02/UNROCA.png)](https://www.unroca.org/)
+[![](/img/refs/08c314ca5566b3a5.png)](https://www.unroca.org/)
 
 **To access the UNROCA database click** **[here](https://www.unroca.org/)**.
 
@@ -674,7 +674,7 @@ _\*GGE – Group of Governmental Experts_
 
 [Honduras](https://unodaweb.unoda.org/public/2025-11/Honduras%20-%20Annual%20Report%202019%20%28P%29.pdf)
 
-![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+![un logo](/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

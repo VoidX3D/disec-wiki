@@ -12,7 +12,7 @@ Language Selection:
 * [English](https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy)
 * [Français](https://www.nato.int/fr/about-us/official-texts-and-resources/official-texts/2021/10/22/summary-of-the-nato-artificial-intelligence-strategy)
 
-[ ![NATO](https://www.nato.int/content/experience-fragments/nato/site/header/english/master/_jcr_content/root/c06_main_header_copy/logo.coreimg.png/1771861319290/nato.png%20%22nato%22) ](https://www.nato.int/en) 
+[  ](https://www.nato.int/en) 
 
  Menu 
 
@@ -370,7 +370,7 @@ Language Selection:
 
 ## Download NATO’s broadcast-quality video content free of charge
 
-![Login](https://www.nato.int/content/experience-fragments/nato/site/header/english/master/_jcr_content/root/c12_login/img.coreimg.png/1748607768762/member-countries.png%20%22member_countries%22) 
+ 
 
 ## Log in
 
@@ -390,7 +390,7 @@ LOG IN
 
 ## Access NATO’s broadcast-quality video content free of charge
 
-![Register](https://www.nato.int/content/experience-fragments/nato/site/header/english/master/_jcr_content/root/c13_register/img.coreimg.png/1762850566535/member-countries.png%20%22member_countries%22) 
+ 
 
 ## Create an account
 
@@ -685,7 +685,7 @@ USE ANOTHER EMAIL
 
 * [ Use of content and brand ](https://www.nato.int/en/about-us/official-texts-and-resources/use-of-nato-content-and-brand)
 
-[ ![logo-footer](https://www.nato.int/content/experience-fragments/nato/site/footer/english/master/_jcr_content/root/c07_main_footer_copy/logo.coreimg.png/1763974469257/logo-footer.png%20%22logo-footer%22) ](https://www.nato.int/en) 
+[  ](https://www.nato.int/en) 
 
 North Atlantic Treaty Organization
 

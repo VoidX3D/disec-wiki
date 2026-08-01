@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](https://www.sipri.org/sites/default/files/logo.svg) ](https://www.sipri.org/%20%22Home%22) 
+[  ](https://www.sipri.org/%20%22Home%22) 
 
 [STOCKHOLM INTERNATIONAL  PEACE RESEARCH INSTITUTE](https://www.sipri.org/%20%22Home%22) 
 
@@ -68,7 +68,7 @@ Search
 
 # Autonomy in weapon systems
 
-![Autonomy in weapon systems](https://www.sipri.org/sites/default/files/styles/body_full_width_landscape/public/2021-04/shutterstock_1808745988.jpg?itok=JT14ayJL%20%22Meeting%20of%20Aerospace%20Engineers%20Work%20On%20Unmanned%20Aerial%20Vehicle%20Drone%20Prototype.%20Photo:%20Gorodenkoff/Shutterstock%22) 
+ 
 
 Meeting of Aerospace Engineers Work On Unmanned Aerial Vehicle Drone Prototype. Photo: Gorodenkoff/Shutterstock
 
@@ -80,7 +80,7 @@ SIPRI’s work on autonomous weapons systems has received funding from Canada, G
 
 ## Related news and events
 
-[ ![Major Paul Owens (DND), Dr Vincent Boulanin (SIPRI) and Netta Goussac (SIPRI)](https://www.sipri.org/sites/default/files/styles/home_blocks_small/public/2026-03/img_0898.jpg?itok=DKcsG150%20%22Major%20Paul%20Owens%20(DND), Dr Vincent Boulanin (SIPRI) and Netta Goussac (SIPRI)") ](https://www.sipri.org/news/2026/sipri-ccw-gge-autonomous-weapons) 
+[ , Dr Vincent Boulanin (SIPRI) and Netta Goussac (SIPRI)") ](https://www.sipri.org/news/2026/sipri-ccw-gge-autonomous-weapons) 
 
 6 March 2026 
 
@@ -88,7 +88,7 @@ SIPRI’s work on autonomous weapons systems has received funding from Canada, G
 
 NEWS 
 
-[ ![Blue optimal path](https://www.sipri.org/sites/default/files/styles/home_blocks_small/public/2025-10/shutterstock_1610784412.jpg?itok=dV7aHwgT%20%22Image:%20Shutterstock%22) ](https://www.sipri.org/events/2025/sipri-hosts-webinar-future-multilateral-policy-autonomous-weapon-systems) 
+[  ](https://www.sipri.org/events/2025/sipri-hosts-webinar-future-multilateral-policy-autonomous-weapon-systems) 
 
 11 November 2025 10 November 2025 
 
@@ -96,7 +96,7 @@ NEWS
 
 EVENTS 
 
-[ ![UNGA First Committee Side Event](https://www.sipri.org/sites/default/files/styles/home_blocks_small/public/2025-11/aws_28oct.jpg?itok=A_3LozT9%20%22Participants%20at%20the%20side%20event%20%27Towards%20Multilateral%20Policy%20on%20Autonomous%20Weapon%20Systems%27%22) ](https://www.sipri.org/news/2025/sipri-leads-two-side-events-un-first-committee) 
+[  ](https://www.sipri.org/news/2025/sipri-leads-two-side-events-un-first-committee) 
 
 6 November 2025 
 
@@ -108,19 +108,19 @@ NEWS
 
 ## Related publications
 
-[ ](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems)[ ![Towards Multilateral Policy on Autonomous Weapon Systems](https://www.sipri.org/sites/default/files/styles/max_325x325/public/2025-09/towards_multilateral_policy_on_autonomous_weapon_systems_cover.png?itok=9Ox1fLfZ) ](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems) 
+[ ](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems)[  ](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems) 
 
 Blanchard, A. and Goussac, N.
 
 [ Towards Multilateral Policy on Autonomous Weapon Systems ](https://www.sipri.org/publications/2025/other-publications/towards-multilateral-policy-autonomous-weapon-systems) (SIPRI: September 2025)
 
-[ ](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and)[ ![LAWS V_cover](https://www.sipri.org/sites/default/files/styles/max_325x325/public/2025-06/laws_v_cover_web.png?itok=NsU60G0D) ](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and) 
+[ ](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and)[  ](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and) 
 
 Blanchard, A. and Bruun, L. 
 
 [ Autonomous Weapon Systems and AI-enabled Decision Support Systems in Military Targeting: A Comparison and Recommended Policy Responses ](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and) (SIPRI: June 2025)
 
-[ ](https://www.sipri.org/publications/2023/policy-reports/compliance-international-humanitarian-law-development-and-use-autonomous-weapon-systems-what-does)[ ![AWS and IHL_cover](https://www.sipri.org/sites/default/files/styles/max_325x325/public/2023-03/ihl_and_aws_cover.png?itok=PL9HEG7B) ](https://www.sipri.org/publications/2023/policy-reports/compliance-international-humanitarian-law-development-and-use-autonomous-weapon-systems-what-does) 
+[ ](https://www.sipri.org/publications/2023/policy-reports/compliance-international-humanitarian-law-development-and-use-autonomous-weapon-systems-what-does)[  ](https://www.sipri.org/publications/2023/policy-reports/compliance-international-humanitarian-law-development-and-use-autonomous-weapon-systems-what-does) 
 
 Bruun, L., Bo, M. and Goussac, N.
 
@@ -130,11 +130,11 @@ Bruun, L., Bo, M. and Goussac, N.
 
 ## Research staff
 
-[![Vincent Boulanin](https://www.sipri.org/sites/default/files/styles/thumbnail/public/8O8A4979-2_1.jpg?itok=dlFBCGVB) ](https://www.sipri.org/about/bios/dr-vincent-boulanin) 
+[ ](https://www.sipri.org/about/bios/dr-vincent-boulanin) 
 
 [Dr Vincent Boulanin](https://www.sipri.org/about/bios/dr-vincent-boulanin) is Director of the Governance of Artificial Intelligence Programme at SIPRI.
 
-[![Laura Bruun](https://www.sipri.org/sites/default/files/styles/thumbnail/public/2026-06/dsc_0298_2.jpg?itok=vrAYew2L) ](https://www.sipri.org/about/bios/laura-bruun) 
+[ ](https://www.sipri.org/about/bios/laura-bruun) 
 
 [Laura Bruun](https://www.sipri.org/about/bios/laura-bruun) is a Senior Researcher in the SIPRI Governance of Artificial Intelligence Programme.
 
@@ -234,7 +234,7 @@ Bruun, L., Bo, M. and Goussac, N.
 * [TERMS AND CONDITIONS](https://www.sipri.org/databases/terms)
 * [COOKIE SETTINGS](https://www.sipri.org/#editCookieSettings)
 
-![SIPRI logo](https://www.sipri.org/sites/default/files/SIPRI_60_Anniversary_Logo%20RGB_TRANS_96_DPI.png) 
+ 
 
 **STOCKHOLM INTERNATIONAL** 
 **PEACE RESEARCH INSTITUTE**

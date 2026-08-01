@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](https://www.smallarmssurvey.org/sites/default/files/SAS-Logo-3x.png) ](https://www.smallarmssurvey.org/%20%22Home%22) 
+[ ![Home](/img/refs/bc165a51e30f2b0c.png) ](https://www.smallarmssurvey.org/%20%22Home%22) 
 
 Search 
 
@@ -73,37 +73,37 @@ For 25 years, the Small Arms Survey has provided impartial, evidence-based, and 
 
 ## Projects
 
-[![SAS logo](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_38.png?itok=H9LATJZc) ](https://www.smallarmssurvey.org/project/splash) 
+[![SAS logo](/img/refs/78194e32c4bb9b69.png) ](https://www.smallarmssurvey.org/project/splash) 
 
 ###  Stopping Proliferation of Lethal Arms at Sea and Harbours (SPLASH)
 
 [View](https://www.smallarmssurvey.org/project/splash) 
 
-[![SAS logo](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_37.png?itok=6TgRBTLQ) ](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
+[![SAS logo](/img/refs/64fd8c8929d66666.png) ](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
 
 ###  Addressing Challenges to Arms Trade Treaty Universalization through Networking and Engagement in the Indo-Pacific Region (ATTUNE)
 
 [View](https://www.smallarmssurvey.org/project/addressing-challenges-arms-trade-treaty-universalization-through-networking-and-engagement) 
 
-[![Survey logo](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_36.png?itok=HgMtavk3) ](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
+[![Survey logo](/img/refs/f3658c51d3fcd0fc.png) ](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
 
 ###  Privately Manufactured Firearms Seizure Research in Europe
 
 [View](https://www.smallarmssurvey.org/project/privately-manufactured-firearms-seizure-research-europe) 
 
-[![SAS logo](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_35.png?itok=iynu9f9M) ](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
+[![SAS logo](/img/refs/022dab4f9eb2f25f.png) ](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
 
 ###  Securing the Future: Evidence-Based Approaches to Countering Illicit Arms and Promoting Safer Communities in Ukraine
 
 [View](https://www.smallarmssurvey.org/project/ukraine-project-countering-illicit-arms-and-promoting-safer-communities) 
 
-[![SAS trigger](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_34.png?itok=c6VvzupT) ](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
+[![SAS trigger](/img/refs/c98e81bf82de4c98.png) ](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
 
 ###  Enhancing Local Arms Control and Risk Reduction in Ukraine
 
 [View](https://www.smallarmssurvey.org/project/enhancing-local-arms-control-and-risk-reduction-ukraine) 
 
-[![SAS trigger](https://www.smallarmssurvey.org/sites/default/files/styles/thumbnail/public/logos/sas-trigger-circle-240_28.png?itok=qAZ8cMvR) ](https://www.smallarmssurvey.org/project/att-universalization-and-compliance-indo-pacific-region) 
+[![SAS trigger](/img/refs/c72d14d8c4b889e9.png) ](https://www.smallarmssurvey.org/project/att-universalization-and-compliance-indo-pacific-region) 
 
 ###  Understanding challenges to the ATT universalization and compliance in the Indo-Pacific region
 
@@ -180,7 +180,7 @@ Maison de la Paix, Chemin Eugène-Rigot 2E
 
 [**media@smallarmssurvey.org**](mailto:media@smallarmssurvey.org)
 
-![](https://www.smallarmssurvey.org/sites/default/files/inline-images/SASLOGO-all-white-transparent-BG.png)
+![](/img/refs/40f63e7f895f44e1.png)
 
 ## Footer menu
 

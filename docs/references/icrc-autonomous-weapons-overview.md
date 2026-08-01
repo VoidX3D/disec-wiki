@@ -2,7 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ ![Home](https://www.icrc.org/themes/custom/icrc_theme/html/images/logo/logo.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
+[ ![Home](/img/refs/cdcc4be3dcee4870.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
@@ -24,11 +24,11 @@ Happening now
  Stay updated with the latest news and ongoing initiatives of the ICRC.  
 [Latest news](https://www.icrc.org/en/news)  
 ### Featured  
-   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/Op-update-Venezuela---cover.jpg.webp?h=7b436a88&itok=ccmlIqxe%20%22People%20receive%20medical%20care%20from%20Venezuelan%20Red%20Cross%20volunteers%20at%20a%20temporary%20outdoor%20treatment%20area%20following%20the%20June%202026%20earthquakes%20in%20Venezuela.%20Several%20patients%20rest%20on%20folding%20stretchers%20while%20volunteers%20provide%20first%20aid%20and%20medical%20assistance.%22)  
+   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](/img/refs/37a2282b5da3cd7e.webp)  
    [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](https://www.icrc.org/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
-   * ![Child during ICRC food distribution in Leer. ](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-07/V-P-SS-E-00884.JPG.webp?h=50cc4df5&itok=7-hschqO%20%22Child%20during%20ICRC%20food%20distribution%20in%20Leer.%22)  
+   * ![Child during ICRC food distribution in Leer. ](/img/refs/5bcf3f5ed5b2a747.webp)  
    [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](https://www.icrc.org/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
-   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2025-12/Emblem-III_Press-release-1.jpg.webp?h=afdc3185&itok=geDfq-FF%20%22Bandera%20del%20CICR%20ondeando%20con%20el%20cielo%20y%20las%20nubes%20en%20el%20fondo%22)  
+   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](/img/refs/87d0d003c8c46e48.webp)  
    [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](https://www.icrc.org/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
 [](#)
 * [Who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
@@ -49,11 +49,11 @@ What we do
  The ICRC responds quickly and efficiently to help people affected by armed conflict.  
 [All our activities](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 ### In focus  
-   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2024-01/_MG_8720.jpg.webp?h=06ac0d8c&itok=vdtVQVrp%20%22ICRC%20working%20with%20the%20Myanmar%20Red%20Cross%20Society%20to%20support%20people%20displaced%20by%20violence%20in%20Pin%20Laung%20and%20Hsi%20Hseng,%20to%20provide%20emergency%20aid.%20Photographer:%20Thang%20Khan%20Sian%20Khai%22)  
+   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](/img/refs/3c868b47651f969e.webp)  
    [Protection: Upholding the rights of people in conflict](https://www.icrc.org/en/what-we-do/protection)  
-   * ![](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/home_carousel_slide/image/2-rfl-gaza_1.jpg.webp?h=f21e257f&itok=Mlf-lXyc%20%222-rfl-gaza_1.jpg%22)  
+   * ![](/img/refs/2741ad19bcd9759f.webp)  
    [Reconnecting families: Preventing separation, searching for the missing, reunit…](https://www.icrc.org/en/what-we-do/reconnecting-families)  
-   * ![](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/document_new/image/detention_prisoners_icrc_action_0.jpg.webp?h=2992ba0a&itok=H0M2y0pq%20%22detention_prisoners_icrc_action_0.jpg%22)  
+   * ![](/img/refs/c1a37ccc4e8cad7c.webp)  
    [Helping detainees: Protecting and assisting people deprived of their liberty](https://www.icrc.org/en/what-we-do/helping-detainees)  
 [](#)
 * [Where we work](https://www.icrc.org/en/where-we-work)  
@@ -92,11 +92,11 @@ Support us
 ##  Support us  
  Find out how you as an individual can contribute to our humanitarian efforts to help people suffering because of armed conflict.  
 [How to support us](https://www.icrc.org/en/how-you-can-support-us)  
-   * ![Venezuela Earthquake](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/AFP__20260625__B8973QM__v3__HighRes__TopshotVenezuelaEarthquake.jpg.webp?h=a39a9fac&itok=Gv8ozEYM%20%22Venezuela%20Earthquake%22)  
+   * ![Venezuela Earthquake](/img/refs/731d5fa6bea85af8.webp)  
    [Venezuela: Give your help](https://www.icrc.org/en/donate/venezuela)  
-   * ![Saher alghorra civilians gaza](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-03/Saher-alghorra-civilians-gaza_1.png.webp?h=409092c6&itok=NidSCgqO%20%22Saher%20alghorra%20civilians%20gaza%22)  
+   * ![Saher alghorra civilians gaza](/img/refs/d182ebe4fdbd0847.webp)  
    [The Near & Middle East: Give your help](https://www.icrc.org/en/donate/middle-east)  
-   * ![drc](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2024-06/icrc_drc_1_1.jpg.webp?h=0ca1a000&itok=PwywOk06%20%22drc%22)  
+   * ![drc](/img/refs/77a22cd222a07c8a.webp)  
    [DR Congo: Give your help](https://www.icrc.org/en/donate/congo-emergency)  
 [](#)
 
@@ -124,7 +124,7 @@ International humanitarian law and policy on
 
 Autonomous weapons are not a work of science fiction from a distant dystopian future. They are an immediate cause of humanitarian concern and demand an urgent, international political response.
 
-![Northrop Grumman personnel conduct preoperational tests on a U.S. Navy X-47B Unmanned Combat Air System demonstrator aircraft.](https://www.icrc.org/sites/default/files/styles/desktop_full/public/2024-04/Autonomous%20weapons.jpg.webp?h=5917e820&itok=_bRneEg6%20%22Northrop%20Grumman%20personnel%20conduct%20preoperational%20tests%20on%20a%20U.S.%20Navy%20X-47B%20Unmanned%20Combat%20Air%20System%20demonstrator%20aircraft.%22) 
+![Northrop Grumman personnel conduct preoperational tests on a U.S. Navy X-47B Unmanned Combat Air System demonstrator aircraft.](/img/refs/1901ecdaf0f5cbf2.webp) 
 
 ###  What are the dangers of autonomous weapons? | The Laws of War
 
@@ -150,21 +150,21 @@ This theme examines the legal, ethical, and technological dimensions of autonomo
 
 [Read more](https://blogs.icrc.org/law-and-policy/tag/autonomous-weapons/) 
 
-![Autonomous Weapons law and policy blog](https://www.icrc.org/sites/default/files/styles/desktop_image/public/2025-04/Autonomous-Weapons-law-and-policy-icrc.jpg.webp?itok=459GgjY1%20%22Autonomous%20Weapons%20law%20and%20policy%20blog%22) 
+![Autonomous Weapons law and policy blog](/img/refs/7ec6f6e1cd611f68.webp) 
 
 ##  Highlights
 
 ### [ ICRC position on autonomous weapon systems](https://www.icrc.org/en/document/icrc-position-autonomous-weapon-systems)
 
-[ ![ICRC_IAI_Harop](https://www.icrc.org/sites/default/files/styles/mobile_square_1/public/2024-02/IAI_Harop_PAS_2013_02.jpg.webp?h=a22dd239&itok=SFZcvYxg%20%22ICRC_IAI_Harop%22) ](https://www.icrc.org/en/document/icrc-position-autonomous-weapon-systems) 
+[ ![ICRC_IAI_Harop](/img/refs/ba435818bba98765.webp) ](https://www.icrc.org/en/document/icrc-position-autonomous-weapon-systems) 
 
 ### [ Limits on Autonomy in Weapon Systems ](https://www.icrc.org/en/document/limits-autonomous-weapons)
 
-[ ![](https://www.icrc.org/sites/default/files/styles/mobile_square_1/public/topic/banner_list/icrc_sipri_report_2_0.jpg.webp?h=d40ae758&itok=0aS2iWLl%20%22icrc_sipri_report_2_0.jpg%22) ](https://www.icrc.org/en/document/limits-autonomous-weapons) 
+[ ![](/img/refs/359e8e1ca26babfb.webp) ](https://www.icrc.org/en/document/limits-autonomous-weapons) 
 
 ### [ What you need to know about autonomous weapons](https://www.icrc.org/en/document/what-you-need-know-about-autonomous-weapons)
 
-[ ![A still from ICRC's video "What are the dangers of autonomous weapons?".](https://www.icrc.org/sites/default/files/styles/mobile_square_1/public/wysiwyg/UKIre/awstarget.jpg.webp?h=bf0a9385&itok=dieXJUNC%20%22A%20still%20from%20ICRC%27s%20video%20%22What%20are%20the%20dangers%20of%20autonomous%20weapons?%22.%22) ](https://www.icrc.org/en/document/what-you-need-know-about-autonomous-weapons) 
+[ ![A still from ICRC's video "What are the dangers of autonomous weapons?".](/img/refs/368e06f77a88dcd8.webp) ](https://www.icrc.org/en/document/what-you-need-know-about-autonomous-weapons) 
 
 ## Latest articles
 
@@ -174,7 +174,7 @@ Article
 
 08-07-2026 
 
-![ICRC panel on unmanned systems in armed conflicts](https://www.icrc.org/sites/default/files/styles/tablet_img_rect_01/public/2026-07/china-world-peace-forum-2026-panel-unmanned-systems-1.jpg.webp?h=47a90c0c&itok=2gWb-g_A%20%22ICRC%20panel%20on%20unmanned%20systems%20in%20armed%20conflicts%22) 
+![ICRC panel on unmanned systems in armed conflicts](/img/refs/ac09bdf5a7f3d6a5.webp) 
 
 ### [Advocacy paper: A key opportunity to prevent the development of unacceptable autonomous weapons](https://www.icrc.org/en/article/advocacy-paper-key-opportunity-prevent-development-unacceptable-autonomous-weapons)
 
@@ -182,7 +182,7 @@ Article
 
 17-06-2026 
 
-![AI_AWS_cover](https://www.icrc.org/sites/default/files/styles/desktop_rect_2/public/2026-06/AI_AWS_cover.jpg.webp?h=0f7b23ef&itok=wz8JzXim%20%22AI_AWS_cover%22) 
+![AI_AWS_cover](/img/refs/49e48afce52e8901.webp) 
 
 ### [Frequently asked questions: Artificial Intelligence (AI) in the military domain ](https://www.icrc.org/en/article/faq-artificial-intelligence-in-military-domain)
 
@@ -190,7 +190,7 @@ Article
 
 11-06-2026 
 
-![AI_AWS_cover](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/AI_AWS_cover.jpg.webp?h=0f7b23ef&itok=FQkDcPhC%20%22AI_AWS_cover%22) 
+![AI_AWS_cover](/img/refs/645e4997c2f3db5d.webp) 
 
 ### [Autonomous Weapon Systems and International Humanitarian Law: Selected Issues ](https://www.icrc.org/en/article/autonomous-weapon-systems-and-international-humanitarian-law-selected-issues)
 
@@ -198,7 +198,7 @@ Article
 
 03-03-2026 
 
-![autonomous weapons  ](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2024-03/awsschematics.jpg.webp?h=aedce88c&itok=HbYZ2RfK%20%22autonomous%20weapons%22) 
+![autonomous weapons  ](/img/refs/e23006841ca849d7.webp) 
 
 ### [Frequently Asked Questions: International humanitarian law and the use of drones in armed conflict ](https://www.icrc.org/en/article/faq-international-humanitarian-law-drones-armed-conflict)
 
@@ -206,7 +206,7 @@ Article
 
 10-12-2025 
 
-![](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/wysiwyg/drone.jpg.webp?h=c7456faf&itok=-9P5H419%20%22drone.jpg%22) 
+![](/img/refs/2f1e52baa609ac0b.webp) 
 
 [More](https://www.icrc.org/en/resource-centre/result?f%5B0%5D=type%3Aarticle&f%5B1%5D=type%3Ahelp%5Fpage&f%5B2%5D=type%3Anews%5Frelease&f%5B3%5D=type%3Aphoto%5Fgallery&f%5B4%5D=type%3Apublication&f%5B5%5D=type%3Areport&f%5B6%5D=type%3Astatement&f%5B7%5D=type%3Avideo&t=Autonomous%20weapons) 
 

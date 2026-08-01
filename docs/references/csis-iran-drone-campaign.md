@@ -250,7 +250,7 @@ open
 
 # Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare 
 
-![Photo: alones/Adobe Stock](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2026-03/AdobeStock_1934369341_cropped.jpg?VersionId=Vn13N2ESDb6ZuZtg4ZhL68SUMqpgkTei&h=266da715&itok=yg_4Ejvk) 
+![Photo: alones/Adobe Stock](/img/refs/c13f7a37db7d3579.jpg) 
 
 Photo: alones/Adobe Stock
 
@@ -282,7 +282,7 @@ As shown in Figure 1, Iran’s strike campaign has not been evenly distributed a
 
 Image
 
-![5Bondar](https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/135x135/s3/2024-01/5Bondar.jpg?VersionId=m9ypQlkXmJoAr8oEdQNo3G7G3pB0L6oQ&h=2a479378&itok=x0ug2mv8) 
+![5Bondar](/img/refs/90e751dbda7cea04.jpg) 
 
 [](https://www.csis.org/people/kateryna-bondar) 
 
@@ -374,7 +374,7 @@ _Commentary_ is produced by the Center for Strategic and International Studies (
 * [ ](https://www.csis.org/cdn-cgi/l/email-protection#b08fc3c5d2dad5d3c48de0d1d7d590d6c2dfdd90f3e3f9e39edfc2d796d2dfd4c98dd8c4c4c0c38a9f9fc7c7c79ed3c3d9c39edfc2d79fd1ded1dcc9c3d9c39fc5dec0d1d3dbd9ded79dd9c2d1dec39dd4c2dfded59dd3d1ddc0d1d9d7de9dd7c5dcd69dd5d1c2dcc99ddcd5c3c3dfdec39dd6c5c4c5c2d59dd4c2dfded59dc7d1c2d6d1c2d5)
 * [ ](javascript:window.print%28%29)
 
-[ ![Home](https://www.csis.org/themes/custom/ts_csis/assets/csis-logo-white.png) ](https://www.csis.org/) 
+[ ![Home](/img/refs/192610e91abd75cb.png) ](https://www.csis.org/) 
 
 ## Footer
 

@@ -22,7 +22,7 @@ An official website of the United States Government Here's how you know
 
 [ Facebook Facebook ](https://www.facebook.com/statedept) [ X X ](https://x.com/StateDept) [ Instagram Instagram ](https://www.instagram.com/statedept/) [ YouTube YouTube ](https://www.youtube.com/statedept) [ Flickr Flickr ](https://www.flickr.com/photos/statephotos/) [ GovDelivery ](https://www.state.gov/department-email-updates/) 
 
-* [ ![](https://www.state.gov/wp-content/themes/state/images/logos/us-flag-color.svg)State Department Home ![](https://www.state.gov/wp-content/themes/state/images/logos/statedept-logotype-white.svg)State Department Home ](https://www.state.gov)
+* [ ![](/img/refs/9251802c25cdef5d.svg)State Department Home ![](/img/refs/a9628577a56a9b68.svg)State Department Home ](https://www.state.gov)
 * search
 * [United States Department of State](https://www.state.gov/)
 Countries & Areas 

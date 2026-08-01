@@ -27,7 +27,7 @@ move to sidebar hide
 * [Upload file](https://en.wikipedia.org/wiki/Wikipedia:File%5Fupload%5Fwizard%20%22Add%20images%20or%20other%20media%20for%20use%20on%20Wikipedia%22)
 * [Special pages](https://en.wikipedia.org/wiki/Special:SpecialPages%20%22A%20list%20of%20all%20special%20pages%20[q]%22)
 
-[ ![](https://en.wikipedia.org/static/images/icons/enwiki-25.svg) ![Wikipedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg) ![The Free Encyclopedia](https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
+[ ![](/img/refs/33a24f44aaadcfb1.svg) ![Wikipedia](/img/refs/8903a4093a9d2863.svg) ![The Free Encyclopedia](/img/refs/36120a9d49f18877.svg) ](https://en.wikipedia.org/wiki/Main%5FPage) 
 
 [ Search ](https://en.wikipedia.org/wiki/Special:Search%20%22Search%20Wikipedia%20[f]%22) 
 
@@ -128,7 +128,7 @@ From Wikipedia, the free encyclopedia
 
 Autonomous military technology system
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sloboda_2019_-_defile_10_-_Land_Rover_Defender_i_robot_Milo%C5%A1_06.jpg/250px-Sloboda_2019_-_defile_10_-_Land_Rover_Defender_i_robot_Milo%C5%A1_06.jpg)](https://en.wikipedia.org/wiki/File:Sloboda%5F2019%5F-%5Fdefile%5F10%5F-%5FLand%5FRover%5FDefender%5Fi%5Frobot%5FMiloš%5F06.jpg)
+[](https://en.wikipedia.org/wiki/File:Sloboda%5F2019%5F-%5Fdefile%5F10%5F-%5FLand%5FRover%5FDefender%5Fi%5Frobot%5FMiloš%5F06.jpg)
 
 Serbian Land Rover Defender towing trailer with ["Miloš" tracked combat robot](https://en.wikipedia.org/wiki/Miloš%5F%28unmanned%5Fground%5Fvehicle%29 "Miloš (unmanned ground vehicle)")
 
@@ -176,7 +176,7 @@ In October 2018, Zeng Yi, a senior executive at the Chinese defense firm [Norinc
 
 As of 2020, [DARPA](https://en.wikipedia.org/wiki/DARPA "DARPA") was working on making swarms of 250 autonomous lethal drones available to the American military.[\[30\]](#cite%5Fnote-30) The [US Navy](https://en.wikipedia.org/wiki/US%5FNavy "US Navy") is developing [unmanned surface vehicles](https://en.wikipedia.org/wiki/Unmanned%5Fsurface%5Fvehicle "Unmanned surface vehicle"), also called sea drones, including [Ghost Fleet Overlord](https://en.wikipedia.org/wiki/Ghost%5FFleet%5FOverlord "Ghost Fleet Overlord"), with plans to equip them with weapons and with the potential to use them semi-autonomously.[\[31\]](#cite%5Fnote-31)[\[32\]](#cite%5Fnote-32)
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/STM_Kargu.png/250px-STM_Kargu.png)](https://en.wikipedia.org/wiki/File:STM%5FKargu.png)
+[](https://en.wikipedia.org/wiki/File:STM%5FKargu.png)
 
 The Turkish [STM Kargu](https://en.wikipedia.org/wiki/STM%5FKargu "STM Kargu") [loitering munition](https://en.wikipedia.org/wiki/Loitering%5Fmunition "Loitering munition") may have been the first lethal autonomous weapon to attack enemy combatants in warfare.
 
@@ -226,7 +226,7 @@ LAWs are said by some to blur the boundaries of who is responsible for a particu
 
 \[[edit](https://en.wikipedia.org/w/index.php?title=Lethal%5Fautonomous%5Fweapon&action=edit&section=8%20%22Edit%20section:%20Campaigns%20to%20ban%20LAWs%22)\]
 
-[![Rally on the steps of San Francisco City Hall, protesting against a vote to authorize police use of deadly force robots.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rally_against_SFPD_killer_robots_20221205-181712605.jpg/250px-Rally_against_SFPD_killer_robots_20221205-181712605.jpg)](https://en.wikipedia.org/wiki/File:Rally%5Fagainst%5FSFPD%5Fkiller%5Frobots%5F20221205-181712605.jpg)
+[](https://en.wikipedia.org/wiki/File:Rally%5Fagainst%5FSFPD%5Fkiller%5Frobots%5F20221205-181712605.jpg)
 
 Rally on the steps of [San Francisco City Hall](https://en.wikipedia.org/wiki/San%5FFrancisco%5FCity%5FHall "San Francisco City Hall"), protesting against a vote to authorize police use of deadly force robots
 
@@ -401,8 +401,8 @@ Hidden categories:
 * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie%5Fstatement)
 * [Mobile view](https://en.wikipedia.org/w/index.php?title=Lethal%5Fautonomous%5Fweapon&mobileaction=toggle%5Fview%5Fmobile)
-* [![Wikimedia Foundation](https://en.wikipedia.org/static/images/footer/wikimedia.svg)](https://www.wikimedia.org/)
-* [![Powered by MediaWiki](https://en.wikipedia.org/w/resources/assets/mediawiki_compact.svg)](https://www.mediawiki.org/)
+* [![Wikimedia Foundation](/img/refs/99d0eb84b891c8c4.svg)](https://www.wikimedia.org/)
+* [![Powered by MediaWiki](/img/refs/2a95614c6a401b8c.svg)](https://www.mediawiki.org/)
 
 Search 
 

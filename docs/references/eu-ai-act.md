@@ -8,7 +8,7 @@ search:
 
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
 
-| ![European flag](https://eur-lex.europa.eu/images/europeanflag.gif) | Official Journal of the European Union | EN L series |
+| ![European flag](/img/refs/03c9213aae0f3489.gif) | Official Journal of the European Union | EN L series |
 | ------------------------------------------------------- | -------------------------------------- | ----------- |
 
 ---

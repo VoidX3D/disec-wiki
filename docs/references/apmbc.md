@@ -11,7 +11,7 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/anti-personnel-landmines-convention)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/anti-personnel-landmines-convention)
 
-[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/anti-personnel-landmines-convention)
@@ -279,7 +279,7 @@ Office for Disarmament Affairs
 
 # Anti-Personnel Landmines Convention 
 
-![](https://unodaweb.unoda.org/public/styles/16x9_image_style/public/2025-08/1997-Handover-of-the-text-of-the-Convention-Oslo-to-Canada-Kofi-Annan-photo-Kesytone-1024x633-1.jpg?itok=3MKgKKyw)
+![](/img/refs/ee5b4142f3171941.jpg)
 
 Minister of Foreign Affairs of Canada, Lloyd Axworthy, center, and Foreign Minister of Norway Bjorn Tore Godal, right, hold the document produced at the Oslo Conference calling for a total ban on anti-personnel land mines at the United Nations Friday, Sept. 26, 1997\. U.N. Secretary-General Kofi Annan, left, applauds. (AP Photo/Adam Nadel)
 
@@ -364,7 +364,7 @@ Available for download in [**English**](https://front.un-arm.org/wp-content/uplo
    * **[عربى](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/anti-personnel-landmines-convention/AP%5FMBC%5FArab.pdf)**  
    * **[中文](https://geneva-s3.unoda.org/static-unoda-site/pages/templates/anti-personnel-landmines-convention/AP%5FMBC%5FChinese.pdf)**
 
-![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
+![un logo](/img/refs/fced3531d0f4e0fc.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

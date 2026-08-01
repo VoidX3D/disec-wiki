@@ -103,7 +103,7 @@ Explore the winning work of our Future 2045 multimedia art contest.
 
 [See the work](https://www.stopkillerrobots.org/take-action/youth-art-contest-future-2045/) 
 
-![menu hero image](https://www.stopkillerrobots.org/wp-content/uploads/2021/06/pagebuilder-hero.png) 
+ 
 
 [Donate](https://www.stopkillerrobots.org/ways-to-give/) 
 
@@ -152,9 +152,9 @@ Explore the winning work of our Future 2045 multimedia art contest.
 
 Search website 
 
-\+ ![](https://www.stopkillerrobots.org/wp-content/themes/skr/assets/images/dots-white.svg) 
+\+  
 
-![](https://www.stopkillerrobots.org/wp-content/uploads/2022/05/SKR_Photo_Filter_RGB_Landscape_01-1024x675-1.png) 
+ 
 
 # Less autonomy. More humanity.
 
@@ -176,7 +176,7 @@ Formed in October 2012 and publicly launched in 2013, we operate globally with 3
 
 ## The issues
 
-![](https://www.stopkillerrobots.org/wp-content/uploads/2025/09/pexels-jonas-ferlin-1963578-683x1024-1.png) 
+ 
 
 ### Emerging tech and artificial intelligence
 
@@ -184,7 +184,7 @@ From smart homes and targeted advertising to the use of robot dogs by police enf
 
 [](https://www.stopkillerrobots.org/stop-killer-robots/emerging-tech-and-artificial-intelligence/) 
 
-![](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/william-daigneault-M7v9MSZIOCY-unsplash-2.jpg) 
+ 
 
 ### Problems with autonomous weapons
 
@@ -192,7 +192,7 @@ Autonomy in weapons systems is a profoundly human problem. Killer robots change 
 
 [](https://www.stopkillerrobots.org/stop-killer-robots/facts-about-autonomous-weapons/) 
 
-![](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/SKR-STILL_1.png) 
+ 
 
 ### Digital dehumanisation
 
@@ -213,39 +213,39 @@ Digital dehumanisation is a process where humans are reduced to data, which is t
 
 Stop Killer Robots is led by our Steering Committee of NGOs drawn from its membership; it's the campaign's principal leadership and decision-making body.
 
-![Human Rights Watch](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/Hrw.png) 
+ 
 
 ### Human Rights Watch
 
-![Amnesty International](https://www.stopkillerrobots.org/wp-content/uploads/2025/09/Amnesty.png) 
+ 
 
 ### Amnesty International
 
-![Article 36](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-5.18.15-PM.png) 
+ 
 
 ### Article 36
 
-![ICRAC](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/ICRAC.png) 
+ 
 
 ### ICRAC
 
-![Mines Action Canada](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/MAC.png) 
+ 
 
 ### Mines Action Canada
 
-![PAX](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/Pax.png) 
+ 
 
 ### PAX
 
-![SEHLAC](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/SEHLAC.png) 
+ 
 
 ### SEHLAC
 
-![Cultural Youth Movement Education Foundation (CYMEF) ](https://www.stopkillerrobots.org/wp-content/uploads/2024/05/IMG-20220907-WA0013-2-2.jpg) 
+ 
 
 ### Cultural Youth Movement Education Foundation (CYMEF) 
 
-![Protection](https://www.stopkillerrobots.org/wp-content/uploads/2024/05/PROTECTION.jpg) 
+ 
 
 ### Protection
 
@@ -265,9 +265,9 @@ Stop Killer Robots is led by our Steering Committee of NGOs drawn from its membe
 
 [](https://www.stopkillerrobots.org/a-global-push/a-shared-movement/) 
 
-![](https://www.stopkillerrobots.org/wp-content/uploads/2021/10/pexels-nancy-bourque-1209978_HE.jpg) 
+ 
 
-![](https://www.stopkillerrobots.org/wp-content/themes/skr/assets/images/logo-white.svg) 
+ 
 
 ## What you can do
 
@@ -275,7 +275,7 @@ Get involved in the movement to Stop Killer Robots
 
 [Get involved](https://www.stopkillerrobots.org/take-action/) 
 
-![](https://www.stopkillerrobots.org/wp-content/themes/skr/assets/images/logo-white.svg) 
+ 
 
 ## Latest
 
@@ -283,7 +283,7 @@ Keep up with the latest developments in the movement to Stop Killer Robots
 
 [Latest news](https://www.stopkillerrobots.org/news) 
 
-[ ![Stop Killer Robots](https://www.stopkillerrobots.org/wp-content/themes/skr/assets//images/logo-white.svg) ](https://www.stopkillerrobots.org/) 
+[  ](https://www.stopkillerrobots.org/) 
 
 ## Stop Killer Robots
 
