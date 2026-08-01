@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Skip to main content](#main-content) 
-
 [ ![Home](https://www.sipri.org/sites/default/files/logo.svg) ](https://www.sipri.org/%20%22Home%22) 
 
 [STOCKHOLM INTERNATIONAL  PEACE RESEARCH INSTITUTE](https://www.sipri.org/%20%22Home%22) 

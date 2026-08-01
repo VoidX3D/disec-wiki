@@ -1,6 +1,7 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import IranDash from '@site/src/components/IranDash/IranDash';
 
 import styles from './index.module.css';
 
@@ -24,10 +25,12 @@ function Hero() {
 }
 
 const chips = [
-  'Fullscreen diplomatic design',
+  'Iran factbook — every exact figure',
+  'Full weapons & equipment inventory',
+  'NATO full data dossier',
+  'UN voting record & coalition math',
+  'Allies, organizations & the Axis of Resistance',
   '84+ primary sources offline',
-  'UN resolutions & GGE reports',
-  'Complete Iran biography',
   'Live news via local proxy',
 ];
 
@@ -52,6 +55,7 @@ export default function Home() {
       description={siteConfig.tagline}>
       <main className="container">
         <Hero />
+        <IranDash />
         <HomepageFeatures />
         <WhatsNew />
       </main>

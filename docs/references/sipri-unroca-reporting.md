@@ -1,3 +1,7 @@
+---
+format: md
+---
+
 # SIPRI — Reporting to the UNROCA for 2017 (background paper)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

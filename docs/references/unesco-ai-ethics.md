@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content ](#main-content)
-
 [![Home](https://www.unesco.org/themes/custom/bunesco8/assets/images/logo/logo.svg)![Home](https://www.unesco.org/themes/custom/bunesco8/assets/images/logo/logo-blue.svg)UNESCO](https://www.unesco.org/en)
 
 English
@@ -349,8 +347,5 @@ Follow us
 
 UNESCO applies a zero tolerance policy against all forms of harassment.
 
-[top](#top)
-
 We use cookies on this site to enhance your user experience. For more information on how we use cookies, read [our privacy notice](https://www.unesco.org/en/website-privacy-notice).
 
-close

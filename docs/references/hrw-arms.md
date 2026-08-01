@@ -24,8 +24,6 @@ Search
 
 [ ](https://www.hrw.org/) 
 
-Close 
-
 Search Search <?xml version="1.0" encoding="UTF-8"?> 
 
 ## Primary navigation
@@ -559,8 +557,6 @@ Search Search <?xml version="1.0" encoding="UTF-8"?>
 English 
 
 Choose your language
-
-Close 
 
 [العربية](https://www.hrw.org/ar/topic/alaslht%20%22Arabic%22) [简中](https://www.hrw.org/zh-hans/topic/Arms%20%22Chinese%20Simplified%22) [繁中](https://www.hrw.org/zh-hant/topic/arms%20%22Chinese%20Traditional%22) [English](https://www.hrw.org/topic/arms%20%22English%22) [Français](https://www.hrw.org/fr/topic/armes%20%22French%22) [Deutsch](https://www.hrw.org/de/topic/waffen%20%22German%22) [日本語](https://www.hrw.org/ja/topic/arms%20%22Japanese%22) [Português](https://www.hrw.org/pt/topic/armas%20%22Portugese%22) [Русский](https://www.hrw.org/ru/topic/obychnye-vooruzheniya%20%22Russian%22) [Español](https://www.hrw.org/es/topic/armas%20%22Spanish%22) 
 

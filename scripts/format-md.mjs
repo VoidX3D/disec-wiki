@@ -10,28 +10,23 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const WIKI = path.resolve(__dirname, '..');
 
-const targets = [
-  'docs/iran/index.md',
-  'docs/data/index.md',
-  'docs/references/wikipedia-lethal-autonomous-weapons.md',
-];
-
-// Files that already start with `---` YAML frontmatter + contain raw HTML
-const frontmatterFiles = [];
+// Any docs .md file containing raw HTML/JSX or MDX-hostile autolinks
+// (scraped content) gets format: md so Docusaurus renders it as plain Markdown.
+const targets = [];
 const walk = (dir) => {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, e.name);
     if (e.isDirectory()) walk(p);
     else if (e.name.endsWith('.md')) {
       const src = fs.readFileSync(p, 'utf-8');
-      if (src.startsWith('---') && /<[a-z][\s>]/.test(src)) frontmatterFiles.push(p);
+      if (/<\s*[a-zA-Z][\s>]/.test(src) || /<https?:\/\/[^>]+>/.test(src)) targets.push(p);
     }
   }
 };
 walk(path.join(WIKI, 'docs'));
 
 let count = 0;
-for (const file of new Set([...targets, ...frontmatterFiles])) {
+for (const file of targets) {
   let src = fs.readFileSync(file, 'utf-8');
   if (src.startsWith('---')) {
     // Insert format: md inside existing frontmatter

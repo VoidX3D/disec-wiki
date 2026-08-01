@@ -4,10 +4,6 @@
 
 [Jump to content](#bodyContent) 
 
-Main menu 
-
-Main menu
-
 move to sidebar hide 
 
  Navigation

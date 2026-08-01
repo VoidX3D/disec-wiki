@@ -157,6 +157,9 @@ main { width: 100%; }
 .markdown code { background: var(--c-surface2); color: var(--c-primary); font-family: var(--mono); font-size: 0.85em; border-radius: var(--r-sm); padding: 0.15em 0.4em; }
 .markdown hr { border: none; border-top: 1px solid var(--c-border); margin: 2rem 0; }
 
+/* Home sections */
+main.container h2 { font-size: 1.35rem; letter-spacing: -0.02em; margin: 1.6rem 0 0.4rem; color: var(--c-text); }
+
 /* ── Hero ───────────────────────────────────────────────────────── */
 .hero {
   position: relative;
@@ -205,6 +208,7 @@ main { width: 100%; }
 .hero-meta div strong { display: block; font-size: 0.93rem; color: #fff; font-weight: 650; }
 
 /* ── Buttons ────────────────────────────────────────────────────── */
+.btn-row { display: flex; flex-wrap: wrap; gap: 0.65rem; margin: 1.25rem 0 0.25rem; }
 .btn {
   display: inline-flex;
   align-items: center;
@@ -239,11 +243,123 @@ main { width: 100%; }
   color: inherit;
 }
 .card:hover, .card:focus-visible { transform: translateY(-3px); border-color: var(--c-primary); box-shadow: var(--shadow-md); text-decoration: none; }
+.card-icon {
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--r-sm);
+  background: rgba(59, 95, 224, 0.1);
+  color: var(--c-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.15rem;
+}
 .card-tag { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--c-primary); }
 .card-title { font-size: 1.12em; font-weight: 700; color: var(--c-text); line-height: 1.3; letter-spacing: -0.01em; }
 .card-desc { font-size: 0.81rem; color: var(--c-text2); line-height: 1.55; }
-.card-link { margin-top: auto; padding-top: 0.45rem; font-size: 0.76rem; font-weight: 700; color: var(--c-primary); }
+.card-link { margin-top: auto; padding-top: 0.45rem; font-size: 0.76rem; font-weight: 700; color: var(--c-primary); display: inline-flex; align-items: center; gap: 0.3rem; }
+.card-link svg { transition: transform 0.15s; }
+.card:hover .card-link svg { transform: translateX(3px); }
 .card:hover .card-link { text-decoration: underline; text-underline-offset: 3px; }
+
+/* ── Iran snapshot dashboard ────────────────────────────────────── */
+.iran-dash {
+  display: grid;
+  grid-template-columns: 1fr 2.2fr;
+  gap: 1.25rem;
+  margin: 1.75rem 0 2.25rem;
+  align-items: stretch;
+}
+.iran-id {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-lg);
+  padding: 1.5rem;
+  background: var(--c-surface);
+  box-shadow: var(--shadow-sm);
+}
+.iran-id .flags {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.4rem;
+}
+.iran-id .flags img {
+  height: 3.4rem;
+  width: auto;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--c-border2);
+  object-fit: cover;
+}
+.iran-id h3 { margin: 0; font-size: 1.35rem; letter-spacing: -0.01em; }
+.iran-id .sub { color: var(--c-text2); font-size: 0.82rem; line-height: 1.55; }
+.iran-id .kvs { display: grid; grid-template-columns: 1fr 1fr; gap: 0.55rem 1rem; margin-top: auto; }
+.iran-id .kv { border-top: 1px solid var(--c-border); padding-top: 0.45rem; }
+.iran-id .kv span { display: block; font-size: 0.62rem; letter-spacing: 0.11em; text-transform: uppercase; color: var(--c-text3); }
+.iran-id .kv strong { display: block; font-size: 0.95rem; color: var(--c-text); margin-top: 0.12rem; }
+.iran-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.8rem;
+}
+.iran-stat {
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-md);
+  padding: 1rem 1.1rem;
+  background: var(--c-surface);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.iran-stat:hover { border-color: var(--c-primary); }
+.iran-stat .ic { font-size: 0.95rem; font-weight: 800; color: var(--c-primary); width: 1.6rem; height: 1.6rem; border-radius: var(--r-sm); background: rgba(59, 95, 224, 0.1); display: inline-flex; align-items: center; justify-content: center; margin-bottom: 0.1rem; }
+.iran-stat .v { font-size: 1.28rem; font-weight: 750; letter-spacing: -0.02em; color: var(--c-text); }
+.iran-stat .l { font-size: 0.7rem; color: var(--c-text2); line-height: 1.4; }
+.iran-stat .t { font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--c-text3); margin-top: 0.15rem; }
+
+/* ── Allies strip ───────────────────────────────────────────────── */
+.ally-strip { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0 1.25rem; }
+.ally-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-pill);
+  padding: 0.3rem 0.85rem 0.3rem 0.4rem;
+  font-size: 0.76rem;
+  color: var(--c-text2);
+  background: var(--c-surface);
+  text-decoration: none !important;
+  transition: border-color 0.15s, color 0.15s, transform 0.15s;
+}
+.ally-pill:hover { border-color: var(--c-primary); color: var(--c-primary); transform: translateY(-1px); }
+.ally-pill img { width: 1.1rem; height: 1.1rem; border-radius: 3px; object-fit: cover; border: 1px solid var(--c-border2); }
+.ally-pill.ally-hostile:hover { border-color: #e0523b; color: #e0523b; }
+
+/* ── Skeleton loaders ───────────────────────────────────────────── */
+.sk-wrap { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 1rem; margin: 1.2rem 0; }
+.sk-card {
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-md);
+  padding: 1.1rem 1.2rem;
+  background: var(--c-surface);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.sk-line { border-radius: var(--r-sm); background: linear-gradient(90deg, var(--c-surface2) 25%, var(--c-surface) 50%, var(--c-surface2) 75%); background-size: 200% 100%; animation: sk 1.4s ease infinite; }
+.sk-line.t { width: 45%; height: 0.95rem; }
+.sk-line.s { width: 90%; height: 0.75rem; }
+.sk-line.x { width: 70%; height: 0.75rem; }
+.sk-line.b { width: 30%; height: 0.7rem; margin-top: auto; }
+@keyframes sk { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+@media (max-width: 996px) {
+  .iran-dash { grid-template-columns: 1fr; }
+}
 
 /* ── Stat chips ─────────────────────────────────────────────────── */
 .stat-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }

@@ -4,7 +4,7 @@
 
 **Source:** Institute for Peace Research and Security Policy (IPHR)
 
-[Open the PDF](/downloads/iphr-iran-role-drone-war.pdf)
+[Open the PDF](https://www.sipri.org/downloads/iphr-iran-role-drone-war.pdf)
 
 Key themes covered in the report:
 - Iran's provision of Shahed-style drones to Russia

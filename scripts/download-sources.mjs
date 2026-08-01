@@ -21,9 +21,10 @@ import * as term from './term.mjs';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const WIKI = path.resolve(__dirname, '..');
 const DOCS = path.join(WIKI, 'docs');
-const DOWNLOADS = path.join(WIKI, 'downloads');
+const DOWNLOADS = path.join(WIKI, 'static', 'downloads');
 const REFS_DIR = path.join(DOCS, 'references');
 const CACHE_DIR = path.join(WIKI, '.cache', 'blobs');
+const STATE_FILE = path.join(WIKI, '.cache', 'download-state.json');
 
 fs.mkdirSync(DOWNLOADS, { recursive: true });
 fs.mkdirSync(REFS_DIR, { recursive: true });
@@ -81,6 +82,40 @@ function cacheWrite(slug, body, meta) {
 function hashedId(src) {
   // Stable cache key per URL so renames don't collide with stale blobs.
   return `${src.file}_${crypto.createHash('sha1').update(src.url).digest('hex').slice(0, 8)}`;
+}
+
+// ── Per-source state cache ────────────────────────────────────────────
+// Records which sources have been fully processed (blob downloaded + .md
+// written). On the next run these are skipped entirely — no HTTP, no
+// conversion — unless --force/--refresh is given.
+function stateLoad() {
+  try {
+    return JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+  } catch {
+    return {};
+  }
+}
+
+function stateSave(state) {
+  fs.mkdirSync(path.dirname(STATE_FILE), { recursive: true });
+  const tmp = STATE_FILE + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(state, null, 2));
+  fs.renameSync(tmp, STATE_FILE);
+}
+
+function isSourceDone(state, src) {
+  const key = hashedId(src);
+  const entry = state[src.file];
+  if (!entry || !entry.done) return false;
+  // Blob must still be present, otherwise a partial wipe needs a re-fetch.
+  if (!fs.existsSync(cacheBodyPath(key))) return false;
+  // Output must exist too.
+  if (!fs.existsSync(path.join(REFS_DIR, `${src.file}.md`))) return false;
+  return entry.url === src.url;
+}
+
+function markDone(state, src) {
+  state[src.file] = { done: true, url: src.url, at: Date.now(), key: hashedId(src) };
 }
 
 async function fetchBytes(src, opts = {}) {
@@ -303,6 +338,7 @@ const SOURCES = [
 ];
 
 const results = [];
+const state = stateLoad();
 
 // Pages larger than this (raw text) are excluded from the search index so the
 // client-side index stays small and search stays instant. They remain fully
@@ -336,6 +372,13 @@ async function downloadAll() {
       results.push({ ok: true, cached: true, ...src });
       term.progress(i + 1, total, `done ${src.file}`);
       if (!FLAGS.quiet) term.status.skip(src.title, 'skipped');
+      continue;
+    }
+    // Skip fully-processed sources unless explicitly refreshing/forcing.
+    if (!FLAGS.force && !FLAGS.refresh && isSourceDone(state, src)) {
+      results.push({ ok: true, cached: true, ...src });
+      term.progress(i + 1, total, `done ${src.file}`);
+      if (!FLAGS.quiet) term.status.skip(src.title, 'state: done');
       continue;
     }
     try {
@@ -374,6 +417,8 @@ async function downloadAll() {
         }
       }
       results.push({ ok: true, cached: fromCache, ...src });
+      markDone(state, src);
+      stateSave(state);
     } catch (e) {
       if (!FLAGS.quiet) term.status.fail(src.title, e.message);
       results.push({ ok: false, ...src });
@@ -444,12 +489,13 @@ Options:
     rows.push({ name: label, ok: items.filter(r => r.ok).length, fail: items.filter(r => !r.ok).length });
   }
   const t = term.summaryTable(rows);
-  const cached = run.filter(r => r.cached).length;
+  const cached = run.filter(r => r.ok && r.cached && r.file && !state[r.file]?.at).length;
+  const skipped = run.filter(r => r.ok && r.cached && r.file && state[r.file]?.at).length;
   const fresh = run.filter(r => r.ok && !r.cached).length;
   const ms = ((Date.now() - t0) / 1000).toFixed(1);
   term.section('Summary');
   term.status.info(`Done in ${ms}s`, `${t.ok} ok · ${t.fail} failed`);
-  term.status.info('Blobs', `${fresh} fresh · ${cached} from cache · ${run.filter(r => r.ok && !r.ok && false).length || 0} skipped`);
+  term.status.info('Blobs', `${fresh} fresh · ${cached} cached · ${skipped} state-skipped`);
   console.log(`\nDone. ${t.ok}/${run.length} sources saved to docs/references/`);
 }
 

@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content](#main-content) 
-
 open 
 
 ## Departmentssubmenu 
@@ -45,8 +43,6 @@ open
 
 ## About CSISsubmenu 
 
-Main menu 
-
 * [Home](https://www.csis.org/)
 * [About CSIS](https://www.csis.org/about)
 * [Leadership & Staff](https://www.csis.org/about/people/leadership)
@@ -65,8 +61,6 @@ Main menu
 open 
 
 ## About CSISsubmenu 
-
-Main menu 
 
 * [Home](https://www.csis.org/)
 * [About CSIS](https://www.csis.org/about)
@@ -130,8 +124,6 @@ In Person
 open 
 
 ## About CSISsubmenu 
-
-Main menu 
 
 * [Home](https://www.csis.org/)
 * [About CSIS](https://www.csis.org/about)

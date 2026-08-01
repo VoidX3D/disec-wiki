@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # UN Policy Brief — A New Agenda for Peace (2023)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

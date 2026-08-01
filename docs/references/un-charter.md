@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Skip to main content](#main-content) 
-
 Toggle navigation [Welcome to the United Nations](https://www.un.org/) 
 
    * [العربية](https://www.un.org/ar/about-us/un-charter/full-text%20%22%D9%85%D9%8A%D8%AB%D8%A7%D9%82%20%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%20(%D8%A7%D9%84%D9%86%D8%B5%20%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84)")

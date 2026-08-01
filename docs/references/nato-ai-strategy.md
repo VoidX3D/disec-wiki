@@ -4,8 +4,6 @@
 
 SEARCH 
 
-CLOSE 
-
 Search 
 
 Language Selection:
@@ -361,8 +359,6 @@ Language Selection:
 
 SEARCH 
 
-CLOSE 
-
 Search 
 
 Language Selection:
@@ -455,8 +451,6 @@ If you would also like to subscribe to the newsletter and receive our latest upd
 
 SUBSCRIBE TO NEWSLETTER 
 
-CLOSE 
-
 Reset password 
 
 Enter the email address you registered with and we will send you a code to reset your password.
@@ -496,8 +490,6 @@ CHANGE PASSWORD
 ## Your password has been updated
 
 Click the button to return to the page you were on and log in with your new password.
-
-CLOSE 
 
 * [  Home ](https://www.nato.int/en)
 * ...  
@@ -664,15 +656,11 @@ Organisation
 
 This help text could be used to explain this information request. 
 
-CLOSE
-
 SEND
 
 ###  Thank you for providing the additional information
 
 Your subscription process has been successfully completed. Remember to check your email if this is your first time subscribing.
-
-CLOSE
 
 Loading
 

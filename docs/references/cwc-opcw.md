@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content](#main-content) 
-
 * [العربية](https://www.opcw.org/ar/atfaqyt-hzr-alaslht-alkymayyt)
 * [中文](https://www.opcw.org/zh-hans/huaxuewuqigongyue)
 * [English](https://www.opcw.org/chemical-weapons-convention)

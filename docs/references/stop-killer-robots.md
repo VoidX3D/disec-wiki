@@ -2,11 +2,7 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Skip to content](#main) 
-
 [ Stop Killer Robots ](https://www.stopkillerrobots.org/) 
-
-Menu
 
 About 
 

@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content](#main-content) 
-
 [ ![Home](https://www.smallarmssurvey.org/sites/default/files/SAS-Logo-3x.png) ](https://www.smallarmssurvey.org/%20%22Home%22) 
 
 Search 

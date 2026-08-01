@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Skip to content](#content) 
-
 An official website of the United States Government Here's how you know 
 
 **Official websites use .gov**
@@ -156,8 +154,6 @@ Directories
 Search: 
 
 Search 
-
-Close 
 
 ⨉ 
 

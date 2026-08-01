@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # First Committee Report A/79/408 — LAWS (2024)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # UNIDIR — Governance of AI in the Military Domain
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

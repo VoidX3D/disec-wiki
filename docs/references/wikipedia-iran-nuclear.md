@@ -1,12 +1,12 @@
+---
+format: md
+---
+
 # Nuclear program of Iran
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
 [Jump to content](#bodyContent) 
-
-Main menu 
-
-Main menu
 
 move to sidebar hide 
 

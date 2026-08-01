@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # UNIDIR — Advisory Board on Disarmament Matters Report (2024)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

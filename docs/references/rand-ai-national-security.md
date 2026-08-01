@@ -6,8 +6,6 @@
 
 [ ![RAND](https://www.rand.org/etc.clientlibs/rand/designs/common/images/resources/logo-corp.svg) ](https://www.rand.org/) 
 
-[Toggle Menu](#main-nav) 
-
 ## Site-wide navigation
 
 * ### Topics  

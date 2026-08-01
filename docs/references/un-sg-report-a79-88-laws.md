@@ -1,3 +1,7 @@
+---
+search:
+  exclude: true
+---
 # UN SG Report A/79/88 — LAWS views & analysis (2024)
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.

@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content](#main-content) 
-
 [ ![Home](https://meetings.unoda.org/themes/custom/unoda_meetingsplace/logo.svg) United Nations Office for Disarmament Affairs ](https://meetings.unoda.org/%20%22Home%22) 
 
 ### [Convention on Certain Conventional Weapons — Group of Governmental Experts on Lethal Autonomous Weapons Systems](https://meetings.unoda.org/meeting/74853)

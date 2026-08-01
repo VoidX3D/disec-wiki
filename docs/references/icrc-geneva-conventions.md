@@ -2,15 +2,13 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[Skip to main content](#mainContent) 
-
-[ ![Home](/themes/custom/icrc_theme/html/images/logo/logo.svg) International Committee of the Red Cross ](/en) 
+[ ![Home](https://www.sipri.org/themes/custom/icrc_theme/html/images/logo/logo.svg) International Committee of the Red Cross ](https://www.icrc.org/en) 
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
-[Find help](/en/find-help) [Donate](/en/donate) 
+[Find help](https://www.icrc.org/en/find-help) [Donate](https://www.icrc.org/en/donate) 
 
-[ ](/en/resource-centre/result) 
+[ ](https://www.icrc.org/en/resource-centre/result) 
 
  MENU 
 
@@ -20,103 +18,103 @@ Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРус
 
 Choose your languageEnglishFrançaisEspañolPortuguês中文العربيةРусскийDeutsch
 
-* [Happening now](/en/news)  
+* [Happening now](https://www.icrc.org/en/news)  
 Happening now  
 ##  Discover what’s new  
  Stay updated with the latest news and ongoing initiatives of the ICRC.  
-[Latest news](/en/news)  
+[Latest news](https://www.icrc.org/en/news)  
 ### Featured  
-   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](/sites/default/files/styles/mobile_img_rect_01/public/2026-06/Op-update-Venezuela---cover.jpg.webp?h=7b436a88&itok=ccmlIqxe "People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.")  
-   [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
-   * ![Child during ICRC food distribution in Leer. ](/sites/default/files/styles/mobile_img_rect_01/public/2026-07/V-P-SS-E-00884.JPG.webp?h=50cc4df5&itok=7-hschqO "Child during ICRC food distribution in Leer.")  
-   [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
-   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](/sites/default/files/styles/mobile_img_rect_01/public/2025-12/Emblem-III_Press-release-1.jpg.webp?h=afdc3185&itok=geDfq-FF "Bandera del CICR ondeando con el cielo y las nubes en el fondo")  
-   [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
+   * ![People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/Op-update-Venezuela---cover.jpg.webp?h=7b436a88&itok=ccmlIqxe "People receive medical care from Venezuelan Red Cross volunteers at a temporary outdoor treatment area following the June 2026 earthquakes in Venezuela. Several patients rest on folding stretchers while volunteers provide first aid and medical assistance.")  
+   [Venezuela earthquake: ICRC mobilizes rapid response in support of the Venezuela…](https://www.icrc.org/en/article/venezuela-earthquake-icrc-mobilizes-rapid-response-support-venezuelan-red-cross)  
+   * ![Child during ICRC food distribution in Leer. ](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2026-07/V-P-SS-E-00884.JPG.webp?h=50cc4df5&itok=7-hschqO "Child during ICRC food distribution in Leer.")  
+   [Sudan: 42,000 people assisted with food in Al Obeid amid growing humanitarian n…](https://www.icrc.org/en/article/south-sudan-15-standing-alongside-people-affected-conflict)  
+   * ![Bandera del CICR ondeando con el cielo y las nubes en el fondo](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2025-12/Emblem-III_Press-release-1.jpg.webp?h=afdc3185&itok=geDfq-FF "Bandera del CICR ondeando con el cielo y las nubes en el fondo")  
+   [Ukraine: Intensifying hostilities claim dozens of lives, deepening trauma for c…](https://www.icrc.org/en/statement/ukraine-intensifying-hostilities-claim-dozens-lives-deepen-trauma-civilians)  
 [](#)
-* [Who we are](/en/we-are-international-committee-red-cross-icrc)  
+* [Who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
 Who we are  
 ##  We are the International Committee of the Red Cross  
  Neutral, impartial, and independent. Discover our values and mission.  
-[Discover who we are](/en/we-are-international-committee-red-cross-icrc)  
-   * [About us](/en/about-international-committee-red-cross-icrc)  
+[Discover who we are](https://www.icrc.org/en/we-are-international-committee-red-cross-icrc)  
+   * [About us](https://www.icrc.org/en/about-international-committee-red-cross-icrc)  
     Our rich history, our mandate and mission, and our Fundamental Principles are behind the work we do to protect and save lives.  
-   * [How we are run](/en/how-we-are-run)  
+   * [How we are run](https://www.icrc.org/en/how-we-are-run)  
     Our President and leadership, our finances and our accountability ensure the integrity of our humanitarian operations.  
-   * [International Red Cross & Red Crescent Movement](/en/international-red-cross-and-red-crescent-movement)  
+   * [International Red Cross & Red Crescent Movement](https://www.icrc.org/en/international-red-cross-and-red-crescent-movement)  
     The International Red Cross and Red Crescent Movement is the largest humanitarian network in the world.  
 [](#)
-* [What we do](/en/we-help-people-affected-armed-conflict)  
+* [What we do](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 What we do  
 ##  Our work to protect people affected by conflict  
  The ICRC responds quickly and efficiently to help people affected by armed conflict.  
-[All our activities](/en/we-help-people-affected-armed-conflict)  
+[All our activities](https://www.icrc.org/en/we-help-people-affected-armed-conflict)  
 ### In focus  
-   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](/sites/default/files/styles/mobile_img_rect_01/public/2024-01/_MG_8720.jpg.webp?h=06ac0d8c&itok=vdtVQVrp "ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai")  
-   [Protection: Upholding the rights of people in conflict](/en/what-we-do/protection)  
-   * ![](/sites/default/files/styles/mobile_img_rect_01/public/home_carousel_slide/image/2-rfl-gaza_1.jpg.webp?h=f21e257f&itok=Mlf-lXyc "2-rfl-gaza_1.jpg")  
-   [Reconnecting families: Preventing separation, searching for the missing, reunit…](/en/what-we-do/reconnecting-families)  
-   * ![](/sites/default/files/styles/mobile_img_rect_01/public/document_new/image/detention_prisoners_icrc_action_0.jpg.webp?h=2992ba0a&itok=H0M2y0pq "detention_prisoners_icrc_action_0.jpg")  
-   [Helping detainees: Protecting and assisting people deprived of their liberty](/en/what-we-do/helping-detainees)  
+   * ![ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2024-01/_MG_8720.jpg.webp?h=06ac0d8c&itok=vdtVQVrp "ICRC working with the Myanmar Red Cross Society to support people displaced by violence in Pin Laung and Hsi Hseng, to provide emergency aid. Photographer: Thang Khan Sian Khai")  
+   [Protection: Upholding the rights of people in conflict](https://www.icrc.org/en/what-we-do/protection)  
+   * ![](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/home_carousel_slide/image/2-rfl-gaza_1.jpg.webp?h=f21e257f&itok=Mlf-lXyc "2-rfl-gaza_1.jpg")  
+   [Reconnecting families: Preventing separation, searching for the missing, reunit…](https://www.icrc.org/en/what-we-do/reconnecting-families)  
+   * ![](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/document_new/image/detention_prisoners_icrc_action_0.jpg.webp?h=2992ba0a&itok=H0M2y0pq "detention_prisoners_icrc_action_0.jpg")  
+   [Helping detainees: Protecting and assisting people deprived of their liberty](https://www.icrc.org/en/what-we-do/helping-detainees)  
 [](#)
-* [Where we work](/en/where-we-work)  
+* [Where we work](https://www.icrc.org/en/where-we-work)  
 Where we work  
 ##  Explore our global reach  
  We have offices in over 90 countries around the world, providing assistance and protection to people affected by conflict.  
-[ICRC around the world](/en/where-we-work)  
+[ICRC around the world](https://www.icrc.org/en/where-we-work)  
 ### Key operations  
-   * [Afghanistan](/en/where-we-work/afghanistan)  
-   * [Democratic Republic of the Congo](/en/where-we-work/democratic-republic-congo)  
-   * [Ethiopia](/en/where-we-work/ethiopia)  
-   * [Israel and the occupied territories](/en/where-we-work/israel-and-occupied-territories)  
-   * [Myanmar](/en/where-we-work/myanmar)  
-   * [Sudan](/en/where-we-work/sudan)  
-   * [Lebanon](/en/where-we-work/lebanon)  
-   * [Ukraine](/en/where-we-work/ukraine)  
-   * [Iran](/en/where-we-work/iran)  
+   * [Afghanistan](https://www.icrc.org/en/where-we-work/afghanistan)  
+   * [Democratic Republic of the Congo](https://www.icrc.org/en/where-we-work/democratic-republic-congo)  
+   * [Ethiopia](https://www.icrc.org/en/where-we-work/ethiopia)  
+   * [Israel and the occupied territories](https://www.icrc.org/en/where-we-work/israel-and-occupied-territories)  
+   * [Myanmar](https://www.icrc.org/en/where-we-work/myanmar)  
+   * [Sudan](https://www.icrc.org/en/where-we-work/sudan)  
+   * [Lebanon](https://www.icrc.org/en/where-we-work/lebanon)  
+   * [Ukraine](https://www.icrc.org/en/where-we-work/ukraine)  
+   * [Iran](https://www.icrc.org/en/where-we-work/iran)  
 [](#)
-* [Law & Policy](/en/law-and-policy)  
+* [Law & Policy](https://www.icrc.org/en/law-and-policy)  
 Law & Policy  
 ##  Law & Policy  
  Gain insights into the ICRC's role in developing and promoting international humanitarian law and policy.  
-[Discover more](/en/law-and-policy)  
-   * [Geneva Conventions and the law](/en/geneva-conventions-and-law)  
+[Discover more](https://www.icrc.org/en/law-and-policy)  
+   * [Geneva Conventions and the law](https://www.icrc.org/en/geneva-conventions-and-law)  
     Even wars have rules. The Geneva Conventions are at the core of international humanitarian law.  
-   * [Topics, debates and disarmament](/en/topics-and-debates)  
+   * [Topics, debates and disarmament](https://www.icrc.org/en/topics-and-debates)  
     Weapons and disarmament, protected persons and other contemporary challenges for international humanitarian law.  
-   * [Teaching IHL, research, Advisory Service and other resources](/en/advisory-service-international-review-and-other-resources)  
+   * [Teaching IHL, research, Advisory Service and other resources](https://www.icrc.org/en/advisory-service-international-review-and-other-resources)  
     We support the teaching, learning and implementation of humanitarian law principles.  
 [](#)
-* [Support us](/en/partner-with-us)  
+* [Support us](https://www.icrc.org/en/partner-with-us)  
 Support us  
 ##  Partner with us  
  We invite organizations, institutions and philanthropists to join us in our mission to alleviate the suffering of those affected by armed conflict.  
-[How to partner with us](/en/partner-with-us)  
+[How to partner with us](https://www.icrc.org/en/partner-with-us)  
 ##  Support us  
  Find out how you as an individual can contribute to our humanitarian efforts to help people suffering because of armed conflict.  
-[How to support us](/en/how-you-can-support-us)  
-   * ![Venezuela Earthquake](/sites/default/files/styles/mobile_img_rect_01/public/2026-06/AFP__20260625__B8973QM__v3__HighRes__TopshotVenezuelaEarthquake.jpg.webp?h=a39a9fac&itok=Gv8ozEYM "Venezuela Earthquake")  
-   [Venezuela: Give your help](/en/donate/venezuela)  
-   * ![Saher alghorra civilians gaza](/sites/default/files/styles/mobile_img_rect_01/public/2026-03/Saher-alghorra-civilians-gaza_1.png.webp?h=409092c6&itok=NidSCgqO "Saher alghorra civilians gaza")  
-   [The Near & Middle East: Give your help](/en/donate/middle-east)  
-   * ![drc](/sites/default/files/styles/mobile_img_rect_01/public/2024-06/icrc_drc_1_1.jpg.webp?h=0ca1a000&itok=PwywOk06 "drc")  
-   [DR Congo: Give your help](/en/donate/congo-emergency)  
+[How to support us](https://www.icrc.org/en/how-you-can-support-us)  
+   * ![Venezuela Earthquake](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2026-06/AFP__20260625__B8973QM__v3__HighRes__TopshotVenezuelaEarthquake.jpg.webp?h=a39a9fac&itok=Gv8ozEYM "Venezuela Earthquake")  
+   [Venezuela: Give your help](https://www.icrc.org/en/donate/venezuela)  
+   * ![Saher alghorra civilians gaza](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2026-03/Saher-alghorra-civilians-gaza_1.png.webp?h=409092c6&itok=NidSCgqO "Saher alghorra civilians gaza")  
+   [The Near & Middle East: Give your help](https://www.icrc.org/en/donate/middle-east)  
+   * ![drc](https://www.sipri.org/sites/default/files/styles/mobile_img_rect_01/public/2024-06/icrc_drc_1_1.jpg.webp?h=0ca1a000&itok=PwywOk06 "drc")  
+   [DR Congo: Give your help](https://www.icrc.org/en/donate/congo-emergency)  
 [](#)
 
-* [Find help](/en/find-help)
-* [Donate](/en/donate "Donate")
-* [Events](/en/event)
-* [Contact us](/en/contact)
+* [Find help](https://www.icrc.org/en/find-help)
+* [Donate](https://www.icrc.org/en/donate "Donate")
+* [Events](https://www.icrc.org/en/event)
+* [Contact us](https://www.icrc.org/en/contact)
 * [Report an incident of misconduct](https://icrc.integrityplatform.org/)
-* [Work with us](/en/join-icrc-and-help-protect-lives-and-dignity)
-* [FAQ](/en/frequently-asked-questions)
+* [Work with us](https://www.icrc.org/en/join-icrc-and-help-protect-lives-and-dignity)
+* [FAQ](https://www.icrc.org/en/frequently-asked-questions)
 
-[ICRC Websites](/en/icrc-websites) 
+[ICRC Websites](https://www.icrc.org/en/icrc-websites) 
 
 Search 
 
-1. [ ](/ "Home")
-2. [Law & Policy](/en/law-and-policy)
-3. [Geneva Conventions and the law](/en/geneva-conventions-and-law)
+1. [ ](https://www.sipri.org/ "Home")
+2. [Law & Policy](https://www.icrc.org/en/law-and-policy)
+3. [Geneva Conventions and the law](https://www.icrc.org/en/geneva-conventions-and-law)
 4. The Geneva Conventions and their Comment...
 
 # The Geneva Conventions and their Commentaries
@@ -138,7 +136,7 @@ The 1949 Geneva Conventions and their Additional Protocols are international tre
 
 People have always used violence to settle disputes, and all cultures through the ages have believed that there have to be limits on that violence if we are to prevent wars from descending into barbarity. For instance, there are rules protecting non-participants, prisoners and the wounded. These rules are set out in international humanitarian law. Yes, even wars have limits.
 
-[Learn more](/en/document/rules-war-nutshell) 
+[Learn more](https://www.icrc.org/en/document/rules-war-nutshell) 
 
 ##  IHL unpacked
 
@@ -146,53 +144,37 @@ People have always used violence to settle disputes, and all cultures through th
       https://www.youtube.com/playlist?list=PLB9nHe5nhQnnyUt92DK0w63ZDWr71iPin
   )
 
-[ ![IHL-Unpacked-Playlist_YT-Thumbnail](/sites/default/files/styles/desktop_rect_3/public/2026-06/IHL-Unpacked-Playlist_YT-Thumbnail.jpg.webp?h=c673cd1c&itok=ndAZW5Gu "IHL-Unpacked-Playlist_YT-Thumbnail") ](
+[ ![IHL-Unpacked-Playlist_YT-Thumbnail](https://www.sipri.org/sites/default/files/styles/desktop_rect_3/public/2026-06/IHL-Unpacked-Playlist_YT-Thumbnail.jpg.webp?h=c673cd1c&itok=ndAZW5Gu "IHL-Unpacked-Playlist_YT-Thumbnail") ](
       https://www.youtube.com/playlist?list=PLB9nHe5nhQnnyUt92DK0w63ZDWr71iPin
   ) 
 
 ##  Highlights
 
-### [ Updated Commentary on the First Geneva Convention](
-      /en/document/updated-commentaries-first-geneva-convention
-  )
+### [ Updated Commentary on the First Geneva Convention](https://www.icrc.org/en/document/updated-commentaries-first-geneva-convention)
 
-[ ![](/sites/default/files/styles/mobile_square_1/public/topic/banner_list/gciphoto_0.jpg.webp?h=a6967b5f&itok=Tng5SgWj "gciphoto_0.jpg") ](
-      /en/document/updated-commentaries-first-geneva-convention
-  ) 
+[ ![](https://www.sipri.org/sites/default/files/styles/mobile_square_1/public/topic/banner_list/gciphoto_0.jpg.webp?h=a6967b5f&itok=Tng5SgWj "gciphoto_0.jpg") ](https://www.icrc.org/en/document/updated-commentaries-first-geneva-convention) 
 
-### [ Updated Commentary on the Second Geneva Convention](
-      /en/document/updated-commentaries-second-geneva-convention
-  )
+### [ Updated Commentary on the Second Geneva Convention](https://www.icrc.org/en/document/updated-commentaries-second-geneva-convention)
 
-[ ![](/sites/default/files/styles/mobile_square_1/public/topic/banner_list/humanitarium-event-commentary2_0_0.jpg.webp?h=73067949&itok=VfuaY-Z4 "humanitarium-event-commentary2_0_0.jpg") ](
-      /en/document/updated-commentaries-second-geneva-convention
-  ) 
+[ ![](https://www.sipri.org/sites/default/files/styles/mobile_square_1/public/topic/banner_list/humanitarium-event-commentary2_0_0.jpg.webp?h=73067949&itok=VfuaY-Z4 "humanitarium-event-commentary2_0_0.jpg") ](https://www.icrc.org/en/document/updated-commentaries-second-geneva-convention) 
 
-### [ Updated Commentary on the Third Geneva Convention](
-      /en/document/updated-commentary-third-geneva-convention
-  )
+### [ Updated Commentary on the Third Geneva Convention](https://www.icrc.org/en/document/updated-commentary-third-geneva-convention)
 
-[ ![Field exercise during a course on international humanitarian law in Russia.](/sites/default/files/styles/mobile_square_1/public/2024-04/Prisoners_war_ICRC_web.jpg.webp?h=f406e11b&itok=X7Hy7j0l "Field exercise during a course on international humanitarian law in Russia.") ](
-      /en/document/updated-commentary-third-geneva-convention
-  ) 
+[ ![Field exercise during a course on international humanitarian law in Russia.](https://www.sipri.org/sites/default/files/styles/mobile_square_1/public/2024-04/Prisoners_war_ICRC_web.jpg.webp?h=f406e11b&itok=X7Hy7j0l "Field exercise during a course on international humanitarian law in Russia.") ](https://www.icrc.org/en/document/updated-commentary-third-geneva-convention) 
 
-### [ Updated Commentary on the Fourth Geneva Convention](
-      /en/article/updated-commentary-fourth-geneva-convention
-  )
+### [ Updated Commentary on the Fourth Geneva Convention](https://www.icrc.org/en/article/updated-commentary-fourth-geneva-convention)
 
-[ ![Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.](/sites/default/files/styles/mobile_square_1/public/2025-10/V-P-UA-E-01190_1920.JPG.webp?h=e5aec6c8&itok=6Xpx3nGj "Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.") ](
-      /en/article/updated-commentary-fourth-geneva-convention
-  ) 
+[ ![Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.](https://www.sipri.org/sites/default/files/styles/mobile_square_1/public/2025-10/V-P-UA-E-01190_1920.JPG.webp?h=e5aec6c8&itok=6Xpx3nGj "Mykolaiv. An ICRC staff member is talking to an old lady while she is being transferred to a new specialized facility.") ](https://www.icrc.org/en/article/updated-commentary-fourth-geneva-convention) 
 
 ## What are the Geneva Conventions and their Additional Protocols?
 
-The Geneva Conventions and their Additional Protocols are international treaties that contain the most important rules limiting the barbarity of war. They [protect people](/en/law-and-policy/protected-persons) who do not take part in the fighting (civilians, medics, aid workers) and those who can no longer fight (wounded, sick and shipwrecked troops, prisoners of war).
+The Geneva Conventions and their Additional Protocols are international treaties that contain the most important rules limiting the barbarity of war. They [protect people](https://www.icrc.org/en/law-and-policy/protected-persons) who do not take part in the fighting (civilians, medics, aid workers) and those who can no longer fight (wounded, sick and shipwrecked troops, prisoners of war).
 
 The Geneva Conventions – one of humanity's most important accomplishments of the last century – turned 70 on 12 August 2019\. It was an opportunity to celebrate all the lives the Conventions have helped save, determine what further work needs to be done and remind the world of the importance of protecting people from the worst of war.
 
-The Geneva Conventions and their Additional Protocols are at the core of [international humanitarian law](/en/document/what-international-humanitarian-law), the body of international law that regulates the conduct of armed conflict and seeks to limit its effects. They specifically protect people who are not taking part in the hostilities, including civilians, health workers and aid workers, and those who are no longer participating, such as wounded, sick and shipwrecked soldiers and prisoners of war. The Conventions and their Protocols call for measures to be taken to prevent or put an end to all breaches. They contain stringent rules to deal with what are known as "grave breaches". Those who commit grave breaches must be pursued and tried or extradited, whatever their nationality. 
+The Geneva Conventions and their Additional Protocols are at the core of [international humanitarian law](https://www.icrc.org/en/document/what-international-humanitarian-law), the body of international law that regulates the conduct of armed conflict and seeks to limit its effects. They specifically protect people who are not taking part in the hostilities, including civilians, health workers and aid workers, and those who are no longer participating, such as wounded, sick and shipwrecked soldiers and prisoners of war. The Conventions and their Protocols call for measures to be taken to prevent or put an end to all breaches. They contain stringent rules to deal with what are known as "grave breaches". Those who commit grave breaches must be pursued and tried or extradited, whatever their nationality. 
 
-[Read more](/en/document/geneva-conventions-1949-additional-protocols) 
+[Read more](https://www.icrc.org/en/document/geneva-conventions-1949-additional-protocols) 
 
 ## What are the Commentaries?
 
@@ -212,12 +194,12 @@ The ICRC has produced Commentaries on each of the Geneva Conventions and their A
 
 ####  Domestic Law
 
-* [Additional Protocols to the Geneva Conventions of 1949](/en/document/additional-protocols-geneva-conventions-1949-factsheet)
-* [The Protection of the Red Cross, Red Crescent and Red Crystal Emblems](/en/document/protection-red-cross-red-crescent-and-red-crystal-emblems-factsheet)
-* [The International Humanitarian Fact-Finding Commission](/en/document/international-humanitarian-fact-finding-commission-facsheet)
-* [Geneva Conventions (Consolidation) Act – Model Law](/en/document/geneva-conventions-consolidation-act-model-law)
-* [Third Additional Protocol to the Geneva Conventions of 1949 – Ratification kit](/en/document/third-additional-protocol-geneva-conventions-1949-ratification-kit)
-* [Additional Protocols to the Geneva Conventions of 1949 – Ratification kit](/en/document/additional-protocols-geneva-conventions-1949-ratification-kit)
+* [Additional Protocols to the Geneva Conventions of 1949](https://www.icrc.org/en/document/additional-protocols-geneva-conventions-1949-factsheet)
+* [The Protection of the Red Cross, Red Crescent and Red Crystal Emblems](https://www.icrc.org/en/document/protection-red-cross-red-crescent-and-red-crystal-emblems-factsheet)
+* [The International Humanitarian Fact-Finding Commission](https://www.icrc.org/en/document/international-humanitarian-fact-finding-commission-facsheet)
+* [Geneva Conventions (Consolidation) Act – Model Law](https://www.icrc.org/en/document/geneva-conventions-consolidation-act-model-law)
+* [Third Additional Protocol to the Geneva Conventions of 1949 – Ratification kit](https://www.icrc.org/en/document/third-additional-protocol-geneva-conventions-1949-ratification-kit)
+* [Additional Protocols to the Geneva Conventions of 1949 – Ratification kit](https://www.icrc.org/en/document/additional-protocols-geneva-conventions-1949-ratification-kit)
 
 ## From the International Review of the Red Cross
 
@@ -248,23 +230,23 @@ August
 
 Hybrid 
 
-[Join the event](/en/event/event-geneva-international-humanitarian-law-and-world) 
+[Join the event](https://www.icrc.org/en/event/event-geneva-international-humanitarian-law-and-world) 
 
 Topic-dedicated ICRC websites
 
 Explore our blogs, apps, reviews and other resources dedicated to humanitarian impact, insight, law and policy.
 
-[ICRC Websites](/en/icrc-websites) 
+[ICRC Websites](https://www.icrc.org/en/icrc-websites) 
 
 Direct access
 
-* [Find help](/en/find-help)
-* [Donate](/en/donate "Donate")
-* [Events](/en/event)
-* [Contact us](/en/contact)
+* [Find help](https://www.icrc.org/en/find-help)
+* [Donate](https://www.icrc.org/en/donate "Donate")
+* [Events](https://www.icrc.org/en/event)
+* [Contact us](https://www.icrc.org/en/contact)
 * [Report an incident of misconduct](https://icrc.integrityplatform.org/)
-* [Work with us](/en/join-icrc-and-help-protect-lives-and-dignity)
-* [FAQ](/en/frequently-asked-questions)
+* [Work with us](https://www.icrc.org/en/join-icrc-and-help-protect-lives-and-dignity)
+* [FAQ](https://www.icrc.org/en/frequently-asked-questions)
 
 Newsletter
 
@@ -274,7 +256,7 @@ Select a type \* News & UpdatesLaw & Policy newsletterCareer newsletter
 
 Email address \* 
 
- To learn how we process your data, visit our [Privacy Notice](/en/privacy-policy-0).
+ To learn how we process your data, visit our [Privacy Notice](https://www.icrc.org/en/privacy-policy-0).
 
 * [ ](https://www.instagram.com/ICRC/ "Instagram")
 * [ ](https://www.facebook.com/icrc "Facebook")
@@ -283,11 +265,11 @@ Email address \*
 * [ ](https://www.tiktok.com/@icrc "Tiktok")
 * [ ](https://www.linkedin.com/company/icrc "linkedin")
 
-* [Accessibility](/en/accessibility)
-* [Copyright](/en/copyright-and-terms-use)
-* [Privacy policy](/en/privacy-policy)
-* [Tax deduction](/en/about-donations-and-tax-deduction)
+* [Accessibility](https://www.icrc.org/en/accessibility)
+* [Copyright](https://www.icrc.org/en/copyright-and-terms-use)
+* [Privacy policy](https://www.icrc.org/en/privacy-policy)
+* [Tax deduction](https://www.icrc.org/en/about-donations-and-tax-deduction)
 * [Privacy Settings](#privacy-settings "Privacy Settings")
-* [Community guidelines](/en/community-guidelines "Community guidelines")
+* [Community guidelines](https://www.icrc.org/en/community-guidelines "Community guidelines")
 
-[Terms and conditions](/en/copyright-and-terms-use) \- ICRC ©2026 - All right reserved
+[Terms and conditions](https://www.icrc.org/en/copyright-and-terms-use) \- ICRC ©2026 - All right reserved

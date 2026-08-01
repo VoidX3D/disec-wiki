@@ -1,6 +1,6 @@
 # Offline Source Documents
 
-Primary documents saved locally so the entire library works without internet. 78 of 90 sources downloaded.
+Primary documents saved locally so the entire library works without internet. 87 of 90 sources downloaded.
 
 ## Treaties & Conventions
 
@@ -73,8 +73,20 @@ Primary documents saved locally so the entire library works without internet. 78
 
 ## Think Tanks & Research Institutes
 
+- [SIPRI Yearbook 2025 — Armaments, Disarmament & Int'l Security](sipri-yearbook.md)
+- [SIPRI — Autonomy in Weapon Systems (research programme)](sipri-autonomy-weapons.md)
+- [SIPRI Yearbook 2025 — Ch.12 AI & International Peace and Security](sipri-yb25-ai-chapter.md)
+- [SIPRI — Reporting to the UNROCA for 2017 (background paper)](sipri-unroca-reporting.md)
+- [Carnegie Endowment — How AI Shapes Global Power](carnegie-ai-global-power.md)
+- [RAND — AI & National Security](rand-ai-national-security.md)
+- [Human Rights Watch — Arms & Military Technology](hrw-arms.md)
+- [Stop Killer Robots — Campaign for a ban on fully autonomous weapons](stop-killer-robots.md)
 - [Article 36 — Autonomous Weapons programme](article36-autonomous-weapons.md)
 - [Small Arms Survey (Geneva)](small-arms-survey.md)
+
+## Regional & International Organizations
+
+- [NATO Artificial Intelligence Strategy (2021)](nato-ai-strategy.md)
 
 ## Iran / Middle East
 

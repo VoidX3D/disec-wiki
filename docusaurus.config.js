@@ -28,7 +28,17 @@ const config = {
   projectName: 'disec-wiki',
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+
+  // All content is plain Markdown (much of it scraped HTML / PDF text) and
+  // there are no .mdx files, so parse .md as plain Markdown to avoid MDX JSX
+  // errors on things like <https://…> autolinks and stray raw HTML.
+  markdown: {
+    format: 'md',
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownImages: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -58,7 +68,7 @@ const config = {
           },
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',

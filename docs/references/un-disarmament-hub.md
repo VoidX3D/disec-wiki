@@ -2,8 +2,6 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
-[ Skip to main content](#main-content) 
-
 [Welcome to the United Nations](https://www.un.org)
 
 * [العربية](https://www.un.org/ar)
@@ -14,8 +12,6 @@
 * [Русский](https://www.un.org/ru)
 
 [ ![Home](https://www.un.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.un.org/en%20%22Home%22) 
-
-[ SEARCH ](#collapseSearch) 
 
 [ English](#) 
 * [العربية](https://www.un.org/ar)

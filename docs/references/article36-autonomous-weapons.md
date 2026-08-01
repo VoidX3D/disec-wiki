@@ -4,8 +4,6 @@
 
 (Opens external website) (File Download)
 
-[Skip to Content](#main) 
-
 * [LinkedIn](https://uk.linkedin.com/company/article36)
 * [Newsletter](#newsletter)
 
