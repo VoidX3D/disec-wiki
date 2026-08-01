@@ -33,7 +33,13 @@ const sidebars = {
       items: [
         'iran/index',
         'iran/profile',
+        'iran/military',
         'iran/capabilities',
+        'iran/population',
+        'iran/economy',
+        'iran/treaties',
+        'iran/organizations',
+        'iran/foreign-relations',
         'iran/alliances',
         'iran/counter-arguments',
       ],
