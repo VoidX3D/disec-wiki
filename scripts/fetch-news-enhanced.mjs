@@ -53,15 +53,53 @@ const parser = new Parser({
 
 // Add more UN and country sources here; start with UN, UNHCR, OHCHR and country wire feeds
 const FEEDS = [
+  // UN / UN agencies
   { id: 'un', url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', source: 'UN News', label: 'UN' },
+  { id: 'un-press', url: 'https://www.un.org/press/en/rss.xml', source: 'UN Press', label: 'UN' },
   { id: 'ohchr', url: 'https://www.ohchr.org/en/rss.xml', source: 'OHCHR', label: 'UN' },
   { id: 'unhcr', url: 'https://www.unhcr.org/rss.xml', source: 'UNHCR', label: 'UN' },
   { id: 'reliefweb', url: 'https://reliefweb.int/updates/rss', source: 'ReliefWeb', label: 'UN/NGO' },
-  // Existing feeds from older fetcher for continuity
-  { id: 'bbc-world', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', source: 'BBC World', label: 'BBC' },
+  { id: 'who', url: 'https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml', source: 'WHO', label: 'UN' },
+  { id: 'unicef', url: 'https://www.unicef.org/feeds/nf.xml', source: 'UNICEF', label: 'UN' },
+  { id: 'fao', url: 'http://www.fao.org/rss/en/', source: 'FAO', label: 'UN' },
+  { id: 'unodc', url: 'https://www.unodc.org/unodc/en/frontpage/atom.xml', source: 'UNODC', label: 'UN' },
+
+  // Major international news
   { id: 'reuters-world', url: 'https://feeds.reuters.com/reuters/worldNews', source: 'Reuters', label: 'Reuters' },
+  { id: 'bbc-world', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', source: 'BBC World', label: 'BBC' },
   { id: 'aljazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', source: 'Al Jazeera', label: 'Al Jazeera' },
   { id: 'guardian', url: 'https://www.theguardian.com/world/rss', source: 'The Guardian', label: 'International' },
+  { id: 'nytimes-world', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', source: 'NYTimes', label: 'International' },
+  { id: 'france24', url: 'https://www.france24.com/en/rss', source: 'France24', label: 'International' },
+  { id: 'dw', url: 'https://rss.dw.com/xml/rss-en-all', source: 'Deutsche Welle', label: 'International' },
+
+  // Defense / Security / Tech
+  { id: 'defense-news', url: 'https://www.defensenews.com/arc/outboundfeeds/rss/', source: 'Defense News', label: 'Defense' },
+  { id: 'breaking-defense', url: 'https://breakingdefense.com/feed/', source: 'Breaking Defense', label: 'Defense' },
+  { id: 'aviation-week', url: 'https://aviationweek.com/rss.xml', source: 'Aviation Week', label: 'Defense' },
+  { id: 'eurasian-times', url: 'https://www.eurasiantimes.com/feed/', source: 'Eurasian Times', label: 'Defense' },
+  { id: 'nti', url: 'https://www.nti.org/feed/', source: 'NTI', label: 'Nuclear' },
+
+  // Think tanks & research
+  { id: 'cset', url: 'https://cset.georgetown.edu/feed/', source: 'CSET', label: 'Think Tank' },
+  { id: 'csis', url: 'https://www.csis.org/rss', source: 'CSIS', label: 'Think Tank' },
+  { id: 'brookings', url: 'https://www.brookings.edu/feed/', source: 'Brookings', label: 'Think Tank' },
+  { id: 'carnegie', url: 'https://carnegieendowment.org/rss', source: 'Carnegie Endowment', label: 'Think Tank' },
+  { id: 'sipri', url: 'https://www.sipri.org/media/press-releases/rss', source: 'SIPRI', label: 'Think Tank' },
+
+  // NGOs / Human rights
+  { id: 'hrw', url: 'https://www.hrw.org/rss.xml', source: 'Human Rights Watch', label: 'NGO' },
+  { id: 'amnesty', url: 'https://www.amnesty.org/en/latest/rss.xml', source: 'Amnesty', label: 'NGO' },
+  { id: 'icrc', url: 'https://www.icrc.org/en/rss', source: 'ICRC', label: 'NGO' },
+
+  // Regional / country-level
+  { id: 'thediplomat', url: 'https://thediplomat.com/feed/', source: 'The Diplomat', label: 'Asia' },
+  { id: 'japantimes', url: 'https://www.japantimes.co.jp/feed/', source: 'Japan Times', label: 'Asia' },
+  { id: 'thehindu', url: 'https://www.thehindu.com/news/international/feeder/default.rss', source: 'The Hindu', label: 'India' },
+  { id: 'euronews', url: 'https://www.euronews.com/rss?level=theme&name=news', source: 'Euronews', label: 'Europe' },
+
+  // Fallback / others
+  { id: 'guardian-tech', url: 'https://www.theguardian.com/technology/rss', source: 'Guardian Tech', label: 'Tech' },
 ];
 
 const KEYWORDS = [
