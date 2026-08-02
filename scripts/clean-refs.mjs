@@ -78,7 +78,7 @@ const JUNK_ANCHOR_LINE =
   /^[ \t]*(?:[-*+] \s*)?(?:\[\s*\d+\s*\]\s*)?\[[^\]]*\]\(#(?:main-content|main|content|page|page-content|collapseSearch|search|newsletter|footer|top|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|topicLandingPageList[\d-]*|Origins|Background|History|Nuclear_weapons|Consequences|Protection|Definition|Overview|Origins_and|Current_status)[A-Za-z0-9_%.-]*\)\s*$/gim;
 
 const JUNK_INLINE =
-  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*)[A-Za-z0-9_%.-]*\)/gi;
+  /\[[^\]]*\]\(#(?:main-content|main|content|page-content|collapseSearch|search|newsletter|footer|skip|bodyContent|site-main-menu|nav__primary-nav|privacy-settings|hrw-cookie-dialog|modal[A-Za-z]*|banner-highlight\d*|manual-highlight\d*|text\d+|car\d+[a-f0-9]*|ntr\d+|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*|superscript|un-main-content|un-main-menu)[A-Za-z0-9_%.-]*\)/gi;
 
 // Scraped in-page TOC rows: "* [ 1 History ](#History) Toggle History subsection"
 // and markdown links carrying a trailing title attribute:
@@ -93,11 +93,26 @@ const JUNK_TITLE_LINK =
 // `#cite_note-:0-31`, `#cite_ref-10-0`, `#cite_note-Foo-12`, etc.
 // We strip any `]( #cite_... )` link AND entire "[1]" / "[10]" / "[a]" reference
 // list lines (footnote markers surviving the conversion).
+// Wikipedia footnote anchors — match any percent-encoded cite_note / cite_ref link.
+// Anchors use a wide character set including colon, dot, digits, letters,
+// underscores, parens.  We strip the whole markdown link.
 const WIKI_CITE_LINK =
-  /\[[^\]]*\]\(#cite[_%5F-](?:note|ref)[%_a-z0-9-]*\)/gi;
+  /\[[^\]]*\]\(#cite[%_a-z0-9\-.:,'’!\(\)–—]*\)/gi;
 
 const WIKI_FOOTNOTE_LINE =
   /^[ \t]*\[\^[^\]]+\]:[ \t]+.*$/gim;
+
+// Orphaned cite_note fragments left behind after prior cleaner passes:
+// the closing `]` and URL part survive without an opening `[`. These
+// render as ugly text like "\](#cite_note-:01-3)". Strip them.
+const WIKI_CITE_ORPHAN =
+  /\\\]\]\(#cite[^)]*\)/gi;
+
+// Many scraped pages carry an inline footnote marker that looks like
+// `[\[3\][\[4\]]` — these surround citation references. Strip the bracketed
+// footnote markers entirely so they don't render as escaped text.
+const WIKI_FOOTNOTE_MARKER =
+  /\[\\\?\[[0-9n ]+\\\?\]\]/g;
 
 function stripNoise(md) {
   for (const re of NOISE) md = md.replace(re, '');
@@ -106,8 +121,19 @@ function stripNoise(md) {
   md = md.replace(JUNK_TITLE_LINK, '');
   md = md.replace(JUNK_INLINE, '');
   md = md.replace(WIKI_CITE_LINK, '');
+  md = md.replace(WIKI_CITE_ORPHAN, '');
+  md = md.replace(WIKI_FOOTNOTE_MARKER, '');
   md = md.replace(WIKI_FOOTNOTE_LINE, '');
-  md = md.replace(/\]\(#(main|content|page|newsletter|cite[_%5F-]?(?:note|ref)[%_a-z0-9-]*)[^)]*\)/gi, '');
+  md = md.replace(/\]\(#(main|content|page|newsletter|cite[_%5F-]?(?:note|ref)[%_a-z0-9:.-]*|ntr[\w%2A]*-L[_%5F-][^)]*)[^)]*\)/gi, '');
+  md = md.replace(/\]\(#cite\S+/gi, '');
+  // EU AI Act uses ntc, ntc1, ntc2, or ntc* anchors — wide catch-all.
+  md = md.replace(/\]\(#ntc[\w%2A]*[^)]*\)/gi, '');
+  // Wikipedia inline TOC: bolded section names with parens like
+  // (#International_Atomic_Energy_Agency_reports,_2007–2015)
+  md = md.replace(/\]\(#[A-Z][A-Za-z0-9_%,&\-–— ]+(?:&[a-z]+;[^)]*)?\)/g, '');
+  // Generic orphan anchor link `\](#anchor)` left over from prior passes.
+  md = md.replace(/\\\]\]\(#[^)]+\)/gi, '');
+  md = md.replace(/\]\(#[A-Za-z][A-Za-z0-9_]*\(?[0-9A-Za-z–— %_-]*\)?\)/g, '');
   md = md.replace(/\n{3,}/g, '\n\n');
   return md;
 }
