@@ -1,0 +1,39 @@
+name: Scheduled data fetch
+
+on:
+  schedule:
+    - cron: '0 * * * *' # hourly
+  workflow_dispatch:
+
+jobs:
+  fetch-and-download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run news fetch (enhanced)
+        run: npm run news:enhanced -- --quiet
+
+      - name: Run download sources
+        run: npm run download --if-present
+
+      - name: Archive news-data
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-data-archive
+          path: news-data
+
+      - name: Upload logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-logs
+          path: logs

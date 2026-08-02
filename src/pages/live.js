@@ -89,12 +89,18 @@ function LiveNews() {
           <div className={styles.grid}>
             {items.map((a, idx) => {
               const date = a.pubDate ? new Date(a.pubDate).toLocaleDateString() : '';
+              const img = a.image || null;
               return (
                 <div key={idx} className="ln-card">
-                  <span className="ln-src">{a.source || ''}</span>
-                  <a href={a.link} target="_blank" rel="noopener">{a.title || ''}</a>
-                  <span className="ln-date">{date}</span>
-                  <div className="ln-sum">{a.content || ''}</div>
+                  {img ? (
+                    <div className="ln-thumb"><img src={img} alt="" loading="lazy"/></div>
+                  ) : null}
+                  <div className="ln-body">
+                    <span className="ln-src">{a.source || ''}</span>
+                    <a href={a.link} target="_blank" rel="noopener">{a.title || ''}</a>
+                    <span className="ln-date">{date}</span>
+                    <div className="ln-sum">{a.content || ''}</div>
+                  </div>
                 </div>
               );
             })}

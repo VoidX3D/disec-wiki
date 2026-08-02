@@ -69,3 +69,12 @@ under `static/downloads/`):
 - AI policy frameworks — EU AI Act, US DoD directives, etc.
 - Iran / Middle East — Wikipedia deep-dives, CSIS drone/EW analysis,
   ME Council briefs, IPHR drone-war report (PDF)
+
+## New operational commands & infra
+
+- `npm run news:enhanced` — Enhanced news-fetcher: downloads RSS items and attempts to fetch article images (media:content, media:thumbnail, OG image) and PDF enclosures; saves assets to `news-data/assets` and `news-data/pdfs`, writes logs to `logs/news-fetch.log`.
+- `npm run normalize-images` — Normalizes filenames in `news-data/assets` to the convention `YYYY-MM-DD_slug.ext` and writes a mapping file at `news-data/assets/rename-map.json`.
+
+CI: A scheduled GitHub Actions workflow (.github/workflows/scheduled-data-fetch.yml) has been added to run the news fetch + download periodically and upload artifacts. See that workflow for scheduling details.
+
+Ops: See `docs/ops/fix-npm.md` for guidance on fixing a broken global npm prefix and the recommended developer setup.
