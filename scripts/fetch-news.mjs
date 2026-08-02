@@ -43,15 +43,18 @@ const parser = new Parser({
 
 const FEEDS = [
   { id: 'un', url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', source: 'UN News', label: 'UN' },
-  { id: 'bbc', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', source: 'BBC Tech', label: 'BBC' },
-  { id: 'aljazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', source: 'Al Jazeera', label: 'Al Jazeera' },
-  { id: 'reuters', url: 'https://www.reutersagency.com/feed/', source: 'Reuters', label: 'Reuters' },
-  { id: 'defense-news', url: 'https://www.defensenews.com/arc/outboundfeeds/rss/', source: 'Defense News', label: 'Defense' },
-  { id: 'iiss', url: 'https://www.iiss.org/feed/', source: 'IISS', label: 'Think Tank' },
-  { id: 'hrw', url: 'https://www.hrw.org/rss.xml', source: 'Human Rights Watch', label: 'NGO' },
-  { id: 'sipri', url: 'https://www.sipri.org/rss.xml', source: 'SIPRI', label: 'Think Tank' },
-  { id: 'icrc', url: 'https://www.icrc.org/en/rss/feature', source: 'ICRC', label: 'NGO' },
   { id: 'bbc-world', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', source: 'BBC World', label: 'BBC' },
+  { id: 'bbc-tech', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', source: 'BBC Tech', label: 'BBC' },
+  { id: 'guardian', url: 'https://www.theguardian.com/world/rss', source: 'The Guardian', label: 'International' },
+  { id: 'aljazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', source: 'Al Jazeera', label: 'Al Jazeera' },
+  { id: 'defense-news', url: 'https://www.defensenews.com/arc/outboundfeeds/rss/', source: 'Defense News', label: 'Defense' },
+  { id: 'breaking-defense', url: 'https://breakingdefense.com/feed/', source: 'Breaking Defense', label: 'Defense' },
+  { id: 'cset', url: 'https://cset.georgetown.edu/feed/', source: 'CSET', label: 'Think Tank' },
+  { id: 'hrw', url: 'https://www.hrw.org/rss.xml', source: 'Human Rights Watch', label: 'NGO' },
+  { id: 'diplomat', url: 'https://thediplomat.com/feed/', source: 'The Diplomat', label: 'Asia' },
+  { id: 'japan-times', url: 'https://www.japantimes.co.jp/feed/', source: 'Japan Times', label: 'Asia' },
+  { id: 'eurasian-times', url: 'https://www.eurasiantimes.com/feed/', source: 'Eurasian Times', label: 'Defense' },
+  { id: 'aviation-week', url: 'https://aviationweek.com/rss.xml', source: 'Aviation Week', label: 'Defense' },
 ];
 
 const KEYWORDS = [
