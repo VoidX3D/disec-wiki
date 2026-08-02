@@ -21,6 +21,8 @@
     "clean-images": "node scripts/clean-images.mjs",
     "download": "node scripts/download-sources.mjs",
     "news": "node scripts/fetch-news.mjs",
+    "news:enhanced": "node scripts/fetch-news-enhanced.mjs",
+    "normalize-images": "node scripts/normalize-images.mjs",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
