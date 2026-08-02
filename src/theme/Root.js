@@ -1,5 +1,6 @@
 import {useEffect, useState} from 'react';
 import {useLocation} from '@docusaurus/router';
+import {Analytics} from '@vercel/analytics/react';
 
 // Global skeleton loading overlay. Fades in briefly on every route change so
 // navigation never feels unresponsive, then fades out once the page settles.
@@ -33,6 +34,7 @@ export default function Root({children}) {
         </div>
       )}
       {children}
+      <Analytics />
     </>
   );
 }
