@@ -67,6 +67,13 @@ function buildApp() {
   app.get('/api/search', api.search);
   app.get(/^\/api\/docx\/text\/.+\.docx$/, docx);
 
+  // Robots.txt
+  app.get('/robots.txt', (req, res) => {
+    res.setHeader('Content-Type', 'text/plain; charset=utf-8');
+    res.setHeader('Cache-Control', 'public, max-age=86400');
+    res.end('User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n');
+  });
+
   // Document routes — PDFs inside site/downloads; docx from docxDir.
   app.get(/^\/downloads\/.+\.(pdf|doc|docx|xlsx?|pptx?)$/, (req, res, next) => {
     if (req.pathname.endsWith('.pdf')) return pdf(req, res);

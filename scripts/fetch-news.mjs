@@ -55,6 +55,9 @@ const FEEDS = [
   { id: 'japan-times', url: 'https://www.japantimes.co.jp/feed/', source: 'Japan Times', label: 'Asia' },
   { id: 'eurasian-times', url: 'https://www.eurasiantimes.com/feed/', source: 'Eurasian Times', label: 'Defense' },
   { id: 'aviation-week', url: 'https://aviationweek.com/rss.xml', source: 'Aviation Week', label: 'Defense' },
+  { id: 'reuters-world', url: 'https://feeds.reuters.com/reuters/worldNews', source: 'Reuters', label: 'International' },
+  { id: 'nti', url: 'https://www.nti.org/feed/', source: 'NTI', label: 'Nuclear' },
+  { id: 'icrc', url: 'https://www.icrc.org/en/rss', source: 'ICRC', label: 'IHL' },
 ];
 
 const KEYWORDS = [

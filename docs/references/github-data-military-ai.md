@@ -1,4 +1,4 @@
-# 12. Artificial intelligence and international peace and security
+# SIPRI databases
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
@@ -64,70 +64,51 @@ Search
    * [Working at SIPRI](https://www.sipri.org/about/vacancies)
 * [Support SIPRI](https://donate.sipri.org/)
 
-## Breadcrumb
+# SIPRI databases 
 
-[SIPRI Yearbook 2025](https://www.sipri.org/yearbook/2025) 
+#### [**SIPRI Arms Transfers Database**](https://www.sipri.org/databases/armstransfers)
 
-# 12\. Artificial intelligence and international peace and security 
+The SIPRI Arms Transfers Database shows all international transfers of major conventional arms since 1950 and is the most comprehensive publicly available source of information on international arms transfers.
 
-Contents
+#### [**SIPRI Mapping ATT-Relevant Cooperation and Assistance Activities Database**](http://www.att-assistance.org/?page%5Fid=45)
 
-I. Introduction
+The SIPRI Mapping ATT-relevant Cooperation and Assistance Activities Database provides information on cooperation and assistance activities in the field of arms transfer and small arms and light weapons (SALW) controls. The database supports states' implementation of the 2001 UN Programme of Action on SALW and the 2013 Arms Trade Treaty and includes activities carried out since 2012\. 
 
-II. Governing the challenges presented by military artificial intelligence
+#### [**SIPRI Arms Industry Database**](https://www.sipri.org/databases/armsindustry)
 
-III. Governing the challenges presented by civilian artificial intelligence
+The SIPRI Arms Industry Database contains information on the 100 largest arms-producing and military services companies.
 
-IV. Other important developments in the governance of artificial intelligence
+#### [SIPRI Multilateral Peace Operations Database](https://www.sipri.org/databases/pko) 
 
-V. Conclusions  
+The SIPRI Multilateral Peace Operations Database offers information on all multilateral peace operations conducted since 2000, including statistics on personnel, country contributions, fatalities and budgets.
 
-**Click** [**here**](https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf) **to download a PDF of this chapter.**
+#### [**SIPRI Military Expenditure Database**](https://www.sipri.org/databases/milex)
 
-Advances in artificial intelligence (AI) are poised to bring enormous benefits but they could also create, or exacerbate existing, threats to international peace and security. In recent years, many states have increasingly acknowledged the need to manage these complex risks—stemming from both civilian and military AI—through the establishment of new forums and initiatives. These states deepened their engagement with ongoing initiatives in 2024\. The extent to which the various initiatives will evolve as complementary or competing processes remains an open question.
+The SIPRI Military Expenditure Database gives the annual military spending of countries since 1949, allowing comparison of countries’ military spending in local currency at current prices; in US dollars at constant prices and exchange rates; and as a share of GDP.
 
-### Military AI
+**As an independent non-profit organization, SIPRI welcomes funding from private individuals and organizations who share our mission. Those interested in supporting SIPRI and our independent authoritative data can find more information by clicking** [**here**](https://donate.sipri.org/)**.**
 
-For the past decade, the international policy conversation on military uses of AI has mostly focused on autonomous weapon systems (AWS), commonly characterized as weapon systems that, once activated, can select and engage targets without human intervention. Since 2023, however, the conversation has expanded to other military applications of AI, in areas such as targeting, planning and intelligence analysis, through what are commonly referred to as AI-enabled decision support systems. Reported uses of AI in current armed conflicts, especially in Gaza and Ukraine, illustrate that military AI is a pressing matter for policymakers.
+## Other resources
 
-Three topics were at the centre of discussions at the 2024 meetings of the group of governmental experts on ‘lethal autono-mous weapon systems’ (LAWS): characteristics and definitions of LAWS, application of international humanitarian law (IHL), and measures to ensure compliance with IHL and mitigate risks.
+SIPRI keeps comprehensive collections of material covering arms control and disarmament.
 
-### Civilian AI
+#### [**Arms embargoes**](https://www.sipri.org/databases/embargoes)
 
-Civilian AI developments could also pose risks to peace and security. Some AI models could help malicious actors to access critical knowledge to develop and use prohibited weapons. AI provides, moreover, a capability uplift and lowers the barrier   
-for cybercriminals and hackers to carry out harmful operations. In addition, generative AI tools can be misused to spread dis-information. States sought to mitigate these risks across various forums in 2024\. Notable multilateral efforts included United Nations-led processes on technology governance and the AI Safety Summit.
+SIPRI gives information on all arms embargoes that have been implemented by an international organization, such as the EU or UN, or by a group of nations. All embargoes that are in force, or have been in force since 1998, are included.
 
-[Jules Palayer](https://www.sipri.org/about/bios/jules-palayer) and [Laura Bruun](https://www.sipri.org/about/bios/laura-bruun) 
+#### [**National reports on arms exports**](https://www.sipri.org/databases/national-reports)
 
-Language English
+SIPRI provides links to all publicly accessible national reports on arms exports. These are constantly updated to include links to newly published national reports on arms exports.
+
+#### [**National Budget Archive**](https://www.sipri.org/databases/national-budget-archive)
+
+The SIPRI National Budget Archive contains the source budgetary documents of individual countries, by year, used for the SIPRI Military Expenditure database.
+
+#### [**Financial value of the global arms trade**](https://www.sipri.org/databases/financial-value-global-arms-trade)
+
+Using reports from the National reports archive, SIPRI estimates the financial value of arms exports.
 
 [ ](# "Click to return to the top of the page") 
-
-###  Order SIPRI Yearbook 2025
-
-![YB25](https://www.sipri.org/sites/default/files/2025-06/2025_yearbook_cover__0.jpg) 
-
-Published in print and online in 2025 by Oxford University Press on behalf of the Stockholm International Peace Research Institute.
-
-[Order a print copy](https://global.oup.com/academic/product/sipri-yearbook-2025-9780198979791?cc=gb&lang=en&)
-
-[Click here](https://www.sipri.org/sites/default/files/SIPRIYB25c01.pdf) to download the introduction.
-
-[Click here](https://www.sipri.org/sites/default/files/SIPRIYB25c06%266A.pdf) to download the sample chapter on world nuclear forces.
-
-[Click here](https://www.sipri.org/sites/default/files/SIPRIYB25c02.pdf) to download the sample chapter on armed conflict and conflict management.
-
-[Click here](https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf) to download the sample chapter on artificial intelligence and international peace and security.
-
-[Subscribe to SIPRI Yearbook Online](https://www.sipriyearbook.org/)
-
-Language English
-
-Publisher
-
-Oxford University Press
-
-£100.00
 
 ## SECTIONS
 
