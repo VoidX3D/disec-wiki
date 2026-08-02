@@ -1,4 +1,4 @@
-# CCW GGE on LAWS — 2019 report & 11 Guiding Principles (CCW/GGE.1/2019/3)
+# CCW GGE on LAWS — 2019 report & 11 Guiding Principles
 
 > Offline copy converted from the official PDF by the DISEC Research Wiki downloader.
 

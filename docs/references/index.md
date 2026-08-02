@@ -1,6 +1,6 @@
 # Offline Source Documents
 
-Primary documents saved locally so the entire library works without internet. 87 of 90 sources downloaded.
+Primary documents saved locally so the entire library works without internet. 107 of 135 sources downloaded.
 
 ## Treaties & Conventions
 
@@ -22,6 +22,11 @@ Primary documents saved locally so the entire library works without internet. 87
 - [Anti-Personnel Mine Ban Convention (Ottawa, 1997)](apmbc.md)
 - [Convention on Cluster Munitions (2008)](ccm.md)
 - [1925 Geneva Protocol (asphyxiating & poisonous gases)](geneva-protocol-1925.md)
+- [EU — AI Act (Regulation 2024/1689)](eu-ai-act.md)
+- [Arms Trade Treaty (ATT) — main page](att.md)
+- [Treaty on the Prohibition of Nuclear Weapons (TPNW) — main page](tpnw.md)
+- [Convention on Cluster Munitions (CCM) — main page](ccm.md)
+- [UN Firearms Protocol (UNODC)](firearms-protocol.md)
 
 ## UN Resolutions & Official Documents
 
@@ -39,6 +44,9 @@ Primary documents saved locally so the entire library works without internet. 87
 - [UN — Office for Disarmament Affairs (main hub)](un-disarmament-hub.md)
 - [UN Digital Library (searchable resolutions & documents)](un-digital-library.md)
 - [UN Security Council Resolution 1540 (2004) — WMD non-proliferation](unsc-1540.md)
+- [CCW GGE on LAWS — 2023 Final Report (A/78/116)](gge-laws-2023-final-report.md)
+- [CCW GGE on LAWS — 2019 Report (CCW/MSP/2019/9)](gge-laws-2019-report.md)
+- [UNSC Resolution 1540 (WMD non-proliferation)](unsc-1540.md)
 
 ## UN Agencies & Bodies
 
@@ -62,6 +70,9 @@ Primary documents saved locally so the entire library works without internet. 87
 - [UN Register of Conventional Arms (UNROCA)](un-register-conventional-arms.md)
 - [UNROCA — List of Definitions (2024)](unroca-definitions.md)
 - [UNODC — Firearms Protocol overview](unodc-firearms-protocol.md)
+- [CCW GGE on LAWS — 2025 Chair Summary (March)](gge-laws-2025-chair-summary-march.md)
+- [CCW GGE on LAWS — 2025 Chair Summary (September)](gge-laws-2025-chair-summary-sept.md)
+- [ICRC — IHL Treaty Databases](icrc-ihl-databases.md)
 
 ## Government & National Policy
 
@@ -83,6 +94,11 @@ Primary documents saved locally so the entire library works without internet. 87
 - [Stop Killer Robots — Campaign for a ban on fully autonomous weapons](stop-killer-robots.md)
 - [Article 36 — Autonomous Weapons programme](article36-autonomous-weapons.md)
 - [Small Arms Survey (Geneva)](small-arms-survey.md)
+- [SIPRI — AI and Security (2024 report)](sipri-ai-security-2024.md)
+- [SIPRI Yearbook 2025 — Armaments, Disarmament and International Security](sipri-yearbook-2025.md)
+- [RAND — Economics of the Shahed-136 Drone](rand-shahed-economics.md)
+- [Carnegie — AI and Global Power (overview)](carnegie-ai-global-power.md)
+- [Small Arms Survey — main page](small-arms-survey.md)
 
 ## Regional & International Organizations
 
@@ -112,6 +128,10 @@ Primary documents saved locally so the entire library works without internet. 87
 - [Wikipedia — Military Artificial Intelligence](wikipedia-military-ai.md)
 - [UNESCO Recommendation on the Ethics of AI (2021)](unesco-ai-ethics.md)
 - [OECD AI Principles (2019)](oecd-ai-principles.md)
+- [Stop Killer Robots — FAQ](stop-killer-robots-faq.md)
+- [OECD — Recommendation of the Council on Artificial Intelligence](oecd-ai-principles.md)
+- [UNESCO — Recommendation on the Ethics of AI (2021)](unesco-ai-ethics.md)
+- [IEEE — Ethically Aligned Design (First-Person Global AI Standard)](ieee-ethically-aligned-design.md)
 
 ---
 

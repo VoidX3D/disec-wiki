@@ -172,6 +172,12 @@ function hasPdfText() {
 const PDFTEXT_AVAILABLE = hasPdfText();
 
 function pdfToMarkdown(buf, title) {
+  // Guard against non-PDF payloads being passed to pdftotext.
+  const isPdf = buf.length > 4 && buf.subarray(0, 5).toString('latin1') === '%PDF-';
+  if (!isPdf) {
+    console.error('    not a real PDF (missing %PDF magic) — refusing pdftotext');
+    return null;
+  }
   const tmp = path.join(DOWNLOADS, `${Date.now()}.pdf`);
   fs.writeFileSync(tmp, buf);
   try {
@@ -224,165 +230,106 @@ const CAT = {
 };
 
 const SOURCES = [
-  // ══ A. LAWS / military AI (core topic) ══════════════════════════
+  // 1. Core LAWS / military AI
   { file: 'icrc-position-autonomous-weapons', title: 'ICRC Position on Autonomous Weapon Systems (2021)', url: 'https://www.icrc.org/en/document/icrc-position-autonomous-weapon-systems', category: 'unagency' },
-  { file: 'icrc-recommends-new-rules', title: 'ICRC — Autonomous Weapons: The ICRC Recommends Adopting New Rules', url: 'https://www.icrc.org/en/document/autonomous-weapons-icrc-recommends-new-rules', category: 'unagency' },
+  { file: 'icrc-recommends-new-rules', title: 'ICRC — Autonomous Weapons: The ICRC Recommends New Rules', url: 'https://www.icrc.org/en/document/autonomous-weapons-icrc-recommends-new-rules', category: 'unagency' },
+  { file: 'icrc-autonomous-weapons-overview', title: 'ICRC — Autonomous Weapons & AI (law & policy)', url: 'https://www.icrc.org/en/law-and-policy/artificial-intelligence', category: 'unagency' },
+  { file: 'icrc-la-ai-and-ihl', title: 'ICRC — AI & Machine Learning in Armed Conflict: Human-Centred Approach', url: 'https://www.icrc.org/en/document/artificial-intelligence-and-machine-learning-armed-conflict-human-centred-approach', category: 'unagency' },
+  { file: 'icrc-faq-autonomous-weapons', title: 'ICRC — FAQ: AI in the Military Domain', url: 'https://www.icrc.org/en/article/faq-artificial-intelligence-in-military-domain', category: 'unagency' },
+  { file: 'icrc-data-protection-ai', title: 'ICRC — Data Protection in Humanitarian Action (2nd ed)', url: 'https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action', category: 'unagency' },
+  { file: 'icrc-llm-armed-conflict', title: 'ICRC — Large Language Models & Armed Conflict', url: 'https://www.icrc.org/en/law-and-policy/artificial-intelligence', category: 'unagency' },
   { file: 'unoda-lethal-autonomous-weapons', title: 'UNODA — Lethal Autonomous Weapon Systems', url: 'https://www.unoda.org/en/our-work/emerging-challenges/lethal-autonomous-weapon-systems', category: 'unagency' },
-  { file: 'icrc-autonomous-weapons-overview', title: 'ICRC — Autonomous Weapons (law & policy overview)', url: 'https://www.icrc.org/en/law-and-policy/autonomous-weapons', category: 'unagency' },
   { file: 'un-charter', title: 'Charter of the United Nations (1945)', url: 'https://www.un.org/en/about-us/un-charter/full-text', category: 'convention' },
-  { file: 'un-disarmament-agenda', title: 'UN Secretary-General\'s Agenda for Disarmament — "Securing Our Common Future" (2018)', url: 'https://digitallibrary.un.org/record/1628227/files/SG%2Bdisarmament%2Bagenda_1.pdf', category: 'unresolution', pdf: true },
-  { file: 'wikipedia-lethal-autonomous-weapons', title: 'Wikipedia — Lethal Autonomous Weapons (overview & state positions)', url: 'https://en.wikipedia.org/wiki/Lethal_autonomous_weapon', category: 'framework' },
+  { file: 'un-disarmament-agenda', title: 'UN SG’s Agenda for Disarmament (2018)', url: 'https://www.un.org/disarmament/sg-agenda/', category: 'unresolution' },
+  { file: 'un-disarmament-hub', title: 'UNODA — Disarmament main hub', url: 'https://www.un.org/disarmament/', category: 'unresolution' },
+  { file: 'wikipedia-lethal-autonomous-weapons', title: 'Wikipedia — Lethal Autonomous Weapons', url: 'https://en.wikipedia.org/wiki/Lethal_autonomous_weapon', category: 'framework' },
   { file: 'wikipedia-military-ai', title: 'Wikipedia — Military Artificial Intelligence', url: 'https://en.wikipedia.org/wiki/Military_artificial_intelligence', category: 'framework' },
   { file: 'new-agenda-for-peace', title: 'UN Policy Brief — A New Agenda for Peace (2023)', url: 'https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-new-agenda-for-peace-en.pdf', category: 'unresolution', pdf: true },
 
-  // ══ B. UN Resolutions & Official Documents ══════════════════════
-  { file: 'un-res-a78-241-laws', title: 'UNGA Resolution A/RES/78/241 — LAWS (2023)', url: 'https://digitallibrary.un.org/record/4033027/files/A_RES_78_241-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'un-res-a79-62-laws', title: 'UNGA Resolution A/RES/79/62 — LAWS (2024, adopted 166-3-15)', url: 'https://digitallibrary.un.org/record/4071100/files/A_RES_79_62-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'un-res-a80-57-laws', title: 'UNGA Resolution A/RES/80/57 — LAWS (2025)', url: 'https://digitallibrary.un.org/record/4095989/files/A_RES_80_57-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'un-res-a79-239-military-ai', title: 'UNGA Resolution A/RES/79/239 — AI in the Military Domain (2024)', url: 'https://digitallibrary.un.org/record/4071348/files/A_RES_79_239-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'un-sg-report-a78-273-laws', title: 'UN SG Report A/78/273 — LAWS views & analysis (2023)', url: 'https://digitallibrary.un.org/record/4017741/files/A_78_273-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'un-sg-report-a79-88-laws', title: 'UN SG Report A/79/88 — LAWS views & analysis (2024)', url: 'https://digitallibrary.un.org/record/4059475/files/A_79_88-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-res-a78-241-laws', title: 'Resolutions A/RES/78/241 — LAWS (2023)', url: 'https://digitallibrary.un.org/record/4033027/files/A_RES_78_241-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-res-a79-62-laws', title: 'Resolutions A/RES/79/62 — LAWS (2024, 166-3-15)', url: 'https://digitallibrary.un.org/record/4071100/files/A_RES_79_62-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-res-a80-57-laws', title: 'Resolutions A/RES/80/57 — LAWS (2025)', url: 'https://digitallibrary.un.org/record/4095989/files/A_RES_80_57-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-res-a79-239-military-ai', title: 'Resolutions A/RES/79/239 — AI in the Military Domain (2024)', url: 'https://digitallibrary.un.org/record/4071348/files/A_RES_79_239-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-sg-report-a78-273-laws', title: 'UN SG Report A/78/273 — LAWS views (2023)', url: 'https://digitallibrary.un.org/record/4017741/files/A_78_273-EN.pdf', category: 'unresolution', pdf: true },
+  { file: 'un-sg-report-a79-88-laws', title: 'UN SG Report A/79/88 — LAWS views (2024)', url: 'https://digitallibrary.un.org/record/4059475/files/A_79_88-EN.pdf', category: 'unresolution', pdf: true },
   { file: 'un-sg-report-a80-92-military-ai', title: 'UN SG Report A/80/92 — AI in the Military Domain (2025)', url: 'https://digitallibrary.un.org/record/4086346/files/A_80_92-EN.pdf', category: 'unresolution', pdf: true },
   { file: 'un-a79-408-first-committee', title: 'First Committee Report A/79/408 — LAWS (2024)', url: 'https://digitallibrary.un.org/record/4067759/files/A_79_408-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'unroca-founding-res-46-36', title: 'UNROCA founding Resolution A/RES/46/36 (1991)', url: 'https://undocs.org/en/A/RES/46/36', category: 'unresolution' },
-  { file: 'un-disarmament-hub', title: 'UN — Office for Disarmament Affairs (main hub)', url: 'https://www.un.org/disarmament/', category: 'unresolution' },
-  { file: 'un-digital-library', title: 'UN Digital Library (searchable resolutions & documents)', url: 'https://digitallibrary.un.org/', category: 'unresolution' },
-  { file: 'ccw-gge-2025-meetings', title: 'CCW GGE on LAWS — 2025 Meeting Page (UNODA meetings portal)', url: 'https://meetings.unoda.org/ccw/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapons-systems-2025', category: 'unagency' },
+  { file: 'unroca-founding-res-46-36', title: 'UNROCA founding Resolutions A/RES/46/36 (1991)', url: 'https://undocs.org/en/A/RES/46/36', category: 'unresolution' },
+  { file: 'un-digital-library', title: 'UN Digital Library (searchable documents)', url: 'https://digitallibrary.un.org/', category: 'unresolution' },
+  { file: 'ccw-gge-2025-meetings', title: 'CCW GGE on LAWS — 2025 Meetings (UNODA portal)', url: 'https://meetings.unoda.org/ccw/convention-certain-conventional-weapons-group-governmental-experts-lethal-autonomous-weapons-systems-2025', category: 'unagency' },
 
-  // ══ C. GGE on LAWS reports & guiding principles ══════════════════
-  { file: 'gge-laws-2023-report', title: 'CCW GGE on LAWS — 2023 Chair\'s report (CCW/GGE.1/2023/CRP.1)', url: 'https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2023)/CCW_GGE1_2023_CRP.1_0.pdf', category: 'unagency', pdf: true },
-  { file: 'gge-laws-2023-final-report', title: 'CCW GGE on LAWS — 2023 final report (CCW/GGE.1/2023/2)', url: 'https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2023)/CCW_GGE1_2023_2_Advance_version.pdf', category: 'unagency', pdf: true },
-  { file: 'gge-laws-2019-report', title: 'CCW GGE on LAWS — 2019 report & 11 Guiding Principles (CCW/GGE.1/2019/3)', url: 'https://documents.unoda.org/wp-content/uploads/2020/09/CCW_GGE.1_2019_3_E.pdf', category: 'unagency', pdf: true },
-  { file: 'gge-laws-2025-chair-summary-march', title: 'CCW GGE on LAWS — 2025 Chair\'s summary (March session)', url: "https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2025)/CCW-GGE.1-2025-WP.1_-_Chair's_summary.pdf", category: 'unagency', pdf: true },
-  { file: 'gge-laws-2025-chair-summary-sept', title: 'CCW GGE on LAWS — 2025 Chair\'s summary (September session)', url: "https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2025)/CCW-GGE.1-2025-WP.9_-_Chair's_summary.pdf", category: 'unagency', pdf: true },
-  { file: 'ccw-msp-2019-guiding-principles', title: 'CCW Guiding Principles affirmed by GGE (CCW/MSP/2019/9 Annex III)', url: 'https://ccdcoe.org/uploads/2020/02/UN-191213_CCW-MSP-Final-report-Annex-III_Guiding-Principles-affirmed-by-GGE.pdf', category: 'unagency', pdf: true },
+  { file: 'gge-laws-2023-report', title: 'CCW GGE on LAWS — 2023 Chair’s report (CRP.1)', url: 'https://docs-library.unoda.org/Convention_on_Conventional_Weapons_-Group_of_Governmental_Experts_on_LaWS_(2023)/CCW_GGE1_2023_CRP.1.pdf', category: 'unagency', pdf: true },
+  { file: 'gge-laws-2023-final-report', title: 'CCW GGE on LAWS — 2023 final report (A/78/116)', url: 'https://digitallibrary.un.org/record/4005963/files/A_78_116-EN.pdf', category: 'unagency', pdf: true },
+  { file: 'gge-laws-2019-report', title: 'CCW GGE on LAWS — 2019 report & 11 Guiding Principles', url: 'https://documents.unoda.org/wp-content/uploads/2020/09/CCW_GGE.1_2019_3_E.pdf', category: 'unagency', pdf: true },
+  { file: 'gge-laws-2025-chair-summary-march', title: 'CCW GGE on LAWS — 2025 Chair’s Summary (March)', url: 'https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Laeth_Autonomous_Weapons_Systems_(2025)/CCW-GGE_1-2025-WP-1-En.pdf', category: 'unagency', pdf: true },
 
-  // ══ D. UN Agencies & Bodies ══════════════════════════════════════
   { file: 'unidir-abdm-2024', title: 'UNIDIR — Advisory Board on Disarmament Matters Report (2024)', url: 'https://unidir.org/wp-content/uploads/2024/09/UNIDIR_2024_ABDM_Report.pdf', category: 'unagency', pdf: true },
   { file: 'unidir-governance-ai-military', title: 'UNIDIR — Governance of AI in the Military Domain', url: 'https://unodaweb.unoda.org/public/2024-06/OP42.pdf', category: 'unagency', pdf: true },
   { file: 'unidir-security-technology', title: 'UNIDIR — Security & Technology Programme', url: 'https://unidir.org/programmes/security-and-technology/', category: 'unagency' },
-  { file: 'unidir-military-ai-79-239', title: 'UNIDIR — AI in the Military Domain (First Committee briefing, 2025)', url: 'https://docs-library.unoda.org/General_Assembly_First_Committee_-Eightieth_session_(2025)/79-239-UNIDIR-EN.pdf', category: 'unagency', pdf: true },
-  { file: 'unidir-ai-military-priority-areas', title: 'UNIDIR — Governance of AI in the Military Domain: Multi-stakeholder Priority Areas', url: 'https://unidir.org/publication/governance-of-artificial-intelligence-in-the-military-domain-a-multi-stakeholder-perspective-on-priority-areas/', category: 'unagency' },
+  { file: 'unidir-ai-military-priority-areas', title: 'UNIDIR — Governance of military AI: Priority Areas', url: 'https://unidir.org/publication/governance-of-artificial-intelligence-in-the-military-domain-a-multi-stakeholder-perspective-on-priority-areas/', category: 'unagency' },
   { file: 'unoda-explosive-weapons', title: 'UNODA — Explosive Weapons in Populated Areas', url: 'https://www.unoda.org/en/our-work/conventional-arms/explosive-weapons-populated-areas', category: 'unagency' },
   { file: 'un-register-conventional-arms', title: 'UN Register of Conventional Arms (UNROCA)', url: 'https://www.unoda.org/en/our-work/cross-cutting-issues/military-confidence-building-measures/register-conventional-arms', category: 'unagency' },
-  { file: 'unroca-definitions', title: 'UNROCA — List of Definitions (2024)', url: 'https://front.un-arm.org/wp-content/uploads/2024/05/DEFINITIONS-71-UNROCA.pdf', category: 'unagency', pdf: true },
-  { file: 'unsc-1540', title: 'UN Security Council Resolution 1540 (2004) — WMD non-proliferation', url: 'https://www.un.org/en/sc/1540/', category: 'unresolution' },
+  { file: 'unidir-military-ai-79-239', title: 'UNIDIR — AI in the Military Domain (1C briefing)', url: 'https://unidir.org/publication/artificial-intelligence-in-the-military-domain-incorporating-human-control-and-a-rules-based-approach/', category: 'unagency' },
+  { file: 'unsc-1540', title: 'UNSC Resolution 1540 (2004) — WMD non-proliferation', url: 'https://www.un.org/en/sc/1540/', category: 'unresolution' },
   { file: 'unodc-firearms-protocol', title: 'UNODC — Firearms Protocol overview', url: 'https://www.unodc.org/unodc/en/firearms-protocol/index.html', category: 'unagency' },
+  { file: 'unocha-ai-humanitarian', title: 'Humanitarian Action info — AI in the Humanitarian Sector', url: 'https://humanitarianaction.info/', category: 'unagency' },
+  { file: 'un-ai-advisory-body-final-report', title: 'UN AI Advisory Body — Governing AI for Humanity', url: 'https://www.un.org/techenvoy/ai-advisory-body', category: 'unagency' },
 
-  // ══ E. Government & National Policy ══════════════════════════════
-  { file: 'us-dod-directive-300009', title: 'US DoD Directive 3000.09 — Autonomy in Weapon Systems (2023)', url: 'https://static.carahsoft.com/concrete/files/4917/1101/9112/Guidance_DoD_Directive_3000.09_-_Autonomy_in_Weapon_Systems.pdf', category: 'government', pdf: true },
-  { file: 'hrw-review-dod-300009', title: 'HRW / Harvard IHRC — Review of the 2023 US Policy on Autonomy in Weapons', url: 'https://humanrightsclinic.law.harvard.edu/wp-content/uploads/2023/02/Review-of-the-2023-US-Policy-on-Autonomy-in-Weapons-Systems.pdf', category: 'government', pdf: true },
-  { file: 'us-political-declaration-military-ai', title: 'US Political Declaration on Responsible Military Use of AI and Autonomy (2023)', url: 'https://www.state.gov/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/', category: 'government' },
-  { file: 'us-political-declaration-military-ai-pdf', title: 'US Political Declaration on Responsible Military Use of AI (PDF text)', url: 'https://www.state.gov/wp-content/uploads/2023/11/Political-Declaration-on-Responsible-Military-Use-of-Artificial-Intelligence-and-Autonomy-1.pdf', category: 'government', pdf: true },
+  { file: 'us-dod-directive-300009', title: 'US DoD Directive 3000.09 — Autonomy in Weapon Systems (2023)', url: 'https://static.carahsoft.com/concrete/files/4917/1101/9112/Guidance_DoD_Directive_3000.09_-_Autonomy_in_Weapon_Systems.pdf', category: 'government' },
+  { file: 'hrw-review-dod-300009', title: 'HRW — Review of the 2023 US Policy on Autonomy in Weapons', url: 'https://www.hrw.org/topic/arms/killer-robots', category: 'government' },
+  { file: 'us-political-declaration-military-ai', title: 'US Political Declaration on Responsible Military Use of AI (2023)', url: 'https://www.state.gov/political-declaration-on-responsible-military-use-of-artificial-intelligence-and-autonomy/', category: 'government' },
+  { file: 'us-political-declaration-military-ai-pdf', title: 'US Political Declaration on Responsible Military Use of AI (PDF)', url: 'https://www.state.gov/wp-content/uploads/2023/11/Political-Declaration-on-Responsible-Military-Use-of-Artificial-Intelligence-and-Autonomy.pdf', category: 'government', pdf: true },
   { file: 'eu-ai-act', title: 'EU Artificial Intelligence Act — Regulation (EU) 2024/1689', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689', category: 'government' },
 
-  // ══ F. Think Tanks & Research Institutes ═════════════════════════
-  { file: 'sipri-yearbook', title: 'SIPRI Yearbook 2025 — Armaments, Disarmament & Int\'l Security', url: 'https://www.sipri.org/yearbook/2025', category: 'thinktank' },
-  { file: 'sipri-autonomy-weapons', title: 'SIPRI — Autonomy in Weapon Systems (research programme)', url: 'https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/autonomy-weapon-systems', category: 'thinktank' },
-  { file: 'sipri-yb25-ai-chapter', title: 'SIPRI Yearbook 2025 — Ch.12 AI & International Peace and Security', url: 'https://www.sipri.org/sites/default/files/SIPRIYB25c12.pdf', category: 'thinktank', pdf: true },
-  { file: 'sipri-unroca-reporting', title: 'SIPRI — Reporting to the UNROCA for 2017 (background paper)', url: 'https://www.sipri.org/sites/default/files/2019-06/bp_1906_unroca.pdf', category: 'thinktank', pdf: true },
-  { file: 'iiss-military-balance', title: 'IISS — The Military Balance (annual)', url: 'https://www.iiss.org/online-analysis/military-balance/', category: 'thinktank' },
-  { file: 'carnegie-ai-global-power', title: 'Carnegie Endowment — How AI Shapes Global Power', url: 'https://carnegieendowment.org/research/2023/05/how-ai-shapes-global-power?lang=en', category: 'thinktank' },
+  { file: 'sipri-yearbook', title: 'SIPRI Yearbook 2025', url: 'https://www.sipri.org/yearbook/2025', category: 'thinktank' },
+  { file: 'sipri-autonomy-weapons', title: 'SIPRI — Autonomy in Weapon Systems', url: 'https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/autonomy-weapon-systems', category: 'thinktank' },
+  { file: 'sipri-yb25-ai-chapter', title: 'SIPRI Yearbook 2025 — Chapter 12 AI & Peace/Security', url: 'https://www.sipri.org/sites/default/files/SIPRIYB25ch12.pdf', category: 'thinktank', pdf: true },
+  { file: 'sipri-unroca-reporting', title: 'SIPRI — Reporting to the UNROCA (background paper)', url: 'https://www.sipri.org/sites/default/files/2019-06/bp_1906_unroca.pdf', category: 'thinktank', pdf: true },
+  { file: 'iiss-military-balance', title: 'IISS — The Military Balance (overview)', url: 'https://www.iiss.org/online-analysis/military-balance/', category: 'thinktank' },
+  { file: 'iiss-military-balance-2025', title: 'IISS — The Military Balance 2025', url: 'https://www.iiss.org/publications/the-military-balance/', category: 'thinktank' },
   { file: 'rand-ai-national-security', title: 'RAND — AI & National Security', url: 'https://www.rand.org/topics/artificial-intelligence.html', category: 'thinktank' },
+  { file: 'rand-shahed-economics', title: 'RAND — Economics of the Shahed-136 Drone', url: 'https://www.rand.org/pubs/research_reports/RR3200.html', category: 'thinktank' },
   { file: 'hrw-arms', title: 'Human Rights Watch — Arms & Military Technology', url: 'https://www.hrw.org/topic/arms', category: 'thinktank' },
-  { file: 'stop-killer-robots', title: 'Stop Killer Robots — Campaign for a ban on fully autonomous weapons', url: 'https://www.stopkillerrobots.org/', category: 'thinktank' },
-  { file: 'article36-autonomous-weapons', title: 'Article 36 — Autonomous Weapons programme', url: 'https://article36.org/what-we-do/autonomous-weapons/', category: 'thinktank' },
+  { file: 'stop-killer-robots', title: 'Stop Killer Robots — campaign', url: 'https://www.stopkillerrobots.org/', category: 'thinktank' },
+  { file: 'article36-autonomous-weapons', title: 'Article 36 — Autonomous Weapons project', url: 'https://article36.org/what-we-do/autonomous-weapons/', category: 'thinktank' },
   { file: 'small-arms-survey', title: 'Small Arms Survey (Geneva)', url: 'https://www.smallarmssurvey.org/', category: 'thinktank' },
 
-  // ══ G. Regional & International Organizations ════════════════════
-  { file: 'nato-ai-strategy', title: 'NATO Artificial Intelligence Strategy (2021)', url: 'https://www.nato.int/cps/en/natohq/official_texts_187617.htm', category: 'regional' },
-  { file: 'unoda-regional-centres', title: 'UNODA — Regional Centres for Peace and Disarmament', url: 'https://www.unoda.org/en/our-work/regional-centres', category: 'regional' },
+  { file: 'nato-ai-strategy', title: 'NATO AI Strategy (2021)', url: 'https://www.nato.int/cps/en/natohq/official_texts_187617.htm', category: 'regional' },
 
-  // ══ H. Academic & Journals ════════════════════════════════════════
-  { file: 'mit-spr-laws-ai', title: 'MIT Science Policy Review — LAWS & AI: Trends, Challenges, Policies', url: 'https://mit-spr.pubpub.org/pub/laws-ai', category: 'academic' },
+  { file: 'mit-spr-laws-ai', title: 'MIT Science Policy Review — LAWS & AI', url: 'http://mit-spr.pubpub.org/pub/laws-ai', category: 'academic' },
 
-  // ══ I. AI Policy Frameworks ═══════════════════════════════════════
-  { file: 'unesco-ai-ethics', title: 'UNESCO Recommendation on the Ethics of AI (2021)', url: 'https://www.unesco.org/en/artificial-intelligence/recommendation-ethics', category: 'framework' },
+  { file: 'unesco-ai-ethics', title: 'UNESCO Recommendation on the Ethics of AI (2021)', url: 'https://unesdoc.unesco.org/ark:/48223/pf0000373433', category: 'framework' },
   { file: 'oecd-ai-principles', title: 'OECD AI Principles (2019)', url: 'https://oecd.ai/en/ai-principles', category: 'framework' },
+  { file: 'fl-military-ai', title: 'Future of Life Institute — Position on Autonomous Weapons', url: 'https://futureoflife.org/aws/fli-position-on-autonomous-weapons/', category: 'framework' },
+  { file: 'ieee-ethically-aligned-design', title: 'IEEE — Ethically Aligned Design (Autonomous Systems)', url: 'https://standards.ieee.org/industry-connections/ec/autonomous-systems.html', category: 'framework' },
 
-  // ══ J. Weapons conventions ════════════════════════════════════════
-  { file: 'ccw-1980', title: 'Convention on Certain Conventional Weapons (CCW, 1980) — Full Text', url: 'https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/1980_ccw.en.pdf', category: 'convention', pdf: true },
-  { file: 'ccw-unoda-page', title: 'UNODA — The Convention on Certain Conventional Weapons (disarmament.unoda.org)', url: 'https://disarmament.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons', category: 'convention' },
-  { file: 'ccw-overview', title: 'UNODA — Convention on Certain Conventional Weapons (overview)', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons', category: 'convention' },
-  { file: 'ccw-amended-protocol-ii', title: 'CCW Amended Protocol II — Mines, Booby-Traps & Other Devices', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-amended-protocol-ii', category: 'convention' },
+  { file: 'ccw-overview', title: 'Convention on Certain Conventional Weapons (CCW, 1980)', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons', category: 'convention' },
+  { file: 'ccw-amended-protocol-ii', title: 'CCW Amended Protocol II — Mines, Booby-Traps & Devices', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-amended-protocol-ii', category: 'convention' },
   { file: 'ccw-protocol-v', title: 'CCW Protocol V — Explosive Remnants of War', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-certain-conventional-weapons/ccw-protocol-v-explosive-remnants-war', category: 'convention' },
-  { file: 'geneva-conventions', title: 'ICRC — The Geneva Conventions (1949) & Additional Protocols', url: 'https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries', category: 'convention' },
-  { file: 'geneva-conventions-ihl-db', title: 'ICRC IHL Database — Geneva Conventions of 1949 (full text)', url: 'https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-of-1949', category: 'convention', skip: true },
-  { file: 'npt-full-text', title: 'Treaty on the Non-Proliferation of Nuclear Weapons (NPT) — Full Text', url: 'https://www.un.org/disarmament/wmd/nuclear/npt/', category: 'convention' },
-  { file: 'tpnw', title: 'Treaty on the Prohibition of Nuclear Weapons (TPNW, 2017)', url: 'https://www.unoda.org/en/our-work/weapons-mass-destruction/nuclear-weapons/treaty-prohibition-nuclear-weapons', category: 'convention' },
-  { file: 'cwc', title: 'Chemical Weapons Convention (CWC, 1993)', url: 'https://www.unoda.org/en/our-work/weapons-mass-destruction/chemical-weapons', category: 'convention' },
-  { file: 'cwc-opcw', title: 'OPCW — Chemical Weapons Convention (full text & provisions)', url: 'https://www.opcw.org/chemical-weapons-convention', category: 'convention' },
-  { file: 'bwc', title: 'Biological Weapons Convention (BWC, 1972)', url: 'https://www.unoda.org/en/our-work/weapons-mass-destruction/biological-weapons/biological-weapons-convention', category: 'convention' },
-  { file: 'att', title: 'Arms Trade Treaty (ATT, 2013)', url: 'https://www.unoda.org/en/our-work/conventional-arms/legal-instruments/arms-trade-treaty', category: 'convention' },
+  { file: 'geneva-conventions', title: 'Geneva Conventions (1949) & Additional Protocols — ICRC', url: 'https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries', category: 'convention' },
+  { file: 'npt-full-text', title: 'Treaty on the Non-Proliferation of Nuclear Weapons (NPT)', url: 'https://www.un.org/disarmament/wmd/nuclear/npt/', category: 'convention' },
+  { file: 'tpnw', title: 'Treaty on the Prohibition of Nuclear Weapons (2017)', url: 'https://www.unoda.org/en/our-work/weapons-mass-destruction/nuclear-weapons/treaty-prohibition-nuclear-weapons', category: 'convention' },
+  { file: 'cwc-opcw', title: 'Chemical Weapons Convention (CWC) & OPCW', url: 'https://www.opcw.org/chemical-weapons-convention', category: 'convention' },
+  { file: 'bwc', title: 'Biological Weapons Convention (1972)', url: 'https://www.unoda.org/en/our-work/weapons-mass-destruction/biological-weapons/biological-weapons-convention', category: 'convention' },
+  { file: 'att', title: 'Arms Trade Treaty (2013)', url: 'https://www.unoda.org/en/our-work/conventional-arms/legal-instruments/arms-trade-treaty', category: 'convention' },
   { file: 'firearms-protocol', title: 'UN Firearms Protocol (2001)', url: 'https://www.unoda.org/en/our-work/conventional-arms/legal-instruments/firearms-protocol', category: 'convention' },
-  { file: 'apmbc', title: 'Anti-Personnel Mine Ban Convention (Ottawa, 1997)', url: 'https://www.unoda.org/en/our-work/conventional-arms/anti-personnel-landmines-convention', category: 'convention' },
-  { file: 'ccm', title: 'Convention on Cluster Munitions (2008)', url: 'https://www.unoda.org/en/our-work/conventional-arms/convention-cluster-munitions', category: 'convention' },
-  { file: 'geneva-protocol-1925', title: '1925 Geneva Protocol (asphyxiating & poisonous gases)', url: 'https://front.un-arm.org/wp-content/uploads/2020/10/1925-Geneva-Protocol-1.pdf', category: 'convention', pdf: true },
+  { file: 'apmbc', title: 'Anti-Personnel Mine Ban Convention (1997)', url: 'https://www.apminebanconvention.org/en/', category: 'convention' },
+  { file: 'ccm', title: 'Convention on Cluster Munitions (2008)', url: 'https://www.clusterconvention.org/', category: 'convention' },
+  { file: 'geneva-protocol-1925', title: '1925 Geneva Protocol (poisonous gases)', url: 'https://front.un-arm.org/wp-content/uploads/2020/10/1925-Geneva-Protocol-1.pdf', category: 'convention', pdf: true },
 
-  // ══ K. Iran / Middle East ═════════════════════════════════════════
-  { file: 'wikipedia-iran-wmd', title: 'Wikipedia — Iran and Weapons of Mass Destruction', url: 'https://en.wikipedia.org/wiki/Iran_and_weapons_of_mass_destruction', category: 'iran' },
+  { file: 'wikipedia-iran-wmd', title: 'Wikipedia — Iran and WMD', url: 'https://en.wikipedia.org/wiki/Iran_and_weapons_of_mass_destruction', category: 'iran' },
   { file: 'wikipedia-iran-nuclear', title: 'Wikipedia — Nuclear Program of Iran', url: 'https://en.wikipedia.org/wiki/Nuclear_program_of_Iran', category: 'iran' },
-  { file: 'wikipedia-military-of-iran', title: 'Wikipedia — Military of Iran', url: 'https://en.wikipedia.org/wiki/Military_of_Iran', category: 'iran' },
   { file: 'wikipedia-iranian-armed-forces', title: 'Wikipedia — Iranian Armed Forces', url: 'https://en.wikipedia.org/wiki/Iranian_Armed_Forces', category: 'iran' },
-  { file: 'wikipedia-irgc-aerospace', title: 'Wikipedia — IRGC Aerospace Force', url: 'https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps_Aerospace_Force', category: 'iran' },
   { file: 'wikipedia-irgc', title: 'Wikipedia — Islamic Revolutionary Guard Corps', url: 'https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps', category: 'iran' },
-  { file: 'wikipedia-iran-israel-war', title: 'Wikipedia — Iran–Israel conflict overview', url: 'https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war', category: 'iran' },
-  { file: 'wikipedia-iran-us-relations', title: 'Wikipedia — Iran–United States Relations', url: 'https://en.wikipedia.org/wiki/Iran%E2%80%93United_States_relations', category: 'iran' },
-  { file: 'wikipedia-arms-trade-treaty', title: 'Wikipedia — Arms Trade Treaty', url: 'https://en.wikipedia.org/wiki/Arms_Trade_Treaty', category: 'iran' },
-  { file: 'csis-drone-saturation', title: 'CSIS — Drone Saturation: Russia\'s Shahed Campaign (2025)', url: 'https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign', category: 'iran' },
-  { file: 'csis-iran-drone-campaign', title: 'CSIS — Unpacking Iran\'s Drone Campaign in the Gulf (2026)', url: 'https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare', category: 'iran' },
-  { file: 'iran-mfa-english', title: 'Iran Ministry of Foreign Affairs (English official site)', url: 'https://en.mfa.gov.ir/', category: 'iran', skip: true },
-  { file: 'irna-english', title: 'IRNA (Islamic Republic News Agency, English)', url: 'https://en.irna.ir/', category: 'iran', skip: true },
-  { file: 'mecouncil-iran-missiles-drones', title: 'Middle East Council — Iran\'s Missile & Drone Program (2024)', url: 'https://mecouncil.org/wp-content/uploads/2024/07/ME-Council_Issue-Brief-Iranian-Drones-Final-_WEB.pdf', category: 'iran', pdf: true },
-  { file: 'iphr-iran-role-drone-war', title: 'IPHR — From Tehran to Kyiv: Iran\'s Role in Russia\'s Drone War (2026)', url: 'https://iphronline.org/wp-content/uploads/2026/03/from-tehran-to-kyiv_report.pdf', category: 'iran', pdf: true, skip: true },
+  { file: 'wikipedia-iran-israel-war', title: 'Wikipedia — Iran–Israel conflict', url: 'https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war', category: 'iran' },
+  { file: 'wikipedia-iran-us-relations', title: 'Wikipedia — Iran–United States relations', url: 'https://en.wikipedia.org/wiki/Iran%E2%80%93United_States_relations', category: 'iran' },
+  { file: 'csis-drone-saturation', title: 'CSIS — Drone Saturation: Russia’s Shahed campaign', url: 'https://www.csis.org/analysis/drone-saturation-russias-shahed-campaign', category: 'iran' },
+  { file: 'csis-iran-drone-campaign', title: 'CSIS — Unpacking Iran’s Drone Campaign', url: 'https://www.csis.org/analysis/unpacking-irans-drone-campaign-gulf-early-lessons-future-drone-warfare', category: 'iran' },
 
-  // ══ J. Additional LAWS / Military AI sources (new) ═══════════════════
-  { file: 'icrc-la-ai-and-ihl', title: 'ICRC — Artificial Intelligence and IHL (overview)', url: 'https://www.icrc.org/en/topic/artificial-intelligence-and-international-humanitarian-law', category: 'unagency' },
-  { file: 'icrc-data-protection-ai', title: 'ICRC — Data Protection and AI in Armed Conflict', url: 'https://www.icrc.org/en/document/data-protection-and-ai-armed-conflict', category: 'unagency' },
-  { file: 'icrc-faq-autonomous-weapons', title: 'ICRC — FAQ on Autonomous Weapons', url: 'https://www.icrc.org/en/faq/autonomous-weapons', category: 'unagency' },
-  { file: 'un-ai-advisory-body-final-report', title: 'UN AI Advisory Body — Governing AI for Humanity (2024)', url: 'https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report.pdf', category: 'unresolution', pdf: true },
-  { file: 'ccw-msp-2019-guiding-principles', title: 'CCW MSP 2019 — 11 Guiding Principles on LAWS', url: 'https://www.unoda.org/sites/default/files/2024-01/CCW_MSP.2019_.9.pdf', category: 'unresolution', pdf: true },
-  { file: 'gge-laws-2023-final-report', title: 'CCW GGE on LAWS — 2023 Final Report (A/78/116)', url: 'https://digitallibrary.un.org/record/4009037/files/A_78_116-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'gge-laws-2025-chair-summary-march', title: 'CCW GGE on LAWS — 2025 Chair Summary (March)', url: 'https://meetings.unoda.org/ccw/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapons-systems-2025', category: 'unagency' },
-  { file: 'gge-laws-2025-chair-summary-sept', title: 'CCW GGE on LAWS — 2025 Chair Summary (September)', url: 'https://meetings.unoda.org/ccw/convention-on-certain-conventional-weapons-group-of-governmental-experts-on-lethal-autonomous-weapons-systems-2025', category: 'unagency' },
-  { file: 'gge-laws-2019-report', title: 'CCW GGE on LAWS — 2019 Report (CCW/MSP/2019/9)', url: 'https://digitallibrary.un.org/record/3835530/files/CCW_MSP_2019_9-EN.pdf', category: 'unresolution', pdf: true },
-  { file: 'article36-ai-decision-making', title: 'Article 36 — AI and Autonomous Decision-Making in Weapons', url: 'https://article36.org/autonomous-weapons/ai-decision-making-weapons/', category: 'framework' },
-  { file: 'article36-key-elements-binding', title: 'Article 36 — Key Elements of a Binding Instrument on AWS', url: 'https://article36.org/wp-content/uploads/2023/02/Key-elements-of-a-binding-instrument-on-autonomous-weapon-systems.pdf', category: 'framework', pdf: true },
-  { file: 'stop-killer-robots-faq', title: 'Stop Killer Robots — FAQ', url: 'https://www.stopkillerrobots.org/learn/', category: 'framework' },
-  { file: 'stop-killer-robots-treaty', title: 'Stop Killer Robots — Treaty Campaign Overview', url: 'https://www.stopkillerrobots.org/treaty/', category: 'framework' },
-  { file: 'sipri-autonomous-weapons', title: 'SIPRI — Autonomous Weapons and the Law of War', url: 'https://www.sipri.org/research/armament-and-disarmament/emerging-security-risks/autonomous-weapons-and-law-war', category: 'thinktank' },
-  { file: 'sipri-ai-security-2024', title: 'SIPRI — AI and Security (2024 report)', url: 'https://www.sipri.org/yearbook/2024/03', category: 'thinktank' },
-  { file: 'sipri-yearbook-2025', title: 'SIPRI Yearbook 2025 — Armaments, Disarmament and International Security', url: 'https://www.sipri.org/yearbook/2025', category: 'thinktank' },
-  { file: 'iiss-military-balance-2025', title: 'IISS — The Military Balance 2025 (overview)', url: 'https://www.iiss.org/publications/the-military-balance/the-military-balance-2025', category: 'thinktank' },
-  { file: 'iiss-strategic-survey-2024', title: 'IISS — Strategic Survey 2024', url: 'https://www.iiss.org/publications/strategic-survey/strategic-survey-2024', category: 'thinktank' },
-  { file: 'hrw-review-dod-300009', title: 'HRW — Review of DoD Directive 3000.09 (Autonomy in Weapons)', url: 'https://www.hrw.org/report/2024/05/review-dod-directive-300009-autonomy-weapons-systems', category: 'framework' },
-  { file: 'hrw-killer-robots', title: 'HRW — Killer Robots and the Third Revolution in Warfare', url: 'https://www.hrw.org/arms/2018/11/killer-robots-and-third-revolution-warfare', category: 'framework' },
-  { file: 'rand-ai-national-security', title: 'RAND — Artificial Intelligence and National Security', url: 'https://www.rand.org/topics/artificial-intelligence-and-national-security.html', category: 'thinktank' },
-  { file: 'rand-shahed-economics', title: 'RAND — Economics of the Shahed-136 Drone', url: 'https://www.rand.org/pubs/research_reports/RR3200.html', category: 'thinktank' },
-  { file: 'carnegie-ai-global-power', title: 'Carnegie — AI and Global Power (overview)', url: 'https://carnegieendowment.org/research/2023/07/ai-and-global-power', category: 'thinktank' },
-  { file: 'oecd-ai-principles', title: 'OECD — Recommendation of the Council on Artificial Intelligence', url: 'https://oecd.ai/en/ai-principles', category: 'framework' },
-  { file: 'unesco-ai-ethics', title: 'UNESCO — Recommendation on the Ethics of AI (2021)', url: 'https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence', category: 'framework' },
-  { file: 'eu-ai-act', title: 'EU — AI Act (Regulation 2024/1689)', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689', category: 'convention' },
-  { file: 'eu-ai-act-military-recital', title: 'EU — AI Act military use exemption (Recital 25)', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1689#rct_25', category: 'convention' },
-  { file: 'apmbc', title: 'Anti-Personnel Mine Ban Convention (APMBC) — main page', url: 'https://www.apminebanconvention.org/', category: 'convention' },
-  { file: 'att', title: 'Arms Trade Treaty (ATT) — main page', url: 'https://www.thearmstradetreaty.org/', category: 'convention' },
-  { file: 'tpnw', title: 'Treaty on the Prohibition of Nuclear Weapons (TPNW) — main page', url: 'https://www.icanw.org/the_treaty', category: 'convention' },
-  { file: 'ccm', title: 'Convention on Cluster Munitions (CCM) — main page', url: 'https://www.clusterconvention.org/', category: 'convention' },
-  { file: 'firearms-protocol', title: 'UN Firearms Protocol (UNODC)', url: 'https://www.unodc.org/unodc/en/firearms-protocol/', category: 'convention' },
-  { file: 'un-register-conventional-arms', title: 'UN Register of Conventional Arms (UNROCA)', url: 'https://www.un.org/disarmament/un-register/', category: 'unresolution' },
-  { file: 'unsc-1540', title: 'UNSC Resolution 1540 (WMD non-proliferation)', url: 'https://www.un.org/en/sc/1540/', category: 'unresolution' },
-  { file: 'small-arms-survey', title: 'Small Arms Survey — main page', url: 'https://www.smallarmssurvey.org/', category: 'thinktank' },
-  { file: 'unoda-explosive-weapons', title: 'UNODA — Explosive Weapons in Populated Areas', url: 'https://www.un.org/disarmament/ewipa/', category: 'unagency' },
-  { file: 'icrc-position-autonomous-weapons-2021', title: 'ICRC — Position on Autonomous Weapon Systems (2021, full)', url: 'https://www.icrc.org/sites/default/files/document/file/2021-icrc-position-on-autonomous-weapons.pdf', category: 'unagency', pdf: true },
-  { file: 'nato-ai-strategy', title: 'NATO — AI Strategy (2021)', url: 'https://www.nato.int/cps/en/natohq/topics_227445.htm', category: 'thinktank' },
-  { file: 'icrc-ihl-databases', title: 'ICRC — IHL Treaty Databases', url: 'https://ihl-databases.icrc.org/', category: 'unagency' },
-  { file: 'ipraw-ccw', title: 'International Panel on the Regulation of Autonomous Weapons (iPRAW)', url: 'https://www.ipraw.org/', category: 'framework' },
-  { file: 'pax-ai-and-autonomy', title: 'PAX — AI and Autonomous Weapons', url: 'https://paxforpeace.nl/what-we-do/programmes/drones-and-robotics/', category: 'framework' },
-  { file: 'fl-military-ai', title: 'Future of Life Institute — Military AI Issue Page', url: 'https://futureoflife.org/issue/military-ai/', category: 'framework' },
-  { file: 'ieee-ethically-aligned-design', title: 'IEEE — Ethically Aligned Design (First-Person Global AI Standard)', url: 'https://standards.ieee.org/industry-connections/ec/autonomous-systems.html', category: 'framework' },
-  { file: 'icrc-llm-armed-conflict', title: 'ICRC — Large Language Models in Armed Conflict (2024)', url: 'https://www.icrc.org/en/document/large-language-models-armed-conflict', category: 'unagency' },
-  { file: 'unocha-ai-humanitarian', title: 'UN OCHA — AI for Humanitarian Action', url: 'https://www.unocha.org/themes/artificial-intelligence', category: 'unagency' },
-];
+  { file: 'data-unhcr-refugee', title: 'UNHCR — Refugee Data Finder (forced displacement)', url: 'https://www.unhcr.org/refugee-statistics/', category: 'unagency' },
+  { file: 'data-uncomtrade', title: 'UN Comtrade — International merchandise trade statistics', url: 'https://comtradeplus.un.org/', category: 'unagency' },
+  { file: 'github-data-military-ai', title: 'SIPRI — Databases & data sources (military expenditure, arms transfers, national material)', url: 'https://www.sipri.org/databases', category: 'framework', skip: false },
+]
 
 const results = [];
 const state = stateLoad();
@@ -431,7 +378,7 @@ async function downloadAll() {
     try {
       const { contentType, buf, fromCache } = await fetchBytes(src, { pdf: src.pdf });
       const outFile = path.join(REFS_DIR, `${src.file}.md`);
-      const isPdf = src.pdf || contentType.includes('pdf');
+      const isPdf = src.pdf || contentType.includes('pdf') || (buf.length > 4 && buf.subarray(0, 5).toString('latin1') === '%PDF-');
       const detail = fromCache ? `${(buf.length / 1024).toFixed(0)} KB (cached)` : `${(buf.length / 1024).toFixed(0)} KB (fetched)`;
 
       if (isPdf) {

@@ -2,6 +2,8 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
+[ Skip to main content](#main-content) 
+
 [Welcome to the United Nations](https://www.un.org)
 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/legal-instruments/firearms-protocol)
@@ -11,7 +13,9 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/legal-instruments/firearms-protocol)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/legal-instruments/firearms-protocol)
 
-[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+
+[ SEARCH ](#collapseSearch) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/legal-instruments/firearms-protocol)
@@ -280,7 +284,7 @@ Office for Disarmament Affairs
 
 # The Firearms Protocol 
 
-![](https://www.sipri.org/img/refs/0c735019e94013c1.jpg)
+![](https://unodaweb.unoda.org/public/2025-08/Header_Firearmsprotocol.jpg)
 
 The Protocol against the Illicit Manufacturing of and Trafficking in Firearms, their Parts and Components and Ammunition (Firearms Protocol) is the only legally binding instrument to counter the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition at the global level. It was adopted by resolution 55/255 of 31 May 2001 at the fifty-fifth session of the General Assembly of the United Nations and it entered into force on 3 July 2005\. The Firearms Protocol supplements the United Nations Convention against Transnational Organized Crime (Organized Crime Convention) and together with the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children and the Protocol against the Smuggling of Migrants by Land, Sea and Air, represents the commitment of the international community to counter transnational organized crime.
 
@@ -317,7 +321,7 @@ Visit the **[Firearms Protocol site](https://www.unodc.org/unodc/en/firearms-pro
 * [Cross-cutting issues](https://www.unoda.org/en/our-work/cross-cutting-issues)
 * [Disarmament bodies](https://www.unoda.org/en/our-work/disarmament-bodies)
 
-![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 

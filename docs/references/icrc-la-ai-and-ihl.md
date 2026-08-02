@@ -1,4 +1,4 @@
-# Artificial intelligence
+# Artificial intelligence and machine learning in armed conflict: A human-centred approach
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
@@ -117,123 +117,79 @@ Search
 1. [ ](https://www.icrc.org/%20%22Home%22)
 2. [Law & Policy](https://www.icrc.org/en/law-and-policy)
 3. [Topics, debates and disarmament](https://www.icrc.org/en/topics-and-debates)
-4. [New technologies and warfare](https://www.icrc.org/en/law-and-policy/new-technologies-and-warfare)
-5. Artificial intelligence
+4. [Weapons and disarmament](https://www.icrc.org/en/law-and-policy/weapons-and-disarmament)
+5. Artificial intelligence and machine lear...
 
-International humanitarian law and policy on 
+ Article
 
-# Artificial intelligence
+06-06-2019 
 
-Advances in artificial intelligence for military purposes raise profoundly worrying questions for humanity. 
+2 languages English 中文 
 
-* [Featured articles](#text-item-list940846)
-* [AI in armed conflict](#text940847)
-* [Event: Artificial Intelligence in Military Decision Making](#manual-highlight1496082)
-* [Video](#banner-highlight940848)
-* [From the blog](#image-and-text1782127)
-* [Latest articles](#latest-documents940849)
-* [Newsletter subscription](#newsletter940850)
-* [Next event](#next-event)
+# Artificial intelligence and machine learning in armed conflict: A human-centred approach
 
-![A still from ICRC's video "What are the dangers of autonomous weapons?".](https://www.icrc.org/sites/default/files/styles/desktop_full/public/wysiwyg/UKIre/awstarget.jpg.webp?h=bf0a9385&itok=8IxBCzui%20%22A%20still%20from%20ICRC%27s%20video%20%22What%20are%20the%20dangers%20of%20autonomous%20weapons?%22.%22) 
+* [Weapons and disarmament](https://www.icrc.org/en/law-and-policy/weapons-and-disarmament)
+* [Legal review of weapons](https://www.icrc.org/en/law-and-policy/legal-review-weapons)
 
-##  Featured articles
+![](https://www.icrc.org/sites/default/files/styles/desktop_full/public/document_new/image/poster-1_2-2_highres.jpg.webp?h=436b82d4&itok=D3txZlss%20%22poster-1_2-2_highres.jpg%22) 
 
-### [What you need to know about artificial intelligence in armed conflict](https://www.icrc.org/en/document/what-you-need-know-about-artificial-intelligence-armed-conflict)
+The ICRC, like many organizations across different sectors and regions, is grappling with the implications of artificial intelligence (AI) and machine learning for its work. Since these are software tools, or algorithms, that could be applied to many different tasks, the potential implications may be far reaching and yet to be fully understood.
 
-![](https://www.icrc.org/sites/default/files/styles/desktop_square_2/public/document_new/image/artificial_intelligence_alamy.jpg.webp?h=9310024c&itok=1el7af1H%20%22artificial_intelligence_alamy.jpg%22) 
+### Share
 
-### [Artificial intelligence and humanitarianism at Chatham House event ](https://www.icrc.org/en/document/artificial-intelligence-and-humanitarianism-chatham-house-event)
+* [Share on X](https://twitter.com/intent/tweet?url=https%3A//www.icrc.org/en/document/artificial-intelligence-and-machine-learning-armed-conflict-human-centred-approach&text=Artificial%20intelligence%20and%20machine%20learning%20in%20armed%20conflict%3A%20A%20human-centred%20approach "Share on X")
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?url=https%3A//www.icrc.org/en/document/artificial-intelligence-and-machine-learning-armed-conflict-human-centred-approach&title=Artificial%20intelligence%20and%20machine%20learning%20in%20armed%20conflict%3A%20A%20human-centred%20approach "Share on LinkedIn")
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.icrc.org/en/document/artificial-intelligence-and-machine-learning-armed-conflict-human-centred-approach&title=Artificial%20intelligence%20and%20machine%20learning%20in%20armed%20conflict%3A%20A%20human-centred%20approach "Share on Facebook")
 
-![](https://www.icrc.org/sites/default/files/styles/desktop_square_2/public/document_new/image/chatham_house_icrc.jpeg.webp?h=0ff3a455&itok=t3QCqmQa%20%22chatham_house_icrc.jpeg%22) 
+There are two broad – and distinct – areas of application of AI and machine learning in which the ICRC has a particular interest: its use in the conduct of warfare or in other situations of violence; and its use in humanitarian action to assist and protect the victims of armed conflict.
 
-### [The rise of artificial intelligence requires a human-centred approach in conflict zones](https://www.icrc.org/en/document/rise-artificial-intelligence-requires-human-centred-approach-conflict-zones)
+This paper sets out the ICRC's perspective on the use of AI and machine learning in armed conflict, the potential humanitarian consequences, and associated legal obligations and ethical considerations that should govern its development and use.
 
-![](https://www.icrc.org/sites/default/files/styles/desktop_square_2/public/document_new/image/microsoftteams-image_0_0.jpg.webp?h=368d4837&itok=kXOAUYzv%20%22microsoftteams-image_0_0.jpg%22) 
+AI and machine-learning systems could have profound implications for the role of humans in armed conflict, especially in relation to: increasing autonomy of weapon systems and other unmanned systems; new forms of cyber and information warfare; and, more broadly, the nature of decision-making.
 
-##  IHL unpacked
+In the view of the ICRC, there is a need for a genuinely human-centred approach to any use of these technologies in armed conflict. It will be essential to preserve human control and judgement in applications of AI and machine learning for tasks and in decisions that may have serious consequences for people's lives, especially where they pose risks to life, and where the tasks or decisions are governed by rules of international humanitarian law.
 
-### [ Artifical inteligence (AI) in Warfare: Risks & Legal Challenges](https://youtu.be/ef8%5FqqhRlnw?si=VeljxhdZnjK0n1dO)
+AI and machine-learning systems remain tools that must be used to serve human actors, and augment human decision-makers, not replace them.
 
-[ ![IHL-Unpacked-Playlist_YT-Thumbnail](https://www.icrc.org/sites/default/files/styles/desktop_rect_3/public/2026-06/IHL-Unpacked-Playlist_YT-Thumbnail.jpg.webp?h=c673cd1c&itok=ndAZW5Gu%20%22IHL-Unpacked-Playlist_YT-Thumbnail%22) ](https://youtu.be/ef8%5FqqhRlnw?si=VeljxhdZnjK0n1dO) 
+### Download our full report:
 
-[Watch the video](https://youtu.be/ef8%5FqqhRlnw?si=VeljxhdZnjK0n1dO) 
+## Artificial intelligence and machine learning in armed conflict: A human-centred approach
 
-##  Report
+Download
 
-### [ Artificial intelligence in the military domain: ICRC submits recommendations to UN Secretary-General](https://www.icrc.org/en/article/artificial-intelligence-military-domain-icrc-submits-recommendations-un-secretary-general)
+PDF file
 
-[ ![AI image](https://www.icrc.org/sites/default/files/styles/desktop_rect_3/public/2025-04/AI-image-1180x620.png.webp?h=4bce8042&itok=YSvc7ghq%20%22AI%20image%22) ](https://www.icrc.org/en/article/artificial-intelligence-military-domain-icrc-submits-recommendations-un-secretary-general) 
+575.08 KB
 
-## Artificial intelligence and machine learning in armed conflict
+[ ](https://www.icrc.org/sites/default/files/document%5Fnew/file%5Flist/ai%5Fand%5Fmachine%5Flearning%5Fin%5Farmed%5Fconflict-icrc.pdf) 
 
-At a time of increasing conflict and rapid technological change, the International Committee of the Red Cross (ICRC) needs both to understand the impact that new technologies have on people affected by armed conflict and to design humanitarian solutions that address the needs of those who are most vulnerable to the risks these technologies present.
+## Related
 
-The ICRC, like many organizations across different sectors and regions, is grappling with the implications that artificial intelligence (AI) and machine learning have for its work. AI is the use of computer systems to carry out tasks that require cognition, planning, reasoning or learning – tasks often associated with human intelligence. Machine learning systems are AI systems that are “trained” on and “learn” from data. These data ultimately define the way the systems function. Since they are software tools or algorithms that could be applied to many different tasks, the potential implications may be far-reaching and are not yet fully understood.
-
-There are two broad – and distinct – areas of application of AI and machine learning in which the ICRC has a particular interest: first, its use in the conduct of warfare or other violence; and second, its use in humanitarian action to assist and protect the victims of armed conflict.
-
-[Read more](https://international-review.icrc.org/articles/ai-and-machine-learning-in-armed-conflict-a-human-centred-approach-913) 
-
-##  Highlights from our recent event
-
-### [ Artificial Intelligence in Military Decision Making: Legal and Humanitarian Implications](https://www.icrc.org/en/event/event-artificial-intelligence-military-decision-making-legal-and-humanitarian-implications)
-
-[ ![](https://www.icrc.org/sites/default/files/styles/desktop_rect_3/public/event/image/soldier-wearing-virtual-reality-glasses-controls-quadcopter-modern-military-weapons_217593-40243_.jpg.webp?h=03f3fc7b&itok=qzRuXpY7%20%22soldier-wearing-virtual-reality-glasses-controls-quadcopter-modern-military-weapons_217593-40243_.jpg%22) ](https://www.icrc.org/en/event/event-artificial-intelligence-military-decision-making-legal-and-humanitarian-implications) 
-
-[Experience the event](https://www.icrc.org/en/event/event-artificial-intelligence-military-decision-making-legal-and-humanitarian-implications) 
-
-## What are the dangers of autonomous weapons?
-
-###  Should machines make life-or-death decisions?
-
-We must keep control over life-and-death decisions. This video shows the dangers of autonomous weapons – and what must be done to avert them.
-
-##  From the Humanitarian Law and Policy blog
-
-###  Artificial Intelligence
-
-This series outlines and investigates the manifold challenges, risks, and the potential that pertain to the use of artificial intelligence-based decision support systems (AI DSS) in military decision-making.
-
-[Read more](https://blogs.icrc.org/law-and-policy/tag/artificial-intelligence/) 
-
-![Artificial Intelligence law and policy blog](https://www.icrc.org/sites/default/files/styles/desktop_image/public/2025-04/Artificial-Intelligence-law-and-policy-icrc.jpg.webp?itok=VYGJnJwF%20%22Artificial%20Intelligence%20law%20and%20policy%20blog%22) 
-
-## Latest articles
-
-### [Advocacy paper: A key opportunity to prevent the development of unacceptable autonomous weapons](https://www.icrc.org/en/article/advocacy-paper-key-opportunity-prevent-development-unacceptable-autonomous-weapons)
+![An ICRC exhibition, titled "Wars Have Limits," is currently underway in Seoul, the Republic of Korea. Designed to mark the 60th anniversary of Republic of Korea’s accession to the Geneva Conventions, It is jointly organized by the ICRC and the Seoul Museum of History, in cooperation with the Embassy of Switzerland in the Republic of Korea, and sponsored by the Ministry of Foreign Affairs and Korean Red Cross. ](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/2026-07/ICRC-exhibition-60th-anniversary-Republic-of-Korea-accession-Geneva-conventions-1.jpg.webp?h=19f4d3c3&itok=kDSbjvrN%20%22An%20ICRC%20exhibition,%20titled%20%22Wars%20Have%20Limits,%22%20is%20currently%20underway%20in%20Seoul,%20the%20Republic%20of%20Korea.%20Designed%20to%20mark%20the%2060th%20anniversary%20of%20Republic%20of%20Korea%E2%80%99s%20accession%20to%20the%20Geneva%20Conventions,%20It%20is%20jointly%20organized%20by%20the%20ICRC%20and%20the%20Seoul%20Museum%20of%20History,%20in%20cooperation%20with%20the%20Embassy%20of%20Switzerland%20in%20the%20Republic%20of%20Korea,%20and%20sponsored%20by%20the%20Ministry%20of%20Foreign%20Affairs%20and%20Korean%20Red%20Cross.%22) 
 
 Article
 
-17-06-2026 
+30-07-2026 
 
-![AI_AWS_cover](https://www.icrc.org/sites/default/files/styles/tablet_img_rect_01/public/2026-06/AI_AWS_cover.jpg.webp?h=0f7b23ef&itok=_lkIWUjz%20%22AI_AWS_cover%22) 
+### [ICRC holds exhibition in Seoul to mark the 60th anniversary of Republic of Korea’s accession to the Geneva Conventions](https://www.icrc.org/en/article/icrc-exhibition-60th-anniversary-republic-korea-accession-geneva-conventions) 
 
-### [Frequently asked questions: Artificial Intelligence (AI) in the military domain ](https://www.icrc.org/en/article/faq-artificial-intelligence-in-military-domain)
-
-Article
-
-11-06-2026 
-
-![AI_AWS_cover](https://www.icrc.org/sites/default/files/styles/desktop_rect_2/public/2026-06/AI_AWS_cover.jpg.webp?h=0f7b23ef&itok=wz8JzXim%20%22AI_AWS_cover%22) 
-
-### [China: Experts call for international cooperation to regulate the use of AI in armed conflict](https://www.icrc.org/en/article/china-experts-call-international-cooperation-regulate-use-ai-armed-conflict)
+![Two humanitarian workers (one from the ICRC and another one from the Yemeni Red Crescent) stand near each other surrounded by many piles of bags and boxes of food items](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/2025-06/Taiz_Yemen_displaced_aid%20delivery_Jun%202025%20%281%29.jpeg.webp?h=994e9685&itok=v4kHdANg%20%22Two%20humanitarian%20workers%20(one%20from%20the%20ICRC%20and%20another%20one%20from%20the%20Yemeni%20Red%20Crescent) stand near each other surrounded by many piles of bags and boxes of food items") 
 
 Article
 
-07-07-2025 
+29-07-2026 
 
-![7月4日，作为第十三届世界和平论坛的重要组成部分，红十字国际委员会与清华大学国际关系研究院联合举办了主题为“人工智能在武装冲突中的运用：挑战与机遇”的专题讨论。](https://www.icrc.org/sites/default/files/styles/mobile_img_rect_01/public/2025-07/china-world-peace-forum-panel-room.jpg.webp?h=719371a6&itok=1BFHRq2M%20%227%E6%9C%884%E6%97%A5%EF%BC%8C%E4%BD%9C%E4%B8%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%E8%AE%BA%E5%9D%9B%E7%9A%84%E9%87%8D%E8%A6%81%E7%BB%84%E6%88%90%E9%83%A8%E5%88%86%EF%BC%8C%E7%BA%A2%E5%8D%81%E5%AD%97%E5%9B%BD%E9%99%85%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%8E%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB%E7%A0%94%E7%A9%B6%E9%99%A2%E8%81%94%E5%90%88%E4%B8%BE%E5%8A%9E%E4%BA%86%E4%B8%BB%E9%A2%98%E4%B8%BA%E2%80%9C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E6%AD%A6%E8%A3%85%E5%86%B2%E7%AA%81%E4%B8%AD%E7%9A%84%E8%BF%90%E7%94%A8%EF%BC%9A%E6%8C%91%E6%88%98%E4%B8%8E%E6%9C%BA%E9%81%87%E2%80%9D%E7%9A%84%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA%E3%80%82%22) 
+### [Frequently asked questions about the ICRC’s work in Yemen](https://www.icrc.org/en/article/faq-information-people-affected-conflict-yemen) 
 
-[More](https://www.icrc.org/en/resource-centre/result?f%5B0%5D=type%3Aarticle&f%5B1%5D=type%3Ahelp%5Fpage&f%5B2%5D=type%3Anews%5Frelease&f%5B3%5D=type%3Aphoto%5Fgallery&f%5B4%5D=type%3Apublication&f%5B5%5D=type%3Areport&f%5B6%5D=type%3Astatement&f%5B7%5D=type%3Avideo&t=Artificial%20intelligence) 
+![](https://www.icrc.org/sites/default/files/styles/desktop_rect_1/public/img-plaseholder.png.webp?itok=9cr4PmT7%20%22img-plaseholder.png%22) 
 
-## Newsletter
+Legal factsheet
 
-Fields marked with \* are required
+29-07-2026 
 
-Select a type \* News & UpdatesLaw & Policy newsletterCareer newsletter 
+### [Means of personal identification](https://www.icrc.org/en/document/means-personal-identification) 
 
-Email address \* 
+[More](https://www.icrc.org/en/resource-centre/result?f%5B0%5D=type%3Aarticle&sorting=rel%5FDESC) 
 
 Topic-dedicated ICRC websites
 

@@ -2,6 +2,8 @@
 
 > Offline copy saved by the DISEC Research Wiki downloader. Source may have been edited for length.
 
+[ Skip to main content](#main-content) 
+
 [Welcome to the United Nations](https://www.un.org)
 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/legal-instruments/arms-trade-treaty)
@@ -11,7 +13,9 @@
 * [Français](https://www.unoda.org/fr/our-work/conventional-arms/legal-instruments/arms-trade-treaty)
 * [Русский](https://www.unoda.org/ru/our-work/conventional-arms/legal-instruments/arms-trade-treaty)
 
-[ ![Home](https://www.sipri.org/img/refs/ed958ce7d59daf18.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+[ ![Home](https://www.unoda.org/themes/custom/unoda_disarmament/logo.svg) United Nations Office for Disarmament Affairs ](https://www.unoda.org/en%20%22Home%22) 
+
+[ SEARCH ](#collapseSearch) 
 
 [ English](#) 
 * [العربية](https://www.unoda.org/ar/our-work/conventional-arms/legal-instruments/arms-trade-treaty)
@@ -280,7 +284,7 @@ Office for Disarmament Affairs
 
 # Arms Trade Treaty 
 
-![](https://www.sipri.org/img/refs/0de3c529e46814bb.jpg)
+![](https://www.unoda.org/s3/files/styles/27x10_hero_image_style/public/2025-07/Seized%20weapons%20UN%20Photo%20UN7361976_395.jpg?itok=q1dPwZRe)
 
 Weapons seized from suspected members of the Islamic insurgent group Al Shabaab in Mogadishu, Somalia. Photo credit: UN Photo/Stuart Price
 
@@ -316,7 +320,7 @@ Build synergies with related topics such as the illicit trade in small arms and 
 Provide advice and assisting in implementation and capacity-building – especially through UNODA regional centres in Africa, Asia and the Pacific, and Latin America and the Caribbean;  
 Liaise with the **[Arms Trade Treaty Secretariat](https://thearmstradetreaty.org/)** to ensure complementarity of efforts, including in activities relevant to funding.
 
-![](https://www.sipri.org/img/refs/3265979ba25ae972.png)
+![](https://unodaweb.unoda.org/public/styles/media_library/public/2025-08/ATT.png?itok=bfKMgePl)
 
 Visit [**Arms Trade Treaty Secretariat**](https://thearmstradetreaty.org/) for more information.
 
@@ -343,7 +347,7 @@ Visit [**Arms Trade Treaty Secretariat**](https://thearmstradetreaty.org/) for m
 
 * The text of the Treaty is available for download in the six official UN languages: **[عربي, 中文, English, français, русский, español](https://treaties.un.org/doc/Treaties/2013/04/20130410%2012-01%20PM/Ch%5FXXVI%5F08.pdf).**
 
-![un logo](https://www.sipri.org/img/refs/fced3531d0f4e0fc.svg)   
+![un logo](https://www.unoda.org/themes/custom/unoda_disarmament/images/UNlogo+text.svg)   
 United Nations Office for Disarmament Affairs   
 405 East 42nd Street, Room S-30FW   
 New York, NY, 10017, USA 
